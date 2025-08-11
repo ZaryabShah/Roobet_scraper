@@ -1,0 +1,22 @@
+Buck Stakes Entertainment Games Data
+==================================================
+Total games found: 3
+Load More clicks: 0
+Extraction date: 2025-08-11 04:30:35
+==================================================
+
+Game #1:
+  Name: Betty's Big Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_bettysbigbonanza.jpg
+  Game Link: https://roobet.com/casino/game/buck-stakes-entertainment-betty-s-big-bonanza
+----------------------------------------
+Game #2:
+  Name: 4 Diamond Blues Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_4diamondbluesmegaways.jpg
+  Game Link: https://roobet.com/casino/game/buck-stakes-entertainment-4-diamond-blues-megaways
+----------------------------------------
+Game #3:
+  Name: Money Mines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_moneymines.jpg
+  Game Link: https://roobet.com/casino/game/buck-stakes-entertainment-money-mines
+----------------------------------------

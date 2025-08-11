@@ -1,0 +1,770 @@
+{
+  "provider": "Caleta Gaming",
+  "total_games": 127,
+  "load_more_clicks": 2,
+  "extraction_date": "2025-08-10T17:39:04.711053",
+  "games": [
+    {
+      "index": 1,
+      "name": "Caves & Treasures",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cavestreasures.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-caves-treasures"
+    },
+    {
+      "index": 2,
+      "name": "Banana Keno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananakeno.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-banana-keno"
+    },
+    {
+      "index": 3,
+      "name": "Mega Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_megabingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-mega-bingo"
+    },
+    {
+      "index": 4,
+      "name": "Rainbow Keno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rainbowkeno.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rainbow-keno"
+    },
+    {
+      "index": 5,
+      "name": "Coin King Beto",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_coinkingbeto-yN9Xtcqua.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-coin-king-beto"
+    },
+    {
+      "index": 6,
+      "name": "Keno Goal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_kenogoal.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-keno-goal"
+    },
+    {
+      "index": 7,
+      "name": "Fishing Season",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_fishingseason.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-fishing-season"
+    },
+    {
+      "index": 8,
+      "name": "Bingo Samba Rio",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosambario.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-samba-rio"
+    },
+    {
+      "index": 9,
+      "name": "Paradise Trippies Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_paradisetrippiesbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-paradise-trippies-bingo"
+    },
+    {
+      "index": 10,
+      "name": "Keno Halloween",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_kenohalloween.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-keno-halloween"
+    },
+    {
+      "index": 11,
+      "name": "Bingo Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bingobingo--WCcUIrNJ.jpeg",
+      "game_link": "https://roobet.com/casino/game/hub88:clt_bingobingo"
+    },
+    {
+      "index": 12,
+      "name": "Blackjack Beto",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_blackjackbeto-l6jY6Cqko.png",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-blackjack-beto"
+    },
+    {
+      "index": 13,
+      "name": "Aqua Boutique Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_aquaboutiquebingo-zCW4g7Cmf.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-aqua-boutique-bingo"
+    },
+    {
+      "index": 14,
+      "name": "Grandma Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_grandmafortune.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-grandma-fortune"
+    },
+    {
+      "index": 15,
+      "name": "Caipirinha Keno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_caipirinhakeno.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-caipirinha-keno"
+    },
+    {
+      "index": 16,
+      "name": "Dragon Rising",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_dragonrising.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-dragon-rising"
+    },
+    {
+      "index": 17,
+      "name": "Piggy Show Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_pggyshowbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-piggy-show-bingo"
+    },
+    {
+      "index": 18,
+      "name": "Blackjack Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_blackjackroyale.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-blackjack-royale"
+    },
+    {
+      "index": 19,
+      "name": "Madame Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_madamefortune.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-madame-fortune"
+    },
+    {
+      "index": 20,
+      "name": "Bingo Señorita Calavera",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoseoritacalavera.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-se-orita-calavera"
+    },
+    {
+      "index": 21,
+      "name": "Garoto de Ipanema Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_garotodeipanemabingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-garoto-de-ipanema-bingo"
+    },
+    {
+      "index": 22,
+      "name": "Ocean Richies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_oceanrichies.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-ocean-richies"
+    },
+    {
+      "index": 23,
+      "name": "Banana Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananabingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-banana-bingo"
+    },
+    {
+      "index": 24,
+      "name": "Billion Llama in Vegas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_billionllamainvegas.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-billion-llama-in-vegas"
+    },
+    {
+      "index": 25,
+      "name": "Wings of Liberty",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_wingsofliberty-rvcw65skC.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-wings-of-liberty"
+    },
+    {
+      "index": 26,
+      "name": "RCT - New Fruit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-newfruit.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-new-fruit"
+    },
+    {
+      "index": 27,
+      "name": "Dressing Room",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_dressingroom.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-dressing-room"
+    },
+    {
+      "index": 28,
+      "name": "Jingle Bell Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_jinglebellbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-jingle-bell-bingo"
+    },
+    {
+      "index": 29,
+      "name": "Pirates of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_piratesoffortune.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-pirates-of-fortune"
+    },
+    {
+      "index": 30,
+      "name": "Hallowinner",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hallowinner.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-hallowinner"
+    },
+    {
+      "index": 31,
+      "name": "Whale of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_whaleoffortune.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-whale-of-fortune"
+    },
+    {
+      "index": 32,
+      "name": "Lost Saga",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_lostsaga.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-lost-saga"
+    },
+    {
+      "index": 33,
+      "name": "Bollywood Nights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_bollywoodnights.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bollywood-nights"
+    },
+    {
+      "index": 34,
+      "name": "RCT - Reis do Egito",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-reisdoegito.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-reis-do-egito"
+    },
+    {
+      "index": 35,
+      "name": "Beto Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_betobingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-beto-bingo"
+    },
+    {
+      "index": 36,
+      "name": "Basketball Pro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_basketballpro.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-basketball-pro"
+    },
+    {
+      "index": 37,
+      "name": "Grandma Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_grandmabingo-B2DaRI2jH.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-grandma-bingo"
+    },
+    {
+      "index": 38,
+      "name": "Carnival Beauties",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_carnivalbeauties.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-carnival-beauties"
+    },
+    {
+      "index": 39,
+      "name": "Astro Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_astrowild.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-astro-wild"
+    },
+    {
+      "index": 40,
+      "name": "Bichos da Amazonia Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bichosdaamazniabingo-V7MeNaH0M.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bichos-da-amazonia-bingo"
+    },
+    {
+      "index": 41,
+      "name": "Golden Dragon Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_goldendragon.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-golden-dragon-bingo"
+    },
+    {
+      "index": 42,
+      "name": "Bingo Tornado",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotornado.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-tornado"
+    },
+    {
+      "index": 43,
+      "name": "Magic Forest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_magicforest.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-magic-forest"
+    },
+    {
+      "index": 44,
+      "name": "Bingo Cientista Doidão",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingocientistadoido.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-cientista-doid-o"
+    },
+    {
+      "index": 45,
+      "name": "Paradise Trippies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_paradisetrippiesslot.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-paradise-trippies"
+    },
+    {
+      "index": 46,
+      "name": "Frozen Fluffies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_frozenfluffies.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-frozen-fluffies"
+    },
+    {
+      "index": 47,
+      "name": "Bingo Gênio",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingognio.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-g-nio"
+    },
+    {
+      "index": 48,
+      "name": "Lucky K",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_luckyk.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-lucky-k"
+    },
+    {
+      "index": 49,
+      "name": "Hungry Chef",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hungrychef.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-hungry-chef"
+    },
+    {
+      "index": 50,
+      "name": "Bingolaço",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingolaco.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingola-o"
+    },
+    {
+      "index": 51,
+      "name": "Bingo Halloween",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingohalloween.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-halloween"
+    },
+    {
+      "index": 52,
+      "name": "Bingo Tesoro Maya",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotesoromaya.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-tesoro-maya"
+    },
+    {
+      "index": 53,
+      "name": "Bingo Gatinho",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingogatinho.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-gatinho"
+    },
+    {
+      "index": 54,
+      "name": "Coliseu Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_coliseubingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-coliseu-bingo"
+    },
+    {
+      "index": 55,
+      "name": "Atlantis Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_atlantisbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-atlantis-bingo"
+    },
+    {
+      "index": 56,
+      "name": "Princess of the Ocean",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_princessoftheocean.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-princess-of-the-ocean"
+    },
+    {
+      "index": 57,
+      "name": "Circus Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_circusbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-circus-bingo"
+    },
+    {
+      "index": 58,
+      "name": "Bingo Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoroyale.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-royale"
+    },
+    {
+      "index": 59,
+      "name": "Rock 'n' Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rocknreels.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rock-n-reels"
+    },
+    {
+      "index": 60,
+      "name": "Bingo Bruxaria",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingobruxaria.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-bruxaria"
+    },
+    {
+      "index": 61,
+      "name": "Bingo Pescaria",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingopescaria.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-pescaria"
+    },
+    {
+      "index": 62,
+      "name": "Crystal Unicorn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_crystalunicorn.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-crystal-unicorn"
+    },
+    {
+      "index": 63,
+      "name": "Bingo Pirata",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingopirata.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-pirata"
+    },
+    {
+      "index": 64,
+      "name": "Magical Keno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_magicalkeno.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-magical-keno"
+    },
+    {
+      "index": 65,
+      "name": "Lucky Express",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_luckyexpress.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-lucky-express"
+    },
+    {
+      "index": 66,
+      "name": "Bingo Fada da Fortuna",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingofadadafortuna.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-fada-da-fortuna"
+    },
+    {
+      "index": 67,
+      "name": "Bingo Saga Loca",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosagaloca.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-saga-loca"
+    },
+    {
+      "index": 68,
+      "name": "Beach Tennis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_beachtennis.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-beach-tennis"
+    },
+    {
+      "index": 69,
+      "name": "Feel The Music",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_feelthemusic.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-feel-the-music"
+    },
+    {
+      "index": 70,
+      "name": "Bingo Valhalla",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bingovalhalla-6XO5WFikP.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-valhalla"
+    },
+    {
+      "index": 71,
+      "name": "Boto Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_botobingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-boto-bingo"
+    },
+    {
+      "index": 72,
+      "name": "Hurricash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hurricash.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-hurricash"
+    },
+    {
+      "index": 73,
+      "name": "Premier League Cricket",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_premierleaguecricket.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-premier-league-cricket"
+    },
+    {
+      "index": 74,
+      "name": "RCT - Talismanes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-talismanes.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-talismanes"
+    },
+    {
+      "index": 75,
+      "name": "Diwali Lights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_diwalilights.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-diwali-lights"
+    },
+    {
+      "index": 76,
+      "name": "Bingo Trevo da Sorte",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotrevodasorte.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-trevo-da-sorte"
+    },
+    {
+      "index": 77,
+      "name": "Classic Royals",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_classicroyals.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-classic-royals"
+    },
+    {
+      "index": 78,
+      "name": "Fright Night",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_frightnight.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-fright-night"
+    },
+    {
+      "index": 79,
+      "name": "Hidden Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hiddenkingdom.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-hidden-kingdom"
+    },
+    {
+      "index": 80,
+      "name": "Village Brewery",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_villagebrewery.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-village-brewery"
+    },
+    {
+      "index": 81,
+      "name": "Halloween Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenscratchcard.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-halloween-scratchcard"
+    },
+    {
+      "index": 82,
+      "name": "World Wild Cup",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_worldwildcup.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-world-wild-cup"
+    },
+    {
+      "index": 83,
+      "name": "Gold Fever",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_goldfever.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-gold-fever"
+    },
+    {
+      "index": 84,
+      "name": "Wild Fruit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_wildfruit.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-wild-fruit"
+    },
+    {
+      "index": 85,
+      "name": "Cutey Cats",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cuteycats.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-cutey-cats"
+    },
+    {
+      "index": 86,
+      "name": "RCT - Samba",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rctsamba.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-samba"
+    },
+    {
+      "index": 87,
+      "name": "Crazy Clover Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_crazycloverbingo-yXZBWMAuH.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-crazy-clover-bingo"
+    },
+    {
+      "index": 88,
+      "name": "Trevo da Sorte Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_trevodasortescratchcard.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-trevo-da-sorte-scratchcard"
+    },
+    {
+      "index": 89,
+      "name": "Cherry Cherry Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cherrycherryscratchcard.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-cherry-cherry-scratchcard"
+    },
+    {
+      "index": 90,
+      "name": "Bingo Señor Taco",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosenortaco.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-se-or-taco"
+    },
+    {
+      "index": 91,
+      "name": "Cruise of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cruiseoffortune.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-cruise-of-fortune"
+    },
+    {
+      "index": 92,
+      "name": "Banana Boom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananaboom.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-banana-boom"
+    },
+    {
+      "index": 93,
+      "name": "Cherry Cherry",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cherrycherry.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-cherry-cherry"
+    },
+    {
+      "index": 94,
+      "name": "Viking Madness",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_vikingmadness.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-viking-madness"
+    },
+    {
+      "index": 95,
+      "name": "Trial of the Gods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_trialofthegods-2cVuwx499.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-trial-of-the-gods"
+    },
+    {
+      "index": 96,
+      "name": "Fate of Olympus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_fateofolympus-2o5guVW08.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-fate-of-olympus"
+    },
+    {
+      "index": 97,
+      "name": "Pick'em Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_pickemfruits.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-pick-em-fruits"
+    },
+    {
+      "index": 98,
+      "name": "RCT - Rio de Janeiro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-riodejaneiro.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-rio-de-janeiro"
+    },
+    {
+      "index": 99,
+      "name": " Baile Funk Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bailefunkbingo-upYYGdzSM.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-baile-funk-bingo"
+    },
+    {
+      "index": 100,
+      "name": "Crazy Lab",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_crazylab.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-crazy-lab"
+    },
+    {
+      "index": 101,
+      "name": "Heroes Empire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_heroesempire.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-heroes-empire"
+    },
+    {
+      "index": 102,
+      "name": "Kabaddi Raiders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_kabaddiraiders.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-kabaddi-raiders"
+    },
+    {
+      "index": 103,
+      "name": "Jungle Keno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_junglekeno.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-jungle-keno"
+    },
+    {
+      "index": 104,
+      "name": "Football Pro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballpro.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-football-pro"
+    },
+    {
+      "index": 105,
+      "name": "Torch Of Fire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_torchoffire.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-torch-of-fire"
+    },
+    {
+      "index": 106,
+      "name": "Lords Balcony",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_lordsbalcony.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-lords-balcony"
+    },
+    {
+      "index": 107,
+      "name": "Atomico Lotto",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_atomicolotto.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-atomico-lotto"
+    },
+    {
+      "index": 108,
+      "name": "Fortune Wolf",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_fortunewolf-A9Wc0aM4K.jpeg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-fortune-wolf"
+    },
+    {
+      "index": 109,
+      "name": "Catch a Fish Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_catchafishbingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-catch-a-fish-bingo"
+    },
+    {
+      "index": 110,
+      "name": "Bingo Billion Llama",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingobillionllama.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-billion-llama"
+    },
+    {
+      "index": 111,
+      "name": "Halloween Lotto",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenlotto.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-halloween-lotto"
+    },
+    {
+      "index": 112,
+      "name": "Enchanted Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_enchantedcash.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-enchanted-cash"
+    },
+    {
+      "index": 113,
+      "name": "Betina Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_betinabingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-betina-bingo"
+    },
+    {
+      "index": 114,
+      "name": "RCT - Halloween",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rcthalloween.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-rct-halloween"
+    },
+    {
+      "index": 115,
+      "name": "Vegas Baby",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_vegasbaby.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-vegas-baby"
+    },
+    {
+      "index": 116,
+      "name": "Football Pro Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballproscratchcard.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-football-pro-scratchcard"
+    },
+    {
+      "index": 117,
+      "name": "Hungry Chef Pick'em",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hungrychefpickem.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-hungry-chef-pick-em"
+    },
+    {
+      "index": 118,
+      "name": "Whale Bingo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_whalebingo.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-whale-bingo"
+    },
+    {
+      "index": 119,
+      "name": "China Charms",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_chinacharms.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-china-charms"
+    },
+    {
+      "index": 120,
+      "name": "Bingo Iglu",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoiglu.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-iglu"
+    },
+    {
+      "index": 121,
+      "name": "Halloween Pick'em",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenpickem.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-halloween-pick-em"
+    },
+    {
+      "index": 122,
+      "name": "Billion Llama Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_billionllamascratchcards.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-billion-llama-scratchcard"
+    },
+    {
+      "index": 123,
+      "name": "Carnaval Scratchcard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_carnavalscratchcards.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-carnaval-scratchcard"
+    },
+    {
+      "index": 124,
+      "name": "Bingo Hortinha",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingohortinha.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingo-hortinha"
+    },
+    {
+      "index": 125,
+      "name": "Bingolicia",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingolcia.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-bingolicia"
+    },
+    {
+      "index": 126,
+      "name": "Fruitverse",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_fruitverse.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-fruitverse"
+    },
+    {
+      "index": 127,
+      "name": "Football Lotto",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballlotto.jpg",
+      "game_link": "https://roobet.com/casino/game/caleta-gaming-football-lotto"
+    }
+  ]
+}

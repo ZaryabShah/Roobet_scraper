@@ -1,0 +1,27 @@
+NowNow Gaming Games Data
+==================================================
+Total games found: 4
+Load More clicks: 0
+Extraction date: 2025-08-11 04:42:17
+==================================================
+
+Game #1:
+  Name: Sugar Park
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1861-7LLqXRaPz.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw:1861
+----------------------------------------
+Game #2:
+  Name: 8-Bit Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1707-RiLEDrtx-.jpeg
+  Game Link: https://roobet.com/casino/game/nownow-gaming-8-bit-quest
+----------------------------------------
+Game #3:
+  Name: Street Knockout
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1821-vTfWX-wfy.jpeg
+  Game Link: https://roobet.com/casino/game/nownow-gaming-street-knockout
+----------------------------------------
+Game #4:
+  Name: Shadow Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1540-_L8hOrLBp.jpeg
+  Game Link: https://roobet.com/casino/game/nownow-gaming-shadow-treasure
+----------------------------------------

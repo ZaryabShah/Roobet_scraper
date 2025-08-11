@@ -1,0 +1,277 @@
+Popiplay Games Data
+==================================================
+Total games found: 54
+Load More clicks: 0
+Extraction date: 2025-08-11 00:52:55
+==================================================
+
+Game #1:
+  Name: Junkrat Max
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:JunkratMax-_JyRRztUX.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-junkrat-max
+----------------------------------------
+Game #2:
+  Name: Veracruz Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:VeracruzWild-aV6odNPT1.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay:VeracruzWild
+----------------------------------------
+Game #3:
+  Name: Detective Donut Kickback
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:DetectiveDonutKickback-M-9n77j9_.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-detective-donut-kickback
+----------------------------------------
+Game #4:
+  Name: Area 69
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Area69.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-area-69
+----------------------------------------
+Game #5:
+  Name: Cash Wash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:CashWash-BThObg5ZQ.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay:CashWash
+----------------------------------------
+Game #6:
+  Name: Tiki Trip
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:TikiTrip-aUhkgKmJF.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay:TikiTrip
+----------------------------------------
+Game #7:
+  Name: Maxzilla
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:Maxzilla-8DUIY-0RA.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-maxzilla
+----------------------------------------
+Game #8:
+  Name: Neon Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:NeonFruits-fbvYpSVVX.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay:NeonFruits
+----------------------------------------
+Game #9:
+  Name: Baba Jam
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:BabaJam-MM1zf3Qp2.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-baba-jam
+----------------------------------------
+Game #10:
+  Name: Moneyscript
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Moneyscript.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-moneyscript
+----------------------------------------
+Game #11:
+  Name: Dogmasons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Dogmasons.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-dogmasons
+----------------------------------------
+Game #12:
+  Name: Cultist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:Cultist-YxC3OKlDO.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-cultist
+----------------------------------------
+Game #13:
+  Name: Guns And Dragons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_GunsAndDragons.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-guns-and-dragons
+----------------------------------------
+Game #14:
+  Name: Ninja Frog
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_NinjaFrog.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-ninja-frog
+----------------------------------------
+Game #15:
+  Name: Curse of Echnaton
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:CurseofEchnaton-NEdQqm_I0.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-curse-of-echnaton
+----------------------------------------
+Game #16:
+  Name: UFO Joe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_UFOJoe.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-ufo-joe
+----------------------------------------
+Game #17:
+  Name: Money Mansion
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_MoneyMansion.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-money-mansion
+----------------------------------------
+Game #18:
+  Name: Sweet Punks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_SweetPunks.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-sweet-punks
+----------------------------------------
+Game #19:
+  Name: Gates Of Anubis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_GatesOfAnubis.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-gates-of-anubis
+----------------------------------------
+Game #20:
+  Name: Hanafuda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Hanafuda.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-hanafuda
+----------------------------------------
+Game #21:
+  Name: Dream Diner
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_DreamDiner.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-dream-diner
+----------------------------------------
+Game #22:
+  Name: Cipollino
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Cipollino.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-cipollino
+----------------------------------------
+Game #23:
+  Name: Wild Witches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_WildWitches.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-wild-witches
+----------------------------------------
+Game #24:
+  Name: Wild Wild Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_WildWildBank.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-wild-wild-bank
+----------------------------------------
+Game #25:
+  Name: Emotions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:Emotions-nHLe38Lyb.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-emotions
+----------------------------------------
+Game #26:
+  Name: Amazon City Of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:AmazonCityOfGold-HUkJ0oSxB.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-amazon-city-of-gold
+----------------------------------------
+Game #27:
+  Name: Store Wars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_StoreWars.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-store-wars
+----------------------------------------
+Game #28:
+  Name: Creepy Ink
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_CreepyInk.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-creepy-ink
+----------------------------------------
+Game #29:
+  Name: Lime Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_LimeTime.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-lime-time
+----------------------------------------
+Game #30:
+  Name: Ruby Royal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:RubyRoyal-Zac4KmLXw.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-ruby-royal
+----------------------------------------
+Game #31:
+  Name: Fish and Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_FishAndCash.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-fish-and-cash
+----------------------------------------
+Game #32:
+  Name: Keys To The Sea
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_KeysToTheSea.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-keys-to-the-sea
+----------------------------------------
+Game #33:
+  Name: Gamba Mamba
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_GambaMamba.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-gamba-mamba
+----------------------------------------
+Game #34:
+  Name: Wild Wild Steel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_WildWildSteel.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-wild-wild-steel
+----------------------------------------
+Game #35:
+  Name: Traders Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_TradersFortune.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-traders-fortune
+----------------------------------------
+Game #36:
+  Name: Dogmasons MegaWOOF
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_DogmasonsMegaWOOF.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-dogmasons-megawoof
+----------------------------------------
+Game #37:
+  Name: Angry Fruits Xpress
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_AngryFruits.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-angry-fruits-xpress
+----------------------------------------
+Game #38:
+  Name: Xmas Crash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_XmasCrash.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-xmas-crash
+----------------------------------------
+Game #39:
+  Name: Five Guys
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_FiveGuys.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-five-guys
+----------------------------------------
+Game #40:
+  Name: RoxDogs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:RoxDogs-vqctl4I21.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-roxdogs
+----------------------------------------
+Game #41:
+  Name: Tik Tak Toad
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_TikTakToad.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-tik-tak-toad
+----------------------------------------
+Game #42:
+  Name: Sons of Monarchy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_SonsOfMonarchy.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-sons-of-monarchy
+----------------------------------------
+Game #43:
+  Name: Fish And Cash Arctic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_FishAndCashArctic.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-fish-and-cash-arctic
+----------------------------------------
+Game #44:
+  Name: Queen of the Nile
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_QueenoftheNile.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-queen-of-the-nile
+----------------------------------------
+Game #45:
+  Name: Raven Bjorn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_RavenBjorn.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-raven-bjorn
+----------------------------------------
+Game #46:
+  Name: Double Diamond Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_DoubleDiamondNight.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-double-diamond-night
+----------------------------------------
+Game #47:
+  Name: Slotham City
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_SlothamCity.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-slotham-city
+----------------------------------------
+Game #48:
+  Name: Xperiment Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_XperimentGold.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-xperiment-gold
+----------------------------------------
+Game #49:
+  Name: Unipopcorn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Unipopcorn.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-unipopcorn
+----------------------------------------
+Game #50:
+  Name: Spinguin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Spinguin.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-spinguin
+----------------------------------------
+Game #51:
+  Name: Wild Wild Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_WildWildGold.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-wild-wild-gold
+----------------------------------------
+Game #52:
+  Name: Mythos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/popiplay_Mythos.jpg
+  Game Link: https://roobet.com/casino/game/popiplay-mythos
+----------------------------------------
+Game #53:
+  Name: ANAKI SkyWalkers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:AnakiSkywalkers-9DaDoPctE.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-anaki-skywalkers
+----------------------------------------
+Game #54:
+  Name: Bubbles
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/popiplay:Bubbles-SfTcwICff.jpeg
+  Game Link: https://roobet.com/casino/game/popiplay-bubbles
+----------------------------------------

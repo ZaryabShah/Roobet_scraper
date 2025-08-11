@@ -1,0 +1,56 @@
+{
+  "provider": "Eurasian Gaming Slots",
+  "total_games": 8,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-10T17:50:57.112003",
+  "games": [
+    {
+      "index": 1,
+      "name": "Lucky rooster",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_b22a64b2e026441cb773c1fa57ed0361.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-lucky-rooster"
+    },
+    {
+      "index": 2,
+      "name": "Bagua",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_38de8faa129b47c9be7150c310993f0c.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-bagua"
+    },
+    {
+      "index": 3,
+      "name": "Big Game Safari",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_a6eddd606e6c41c3a9cc18f200afc146.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-big-game-safari"
+    },
+    {
+      "index": 4,
+      "name": "Dragon Powerflame",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_d89cbe04d9ff4233b9f74ff38e8620e0.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-dragon-powerflame"
+    },
+    {
+      "index": 5,
+      "name": "Chilli Hunter",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_4ab2213b2ca44e24b2d9ef8947216f84.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-chilli-hunter"
+    },
+    {
+      "index": 6,
+      "name": "Leprechaun",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_2100d65b84a3a211b052ae92bc5ca034a811ccce.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-leprechaun"
+    },
+    {
+      "index": 7,
+      "name": "Blackbeard Legacy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_fdfc465470274d7b8aa753296bbd04ed.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-blackbeard-legacy"
+    },
+    {
+      "index": 8,
+      "name": "Hot Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_ad9cbce41dc64c51984c146e79f948ef.jpg",
+      "game_link": "https://roobet.com/casino/game/eurasian-gaming-slots-hot-fruits"
+    }
+  ]
+}

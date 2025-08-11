@@ -1,0 +1,37 @@
+Slingshot Studios Games Data
+==================================================
+Total games found: 6
+Load More clicks: 0
+Extraction date: 2025-08-11 04:44:20
+==================================================
+
+Game #1:
+  Name: Spin Spin Sugar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_spinspinsugar.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-spin-spin-sugar
+----------------------------------------
+Game #2:
+  Name: Links of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_linksoffire.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-links-of-fire
+----------------------------------------
+Game #3:
+  Name: Links of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_linksofra.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-links-of-ra
+----------------------------------------
+Game #4:
+  Name: Jade Shuriken
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_jadeshuriken.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-jade-shuriken
+----------------------------------------
+Game #5:
+  Name: Lucky Twins Link & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_luckytwinslinkwin.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-lucky-twins-link-win
+----------------------------------------
+Game #6:
+  Name: Magic Jokers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_magicjokers.jpg
+  Game Link: https://roobet.com/casino/game/slingshot-studios-magic-jokers
+----------------------------------------

@@ -1,0 +1,50 @@
+{
+  "provider": "Four Leaf Gaming",
+  "total_games": 7,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:33:23.019350",
+  "games": [
+    {
+      "index": 1,
+      "name": "The 3 Bears",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:The3Bears-yhx9w0MNj.jpeg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-the-3-bears"
+    },
+    {
+      "index": 2,
+      "name": "Everest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Everest.jpg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-everest"
+    },
+    {
+      "index": 3,
+      "name": "Bloodaxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Bloodaxe.jpg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-bloodaxe"
+    },
+    {
+      "index": 4,
+      "name": "Cyber Vault",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CyberVault.jpg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-cyber-vault"
+    },
+    {
+      "index": 5,
+      "name": "Cosmic Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:CosmicRush-aPIdpB3vw.jpeg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-cosmic-rush"
+    },
+    {
+      "index": 6,
+      "name": "Clover Fortunes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CloverFortunes.jpg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-clover-fortunes"
+    },
+    {
+      "index": 7,
+      "name": "Curse Of Ra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CurseOfRa.jpg",
+      "game_link": "https://roobet.com/casino/game/four-leaf-gaming-curse-of-ra"
+    }
+  ]
+}

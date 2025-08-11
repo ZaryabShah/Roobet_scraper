@@ -1,0 +1,74 @@
+{
+  "provider": "G.Games",
+  "total_games": 11,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-10T17:51:38.427211",
+  "games": [
+    {
+      "index": 1,
+      "name": "TNT Extravaganza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_d51434ac84d8406dbf98411f395d2fa1.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-tnt-extravaganza"
+    },
+    {
+      "index": 2,
+      "name": "Elite of Evil - Portal of Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_a6109bb8350f40e1a4bfe75c79e756fe.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-elite-of-evil-portal-of-gold"
+    },
+    {
+      "index": 3,
+      "name": "Eastern Gold 6 Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_8168d76580d9428aa2144051717db2a0.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-eastern-gold-6-deluxe"
+    },
+    {
+      "index": 4,
+      "name": "Lucky Lions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_dfcec0a761484158af72fb7666d1934c.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-lucky-lions"
+    },
+    {
+      "index": 5,
+      "name": "100k Joker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_c5e155390e544a95aa7831ac826add15.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-100k-joker"
+    },
+    {
+      "index": 6,
+      "name": "Age of Athena",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_0c863c54311a49bcabe48e24327452a3.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-age-of-athena"
+    },
+    {
+      "index": 7,
+      "name": "Clover Rainbow 6 Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_17021a8cc3ad456caa8f38063a0538f1.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-clover-rainbow-6-deluxe"
+    },
+    {
+      "index": 8,
+      "name": "Fishing Trawler",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_faec8e2d37324de499877cb5a407a18c.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-fishing-trawler"
+    },
+    {
+      "index": 9,
+      "name": "Psycho Candies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_dca235f8a8294ba2802c4e0640ea1123.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-psycho-candies"
+    },
+    {
+      "index": 10,
+      "name": "Cheeky Fruits 6 Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_7f462c28101a4901a401cc8f76019688.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-cheeky-fruits-6-deluxe"
+    },
+    {
+      "index": 11,
+      "name": "Thor's Egg Hunt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_445d16cf8a5f4840803ed2b86269a8dc.jpg",
+      "game_link": "https://roobet.com/casino/game/g-games-thor-s-egg-hunt"
+    }
+  ]
+}

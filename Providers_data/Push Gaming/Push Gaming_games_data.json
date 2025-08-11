@@ -1,0 +1,374 @@
+{
+  "provider": "Push Gaming",
+  "total_games": 61,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:37:21.009596",
+  "games": [
+    {
+      "index": 1,
+      "name": "Wild Swarm Triple Hive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:WildSwarmTripleHive-2Rmvdx7D2.jpeg",
+      "game_link": "https://roobet.com/casino/game/pushgaming:WildSwarmTripleHive"
+    },
+    {
+      "index": 2,
+      "name": "Retro Tapes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_retrotapes-01.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-retro-tapes"
+    },
+    {
+      "index": 3,
+      "name": "Big Bamboo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BigBamboo.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-big-bamboo"
+    },
+    {
+      "index": 4,
+      "name": "Retro Sweets",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:RetroSweets-CHv3IHxaX.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-retro-sweets"
+    },
+    {
+      "index": 5,
+      "name": "Razor Returns",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RazorReturns.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-razor-returns"
+    },
+    {
+      "index": 6,
+      "name": "Power Paws",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:PowerPaws-76m-vKw9G.jpeg",
+      "game_link": "https://roobet.com/casino/game/pushgaming:PowerPaws"
+    },
+    {
+      "index": 7,
+      "name": "Henry The Ape",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:HenryTheApe-mQepFR_DS.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-henry-the-ape"
+    },
+    {
+      "index": 8,
+      "name": "Dragon Hopper",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:DragonHopper-SaypDPBde.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-dragon-hopper"
+    },
+    {
+      "index": 9,
+      "name": "Jammin' Jars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jamminjars.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-jammin-jars"
+    },
+    {
+      "index": 10,
+      "name": "Boss Bear",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BossBear.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-boss-bear"
+    },
+    {
+      "index": 11,
+      "name": "Fat Banker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FatBanker.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fat-banker"
+    },
+    {
+      "index": 12,
+      "name": "Razor Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RazorWays.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-razor-ways"
+    },
+    {
+      "index": 13,
+      "name": "Razor Shark",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_razorshark.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-razor-shark"
+    },
+    {
+      "index": 14,
+      "name": "Power Vault",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:PowerVault-14PAhbEas.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-power-vault"
+    },
+    {
+      "index": 15,
+      "name": "Iron Phoenix",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:IronPhoenix-1hNgsMPgg.png",
+      "game_link": "https://roobet.com/casino/game/push-gaming-iron-phoenix"
+    },
+    {
+      "index": 16,
+      "name": "Mystery Museum",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_mysterymuseum.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-mystery-museum"
+    },
+    {
+      "index": 17,
+      "name": "Big Bite Push Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:BigBitePushWays-p6qe-OK4-.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-big-bite-push-ways"
+    },
+    {
+      "index": 18,
+      "name": "Big Bite",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:BigBite-x7rmjq8nj.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-big-bite"
+    },
+    {
+      "index": 19,
+      "name": "Wild Swarm 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_WildSwarm2.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-wild-swarm-2"
+    },
+    {
+      "index": 20,
+      "name": "Jammin' Jars 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jamminjars2.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-jammin-jars-2"
+    },
+    {
+      "index": 21,
+      "name": "Fat Drac",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatdrac.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fat-drac"
+    },
+    {
+      "index": 22,
+      "name": "Mystery Mission - To The Moon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_mysterymissiontothemoon-01.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-mystery-mission-to-the-moon"
+    },
+    {
+      "index": 23,
+      "name": "The Shadow Order",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_shadoworder.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-the-shadow-order"
+    },
+    {
+      "index": 24,
+      "name": "Giga Jar",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_GigaJar.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-giga-jar"
+    },
+    {
+      "index": 25,
+      "name": "Fire Hopper",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FireHopper.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fire-hopper"
+    },
+    {
+      "index": 26,
+      "name": "3 Magic Pots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:3MagicPots-AD6-0GOeN.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-3-magic-pots"
+    },
+    {
+      "index": 27,
+      "name": "Tiki Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_TikiTumble1.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-tiki-tumble"
+    },
+    {
+      "index": 28,
+      "name": "Dinopolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_dinopolis.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-dinopolis"
+    },
+    {
+      "index": 29,
+      "name": "Mystery of the Nile",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:MysteryoftheNile-awkDPPrdR.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-mystery-of-the-nile"
+    },
+    {
+      "index": 30,
+      "name": "Fang City",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:FangCity-W59hdPkww.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fang-city"
+    },
+    {
+      "index": 31,
+      "name": "Goat Getter",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_GoatGetter.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-goat-getter"
+    },
+    {
+      "index": 32,
+      "name": "The Grand Show",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_TheGrandShow.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-the-grand-show"
+    },
+    {
+      "index": 33,
+      "name": "Wild Swarm",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_wildswarm.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-wild-swarm"
+    },
+    {
+      "index": 34,
+      "name": "Regal Knights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:RegalKnights-RFHWFt3o_.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-regal-knights"
+    },
+    {
+      "index": 35,
+      "name": "Samurai's Katana",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_SamuraisKatana.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-samurai-s-katana"
+    },
+    {
+      "index": 36,
+      "name": "Fat Santa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatsanta.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fat-santa"
+    },
+    {
+      "index": 37,
+      "name": "Shamrock Saints",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_ShamrockSaints.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-shamrock-saints"
+    },
+    {
+      "index": 38,
+      "name": "Fat Rabbit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatrabbit.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fat-rabbit"
+    },
+    {
+      "index": 39,
+      "name": "Fish ‘n’ Nudge Big Catch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:FishnNudgeBigCatch-9PeR_mrSw.jpeg",
+      "game_link": "https://roobet.com/casino/game/pushgaming:FishnNudgeBigCatch"
+    },
+    {
+      "index": 40,
+      "name": "Deadly 5",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_Deadly5.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-deadly-5"
+    },
+    {
+      "index": 41,
+      "name": "Candy Blast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:CandyBlast-jtDUZLsTe.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-candy-blast"
+    },
+    {
+      "index": 42,
+      "name": "Joker Troupe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jokertroupe.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-joker-troupe"
+    },
+    {
+      "index": 43,
+      "name": "Bison Battle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BisonBattle.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-bison-battle"
+    },
+    {
+      "index": 44,
+      "name": "Big Bam-book",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BigBambook.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-big-bam-book"
+    },
+    {
+      "index": 45,
+      "name": "Rat King",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RatKing.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-rat-king"
+    },
+    {
+      "index": 46,
+      "name": "Jaguar Drop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:JaguarDrop-ogVtG9ESK.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-jaguar-drop"
+    },
+    {
+      "index": 47,
+      "name": "Blaze of Ra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_blazeofra1-01.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-blaze-of-ra"
+    },
+    {
+      "index": 48,
+      "name": "Crystal Catcher",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_CrystalCatcher.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-crystal-catcher"
+    },
+    {
+      "index": 49,
+      "name": "Mad Cars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_MadCars.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-mad-cars"
+    },
+    {
+      "index": 50,
+      "name": "10 Pharaohs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:10Pharaohs-1TqkxtxcS.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-10-pharaohs"
+    },
+    {
+      "index": 51,
+      "name": "Olympus Unleashed",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:OlympusUnleashed-JXC_GN4qQ.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-olympus-unleashed"
+    },
+    {
+      "index": 52,
+      "name": "10 Flaming Bisons",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:10FlamingBisons-PnKB_LOsd.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-10-flaming-bisons"
+    },
+    {
+      "index": 53,
+      "name": "Dino P.D.",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DinoPD.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-dino-p-d"
+    },
+    {
+      "index": 54,
+      "name": "10 Swords",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_10Swords.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-10-swords"
+    },
+    {
+      "index": 55,
+      "name": "Mad Blast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:MadBlast-s_vrWTIVj.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-mad-blast"
+    },
+    {
+      "index": 56,
+      "name": "Cats of Olympuss",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:CatsOfOlympuss-ik3CC5lSw.jpeg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-cats-of-olympuss"
+    },
+    {
+      "index": 57,
+      "name": "Generous Jack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_generousjack-01.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-generous-jack"
+    },
+    {
+      "index": 58,
+      "name": "Fish 'n' Nudge",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FishnNudge.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-fish-n-nudge"
+    },
+    {
+      "index": 59,
+      "name": "Hearts Highway",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_HeartsHighway.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-hearts-highway"
+    },
+    {
+      "index": 60,
+      "name": "DJ Fox",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DJFox.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-dj-fox"
+    },
+    {
+      "index": 61,
+      "name": "DJ Cat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DJCat.jpg",
+      "game_link": "https://roobet.com/casino/game/push-gaming-dj-cat"
+    }
+  ]
+}

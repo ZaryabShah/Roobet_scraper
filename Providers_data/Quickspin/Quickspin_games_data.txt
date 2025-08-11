@@ -1,0 +1,582 @@
+Quickspin Games Data
+==================================================
+Total games found: 115
+Load More clicks: 2
+Extraction date: 2025-08-11 00:41:10
+==================================================
+
+Game #1:
+  Name: Sakura Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SakuraFortune.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sakura-fortune
+----------------------------------------
+Game #2:
+  Name: Cash Truck Begins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CashTruckBegins-YvM9v0uSO.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-cash-truck-begins
+----------------------------------------
+Game #3:
+  Name: Brawlers Bar Cash Collect
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BrawlersBarCashCollect.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-brawlers-bar-cash-collect
+----------------------------------------
+Game #4:
+  Name: Epic Fish: Net of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:EpicFishNetofFortune-NjSF3LL1O.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-epic-fish-net-of-fortune
+----------------------------------------
+Game #5:
+  Name: Hammer of Vulcan
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HammerofVulcan.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-hammer-of-vulcan
+----------------------------------------
+Game #6:
+  Name: Sticky Bandits Thunder Rail
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:StickyBanditsThunderRail-ssr-rCbG3.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits-thunder-rail
+----------------------------------------
+Game #7:
+  Name: Cash Truck 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruck2.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-cash-truck-2
+----------------------------------------
+Game #8:
+  Name: Eastern Emeralds Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_EasternEmeraldsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-eastern-emeralds-megaways
+----------------------------------------
+Game #9:
+  Name: Diamond Duke
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DiamondDuke.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-diamond-duke
+----------------------------------------
+Game #10:
+  Name: Goldilocks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Goldilocks.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-goldilocks
+----------------------------------------
+Game #11:
+  Name: Big Bad Wolf: Pigs of Steel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfPigsofSteel.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-big-bad-wolf-pigs-of-steel
+----------------------------------------
+Game #12:
+  Name: Big Bad Wolf Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfMegaways.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-big-bad-wolf-megaways
+----------------------------------------
+Game #13:
+  Name: Sticky Bandits Trail of Blood
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsTrailofBlood.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits-trail-of-blood
+----------------------------------------
+Game #14:
+  Name: Tiger's Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TigersGlory.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-tiger-s-glory
+----------------------------------------
+Game #15:
+  Name: Brooklyn Bootleggers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BrooklynBootleggers.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-brooklyn-bootleggers
+----------------------------------------
+Game #16:
+  Name: Eastern Emeralds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_EasternEmeralds.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-eastern-emeralds
+----------------------------------------
+Game #17:
+  Name: Hall of the Mountain King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MountainKing.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-hall-of-the-mountain-king
+----------------------------------------
+Game #18:
+  Name: Sticky Bandits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBandits.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits
+----------------------------------------
+Game #19:
+  Name: Golden Glyph
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-golden-glyph
+----------------------------------------
+Game #20:
+  Name: The Wild Chase
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TheWildChase.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-the-wild-chase
+----------------------------------------
+Game #21:
+  Name: Dinosaur Rage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DinosaurRage.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-dinosaur-rage
+----------------------------------------
+Game #22:
+  Name: Cash Truck 3 Turbo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CashTruck3Turbo-_4Z3KwzVC.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-cash-truck-3-turbo
+----------------------------------------
+Game #23:
+  Name: Epic Fish Adventure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:EpicFishAdventure96-w3wITxZmD.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-epic-fish-adventure
+----------------------------------------
+Game #24:
+  Name: Cabin Crashers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CabinCrashers.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-cabin-crashers
+----------------------------------------
+Game #25:
+  Name: Dragon Shrine
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DragonShrine.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-dragon-shrine
+----------------------------------------
+Game #26:
+  Name: Big Bad Wolf
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolf.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-big-bad-wolf
+----------------------------------------
+Game #27:
+  Name: Sticky Bandits: Wild Return
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsWildReturn.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits-wild-return
+----------------------------------------
+Game #28:
+  Name: Cash Truck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruck.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-cash-truck
+----------------------------------------
+Game #29:
+  Name: Pineapple Crush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PineappleCrush96.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-pineapple-crush
+----------------------------------------
+Game #30:
+  Name: Polar Paws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PolarPaws.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-polar-paws
+----------------------------------------
+Game #31:
+  Name: Wild Harlequin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildHarlequin94.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wild-harlequin
+----------------------------------------
+Game #32:
+  Name: Reel Nightmare
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ReelNightmare.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-reel-nightmare
+----------------------------------------
+Game #33:
+  Name: Joker Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_JokerStrike.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-joker-strike
+----------------------------------------
+Game #34:
+  Name: Durian Dynamite
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DurianDynamite.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-durian-dynamite
+----------------------------------------
+Game #35:
+  Name: Titan Thunder: Wrath of Hades
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TitanThunderWrathOfHades.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-titan-thunder-wrath-of-hades
+----------------------------------------
+Game #36:
+  Name: Northern Sky
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_NorthernSky.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-northern-sky
+----------------------------------------
+Game #37:
+  Name: Book of Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookofInferno.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-book-of-inferno
+----------------------------------------
+Game #38:
+  Name: Ghost Glyph
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GhostGlyph.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-ghost-glyph
+----------------------------------------
+Game #39:
+  Name: Sticky Bandits 3: Most Wanted
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBandits3MostWanted.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits-3-most-wanted
+----------------------------------------
+Game #40:
+  Name: Raven Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_RavenRising.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-raven-rising
+----------------------------------------
+Game #41:
+  Name: Golden Glyph 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph3.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-golden-glyph-3
+----------------------------------------
+Game #42:
+  Name: Book Of Yuletide
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookOfYuletide.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-book-of-yuletide
+----------------------------------------
+Game #43:
+  Name: Big Bad Wolf Christmas Special
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfChristmasSpecial.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-big-bad-wolf-christmas-special
+----------------------------------------
+Game #44:
+  Name: Scepter of Anubis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:ScepterofAnubis-rS1w36uC-.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-scepter-of-anubis
+----------------------------------------
+Game #45:
+  Name: Adventures Beyond Wonderland Magical Maze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_AdventuresBeyondWonderlandMagicalMaze.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-adventures-beyond-wonderland-magical-maze
+----------------------------------------
+Game #46:
+  Name: Sakura Fortune 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SakuraFortune2.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sakura-fortune-2
+----------------------------------------
+Game #47:
+  Name: Sticky Bandits Unchained
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsUnchained.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sticky-bandits-unchained
+----------------------------------------
+Game #48:
+  Name: Wild Chase: Tokyo Go
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildChaseTokyoGo.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wild-chase-tokyo-go
+----------------------------------------
+Game #49:
+  Name: Book of Duat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookofDuat.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-book-of-duat
+----------------------------------------
+Game #50:
+  Name: Feasting Fox
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FeastingFox.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-feasting-fox
+----------------------------------------
+Game #51:
+  Name: Loco the Monkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_LocotheMonkey.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-loco-the-monkey
+----------------------------------------
+Game #52:
+  Name: Scatter Monsters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ScatterMonsters.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-scatter-monsters
+----------------------------------------
+Game #53:
+  Name: Second Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SecondStrike.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-second-strike
+----------------------------------------
+Game #54:
+  Name: Azticons Chaos Clusters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_AzticonsChaosClusters.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-azticons-chaos-clusters
+----------------------------------------
+Game #55:
+  Name: Warp Wreckers Power Glyph
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WarpWreckersPowerGlyph.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-warp-wreckers-power-glyph
+----------------------------------------
+Game #56:
+  Name: Big Bot Crew
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBotCrew.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-big-bot-crew
+----------------------------------------
+Game #57:
+  Name: Rapunzel's Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_RapunzelsTower.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-rapunzel-s-tower
+----------------------------------------
+Game #58:
+  Name: Golden Glyph 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph2.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-golden-glyph-2
+----------------------------------------
+Game #59:
+  Name: Dog Town Deal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DogTownDeal.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-dog-town-deal
+----------------------------------------
+Game #60:
+  Name: Wild Luchador
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildLuchador.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wild-luchador
+----------------------------------------
+Game #61:
+  Name: Sevens High Ultra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SevensHighUltra.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sevens-high-ultra
+----------------------------------------
+Game #62:
+  Name: Temple of Paw
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TempleofPaw.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-temple-of-paw
+----------------------------------------
+Game #63:
+  Name: Nero's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_NerosFortune.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-nero-s-fortune
+----------------------------------------
+Game #64:
+  Name: Wild Tome of the Woods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildTomeoftheWoods.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wild-tome-of-the-woods
+----------------------------------------
+Game #65:
+  Name: Crystal Prince
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrystalPrince.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-crystal-prince
+----------------------------------------
+Game #66:
+  Name: Guardian of Athens
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GuardianofAthens.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-guardian-of-athens
+----------------------------------------
+Game #67:
+  Name: Crystal Queen's Coins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CrystalQueensCoins-Kot6zx26x.jpeg
+  Game Link: https://roobet.com/casino/game/quickspin-crystal-queen-s-coins
+----------------------------------------
+Game #68:
+  Name: Shields of Lambda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ShieldsofLambda.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-shields-of-lambda
+----------------------------------------
+Game #69:
+  Name: Mine & Melt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MineMelt.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-mine-melt
+----------------------------------------
+Game #70:
+  Name: Wild Cauldron
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildCauldron.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wild-cauldron
+----------------------------------------
+Game #71:
+  Name: Wins of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WinsofFortune.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-wins-of-fortune
+----------------------------------------
+Game #72:
+  Name: Treasure Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TreasureIsland.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-treasure-island
+----------------------------------------
+Game #73:
+  Name: High Street Heist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HighStreetHeist.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-high-street-heist
+----------------------------------------
+Game #74:
+  Name: Reno 7's
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Reno7s.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-reno-7-s
+----------------------------------------
+Game #75:
+  Name: Midas Coins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MidasCoins.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-midas-coins
+----------------------------------------
+Game #76:
+  Name: Arcane Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ArcaneGems.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-arcane-gems
+----------------------------------------
+Game #77:
+  Name: Pied Piper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PiedPiper.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-pied-piper
+----------------------------------------
+Game #78:
+  Name: Spinions Game Day
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SpinionsGameDay.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-spinions-game-day
+----------------------------------------
+Game #79:
+  Name: Sevens high
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Sevenshigh.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sevens-high
+----------------------------------------
+Game #80:
+  Name: Cash Truck Xmas Delivery
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruckXmasDelivery.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-cash-truck-xmas-delivery
+----------------------------------------
+Game #81:
+  Name: Artemis vs Medusa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ArtemisvsMedusa.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-artemis-vs-medusa
+----------------------------------------
+Game #82:
+  Name: Mighty Arthur
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MightyArthur.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-mighty-arthur
+----------------------------------------
+Game #83:
+  Name: Flip Royale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FlipRoyale.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-flip-royale
+----------------------------------------
+Game #84:
+  Name: Prime Zone
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PrimeZone.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-prime-zone
+----------------------------------------
+Game #85:
+  Name: Tales of Dr. Dolittle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TalesofDrDolittle.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-tales-of-dr-dolittle
+----------------------------------------
+Game #86:
+  Name: Candy Glyph
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CandyGlyph.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-candy-glyph
+----------------------------------------
+Game #87:
+  Name: Hot Sync
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HotSync.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-hot-sync
+----------------------------------------
+Game #88:
+  Name: Spinions X-mas Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SpinionsXmasParty.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-spinions-x-mas-party
+----------------------------------------
+Game #89:
+  Name: Skulls UP!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SkullsUP!.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-skulls-up
+----------------------------------------
+Game #90:
+  Name: Vampire Senpai
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_VampireSenpai.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-vampire-senpai
+----------------------------------------
+Game #91:
+  Name: Slugger Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SluggerTime.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-slugger-time
+----------------------------------------
+Game #92:
+  Name: Ticket to the stars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Tickettothestars.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-ticket-to-the-stars
+----------------------------------------
+Game #93:
+  Name: Catrina's Coins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CatrinasCoins.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-catrina-s-coins
+----------------------------------------
+Game #94:
+  Name: Beastwood
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Beastwood.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-beastwood
+----------------------------------------
+Game #95:
+  Name: Crown of Valor
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrownofValor.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-crown-of-valor
+----------------------------------------
+Game #96:
+  Name: Pirate's Charm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PiratesCharm.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-pirate-s-charm
+----------------------------------------
+Game #97:
+  Name: Volcano Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_VolcanoRiches.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-volcano-riches
+----------------------------------------
+Game #98:
+  Name: Spinions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Spinions.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-spinions
+----------------------------------------
+Game #99:
+  Name: Divine Dreams
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DivineDreams.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-divine-dreams
+----------------------------------------
+Game #100:
+  Name: Fairy Gate
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FairyGate.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-fairy-gate
+----------------------------------------
+Game #101:
+  Name: Betty Bonkers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BettyBonkers.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-betty-bonkers
+----------------------------------------
+Game #102:
+  Name: Dwarfs Gone Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DwarfsGoneWild.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-dwarfs-gone-wild
+----------------------------------------
+Game #103:
+  Name: The Grand
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TheGrand.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-the-grand
+----------------------------------------
+Game #104:
+  Name: Leprechaun Hills
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_LeprechaunHills.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-leprechaun-hills
+----------------------------------------
+Game #105:
+  Name: Hidden Valley 120
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HiddenValley120.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-hidden-valley-120
+----------------------------------------
+Game #106:
+  Name: Primal Spirits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PrimalSpirits.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-primal-spirits
+----------------------------------------
+Game #107:
+  Name: Ivan and the Immortal King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_IvanandtheImmortalKing.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-ivan-and-the-immortal-king
+----------------------------------------
+Game #108:
+  Name: Sinbad
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Sinbad1.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-sinbad
+----------------------------------------
+Game #109:
+  Name: King Colossus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_KingColossus.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-king-colossus
+----------------------------------------
+Game #110:
+  Name: Blue Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BlueFortune.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-blue-fortune
+----------------------------------------
+Game #111:
+  Name: Panther's Reign
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PanthersReign.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-panther-s-reign
+----------------------------------------
+Game #112:
+  Name: Crystal Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrystalQueen.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-crystal-queen
+----------------------------------------
+Game #113:
+  Name: Mayana
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Mayana.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-mayana
+----------------------------------------
+Game #114:
+  Name: Phoenix Sun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PhoenixSun.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-phoenix-sun
+----------------------------------------
+Game #115:
+  Name: Gold Lab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldLab.jpg
+  Game Link: https://roobet.com/casino/game/quickspin-gold-lab
+----------------------------------------

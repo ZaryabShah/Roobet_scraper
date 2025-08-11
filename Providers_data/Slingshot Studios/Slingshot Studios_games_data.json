@@ -1,0 +1,44 @@
+{
+  "provider": "Slingshot Studios",
+  "total_games": 6,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:44:20.135989",
+  "games": [
+    {
+      "index": 1,
+      "name": "Spin Spin Sugar",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_spinspinsugar.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-spin-spin-sugar"
+    },
+    {
+      "index": 2,
+      "name": "Links of Fire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_linksoffire.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-links-of-fire"
+    },
+    {
+      "index": 3,
+      "name": "Links of Ra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_linksofra.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-links-of-ra"
+    },
+    {
+      "index": 4,
+      "name": "Jade Shuriken",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_jadeshuriken.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-jade-shuriken"
+    },
+    {
+      "index": 5,
+      "name": "Lucky Twins Link & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_luckytwinslinkwin.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-lucky-twins-link-win"
+    },
+    {
+      "index": 6,
+      "name": "Magic Jokers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_slh_magicjokers.jpg",
+      "game_link": "https://roobet.com/casino/game/slingshot-studios-magic-jokers"
+    }
+  ]
+}

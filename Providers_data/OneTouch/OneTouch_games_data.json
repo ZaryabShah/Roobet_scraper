@@ -1,0 +1,500 @@
+{
+  "provider": "OneTouch",
+  "total_games": 82,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:48:49.045506",
+  "games": [
+    {
+      "index": 1,
+      "name": "Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_roulette.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-roulette"
+    },
+    {
+      "index": 2,
+      "name": "Blackjack Classic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjackclassic.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-blackjack-classic"
+    },
+    {
+      "index": 3,
+      "name": "Keno Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_kenorush.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-keno-rush"
+    },
+    {
+      "index": 4,
+      "name": "Texas Holdem",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_texasholdem.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-texas-holdem"
+    },
+    {
+      "index": 5,
+      "name": "Russian Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_russianpoker.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-russian-poker"
+    },
+    {
+      "index": 6,
+      "name": "Ryse of the Mighty Gods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ryseofthemightygods.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-ryse-of-the-mighty-gods"
+    },
+    {
+      "index": 7,
+      "name": "Wild Coyote Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildcoyotemegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wild-coyote-megaways"
+    },
+    {
+      "index": 8,
+      "name": "Blackjack Classic PP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjackclassicpp.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-blackjack-classic-pp"
+    },
+    {
+      "index": 9,
+      "name": "Roobet Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bombayroulette.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-roobet-roulette"
+    },
+    {
+      "index": 10,
+      "name": "Baccarat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccarat.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-baccarat"
+    },
+    {
+      "index": 11,
+      "name": "Fortune Miner",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_fortuneminer-3reels.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-fortune-miner"
+    },
+    {
+      "index": 12,
+      "name": "Baccarat Supreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_supremebaccarat.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-baccarat-supreme"
+    },
+    {
+      "index": 13,
+      "name": "High Hand Holdem Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_highhandholdempoker.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-high-hand-holdem-poker"
+    },
+    {
+      "index": 14,
+      "name": "Baccarat Triple Treat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccarattripletreat.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-baccarat-triple-treat"
+    },
+    {
+      "index": 15,
+      "name": "Forgotten Pharaoh",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_forgottenpharaoh.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-forgotten-pharaoh"
+    },
+    {
+      "index": 16,
+      "name": "Ryse of Rome",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ryseofrome.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-ryse-of-rome"
+    },
+    {
+      "index": 17,
+      "name": "Grand Heist Feature Buy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandheistfeaturebuy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-grand-heist-feature-buy"
+    },
+    {
+      "index": 18,
+      "name": "Gifts Of Horus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_giftsofhorus.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-gifts-of-horus"
+    },
+    {
+      "index": 19,
+      "name": "Blackjack Supreme MHPP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjacksuprememhpp.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-blackjack-supreme-mhpp"
+    },
+    {
+      "index": 20,
+      "name": "Tonatiuh's Legacy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_tonatiuhslegacy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-tonatiuh-s-legacy"
+    },
+    {
+      "index": 21,
+      "name": "Wild Wild West 2120",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildwildwest2120.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wild-wild-west-2120"
+    },
+    {
+      "index": 22,
+      "name": "Miko Festival Feature Buy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mikofestivalfeaturebuy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-miko-festival-feature-buy"
+    },
+    {
+      "index": 23,
+      "name": "Traveling Treasures India",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresindia.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-traveling-treasures-india"
+    },
+    {
+      "index": 24,
+      "name": "Neon2077",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_neon2077.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-neon2077"
+    },
+    {
+      "index": 25,
+      "name": "Lady Fortuna",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ladyfortunaa.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-lady-fortuna"
+    },
+    {
+      "index": 26,
+      "name": "Sea Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_seatreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-sea-treasure"
+    },
+    {
+      "index": 27,
+      "name": "Grand Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandheist.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-grand-heist"
+    },
+    {
+      "index": 28,
+      "name": "God Hand Feature Buy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_godhandfeaturebuy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-god-hand-feature-buy"
+    },
+    {
+      "index": 29,
+      "name": "Wild Voodoo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildvoodoo-94rtp.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wild-voodoo"
+    },
+    {
+      "index": 30,
+      "name": "Queens of Glory Legacy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_queensofglorylegacy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-queens-of-glory-legacy"
+    },
+    {
+      "index": 31,
+      "name": "Legends Cup",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_legendscup.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-legends-cup"
+    },
+    {
+      "index": 32,
+      "name": "Wealthy Sharks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wealthysharks.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wealthy-sharks"
+    },
+    {
+      "index": 33,
+      "name": "In Between Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_inbetweenpoker.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-in-between-poker"
+    },
+    {
+      "index": 34,
+      "name": "Flexing Dragons",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_flexingdragons.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-flexing-dragons"
+    },
+    {
+      "index": 35,
+      "name": "Colosseum Clash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_colosseumclash.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-colosseum-clash"
+    },
+    {
+      "index": 36,
+      "name": "Wild Waves Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildwavesmegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wild-waves-megaways"
+    },
+    {
+      "index": 37,
+      "name": "Bubbles Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bubblesbonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-bubbles-bonanza"
+    },
+    {
+      "index": 38,
+      "name": "Miko Festival",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mikofestival.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-miko-festival"
+    },
+    {
+      "index": 39,
+      "name": "Teen Patti",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_teenpatti.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-teen-patti"
+    },
+    {
+      "index": 40,
+      "name": "Genie's Secret Feature Buy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_geniessecretfeaturebuy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-genie-s-secret-feature-buy"
+    },
+    {
+      "index": 41,
+      "name": "MVP Hoops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mvphoops.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-mvp-hoops"
+    },
+    {
+      "index": 42,
+      "name": "Angels and Demons",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_angelsanddemons.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-angels-and-demons"
+    },
+    {
+      "index": 43,
+      "name": "Baccarat No Commission",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccaratnocommission.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-baccarat-no-commission"
+    },
+    {
+      "index": 44,
+      "name": "Tiki Terror",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_tikiterror.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-tiki-terror"
+    },
+    {
+      "index": 45,
+      "name": "Lucky Lion",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_luckylion.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-lucky-lion"
+    },
+    {
+      "index": 46,
+      "name": "Wild Sorcery",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildsorcery.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wild-sorcery"
+    },
+    {
+      "index": 47,
+      "name": "Steam Vault",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_steamvault.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-steam-vault"
+    },
+    {
+      "index": 48,
+      "name": "Traveling Treasures Africa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresafrica.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-traveling-treasures-africa"
+    },
+    {
+      "index": 49,
+      "name": "Bonus Track",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bonustrack.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-bonus-track"
+    },
+    {
+      "index": 50,
+      "name": "Queens of Glory",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_queensofglory.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-queens-of-glory"
+    },
+    {
+      "index": 51,
+      "name": "Grand Christmas Heist Buy Feature",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandchristmasheistbuyfeature.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-grand-christmas-heist-buy-feature"
+    },
+    {
+      "index": 52,
+      "name": "King of Mafia",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_kingofmafia.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-king-of-mafia"
+    },
+    {
+      "index": 53,
+      "name": "Golden Stripe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_goldenstripe.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-golden-stripe"
+    },
+    {
+      "index": 54,
+      "name": "Halloween Hunt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_halloweenhunt.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-halloween-hunt"
+    },
+    {
+      "index": 55,
+      "name": "Pip's Quest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_pipsquest.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-pip-s-quest"
+    },
+    {
+      "index": 56,
+      "name": "God Hand",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_godhand.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-god-hand"
+    },
+    {
+      "index": 57,
+      "name": "Golden Shisa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_goldenshisa.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-golden-shisa"
+    },
+    {
+      "index": 58,
+      "name": "Monkey's Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_monkeystreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-monkey-s-treasure"
+    },
+    {
+      "index": 59,
+      "name": "Raiden Medal Burst",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_raidenmedalburst.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-raiden-medal-burst"
+    },
+    {
+      "index": 60,
+      "name": "Jewelry Cats",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_jewelrycats.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-jewelry-cats"
+    },
+    {
+      "index": 61,
+      "name": "Stone Gaze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_stonegaze.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-stone-gaze"
+    },
+    {
+      "index": 62,
+      "name": "Fire Combo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_firecombo.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-fire-combo"
+    },
+    {
+      "index": 63,
+      "name": "Baccarat Supreme No Commission",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_supremebaccaratnocommission.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-baccarat-supreme-no-commission"
+    },
+    {
+      "index": 64,
+      "name": "GanBaruto Battle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ganbarutobattle.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-ganbaruto-battle"
+    },
+    {
+      "index": 65,
+      "name": "Infinity Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_infinitytower.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-infinity-tower"
+    },
+    {
+      "index": 66,
+      "name": "Mo Mo Moolah",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_momomoolah.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-mo-mo-moolah"
+    },
+    {
+      "index": 67,
+      "name": "Beats EX",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_beatsex.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-beats-ex"
+    },
+    {
+      "index": 68,
+      "name": "Teen Patti 20-20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_teenpatti20-20.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-teen-patti-20-20"
+    },
+    {
+      "index": 69,
+      "name": "Sumo Showdown",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_sumoshowdown-4reels.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-sumo-showdown"
+    },
+    {
+      "index": 70,
+      "name": "Reel Fruitz Frenzy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_reelfruitzfrenzy.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-reel-fruitz-frenzy"
+    },
+    {
+      "index": 71,
+      "name": "Genie's Secret",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_geniessecret.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-genie-s-secret"
+    },
+    {
+      "index": 72,
+      "name": "Traveling Treasures Brazil",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresbrazil.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-traveling-treasures-brazil"
+    },
+    {
+      "index": 73,
+      "name": "Snack Blast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_snackblast.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-snack-blast"
+    },
+    {
+      "index": 74,
+      "name": "Blackjack Supreme SHPP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjacksupremeshpp.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-blackjack-supreme-shpp"
+    },
+    {
+      "index": 75,
+      "name": "Wacky Wildlife",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wackywildlife.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wacky-wildlife"
+    },
+    {
+      "index": 76,
+      "name": "Sic Bo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_sicbo.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-sic-bo"
+    },
+    {
+      "index": 77,
+      "name": "Andar Bahar",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_andarbahar.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-andar-bahar"
+    },
+    {
+      "index": 78,
+      "name": "Sea Treasure Deep Dive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_seatreasuredeepdive.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-sea-treasure-deep-dive"
+    },
+    {
+      "index": 79,
+      "name": "Dragon Tiger",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_dragontiger.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-dragon-tiger"
+    },
+    {
+      "index": 80,
+      "name": "Wheel Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wheeloffortune.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-wheel-of-fortune"
+    },
+    {
+      "index": 81,
+      "name": "Bombay Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bombayblackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-bombay-blackjack"
+    },
+    {
+      "index": 82,
+      "name": "Loot or Boot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_lootorboot.jpg",
+      "game_link": "https://roobet.com/casino/game/onetouch-loot-or-boot"
+    }
+  ]
+}

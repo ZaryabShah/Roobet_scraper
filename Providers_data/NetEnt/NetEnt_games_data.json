@@ -1,0 +1,524 @@
+{
+  "provider": "NetEnt",
+  "total_games": 86,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:40:09.541371",
+  "games": [
+    {
+      "index": 1,
+      "name": "Blackjack Classic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BlackjackClassic.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-blackjack-classic"
+    },
+    {
+      "index": 2,
+      "name": "Baccarat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_baccarat2ne00000.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-baccarat"
+    },
+    {
+      "index": 3,
+      "name": "Fruit Shop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShop.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-fruit-shop"
+    },
+    {
+      "index": 4,
+      "name": "European Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_europroulette3ne.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-european-roulette"
+    },
+    {
+      "index": 5,
+      "name": "Elements: The Awakening",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ElementsTheAwakening.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-elements-the-awakening"
+    },
+    {
+      "index": 6,
+      "name": "Jack Hammer 4: Chasing the Dragon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JackHammer4ChasingtheDragon-ozxQajV51.jpeg",
+      "game_link": "https://roobet.com/casino/game/evolution:JackHammer4ChasingtheDragon"
+    },
+    {
+      "index": 7,
+      "name": "Dead or Alive 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive2.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-dead-or-alive-2"
+    },
+    {
+      "index": 8,
+      "name": "Starburst",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Starburst.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-starburst"
+    },
+    {
+      "index": 9,
+      "name": "Double Stacks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DoubleStacks.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-double-stacks"
+    },
+    {
+      "index": 10,
+      "name": "Starburst Galaxy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:StarburstGalaxy-IMjUW4GEU.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-starburst-galaxy"
+    },
+    {
+      "index": 11,
+      "name": "Reel Rush XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ReelRushXXXtreme-jyT1ZEpqI.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-reel-rush-xxxtreme"
+    },
+    {
+      "index": 12,
+      "name": "Dead or Alive 2 Feature Buy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive2FeatureBuy.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-dead-or-alive-2-feature-buy"
+    },
+    {
+      "index": 13,
+      "name": "Starburst XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_StarburstXXXtreme.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-starburst-xxxtreme"
+    },
+    {
+      "index": 14,
+      "name": "Dead or Alive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-dead-or-alive"
+    },
+    {
+      "index": 15,
+      "name": "Fruit Shop Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-fruit-shop-megaways"
+    },
+    {
+      "index": 16,
+      "name": "Koi Princess",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_KoiPrincess.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-koi-princess"
+    },
+    {
+      "index": 17,
+      "name": "Gonzo's Quest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzosQuest.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-gonzo-s-quest"
+    },
+    {
+      "index": 18,
+      "name": "Blood Suckers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BloodSuckers.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-blood-suckers"
+    },
+    {
+      "index": 19,
+      "name": "Divine Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DivineFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-divine-fortune"
+    },
+    {
+      "index": 20,
+      "name": "Guns N' Roses Video Slots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GunsNRosesVideoSlots.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-guns-n-roses-video-slots"
+    },
+    {
+      "index": 21,
+      "name": "Secret of the Stones",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SecretoftheStones.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-secret-of-the-stones"
+    },
+    {
+      "index": 22,
+      "name": "Jungle Spirit Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JungleSpiritMegaways-lJoFEoFIc.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-jungle-spirit-megaways"
+    },
+    {
+      "index": 23,
+      "name": "Fruit Shop Christmas Edition",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopChristmasEdition.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-fruit-shop-christmas-edition"
+    },
+    {
+      "index": 24,
+      "name": "Rise of Maya",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RiseofMaya.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-rise-of-maya"
+    },
+    {
+      "index": 25,
+      "name": "Cornelius Milk Hunter Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CorneliusMilkHunterMegaways-1Gdtv1nS6.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-cornelius-milk-hunter-megaways"
+    },
+    {
+      "index": 26,
+      "name": "Wild Mining XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WildMiningXXXtreme-3kB4RhVkm.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-wild-mining-xxxtreme"
+    },
+    {
+      "index": 27,
+      "name": "Golden Egg Invaders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GoldenEggInvaders-v1d0Af-C0.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-golden-egg-invaders"
+    },
+    {
+      "index": 28,
+      "name": "Steam Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SteamTower.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-steam-tower"
+    },
+    {
+      "index": 29,
+      "name": "Space Wars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SpaceWars.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-space-wars"
+    },
+    {
+      "index": 30,
+      "name": "Jack and the Beanstalk Remastered",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JackandtheBeanstalkRemastered.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-jack-and-the-beanstalk-remastered"
+    },
+    {
+      "index": 31,
+      "name": "Divine Fortune Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DivineFortuneMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-divine-fortune-megaways"
+    },
+    {
+      "index": 32,
+      "name": "Wild Wild West: The Great Train Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildWildWestTheGreatTrainHeist.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-wild-wild-west-the-great-train-heist"
+    },
+    {
+      "index": 33,
+      "name": "Finn's Golden Tavern",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FinnsGoldenTavern.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-finn-s-golden-tavern"
+    },
+    {
+      "index": 34,
+      "name": "Casino Hold'em",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CasinoHoldem.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-casino-hold-em"
+    },
+    {
+      "index": 35,
+      "name": "Divine Fortune Black",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DivineFortuneBlack-TnCajLCRm.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-divine-fortune-black"
+    },
+    {
+      "index": 36,
+      "name": "Milkshake XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MilkshakeXXXtreme.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-milkshake-xxxtreme"
+    },
+    {
+      "index": 37,
+      "name": "Hotline",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Hotline.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-hotline"
+    },
+    {
+      "index": 38,
+      "name": "Vikings",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VikingsVideoSlot.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-vikings"
+    },
+    {
+      "index": 39,
+      "name": "Fruit Shop Frenzy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopFrenzy.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-fruit-shop-frenzy"
+    },
+    {
+      "index": 40,
+      "name": "Bee Hive Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BeeHiveBonanza1.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-bee-hive-bonanza"
+    },
+    {
+      "index": 41,
+      "name": "Taco Fury XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TacoFuryXXXtreme.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-taco-fury-xxxtreme"
+    },
+    {
+      "index": 42,
+      "name": "Jack Hammer 3: Diamond Affair",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JackHammer3DiamondAffair.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-jack-hammer-3-diamond-affair"
+    },
+    {
+      "index": 43,
+      "name": "Mine Blown",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MineBlown-mo8u752tg.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-mine-blown"
+    },
+    {
+      "index": 44,
+      "name": "Mummy Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MummyMegaways-J0MWieTKr.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-mummy-megaways"
+    },
+    {
+      "index": 45,
+      "name": "Finn and the Dragon Tales",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:FinnandtheDragonTales-pqOTinjdz.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-finn-and-the-dragon-tales"
+    },
+    {
+      "index": 46,
+      "name": "Space Wars Megaways XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SpaceWarsMegawaysXXXtreme.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-space-wars-megaways-xxxtreme"
+    },
+    {
+      "index": 47,
+      "name": "Twister",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:Twister-0CIKm6kla.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-twister"
+    },
+    {
+      "index": 48,
+      "name": "Dazzle Me Christmas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DazzleMeChristmas-Zc1NzRmWR.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-dazzle-me-christmas"
+    },
+    {
+      "index": 49,
+      "name": "Ticket To Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TicketToWild.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-ticket-to-wild"
+    },
+    {
+      "index": 50,
+      "name": "Rage",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Rage.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-rage"
+    },
+    {
+      "index": 51,
+      "name": "Ms Robin Hood",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MsRobinHood-3X1Zx8ukd.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-ms-robin-hood"
+    },
+    {
+      "index": 52,
+      "name": "Golden Wheels Egypt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldenWheelsEgypt.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-golden-wheels-egypt"
+    },
+    {
+      "index": 53,
+      "name": "Buster’s Bones",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BustersBones.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-buster-s-bones"
+    },
+    {
+      "index": 54,
+      "name": "Druid's Magic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DruidsMagic.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-druid-s-magic"
+    },
+    {
+      "index": 55,
+      "name": "Big Money Wheel",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BigMoneyWheel.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-big-money-wheel"
+    },
+    {
+      "index": 56,
+      "name": "Lights, Camera, Cash!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LightsCameraCash.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-lights-camera-cash"
+    },
+    {
+      "index": 57,
+      "name": "Gladiator Clash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GladiatorClash.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-gladiator-clash"
+    },
+    {
+      "index": 58,
+      "name": "Finn and the Swirly Spin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FinnandtheSwirlySpin.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-finn-and-the-swirly-spin"
+    },
+    {
+      "index": 59,
+      "name": "Dragons Playground",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DragonsPlayground-J3JLRLtYK.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-dragons-playground"
+    },
+    {
+      "index": 60,
+      "name": "Babylon Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BabylonRiches.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-babylon-riches"
+    },
+    {
+      "index": 61,
+      "name": "Rainforest Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainforestGold.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-rainforest-gold"
+    },
+    {
+      "index": 62,
+      "name": "French Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FrenchRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-french-roulette"
+    },
+    {
+      "index": 63,
+      "name": "Gem Crush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GemCrush.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-gem-crush"
+    },
+    {
+      "index": 64,
+      "name": "Jingle Bells Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JingleBellsBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-jingle-bells-bonanza"
+    },
+    {
+      "index": 65,
+      "name": "Pirates Party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiratesParty.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-pirates-party"
+    },
+    {
+      "index": 66,
+      "name": "Jelly Belly Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JellyBellyMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-jelly-belly-megaways"
+    },
+    {
+      "index": 67,
+      "name": "Twin Spin XXXtreme",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TwinSpinXXXtreme.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-twin-spin-xxxtreme"
+    },
+    {
+      "index": 68,
+      "name": "Buckshot Wilds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BuckshotWilds.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-buckshot-wilds"
+    },
+    {
+      "index": 69,
+      "name": "Leprechaun Joy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LeprechaunJoy.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-leprechaun-joy"
+    },
+    {
+      "index": 70,
+      "name": "Golden Realms",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldenRealms.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-golden-realms"
+    },
+    {
+      "index": 71,
+      "name": "Casino Night",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CasinoNight.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-casino-night"
+    },
+    {
+      "index": 72,
+      "name": "Good Old 7's",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoodOld7s.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-good-old-7-s"
+    },
+    {
+      "index": 73,
+      "name": "Twin Spin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TwinSpin.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-twin-spin"
+    },
+    {
+      "index": 74,
+      "name": "Lock and Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LockandPop.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-lock-and-pop"
+    },
+    {
+      "index": 75,
+      "name": "Wild Bazaar",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildBazaar.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-wild-bazaar"
+    },
+    {
+      "index": 76,
+      "name": "101 Candies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_101Candies.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-101-candies"
+    },
+    {
+      "index": 77,
+      "name": "Pandora's Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PandorasTreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-pandora-s-treasure"
+    },
+    {
+      "index": 78,
+      "name": "Cursed Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CursedTreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-cursed-treasure"
+    },
+    {
+      "index": 79,
+      "name": "Magic Lab",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MagicLab.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-magic-lab"
+    },
+    {
+      "index": 80,
+      "name": "Don’t Eat the Candy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DontEatTheCandy.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-don-t-eat-the-candy"
+    },
+    {
+      "index": 81,
+      "name": "Roulette Advanced",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_roulette2advne.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-roulette-advanced"
+    },
+    {
+      "index": 82,
+      "name": "Rabid Randy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RabidRandy-eW3CpXvMx.jpeg",
+      "game_link": "https://roobet.com/casino/game/netent-rabid-randy"
+    },
+    {
+      "index": 83,
+      "name": "Royal Nuts",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RoyalNuts.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-royal-nuts"
+    },
+    {
+      "index": 84,
+      "name": "Mermaids",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Mermaids.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-mermaids"
+    },
+    {
+      "index": 85,
+      "name": "Beach Invaders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BeachInvaders.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-beach-invaders"
+    },
+    {
+      "index": 86,
+      "name": "American Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ameriroulette3ne.jpg",
+      "game_link": "https://roobet.com/casino/game/netent-american-roulette"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "provider": "Electric Elephant",
+  "total_games": 2,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:32:39.889095",
+  "games": [
+    {
+      "index": 1,
+      "name": "Star Pops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_StarPops.jpg",
+      "game_link": "https://roobet.com/casino/game/electric-elephant-star-pops"
+    },
+    {
+      "index": 2,
+      "name": "Sherlock Bones",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SherlockBones.jpg",
+      "game_link": "https://roobet.com/casino/game/electric-elephant-sherlock-bones"
+    }
+  ]
+}

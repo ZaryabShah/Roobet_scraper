@@ -1,0 +1,1017 @@
+Betsoft Games Data
+==================================================
+Total games found: 202
+Load More clicks: 3
+Extraction date: 2025-08-10 17:40:19
+==================================================
+
+Game #1:
+  Name: The Tipsy Tourist: Beach Bonanza - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:TheTipsyTouristBeachBonanzaHoldWin-xJ6BIZp8t.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-the-tipsy-tourist-beach-bonanza-hold-win
+----------------------------------------
+Game #2:
+  Name: Coins Of Leprechaun - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsOfLeprechaunHoldWin-VgPAC1bRr.png
+  Game Link: https://roobet.com/casino/game/bsg:CoinsOfLeprechaunHoldWin
+----------------------------------------
+Game #3:
+  Name: Jungle Stripes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_JungleStripes.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-jungle-stripes
+----------------------------------------
+Game #4:
+  Name: European Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EuropeanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-european-roulette
+----------------------------------------
+Game #5:
+  Name: European Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EuropeanBlackjack.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-european-blackjack
+----------------------------------------
+Game #6:
+  Name: Pho Sho
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PhoSho.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-pho-sho
+----------------------------------------
+Game #7:
+  Name: Coins of Alkemor: Extreme Magic - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofAlkemorExtremeMagicHoldWin-M-0D932CB.png
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-alkemor-extreme-magic-hold-win
+----------------------------------------
+Game #8:
+  Name: Coins of Buffalo - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofBuffaloHoldAndWin-x4vQR55V9.png
+  Game Link: https://roobet.com/casino/game/bsg:CoinsofBuffaloHoldAndWin
+----------------------------------------
+Game #9:
+  Name: Ultimate Golden Dragon Inferno - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:UltimateGoldenDragonInfernoHoldWin-GXYhobaQN.png
+  Game Link: https://roobet.com/casino/game/betsoft-ultimate-golden-dragon-inferno-hold-win
+----------------------------------------
+Game #10:
+  Name: Rags to Witches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RagstoWitches.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-rags-to-witches
+----------------------------------------
+Game #11:
+  Name: Coins of Zeus - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofZeusHoldWin-InCOeKVdI.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-zeus-hold-win
+----------------------------------------
+Game #12:
+  Name: Super 7 Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Super7Blackjack.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-super-7-blackjack
+----------------------------------------
+Game #13:
+  Name: Heist: Bank Rush - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HeistBankRushHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-heist-bank-rush-hold-win
+----------------------------------------
+Game #14:
+  Name: Gemmed!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Gemmed.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gemmed
+----------------------------------------
+Game #15:
+  Name: Red Dog
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RedDog.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-red-dog
+----------------------------------------
+Game #16:
+  Name: A Big Catch - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ABigCatchHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-a-big-catch-hold-win
+----------------------------------------
+Game #17:
+  Name: Stampede Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_StampedeGold.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-stampede-gold
+----------------------------------------
+Game #18:
+  Name: Gold Nugget Rush - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:GoldNuggetRushHoldAndWin-ArDD1nb0t.png
+  Game Link: https://roobet.com/casino/game/betsoft-gold-nugget-rush-hold-win
+----------------------------------------
+Game #19:
+  Name: Pots of Great Fortune - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:PotsofGreatFortuneHoldWin-lNUPo0Ae3.png
+  Game Link: https://roobet.com/casino/game/betsoft-pots-of-great-fortune-hold-win
+----------------------------------------
+Game #20:
+  Name: Mad Scientist: Breaking Beakers - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:MadScientistBreakingBeakersHoldAndWin-guxNbVcGm.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-mad-scientist-breaking-beakers-hold-win
+----------------------------------------
+Game #21:
+  Name: Baccarat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Baccarat.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-baccarat
+----------------------------------------
+Game #22:
+  Name: Treasures of Cleopatra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:TreasuresofCleopatra-5GWdLNcku.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-treasures-of-cleopatra
+----------------------------------------
+Game #23:
+  Name: Coins Of Ra - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CoinsOfRaHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-ra-hold-win
+----------------------------------------
+Game #24:
+  Name: Spring Tails
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SpringTails.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-spring-tails
+----------------------------------------
+Game #25:
+  Name: Vip European Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VipEuropeanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-vip-european-roulette
+----------------------------------------
+Game #26:
+  Name: Triple Juicy Drops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleJuicyDrops.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-triple-juicy-drops
+----------------------------------------
+Game #27:
+  Name: Ogre Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OgreEmpire.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-ogre-empire
+----------------------------------------
+Game #28:
+  Name: April Fury And The Chamber Of Scarabs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AprilFuryAndTheChamberOfScarabs.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-april-fury-and-the-chamber-of-scarabs
+----------------------------------------
+Game #29:
+  Name: Coins of Ra Power - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofRaPowerHoldWin-P87ssn4FS.png
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-ra-power-hold-win
+----------------------------------------
+Game #30:
+  Name: The Slotfather Book Of Wins - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheSlotfatherBookOfWinsHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-slotfather-book-of-wins-hold-win
+----------------------------------------
+Game #31:
+  Name: Rockstar World Tour Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RockstarWorldTourHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-rockstar-world-tour-hold-win
+----------------------------------------
+Game #32:
+  Name: Hearts Desire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HeartsDesireJP.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-hearts-desire
+----------------------------------------
+Game #33:
+  Name: Super Sugar Pop - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:SuperSugarPopHoldWin-Y8qDickR5.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-super-sugar-pop-hold-win
+----------------------------------------
+Game #34:
+  Name: Deuces Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DeucesWild.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-deuces-wild
+----------------------------------------
+Game #35:
+  Name: Tycoons: Billionaire Bucks - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TycoonsBillionaireBucksHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-tycoons-billionaire-bucks-hold-win
+----------------------------------------
+Game #36:
+  Name: Pirate 21
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pirate21.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-pirate-21
+----------------------------------------
+Game #37:
+  Name: The Golden Owl of Athena
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheGoldenOwlofAthena.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-golden-owl-of-athena
+----------------------------------------
+Game #38:
+  Name: Fury Dragon - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:FuryDragonHoldWin-fVEUE2qx8.png
+  Game Link: https://roobet.com/casino/game/betsoft-fury-dragon-hold-win
+----------------------------------------
+Game #39:
+  Name: Hot Lucky 7’s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HotLucky7s.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-hot-lucky-7-s
+----------------------------------------
+Game #40:
+  Name: Faerie Spells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FaerieSpells.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-faerie-spells
+----------------------------------------
+Game #41:
+  Name: Caishen God Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaishenGodOfFortune.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-caishen-god-of-fortune
+----------------------------------------
+Game #42:
+  Name: Good Girl, Bad Girl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoodGirlBadGirl.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-good-girl-bad-girl
+----------------------------------------
+Game #43:
+  Name: Take the Shot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TaketheShot.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-the-shot
+----------------------------------------
+Game #44:
+  Name: Pontoon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pontoon.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-pontoon
+----------------------------------------
+Game #45:
+  Name: The Angler
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Angler.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-angler
+----------------------------------------
+Game #46:
+  Name: Golden Destiny - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenDestinyHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-golden-destiny-hold-win
+----------------------------------------
+Game #47:
+  Name: Pai Gow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PaiGow.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-pai-gow
+----------------------------------------
+Game #48:
+  Name: Bounding Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BoundingLuck.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-bounding-luck
+----------------------------------------
+Game #49:
+  Name: Coins Of Alkemor - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CoinsOfAlkemorHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-alkemor-hold-win
+----------------------------------------
+Game #50:
+  Name: Golden Dragon Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenDragonInferno.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-golden-dragon-inferno
+----------------------------------------
+Game #51:
+  Name: Mr. Macau
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrMacau.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mr-macau
+----------------------------------------
+Game #52:
+  Name: Triple Edge Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleEdgePoker.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-triple-edge-poker
+----------------------------------------
+Game #53:
+  Name: Super Golden Dragon Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SuperGoldenDragonInferno.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-super-golden-dragon-inferno
+----------------------------------------
+Game #54:
+  Name: Single Deck Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SingleDeckBlackjack.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-single-deck-blackjack
+----------------------------------------
+Game #55:
+  Name: Slotfather
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Slotfather.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-slotfather
+----------------------------------------
+Game #56:
+  Name: Carnaval Forever
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CarnavalForever.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-carnaval-forever
+----------------------------------------
+Game #57:
+  Name: Take the Vault - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TaketheVaultHoldandWin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-the-vault-hold-win
+----------------------------------------
+Game #58:
+  Name: Book of Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BookofDarkness.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-book-of-darkness
+----------------------------------------
+Game #59:
+  Name: Bamboo Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BambooRush.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-bamboo-rush
+----------------------------------------
+Game #60:
+  Name: Gypsy Rose
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GypsyRose.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gypsy-rose
+----------------------------------------
+Game #61:
+  Name: Rise of Triton
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RiseofTriton.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-rise-of-triton
+----------------------------------------
+Game #62:
+  Name: Frankenslot's Monster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Frankenslots.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-frankenslot-s-monster
+----------------------------------------
+Game #63:
+  Name: Black Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BlackGold.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-black-gold
+----------------------------------------
+Game #64:
+  Name: 21 Burn Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_21BurnBlackjack.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-21-burn-blackjack
+----------------------------------------
+Game #65:
+  Name: ChilliPop: Get Em All - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:ChilliPopGetEmAllHoldWin-wqHPbZW4W.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-chillipop-get-em-all-hold-win
+----------------------------------------
+Game #66:
+  Name: Island Desire - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:IslandDesireHoldWin-qdhPiyg2e.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-island-desire-hold-win
+----------------------------------------
+Game #67:
+  Name: Fire & Steel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FireandSteel.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-fire-steel
+----------------------------------------
+Game #68:
+  Name: Golden Horns
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenHorns.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-golden-horns
+----------------------------------------
+Game #69:
+  Name: Primal Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PrimalHunt.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-primal-hunt
+----------------------------------------
+Game #70:
+  Name: Super Sweets
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SuperSweets.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-super-sweets
+----------------------------------------
+Game #71:
+  Name: Lizard Loot Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:LizardLootHoldWin-cirLF_-Yt.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-lizard-loot-hold-win
+----------------------------------------
+Game #72:
+  Name: Reels of Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ReelsofWealth.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-reels-of-wealth
+----------------------------------------
+Game #73:
+  Name: Wish Granted
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WishGranted.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-wish-granted
+----------------------------------------
+Game #74:
+  Name: Alkemor's Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AlkemorsTower.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-alkemor-s-tower
+----------------------------------------
+Game #75:
+  Name: Enchanted: Forest Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EnchantedForestOfFortune.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-enchanted-forest-of-fortune
+----------------------------------------
+Game #76:
+  Name: Take Santa's shop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeSantasShop.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-santa-s-shop
+----------------------------------------
+Game #77:
+  Name: The Tipsy Tourist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TipsyTourist.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-tipsy-tourist
+----------------------------------------
+Game #78:
+  Name: Wild Drops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WildDrops.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-wild-drops
+----------------------------------------
+Game #79:
+  Name: Triple Lucky 8’s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleLucky8s.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-triple-lucky-8-s
+----------------------------------------
+Game #80:
+  Name: Trinity Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrinityReels.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-trinity-reels
+----------------------------------------
+Game #81:
+  Name: Total Overdrive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TotalOverdrive.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-total-overdrive
+----------------------------------------
+Game #82:
+  Name: Treasure Room
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TreasureRoom.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-treasure-room
+----------------------------------------
+Game #83:
+  Name: Lava Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LavaGold.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-lava-gold
+----------------------------------------
+Game #84:
+  Name: Coins of Christmas - Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofChristmasHoldWin-4OVwT3W0l.png
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-christmas-hold-win
+----------------------------------------
+Game #85:
+  Name: Hat Trick Hero
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HatTrickHero.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-hat-trick-hero
+----------------------------------------
+Game #86:
+  Name: Spinfinity Man
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SpinfinityMan.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-spinfinity-man
+----------------------------------------
+Game #87:
+  Name: Sin City Nights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SinCityNights.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-sin-city-nights
+----------------------------------------
+Game #88:
+  Name: Alkemor's Elements
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AlkemorsElements.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-alkemor-s-elements
+----------------------------------------
+Game #89:
+  Name: Safari Sam 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SafariSam2.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-safari-sam-2
+----------------------------------------
+Game #90:
+  Name: Stacked
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Stacked.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-stacked
+----------------------------------------
+Game #91:
+  Name: More Gold Diggin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MoreGoldDiggin.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-more-gold-diggin
+----------------------------------------
+Game #92:
+  Name: Charms And Clovers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CharmsAndClovers.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-charms-and-clovers
+----------------------------------------
+Game #93:
+  Name: Once Upon A Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OnceUponATime.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-once-upon-a-time
+----------------------------------------
+Game #94:
+  Name: Supreme 777 Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Supreme777Jackpots.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-supreme-777-jackpots
+----------------------------------------
+Game #95:
+  Name: Back To Venus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BackToVenus.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-back-to-venus
+----------------------------------------
+Game #96:
+  Name: Yak, Yeti & Roll
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_YakYetiRoll.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-yak-yeti-roll
+----------------------------------------
+Game #97:
+  Name: Gold Canyon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldCanyon.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gold-canyon
+----------------------------------------
+Game #98:
+  Name: The True Sheriff
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrueSheriff.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-true-sheriff
+----------------------------------------
+Game #99:
+  Name: The Mystic Hive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheMysticHive.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-mystic-hive
+----------------------------------------
+Game #100:
+  Name: Wolf Moon Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WolfMoonRising.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-wolf-moon-rising
+----------------------------------------
+Game #101:
+  Name: 7th Heaven
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_7thHeaven.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-7th-heaven
+----------------------------------------
+Game #102:
+  Name: Genie's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThreeWishes.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-genie-s-fortune
+----------------------------------------
+Game #103:
+  Name: American Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AmericanBlackjack.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-american-blackjack
+----------------------------------------
+Game #104:
+  Name: Arrival
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Arrival.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-arrival
+----------------------------------------
+Game #105:
+  Name: Mega Glam Life
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MegaGlamLife.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mega-glam-life
+----------------------------------------
+Game #106:
+  Name: ChilliPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ChilliPop.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-chillipop
+----------------------------------------
+Game #107:
+  Name: A Night in Paris
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_NightInParis.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-a-night-in-paris
+----------------------------------------
+Game #108:
+  Name: Gold Diggers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldDiggers.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gold-diggers
+----------------------------------------
+Game #109:
+  Name: Under The Bed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_UnderTheBed.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-under-the-bed
+----------------------------------------
+Game #110:
+  Name: Return to Paris
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ReturntoParis.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-return-to-paris
+----------------------------------------
+Game #111:
+  Name: Barbary Coast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BarbaryCoast.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-barbary-coast
+----------------------------------------
+Game #112:
+  Name: Book of Helios
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BookofHelios.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-book-of-helios
+----------------------------------------
+Game #113:
+  Name: Tiger's Claw
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TigersClaw.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-tiger-s-claw
+----------------------------------------
+Game #114:
+  Name: Dragon & Phoenix
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DragonandPhoenix.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-dragon-phoenix
+----------------------------------------
+Game #115:
+  Name: Sleighin' It
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SleighinIt.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-sleighin-it
+----------------------------------------
+Game #116:
+  Name: Glam Life
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GlamLife.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-glam-life
+----------------------------------------
+Game #117:
+  Name: Stampede
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Stampede.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-stampede
+----------------------------------------
+Game #118:
+  Name: House of Fun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HouseOfFun.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-house-of-fun
+----------------------------------------
+Game #119:
+  Name: Paco and the Popping Peppers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PacoAndThePoppingPeppers.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-paco-and-the-popping-peppers
+----------------------------------------
+Game #120:
+  Name: Rook's Revenge
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RooksRevenge.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-rook-s-revenge
+----------------------------------------
+Game #121:
+  Name: Safari Sam
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SafariSam.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-safari-sam
+----------------------------------------
+Game #122:
+  Name: Expansion!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Expansion.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-expansion
+----------------------------------------
+Game #123:
+  Name: Take Olympus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeOlympus.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-olympus
+----------------------------------------
+Game #124:
+  Name: Legend of the Nile
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LegendOfTheNile.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-legend-of-the-nile
+----------------------------------------
+Game #125:
+  Name: Wilds Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WildsOfFortune.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-wilds-of-fortune
+----------------------------------------
+Game #126:
+  Name: Slots Angels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SlotsAngels.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-slots-angels
+----------------------------------------
+Game #127:
+  Name: Dr. Jekyll & Mr. Hyde
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DrJekyllAndMrHyde.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-dr-jekyll-mr-hyde
+----------------------------------------
+Game #128:
+  Name: The Curious Machine Plus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CuriousMachinePlus.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-curious-machine-plus
+----------------------------------------
+Game #129:
+  Name: Take The Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeTheBank.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-the-bank
+----------------------------------------
+Game #130:
+  Name: Kensei Blades
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_KenseiBlades.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-kensei-blades
+----------------------------------------
+Game #131:
+  Name: Monster Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MonsterPop.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-monster-pop
+----------------------------------------
+Game #132:
+  Name: The Hive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheHive.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-hive
+----------------------------------------
+Game #133:
+  Name: Captain's Quest Treasure Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaptainsQuestTreasureIsland.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-captain-s-quest-treasure-island
+----------------------------------------
+Game #134:
+  Name: Quest to the West
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_QuesttotheWest.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-quest-to-the-west
+----------------------------------------
+Game #135:
+  Name: Three Card Rummy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThreeCardRummy.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-three-card-rummy
+----------------------------------------
+Game #136:
+  Name: Viking Age
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VikingAge.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-viking-age
+----------------------------------------
+Game #137:
+  Name: 7 Fortune Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_7FortuneFrenzy.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-7-fortune-frenzy
+----------------------------------------
+Game #138:
+  Name: At The Movies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AtTheMovies.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-at-the-movies
+----------------------------------------
+Game #139:
+  Name: Sugar Pop 2: Double Dipped
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SugarPop2DoubleDipped.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-sugar-pop-2-double-dipped
+----------------------------------------
+Game #140:
+  Name: Jumbo Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_JumboJoker.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-jumbo-joker
+----------------------------------------
+Game #141:
+  Name: Dragon Kings
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DragonKings.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-dragon-kings
+----------------------------------------
+Game #142:
+  Name: Take The Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeTheKingdom.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-take-the-kingdom
+----------------------------------------
+Game #143:
+  Name: 2 Million B.C.
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_2MillionBC.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-2-million-b-c
+----------------------------------------
+Game #144:
+  Name: Fruitbat Crazy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FruitbatCrazy.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-fruitbat-crazy
+----------------------------------------
+Game #145:
+  Name: True Illusions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrueIllusions.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-true-illusions
+----------------------------------------
+Game #146:
+  Name: 88 Frenzy Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_88FrenzyFortune.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-88-frenzy-fortune
+----------------------------------------
+Game #147:
+  Name: RockStar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RockStar.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-rockstar
+----------------------------------------
+Game #148:
+  Name: Mega Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MegaGems.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mega-gems
+----------------------------------------
+Game #149:
+  Name: Primal Wilderness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PrimalWilderness.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-primal-wilderness
+----------------------------------------
+Game #150:
+  Name: Thai Blossoms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThaiBlossoms.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-thai-blossoms
+----------------------------------------
+Game #151:
+  Name: Mr. Vegas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrVegas.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mr-vegas
+----------------------------------------
+Game #152:
+  Name: The Exterminator
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Exterminator.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-the-exterminator
+----------------------------------------
+Game #153:
+  Name: Gemini Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GeminiJoker.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gemini-joker
+----------------------------------------
+Game #154:
+  Name: Slotfather2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Slotfather2.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-slotfather2
+----------------------------------------
+Game #155:
+  Name: Great88
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Great88.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-great88
+----------------------------------------
+Game #156:
+  Name: Miles Bellhouse and the Gears of time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MilesBellhouseAndtheGearsOftime.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-miles-bellhouse-and-the-gears-of-time
+----------------------------------------
+Game #157:
+  Name: Birds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Birds.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-birds
+----------------------------------------
+Game #158:
+  Name: Lucky Seven
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LuckySeven.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-lucky-seven
+----------------------------------------
+Game #159:
+  Name: Gladiator
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Gladiator.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gladiator
+----------------------------------------
+Game #160:
+  Name: Under The Sea
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_UnderTheSea.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-under-the-sea
+----------------------------------------
+Game #161:
+  Name: Coins of Fruit: Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofFruitHoldWin-c3JOe5WTy.jpeg
+  Game Link: https://roobet.com/casino/game/betsoft-coins-of-fruit-hold-win
+----------------------------------------
+Game #162:
+  Name: Fruit Zen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FruitZen.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-fruit-zen
+----------------------------------------
+Game #163:
+  Name: Greedy Goblins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GreedyGoblins.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-greedy-goblins
+----------------------------------------
+Game #164:
+  Name: Pinocchio
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pinocchio.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-pinocchio
+----------------------------------------
+Game #165:
+  Name: FaFaTwins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FaFaTwins.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-fafatwins
+----------------------------------------
+Game #166:
+  Name: Caishen's Arrival
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaishensArrival.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-caishen-s-arrival
+----------------------------------------
+Game #167:
+  Name: Viking Voyage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VikingVoyage.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-viking-voyage
+----------------------------------------
+Game #168:
+  Name: Madder Scientist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MadderScientist.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-madder-scientist
+----------------------------------------
+Game #169:
+  Name: Mr. Vegas 2: Big Money Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrVegas2BigMoneyTower.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mr-vegas-2-big-money-tower
+----------------------------------------
+Game #170:
+  Name: Puppy Love Plus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PuppyLovePlus.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-puppy-love-plus
+----------------------------------------
+Game #171:
+  Name: Gold Tiger Ascent
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldTigerAscent.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-gold-tiger-ascent
+----------------------------------------
+Game #172:
+  Name: 72 Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_72Fortunes.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-72-fortunes
+----------------------------------------
+Game #173:
+  Name: Boomanji
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Boomanji.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-boomanji
+----------------------------------------
+Game #174:
+  Name: Tower of Fortuna
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TowerofFortuna.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-tower-of-fortuna
+----------------------------------------
+Game #175:
+  Name: Oasis Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OasisPoker.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-oasis-poker
+----------------------------------------
+Game #176:
+  Name: After Night Falls
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AfterNightFalls.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-after-night-falls
+----------------------------------------
+Game #177:
+  Name: Magic Shoppe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MagicShoppe.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-magic-shoppe
+----------------------------------------
+Game #178:
+  Name: Stay Frosty!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_StayFrosty.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-stay-frosty
+----------------------------------------
+Game #179:
+  Name: Kawaii Kitty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_KawaiiKitty.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-kawaii-kitty
+----------------------------------------
+Game #180:
+  Name: Woodlanders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Woodlanders.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-woodlanders
+----------------------------------------
+Game #181:
+  Name: A Christmas Carol
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ChristmasCarol.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-a-christmas-carol
+----------------------------------------
+Game #182:
+  Name: Charms & Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CharmsTreasures.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-charms-treasures
+----------------------------------------
+Game #183:
+  Name: Dim Sum Prize
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DimSumPrize.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-dim-sum-prize
+----------------------------------------
+Game #184:
+  Name: Event Horizon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EventHorizon.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-event-horizon
+----------------------------------------
+Game #185:
+  Name: Lost Mystery Chests
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LostMysteryChests.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-lost-mystery-chests
+----------------------------------------
+Game #186:
+  Name: Blood Eternal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BloodEternal.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-blood-eternal
+----------------------------------------
+Game #187:
+  Name: Giovanni's Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GiovannisGems.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-giovanni-s-gems
+----------------------------------------
+Game #188:
+  Name: Caribbean Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaribbeanPoker.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-caribbean-poker
+----------------------------------------
+Game #189:
+  Name: 4 Seasons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_4Seasons.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-4-seasons
+----------------------------------------
+Game #190:
+  Name: Winds of Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WindsOfWealth.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-winds-of-wealth
+----------------------------------------
+Game #191:
+  Name: Weekend In Vegas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WeekendInVegas.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-weekend-in-vegas
+----------------------------------------
+Game #192:
+  Name: Tycoons Plus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TycoonsPlus.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-tycoons-plus
+----------------------------------------
+Game #193:
+  Name: At The Copa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AtTheCopa.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-at-the-copa
+----------------------------------------
+Game #194:
+  Name: American Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AmericanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-american-roulette
+----------------------------------------
+Game #195:
+  Name: Heist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Heist.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-heist
+----------------------------------------
+Game #196:
+  Name: Lost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Lost.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-lost
+----------------------------------------
+Game #197:
+  Name: Mamma Mia
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MammaMia.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-mamma-mia
+----------------------------------------
+Game #198:
+  Name: Sugar Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SugarPop.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-sugar-pop
+----------------------------------------
+Game #199:
+  Name: Top Card Trumps
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TopCardTrumps.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-top-card-trumps
+----------------------------------------
+Game #200:
+  Name: Vip American Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VipAmericanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-vip-american-roulette
+----------------------------------------
+Game #201:
+  Name: Zoom Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ZoomRoulette.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-zoom-roulette
+----------------------------------------
+Game #202:
+  Name: Draw Hi-Lo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DrawHiLo.jpg
+  Game Link: https://roobet.com/casino/game/betsoft-draw-hi-lo
+----------------------------------------

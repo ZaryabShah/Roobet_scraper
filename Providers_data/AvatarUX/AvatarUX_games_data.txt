@@ -1,0 +1,297 @@
+AvatarUX Games Data
+==================================================
+Total games found: 58
+Load More clicks: 1
+Extraction date: 2025-08-11 00:47:57
+==================================================
+
+Game #1:
+  Name: Cherry Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CherryPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-cherry-pop
+----------------------------------------
+Game #2:
+  Name: Reel Warriors
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ReelWarriors-Ka0SCwY4Z.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux:ReelWarriors
+----------------------------------------
+Game #3:
+  Name: XmasPop Delight
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:XmasPopDelight-clGlywBNk.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-xmaspop-delight
+----------------------------------------
+Game #4:
+  Name: Cherry Pop Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CherryPopDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-cherry-pop-deluxe
+----------------------------------------
+Game #5:
+  Name: LooneyPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_LooneyPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-looneypop
+----------------------------------------
+Game #6:
+  Name: The Vault Chase
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TheVaultChase-AGifqYP47.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux:TheVaultChase
+----------------------------------------
+Game #7:
+  Name: Hippo Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HippoPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-hippo-pop
+----------------------------------------
+Game #8:
+  Name: Juicy Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:JuicyPop-DyGEDuftu.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-juicy-pop
+----------------------------------------
+Game #9:
+  Name: Monkey Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_MonkeyPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-monkey-pop
+----------------------------------------
+Game #10:
+  Name: Pop-oGold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_POPOGold.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-pop-ogold
+----------------------------------------
+Game #11:
+  Name: Zombie aPOPalypse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ZombieaPOPalypse.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-zombie-apopalypse
+----------------------------------------
+Game #12:
+  Name: Cosmic Jokers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CosmicJokers-FYgfAIPGw.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux:CosmicJokers
+----------------------------------------
+Game #13:
+  Name: Captain More'gain
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CaptainMoregain--VnEXCX12.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-captain-more-gain
+----------------------------------------
+Game #14:
+  Name: PiggyPop Grand Affair
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:PiggyPopGrandAffair-UIfFkRtvz.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-piggypop-grand-affair
+----------------------------------------
+Game #15:
+  Name: Bounty Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_BountyPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-bounty-pop
+----------------------------------------
+Game #16:
+  Name: ArcanaPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ArcanaPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-arcanapop
+----------------------------------------
+Game #17:
+  Name: HelioPOPolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HelioPOPolis.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-heliopopolis
+----------------------------------------
+Game #18:
+  Name: Pop Noir
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PopNoir.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-pop-noir
+----------------------------------------
+Game #19:
+  Name: GemPops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_GemPops.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-gempops
+----------------------------------------
+Game #20:
+  Name: Rebel Paws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:RebelPaws-AAMODpjuD.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-rebel-paws
+----------------------------------------
+Game #21:
+  Name: ReefPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ReefPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-reefpop
+----------------------------------------
+Game #22:
+  Name: Worms of Valor
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WormsofValor.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-worms-of-valor
+----------------------------------------
+Game #23:
+  Name: Critter Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CritterPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-critter-pop
+----------------------------------------
+Game #24:
+  Name: Silicon Spinners
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:SiliconSpinners-avowUhx5Z.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-silicon-spinners
+----------------------------------------
+Game #25:
+  Name: Duck Hunt 500
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:DuckHunt500-MZZRGtB2e.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-duck-hunt-500
+----------------------------------------
+Game #26:
+  Name: PixiePOP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PixiePOP.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-pixiepop
+----------------------------------------
+Game #27:
+  Name: Sweet Gummy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_SweetGummy.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-sweet-gummy
+----------------------------------------
+Game #28:
+  Name: Gods Gone Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:GodsGoneWild--GulH-DAR.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-gods-gone-wild
+----------------------------------------
+Game #29:
+  Name: HipHopPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HipHopPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-hiphoppop
+----------------------------------------
+Game #30:
+  Name: Depths of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_DepthsofFortune.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-depths-of-fortune
+----------------------------------------
+Game #31:
+  Name: Beastly Burglars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_BeastlyBurglars.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-beastly-burglars
+----------------------------------------
+Game #32:
+  Name: JinglePop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_JinglePop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-jinglepop
+----------------------------------------
+Game #33:
+  Name: Electro Cubes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ElectroCubes-eOamadsBO.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-electro-cubes
+----------------------------------------
+Game #34:
+  Name: Donkey and The GOATS
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_DonkeyandTheGOATS.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-donkey-and-the-goats
+----------------------------------------
+Game #35:
+  Name: Nugget
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_Nugget.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-nugget
+----------------------------------------
+Game #36:
+  Name: Animals Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:AnimalsStrike-r_LuiU4zb.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-animals-strike
+----------------------------------------
+Game #37:
+  Name: Canyon Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CanyonRiches--EvlrCgeg.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-canyon-riches
+----------------------------------------
+Game #38:
+  Name: Witchy POPpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WitchyPOPpins.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-witchy-poppins
+----------------------------------------
+Game #39:
+  Name: Vegas Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:VegasFortune-ePqxAhQxx.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-vegas-fortune
+----------------------------------------
+Game #40:
+  Name: KokeshiPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_KokeshiPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-kokeshipop
+----------------------------------------
+Game #41:
+  Name: 80sPop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_80sPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-80spop
+----------------------------------------
+Game #42:
+  Name: Lolli Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_LolliPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-lolli-pop
+----------------------------------------
+Game #43:
+  Name: Piggy Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PiggyPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-piggy-pop
+----------------------------------------
+Game #44:
+  Name: Pop Rocks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PopRocks.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-pop-rocks
+----------------------------------------
+Game #45:
+  Name: TikiPop Spooky Temples
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TikiPopSpookyTemples-EE3H51QAJ.png
+  Game Link: https://roobet.com/casino/game/avatarux-tikipop-spooky-temples
+----------------------------------------
+Game #46:
+  Name: Floridaman
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_Floridaman.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-floridaman
+----------------------------------------
+Game #47:
+  Name: Wild Pops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WildPops.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-wild-pops
+----------------------------------------
+Game #48:
+  Name: Raging Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_RagingPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-raging-pop
+----------------------------------------
+Game #49:
+  Name: Kitty POPpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_KittyPOPpins.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-kitty-poppins
+----------------------------------------
+Game #50:
+  Name: Pixel Paws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:PixelPaws-zydXYGQYW.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-pixel-paws
+----------------------------------------
+Game #51:
+  Name: Tiki Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_TikiPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-tiki-pop
+----------------------------------------
+Game #52:
+  Name: Big Catch Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:BigCatchCraze-4BPLln35k.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-big-catch-craze
+----------------------------------------
+Game #53:
+  Name: Imperial Coins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ImperialCoins-kPpZhTyY8.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-imperial-coins
+----------------------------------------
+Game #54:
+  Name: Tik Talkers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TikTalkers-FEPCzXCZx.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-tik-talkers
+----------------------------------------
+Game #55:
+  Name: Papaya Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PapayaPop.jpg
+  Game Link: https://roobet.com/casino/game/avatarux-papaya-pop
+----------------------------------------
+Game #56:
+  Name: 7 Lucky Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:7LuckyGods-KxWqbsc45.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-7-lucky-gods
+----------------------------------------
+Game #57:
+  Name: Toad's Bounty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ToadsBounty-uOwJMAFMa.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-toad-s-bounty
+----------------------------------------
+Game #58:
+  Name: King of Samba
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:KingofSamba-75EU2Q0d7.jpeg
+  Game Link: https://roobet.com/casino/game/avatarux-king-of-samba
+----------------------------------------

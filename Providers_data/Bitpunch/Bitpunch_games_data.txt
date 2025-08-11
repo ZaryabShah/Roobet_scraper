@@ -1,0 +1,32 @@
+Bitpunch Games Data
+==================================================
+Total games found: 5
+Load More clicks: 0
+Extraction date: 2025-08-11 04:29:19
+==================================================
+
+Game #1:
+  Name: Golden Triad
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:pets_goldentriad-UYx33jflI.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:pets_goldentriad
+----------------------------------------
+Game #2:
+  Name: King Power
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:pets_kingpower-QWEXSPzSL.jpeg
+  Game Link: https://roobet.com/casino/game/bitpunch-king-power
+----------------------------------------
+Game #3:
+  Name: Street Ninja
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:pets_streetninja-EnEVu9SN_.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:pets_streetninja
+----------------------------------------
+Game #4:
+  Name: Killroad 66
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:pets_killroad66-3qcJf0Smc.jpeg
+  Game Link: https://roobet.com/casino/game/bitpunch-killroad-66
+----------------------------------------
+Game #5:
+  Name: Burning Riot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:pets_burningriot-ir6kgjmRM.jpeg
+  Game Link: https://roobet.com/casino/game/bitpunch-burning-riot
+----------------------------------------

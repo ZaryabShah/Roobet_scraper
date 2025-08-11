@@ -1,0 +1,792 @@
+1spin4win Games Data
+==================================================
+Total games found: 157
+Load More clicks: 2
+Extraction date: 2025-08-10 17:41:20
+==================================================
+
+Game #1:
+  Name: Allways Egypt Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:AllwaysEgyptFortune-PlOOhlmmU.png
+  Game Link: https://roobet.com/casino/game/1spin4win:AllwaysEgyptFortune
+----------------------------------------
+Game #2:
+  Name: Coins'n Fruits Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruitsSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-coins-n-fruits-spins
+----------------------------------------
+Game #3:
+  Name: Lucky Win Spins X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyWinSpinsX-NVuK5oXRu.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-win-spins-x
+----------------------------------------
+Game #4:
+  Name: Cash'n Fruits 100 Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits100HoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-100-hold-and-win
+----------------------------------------
+Game #5:
+  Name: Golden Joker 100 Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker100HoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-golden-joker-100-hold-and-win
+----------------------------------------
+Game #6:
+  Name: Book of All Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfAllWays.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-book-of-all-ways
+----------------------------------------
+Game #7:
+  Name: Hold The Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HoldTheGoldHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-hold-the-gold
+----------------------------------------
+Game #8:
+  Name: Lucky Fruit X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyFruitX.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-fruit-x
+----------------------------------------
+Game #9:
+  Name: Lucky Sakura Win Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySakuraWinSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-sakura-win-spins
+----------------------------------------
+Game #10:
+  Name: Golden Joker 243 Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GoldenJoker243HoldAndWin-OlA6-u4Kq.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win:GoldenJoker243HoldAndWin
+----------------------------------------
+Game #11:
+  Name: Retro Mega Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:RetroMegaFruits-mEuqSYkGH.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-retro-mega-fruits
+----------------------------------------
+Game #12:
+  Name: Seven&Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SevenAndWild.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-seven-wild
+----------------------------------------
+Game #13:
+  Name: Dolphin's Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DolphinsWealth.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-dolphin-s-wealth
+----------------------------------------
+Game #14:
+  Name: Cash'n Fruits Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashAndFruitsHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-hold-and-win
+----------------------------------------
+Game #15:
+  Name: Way Of Honor Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:WayOfHonorHoldAndWin-gLWOG5-mm.png
+  Game Link: https://roobet.com/casino/game/1spin4win-way-of-honor-hold-and-win
+----------------------------------------
+Game #16:
+  Name: Coins Sniffer Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CoinsSnifferHoldAndWin-5e9Ht1OV8.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-coins-sniffer-hold-and-win
+----------------------------------------
+Game #17:
+  Name: Hold The Gold Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HoldTheGoldFortune-V3CshjZ57.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-hold-the-gold-fortune
+----------------------------------------
+Game #18:
+  Name: Mega Diamonds Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaDiamondsLuck.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-diamonds-luck
+----------------------------------------
+Game #19:
+  Name: Mega Cash Amplifier
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaCashAmplifier-giIHTnSd3.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-cash-amplifier
+----------------------------------------
+Game #20:
+  Name: Wolf Spins 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WolfSpins243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wolf-spins-243
+----------------------------------------
+Game #21:
+  Name: Lucky Gold Miner
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyGoldMiner.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-gold-miner
+----------------------------------------
+Game #22:
+  Name: Allways Lucky Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysLuckyPot.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-allways-lucky-pot
+----------------------------------------
+Game #23:
+  Name: Lucky Robbery Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyRobberyFortune-NR-XBn7_-.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-robbery-fortune
+----------------------------------------
+Game #24:
+  Name: Lucky Win Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyWinSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-win-spins
+----------------------------------------
+Game #25:
+  Name: Lucky Robbery
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyRobbery.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-robbery
+----------------------------------------
+Game #26:
+  Name: Mega Lucky 576
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky576.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-576
+----------------------------------------
+Game #27:
+  Name: Spartans Luck Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SpartansLuckHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-spartans-luck-hold-and-win
+----------------------------------------
+Game #28:
+  Name: Buffalo’s Wealth Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:BuffalosWealthHoldAndWin-Y-Ub1kxUZ.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-buffalo-s-wealth-hold-and-win
+----------------------------------------
+Game #29:
+  Name: Booming Fruits 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits40.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-40
+----------------------------------------
+Game #30:
+  Name: All Ways Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysEgypt.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-all-ways-egypt
+----------------------------------------
+Game #31:
+  Name: Allways Lucky Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysLuckySpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-allways-lucky-spins
+----------------------------------------
+Game #32:
+  Name: Fruit Dealers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruitDealers.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-fruit-dealers
+----------------------------------------
+Game #33:
+  Name: 10 Lucky Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_10LuckySpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-10-lucky-spins
+----------------------------------------
+Game #34:
+  Name: Wild Lucky Chance
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLuckyChance.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wild-lucky-chance
+----------------------------------------
+Game #35:
+  Name: Chinese Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_ChineseLuck.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-chinese-luck
+----------------------------------------
+Game #36:
+  Name: Mega Lucky Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyPot.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-pot
+----------------------------------------
+Game #37:
+  Name: Lucky 432 Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky432Ways.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-432-ways
+----------------------------------------
+Game #38:
+  Name: Lucky Crown Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrownSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-crown-spins
+----------------------------------------
+Game #39:
+  Name: Booming Fruits X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruitsX.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-x
+----------------------------------------
+Game #40:
+  Name: Luck'n'Power
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LucknPower.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-luck-n-power
+----------------------------------------
+Game #41:
+  Name: Jungle Wealth Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:JungleWealthHoldAndWin-DpHlvwV4O.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-jungle-wealth-hold-and-win
+----------------------------------------
+Game #42:
+  Name: Wish And Spin Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:WishAndSpinHoldAndWin-z7h4FOTB3.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-wish-and-spin-hold-and-win
+----------------------------------------
+Game #43:
+  Name: Lucky 3 Cherries
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky3Cherries.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-3-cherries
+----------------------------------------
+Game #44:
+  Name: Cash The Gold Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashTheGoldHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-the-gold-hold-and-win
+----------------------------------------
+Game #45:
+  Name: Lucky Sakura
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySakura.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-sakura
+----------------------------------------
+Game #46:
+  Name: Coins'n Fruits 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruits243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-coins-n-fruits-243
+----------------------------------------
+Game #47:
+  Name: Cash'n Fruits 27 Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits27HoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-27-hold-and-win
+----------------------------------------
+Game #48:
+  Name: Landy-Candy Spins 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandySpins100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-landy-candy-spins-100
+----------------------------------------
+Game #49:
+  Name: Mega Cash'n Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaCashnFruits-8y0LAHXxQ.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win:MegaCashnFruits
+----------------------------------------
+Game #50:
+  Name: Mega Lucky Diamonds Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaLuckyDiamondsHoldAndWin-IGebPCLx3.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-diamonds-hold-and-win
+----------------------------------------
+Game #51:
+  Name: Mega Lucky 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-100
+----------------------------------------
+Game #52:
+  Name: Retro Wins 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:RetroWins100-g7lbD8Fbk.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-retro-wins-100
+----------------------------------------
+Game #53:
+  Name: Brumby's 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Brumbys243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-brumby-s-243
+----------------------------------------
+Game #54:
+  Name: Don Catleone Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:DonCatLeoneHoldAndWin-qLzxR1zLc.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-don-catleone-hold-and-win
+----------------------------------------
+Game #55:
+  Name: Lucky Christmas 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyChristmas243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-christmas-243
+----------------------------------------
+Game #56:
+  Name: Mega Diamond X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaDiamondX.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-diamond-x
+----------------------------------------
+Game #57:
+  Name: Roll The Pearls Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_RollThePearlsHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-roll-the-pearls-hold-and-win
+----------------------------------------
+Game #58:
+  Name: Lucky 100 Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky100Bells.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-100-bells
+----------------------------------------
+Game #59:
+  Name: Werewolf's Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WerewolfsNight.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-werewolf-s-night
+----------------------------------------
+Game #60:
+  Name: Clover Fest Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CloverFestHoldAndWin-G-DNDfZgE.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-clover-fest-hold-and-win
+----------------------------------------
+Game #61:
+  Name: Lucky Jane In Egypt Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyJaneInEgyptHoldAndWin-EIvW--KLU.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-jane-in-egypt-hold-and-win
+----------------------------------------
+Game #62:
+  Name: Mega Lucky 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-243
+----------------------------------------
+Game #63:
+  Name: Lucky Clover 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyClover27.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-clover-27
+----------------------------------------
+Game #64:
+  Name: Mega Lucky Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-diamonds
+----------------------------------------
+Game #65:
+  Name: Buffalo’s Wealth Win Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:BuffalosWealthWinSpins-jl3RpmIrf.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-buffalo-s-wealth-win-spins
+----------------------------------------
+Game #66:
+  Name: Lucky 2 Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:Lucky2Ways-gu38_hr9Y.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-2-ways
+----------------------------------------
+Game #67:
+  Name: Cash'n Fruits 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-100
+----------------------------------------
+Game #68:
+  Name: Gentle Fox Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GentleFoxHoldAndWin-BBMptirhW.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-gentle-fox-hold-and-win
+----------------------------------------
+Game #69:
+  Name: Hot Coins Fortune 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HotCoinsFortune10-EkKicHMf_.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-hot-coins-fortune-10
+----------------------------------------
+Game #70:
+  Name: Book Of Armour
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfKnights.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-book-of-armour
+----------------------------------------
+Game #71:
+  Name: Lucky Crown Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrownHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-crown-hold-and-win
+----------------------------------------
+Game #72:
+  Name: LuckyCrown 81x
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrown81x.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-luckycrown-81x
+----------------------------------------
+Game #73:
+  Name: Mega Booming Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaBoomingDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-booming-diamonds
+----------------------------------------
+Game #74:
+  Name: Very Lucky
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:VeryLucky-_3WeA9Q-v.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-very-lucky
+----------------------------------------
+Game #75:
+  Name: Golden Joker 27 Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GoldenJoker27HoldAndWin-LDSnRaT2V.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-golden-joker-27-hold-and-win
+----------------------------------------
+Game #76:
+  Name: Love Gems Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LoveGemsHoldAndWin-N7oEvDSIO.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-love-gems-hold-and-win
+----------------------------------------
+Game #77:
+  Name: Lucky Lady Bug
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyLadyBug.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-lady-bug
+----------------------------------------
+Game #78:
+  Name: Sun Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SunTreasureHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-sun-treasure
+----------------------------------------
+Game #79:
+  Name: Cash The Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashTheGold.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-the-gold
+----------------------------------------
+Game #80:
+  Name: Coins'n Diamonds X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnDiamondsX.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-coins-n-diamonds-x
+----------------------------------------
+Game #81:
+  Name: Lucky Hell-o-Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyHelloWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-hell-o-win
+----------------------------------------
+Game #82:
+  Name: Wild Bells 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildBells100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wild-bells-100
+----------------------------------------
+Game #83:
+  Name: Wild Lady Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLadyCash.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wild-lady-cash
+----------------------------------------
+Game #84:
+  Name: Landy-Candy 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandy100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-landy-candy-100
+----------------------------------------
+Game #85:
+  Name: Mega Booming Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaBoomingFruits.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-booming-fruits
+----------------------------------------
+Game #86:
+  Name: Cash'n Fruits X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruitsX.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-x
+----------------------------------------
+Game #87:
+  Name: Lucky Clover 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyClover243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-clover-243
+----------------------------------------
+Game #88:
+  Name: Gems And Cash Win Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GemsAndCashWinSpins-jnTLqnoyd.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-gems-and-cash-win-spins
+----------------------------------------
+Game #89:
+  Name: Leonardo's Secret
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LeonardosSecret-8PMFoDpdh.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-leonardo-s-secret
+----------------------------------------
+Game #90:
+  Name: Book of Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfWild.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-book-of-wild
+----------------------------------------
+Game #91:
+  Name: Mega Lucky 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky27.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-27
+----------------------------------------
+Game #92:
+  Name: Wild'n Luck 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildnLuck20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wild-n-luck-20
+----------------------------------------
+Game #93:
+  Name: Book of Corsairs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfCorsairs.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-book-of-corsairs
+----------------------------------------
+Game #94:
+  Name: Lucky Retro Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyRetroFruits-fmHub-Hcm.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-retro-fruits
+----------------------------------------
+Game #95:
+  Name: Hot Coins & Fruits 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HotCoinsAndFruits243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-hot-coins-fruits-243
+----------------------------------------
+Game #96:
+  Name: Lucky Cash'n'Fruit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashnFruits.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-cash-n-fruit
+----------------------------------------
+Game #97:
+  Name: Queen Of Diamonds 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_QueenOfDiamonds20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-queen-of-diamonds-20
+----------------------------------------
+Game #98:
+  Name: Lucky Clover Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCloverSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-clover-spins
+----------------------------------------
+Game #99:
+  Name: Lucky Coin Wins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCoinWins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-coin-wins
+----------------------------------------
+Game #100:
+  Name: Lucky Jane in Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyJaneinEgypt.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-jane-in-egypt
+----------------------------------------
+Game #101:
+  Name: Mega Cash The Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaCashTheGold.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-cash-the-gold
+----------------------------------------
+Game #102:
+  Name: Fruit Cafe 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruitCafe20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-fruit-cafe-20
+----------------------------------------
+Game #103:
+  Name: Lady & Firedrake
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LadyAndFiredrake.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lady-firedrake
+----------------------------------------
+Game #104:
+  Name: Lucky X Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyXBells.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-x-bells
+----------------------------------------
+Game #105:
+  Name: Lucky 20 Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky20Bells.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-20-bells
+----------------------------------------
+Game #106:
+  Name: Landy-Candy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandy.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-landy-candy
+----------------------------------------
+Game #107:
+  Name: Golden Joker 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker27.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-golden-joker-27
+----------------------------------------
+Game #108:
+  Name: Cash'n Fruits Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune-z_KGBrHjX.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune
+----------------------------------------
+Game #109:
+  Name: Classic Christmas Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:ClassicChristmasHoldAndWin-WMlc96K1z.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-classic-christmas-hold-and-win
+----------------------------------------
+Game #110:
+  Name: Fruity Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruityChristmas.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-fruity-christmas
+----------------------------------------
+Game #111:
+  Name: Diamond Luck 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DiamondLuck243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-diamond-luck-243
+----------------------------------------
+Game #112:
+  Name: Lucky Fest Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyFestHoldAndWin-X7AaeKLus.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-fest-hold-and-win
+----------------------------------------
+Game #113:
+  Name: Lucky 5 Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky5Bells.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-5-bells
+----------------------------------------
+Game #114:
+  Name: Northern Gold Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_NorthernGoldRush.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-northern-gold-rush
+----------------------------------------
+Game #115:
+  Name: Booming Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-20
+----------------------------------------
+Game #116:
+  Name: Mega Lucky 81x
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky81x.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-81x
+----------------------------------------
+Game #117:
+  Name: Diamond Easter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DiamondEaster.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-diamond-easter
+----------------------------------------
+Game #118:
+  Name: Juicy Splash 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_JuicySplash10.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-juicy-splash-10
+----------------------------------------
+Game #119:
+  Name: Cash'n Fruits Fortune 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune100-hZ5TZQBcu.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-100
+----------------------------------------
+Game #120:
+  Name: Lucky Jane & Aztec Book
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyJaneAndAztecBook.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-jane-aztec-book
+----------------------------------------
+Game #121:
+  Name: Lucky Cash'n Fruits 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashnFruits243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-cash-n-fruits-243
+----------------------------------------
+Game #122:
+  Name: Cash'n Fruits Fortune 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune243-sTIRfmDUK.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-243
+----------------------------------------
+Game #123:
+  Name: Lucky Cash And Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashAndSpins.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-cash-and-spins
+----------------------------------------
+Game #124:
+  Name: Mega Lucky Cashout
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyCashout.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mega-lucky-cashout
+----------------------------------------
+Game #125:
+  Name: Booming Fruits 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits27.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-27
+----------------------------------------
+Game #126:
+  Name: Easter Prize Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:EasterPrizeHoldAndWin-iwkBGsqM7.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-easter-prize-hold-and-win
+----------------------------------------
+Game #127:
+  Name: Buffalo’s Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BuffalosWealth.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-buffalo-s-wealth
+----------------------------------------
+Game #128:
+  Name: Hot Coins Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HotCoinsFortune--qLh2ro4S.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-hot-coins-fortune
+----------------------------------------
+Game #129:
+  Name: Lucky 10 Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky10Bells.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-10-bells
+----------------------------------------
+Game #130:
+  Name: Lucky Bro Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyBroHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-bro-hold-and-win
+----------------------------------------
+Game #131:
+  Name: Booming Fruits 81x
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits81x.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-81x
+----------------------------------------
+Game #132:
+  Name: Tigers Steps Hold And Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:TigersStepsHoldAndWin-C_hbx4AeW.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-tigers-steps-hold-and-win
+----------------------------------------
+Game #133:
+  Name: Booming Fruits 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-100
+----------------------------------------
+Game #134:
+  Name: Mighty Red
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MightyRed.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-mighty-red
+----------------------------------------
+Game #135:
+  Name: Booming Fruits 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits10.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-10
+----------------------------------------
+Game #136:
+  Name: Coins'n Fruits 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruits100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-coins-n-fruits-100
+----------------------------------------
+Game #137:
+  Name: Book of Nibiru
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfNibiru.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-book-of-nibiru
+----------------------------------------
+Game #138:
+  Name: Cash'n Fruits 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-243
+----------------------------------------
+Game #139:
+  Name: Hot Coins & Fruits 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HotCoinsAndFruits100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-hot-coins-fruits-100
+----------------------------------------
+Game #140:
+  Name: Golden Joker 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-golden-joker-100
+----------------------------------------
+Game #141:
+  Name: Lucky Tribe 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyTribe20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-tribe-20
+----------------------------------------
+Game #142:
+  Name: Lucky Crown 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrown20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-crown-20
+----------------------------------------
+Game #143:
+  Name: Flat & Hot Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FlatAndHotFruits20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-flat-hot-fruits-20
+----------------------------------------
+Game #144:
+  Name: Sweet Spins 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SweetSpins20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-sweet-spins-20
+----------------------------------------
+Game #145:
+  Name: Lucky Easter 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEaster243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-easter-243
+----------------------------------------
+Game #146:
+  Name: Wild Lady Cash 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLadyCash10.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-wild-lady-cash-10
+----------------------------------------
+Game #147:
+  Name: Gems and Cash Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GemsandCashHoldandWin.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-gems-and-cash-hold-and-win
+----------------------------------------
+Game #148:
+  Name: Warrior's Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WarriorsLuck.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-warrior-s-luck
+----------------------------------------
+Game #149:
+  Name: Lucky Eve 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEve100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-eve-100
+----------------------------------------
+Game #150:
+  Name: Lucky Fruit Wins 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyFruitWins100.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-fruit-wins-100
+----------------------------------------
+Game #151:
+  Name: Lucky Snowlight
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySnowlight.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-snowlight
+----------------------------------------
+Game #152:
+  Name: Golden Joker 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-golden-joker-243
+----------------------------------------
+Game #153:
+  Name: Lucky Xmas 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyXmas20.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-xmas-20
+----------------------------------------
+Game #154:
+  Name: Cash'n Fruits Fortune 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune27-RvafGP-AE.jpeg
+  Game Link: https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-27
+----------------------------------------
+Game #155:
+  Name: Lady Wild 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LadyWild10.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lady-wild-10
+----------------------------------------
+Game #156:
+  Name: Lucky Easter 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEaster10.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-lucky-easter-10
+----------------------------------------
+Game #157:
+  Name: Booming Fruits 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits243.jpg
+  Game Link: https://roobet.com/casino/game/1spin4win-booming-fruits-243
+----------------------------------------

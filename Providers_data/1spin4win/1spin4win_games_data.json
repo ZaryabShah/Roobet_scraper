@@ -1,0 +1,950 @@
+{
+  "provider": "1spin4win",
+  "total_games": 157,
+  "load_more_clicks": 2,
+  "extraction_date": "2025-08-10T17:41:20.876190",
+  "games": [
+    {
+      "index": 1,
+      "name": "Allways Egypt Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:AllwaysEgyptFortune-PlOOhlmmU.png",
+      "game_link": "https://roobet.com/casino/game/1spin4win:AllwaysEgyptFortune"
+    },
+    {
+      "index": 2,
+      "name": "Coins'n Fruits Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruitsSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-coins-n-fruits-spins"
+    },
+    {
+      "index": 3,
+      "name": "Lucky Win Spins X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyWinSpinsX-NVuK5oXRu.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-win-spins-x"
+    },
+    {
+      "index": 4,
+      "name": "Cash'n Fruits 100 Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits100HoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-100-hold-and-win"
+    },
+    {
+      "index": 5,
+      "name": "Golden Joker 100 Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker100HoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-golden-joker-100-hold-and-win"
+    },
+    {
+      "index": 6,
+      "name": "Book of All Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfAllWays.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-book-of-all-ways"
+    },
+    {
+      "index": 7,
+      "name": "Hold The Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HoldTheGoldHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hold-the-gold"
+    },
+    {
+      "index": 8,
+      "name": "Lucky Fruit X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyFruitX.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-fruit-x"
+    },
+    {
+      "index": 9,
+      "name": "Lucky Sakura Win Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySakuraWinSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-sakura-win-spins"
+    },
+    {
+      "index": 10,
+      "name": "Golden Joker 243 Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GoldenJoker243HoldAndWin-OlA6-u4Kq.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win:GoldenJoker243HoldAndWin"
+    },
+    {
+      "index": 11,
+      "name": "Retro Mega Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:RetroMegaFruits-mEuqSYkGH.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-retro-mega-fruits"
+    },
+    {
+      "index": 12,
+      "name": "Seven&Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SevenAndWild.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-seven-wild"
+    },
+    {
+      "index": 13,
+      "name": "Dolphin's Wealth",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DolphinsWealth.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-dolphin-s-wealth"
+    },
+    {
+      "index": 14,
+      "name": "Cash'n Fruits Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashAndFruitsHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-hold-and-win"
+    },
+    {
+      "index": 15,
+      "name": "Way Of Honor Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:WayOfHonorHoldAndWin-gLWOG5-mm.png",
+      "game_link": "https://roobet.com/casino/game/1spin4win-way-of-honor-hold-and-win"
+    },
+    {
+      "index": 16,
+      "name": "Coins Sniffer Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CoinsSnifferHoldAndWin-5e9Ht1OV8.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-coins-sniffer-hold-and-win"
+    },
+    {
+      "index": 17,
+      "name": "Hold The Gold Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HoldTheGoldFortune-V3CshjZ57.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hold-the-gold-fortune"
+    },
+    {
+      "index": 18,
+      "name": "Mega Diamonds Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaDiamondsLuck.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-diamonds-luck"
+    },
+    {
+      "index": 19,
+      "name": "Mega Cash Amplifier",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaCashAmplifier-giIHTnSd3.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-cash-amplifier"
+    },
+    {
+      "index": 20,
+      "name": "Wolf Spins 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WolfSpins243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wolf-spins-243"
+    },
+    {
+      "index": 21,
+      "name": "Lucky Gold Miner",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyGoldMiner.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-gold-miner"
+    },
+    {
+      "index": 22,
+      "name": "Allways Lucky Pot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysLuckyPot.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-allways-lucky-pot"
+    },
+    {
+      "index": 23,
+      "name": "Lucky Robbery Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyRobberyFortune-NR-XBn7_-.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-robbery-fortune"
+    },
+    {
+      "index": 24,
+      "name": "Lucky Win Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyWinSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-win-spins"
+    },
+    {
+      "index": 25,
+      "name": "Lucky Robbery",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyRobbery.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-robbery"
+    },
+    {
+      "index": 26,
+      "name": "Mega Lucky 576",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky576.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-576"
+    },
+    {
+      "index": 27,
+      "name": "Spartans Luck Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SpartansLuckHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-spartans-luck-hold-and-win"
+    },
+    {
+      "index": 28,
+      "name": "Buffalo’s Wealth Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:BuffalosWealthHoldAndWin-Y-Ub1kxUZ.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-buffalo-s-wealth-hold-and-win"
+    },
+    {
+      "index": 29,
+      "name": "Booming Fruits 40",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits40.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-40"
+    },
+    {
+      "index": 30,
+      "name": "All Ways Egypt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysEgypt.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-all-ways-egypt"
+    },
+    {
+      "index": 31,
+      "name": "Allways Lucky Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_AllwaysLuckySpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-allways-lucky-spins"
+    },
+    {
+      "index": 32,
+      "name": "Fruit Dealers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruitDealers.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-fruit-dealers"
+    },
+    {
+      "index": 33,
+      "name": "10 Lucky Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_10LuckySpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-10-lucky-spins"
+    },
+    {
+      "index": 34,
+      "name": "Wild Lucky Chance",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLuckyChance.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wild-lucky-chance"
+    },
+    {
+      "index": 35,
+      "name": "Chinese Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_ChineseLuck.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-chinese-luck"
+    },
+    {
+      "index": 36,
+      "name": "Mega Lucky Pot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyPot.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-pot"
+    },
+    {
+      "index": 37,
+      "name": "Lucky 432 Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky432Ways.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-432-ways"
+    },
+    {
+      "index": 38,
+      "name": "Lucky Crown Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrownSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-crown-spins"
+    },
+    {
+      "index": 39,
+      "name": "Booming Fruits X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruitsX.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-x"
+    },
+    {
+      "index": 40,
+      "name": "Luck'n'Power",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LucknPower.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-luck-n-power"
+    },
+    {
+      "index": 41,
+      "name": "Jungle Wealth Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:JungleWealthHoldAndWin-DpHlvwV4O.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-jungle-wealth-hold-and-win"
+    },
+    {
+      "index": 42,
+      "name": "Wish And Spin Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:WishAndSpinHoldAndWin-z7h4FOTB3.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wish-and-spin-hold-and-win"
+    },
+    {
+      "index": 43,
+      "name": "Lucky 3 Cherries",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky3Cherries.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-3-cherries"
+    },
+    {
+      "index": 44,
+      "name": "Cash The Gold Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashTheGoldHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-the-gold-hold-and-win"
+    },
+    {
+      "index": 45,
+      "name": "Lucky Sakura",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySakura.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-sakura"
+    },
+    {
+      "index": 46,
+      "name": "Coins'n Fruits 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruits243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-coins-n-fruits-243"
+    },
+    {
+      "index": 47,
+      "name": "Cash'n Fruits 27 Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits27HoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-27-hold-and-win"
+    },
+    {
+      "index": 48,
+      "name": "Landy-Candy Spins 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandySpins100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-landy-candy-spins-100"
+    },
+    {
+      "index": 49,
+      "name": "Mega Cash'n Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaCashnFruits-8y0LAHXxQ.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win:MegaCashnFruits"
+    },
+    {
+      "index": 50,
+      "name": "Mega Lucky Diamonds Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:MegaLuckyDiamondsHoldAndWin-IGebPCLx3.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-diamonds-hold-and-win"
+    },
+    {
+      "index": 51,
+      "name": "Mega Lucky 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-100"
+    },
+    {
+      "index": 52,
+      "name": "Retro Wins 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:RetroWins100-g7lbD8Fbk.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-retro-wins-100"
+    },
+    {
+      "index": 53,
+      "name": "Brumby's 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Brumbys243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-brumby-s-243"
+    },
+    {
+      "index": 54,
+      "name": "Don Catleone Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:DonCatLeoneHoldAndWin-qLzxR1zLc.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-don-catleone-hold-and-win"
+    },
+    {
+      "index": 55,
+      "name": "Lucky Christmas 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyChristmas243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-christmas-243"
+    },
+    {
+      "index": 56,
+      "name": "Mega Diamond X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaDiamondX.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-diamond-x"
+    },
+    {
+      "index": 57,
+      "name": "Roll The Pearls Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_RollThePearlsHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-roll-the-pearls-hold-and-win"
+    },
+    {
+      "index": 58,
+      "name": "Lucky 100 Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky100Bells.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-100-bells"
+    },
+    {
+      "index": 59,
+      "name": "Werewolf's Night",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WerewolfsNight.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-werewolf-s-night"
+    },
+    {
+      "index": 60,
+      "name": "Clover Fest Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CloverFestHoldAndWin-G-DNDfZgE.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-clover-fest-hold-and-win"
+    },
+    {
+      "index": 61,
+      "name": "Lucky Jane In Egypt Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyJaneInEgyptHoldAndWin-EIvW--KLU.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-jane-in-egypt-hold-and-win"
+    },
+    {
+      "index": 62,
+      "name": "Mega Lucky 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-243"
+    },
+    {
+      "index": 63,
+      "name": "Lucky Clover 27",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyClover27.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-clover-27"
+    },
+    {
+      "index": 64,
+      "name": "Mega Lucky Diamonds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyDiamonds.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-diamonds"
+    },
+    {
+      "index": 65,
+      "name": "Buffalo’s Wealth Win Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:BuffalosWealthWinSpins-jl3RpmIrf.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-buffalo-s-wealth-win-spins"
+    },
+    {
+      "index": 66,
+      "name": "Lucky 2 Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:Lucky2Ways-gu38_hr9Y.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-2-ways"
+    },
+    {
+      "index": 67,
+      "name": "Cash'n Fruits 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-100"
+    },
+    {
+      "index": 68,
+      "name": "Gentle Fox Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GentleFoxHoldAndWin-BBMptirhW.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-gentle-fox-hold-and-win"
+    },
+    {
+      "index": 69,
+      "name": "Hot Coins Fortune 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HotCoinsFortune10-EkKicHMf_.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hot-coins-fortune-10"
+    },
+    {
+      "index": 70,
+      "name": "Book Of Armour",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfKnights.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-book-of-armour"
+    },
+    {
+      "index": 71,
+      "name": "Lucky Crown Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrownHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-crown-hold-and-win"
+    },
+    {
+      "index": 72,
+      "name": "LuckyCrown 81x",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrown81x.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-luckycrown-81x"
+    },
+    {
+      "index": 73,
+      "name": "Mega Booming Diamonds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaBoomingDiamonds.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-booming-diamonds"
+    },
+    {
+      "index": 74,
+      "name": "Very Lucky",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:VeryLucky-_3WeA9Q-v.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-very-lucky"
+    },
+    {
+      "index": 75,
+      "name": "Golden Joker 27 Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GoldenJoker27HoldAndWin-LDSnRaT2V.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-golden-joker-27-hold-and-win"
+    },
+    {
+      "index": 76,
+      "name": "Love Gems Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LoveGemsHoldAndWin-N7oEvDSIO.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-love-gems-hold-and-win"
+    },
+    {
+      "index": 77,
+      "name": "Lucky Lady Bug",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyLadyBug.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-lady-bug"
+    },
+    {
+      "index": 78,
+      "name": "Sun Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SunTreasureHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-sun-treasure"
+    },
+    {
+      "index": 79,
+      "name": "Cash The Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashTheGold.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-the-gold"
+    },
+    {
+      "index": 80,
+      "name": "Coins'n Diamonds X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnDiamondsX.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-coins-n-diamonds-x"
+    },
+    {
+      "index": 81,
+      "name": "Lucky Hell-o-Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyHelloWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-hell-o-win"
+    },
+    {
+      "index": 82,
+      "name": "Wild Bells 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildBells100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wild-bells-100"
+    },
+    {
+      "index": 83,
+      "name": "Wild Lady Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLadyCash.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wild-lady-cash"
+    },
+    {
+      "index": 84,
+      "name": "Landy-Candy 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandy100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-landy-candy-100"
+    },
+    {
+      "index": 85,
+      "name": "Mega Booming Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaBoomingFruits.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-booming-fruits"
+    },
+    {
+      "index": 86,
+      "name": "Cash'n Fruits X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruitsX.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-x"
+    },
+    {
+      "index": 87,
+      "name": "Lucky Clover 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyClover243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-clover-243"
+    },
+    {
+      "index": 88,
+      "name": "Gems And Cash Win Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:GemsAndCashWinSpins-jnTLqnoyd.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-gems-and-cash-win-spins"
+    },
+    {
+      "index": 89,
+      "name": "Leonardo's Secret",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LeonardosSecret-8PMFoDpdh.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-leonardo-s-secret"
+    },
+    {
+      "index": 90,
+      "name": "Book of Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfWild.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-book-of-wild"
+    },
+    {
+      "index": 91,
+      "name": "Mega Lucky 27",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky27.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-27"
+    },
+    {
+      "index": 92,
+      "name": "Wild'n Luck 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildnLuck20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wild-n-luck-20"
+    },
+    {
+      "index": 93,
+      "name": "Book of Corsairs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfCorsairs.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-book-of-corsairs"
+    },
+    {
+      "index": 94,
+      "name": "Lucky Retro Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyRetroFruits-fmHub-Hcm.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-retro-fruits"
+    },
+    {
+      "index": 95,
+      "name": "Hot Coins & Fruits 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HotCoinsAndFruits243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hot-coins-fruits-243"
+    },
+    {
+      "index": 96,
+      "name": "Lucky Cash'n'Fruit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashnFruits.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-cash-n-fruit"
+    },
+    {
+      "index": 97,
+      "name": "Queen Of Diamonds 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_QueenOfDiamonds20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-queen-of-diamonds-20"
+    },
+    {
+      "index": 98,
+      "name": "Lucky Clover Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCloverSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-clover-spins"
+    },
+    {
+      "index": 99,
+      "name": "Lucky Coin Wins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCoinWins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-coin-wins"
+    },
+    {
+      "index": 100,
+      "name": "Lucky Jane in Egypt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyJaneinEgypt.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-jane-in-egypt"
+    },
+    {
+      "index": 101,
+      "name": "Mega Cash The Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaCashTheGold.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-cash-the-gold"
+    },
+    {
+      "index": 102,
+      "name": "Fruit Cafe 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruitCafe20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-fruit-cafe-20"
+    },
+    {
+      "index": 103,
+      "name": "Lady & Firedrake",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LadyAndFiredrake.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lady-firedrake"
+    },
+    {
+      "index": 104,
+      "name": "Lucky X Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyXBells.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-x-bells"
+    },
+    {
+      "index": 105,
+      "name": "Lucky 20 Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky20Bells.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-20-bells"
+    },
+    {
+      "index": 106,
+      "name": "Landy-Candy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LandyCandy.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-landy-candy"
+    },
+    {
+      "index": 107,
+      "name": "Golden Joker 27",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker27.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-golden-joker-27"
+    },
+    {
+      "index": 108,
+      "name": "Cash'n Fruits Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune-z_KGBrHjX.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune"
+    },
+    {
+      "index": 109,
+      "name": "Classic Christmas Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:ClassicChristmasHoldAndWin-WMlc96K1z.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-classic-christmas-hold-and-win"
+    },
+    {
+      "index": 110,
+      "name": "Fruity Christmas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FruityChristmas.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-fruity-christmas"
+    },
+    {
+      "index": 111,
+      "name": "Diamond Luck 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DiamondLuck243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-diamond-luck-243"
+    },
+    {
+      "index": 112,
+      "name": "Lucky Fest Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:LuckyFestHoldAndWin-X7AaeKLus.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-fest-hold-and-win"
+    },
+    {
+      "index": 113,
+      "name": "Lucky 5 Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky5Bells.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-5-bells"
+    },
+    {
+      "index": 114,
+      "name": "Northern Gold Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_NorthernGoldRush.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-northern-gold-rush"
+    },
+    {
+      "index": 115,
+      "name": "Booming Fruits 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-20"
+    },
+    {
+      "index": 116,
+      "name": "Mega Lucky 81x",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLucky81x.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-81x"
+    },
+    {
+      "index": 117,
+      "name": "Diamond Easter",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_DiamondEaster.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-diamond-easter"
+    },
+    {
+      "index": 118,
+      "name": "Juicy Splash 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_JuicySplash10.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-juicy-splash-10"
+    },
+    {
+      "index": 119,
+      "name": "Cash'n Fruits Fortune 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune100-hZ5TZQBcu.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-100"
+    },
+    {
+      "index": 120,
+      "name": "Lucky Jane & Aztec Book",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyJaneAndAztecBook.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-jane-aztec-book"
+    },
+    {
+      "index": 121,
+      "name": "Lucky Cash'n Fruits 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashnFruits243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-cash-n-fruits-243"
+    },
+    {
+      "index": 122,
+      "name": "Cash'n Fruits Fortune 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune243-sTIRfmDUK.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-243"
+    },
+    {
+      "index": 123,
+      "name": "Lucky Cash And Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCashAndSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-cash-and-spins"
+    },
+    {
+      "index": 124,
+      "name": "Mega Lucky Cashout",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MegaLuckyCashout.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mega-lucky-cashout"
+    },
+    {
+      "index": 125,
+      "name": "Booming Fruits 27",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits27.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-27"
+    },
+    {
+      "index": 126,
+      "name": "Easter Prize Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:EasterPrizeHoldAndWin-iwkBGsqM7.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-easter-prize-hold-and-win"
+    },
+    {
+      "index": 127,
+      "name": "Buffalo’s Wealth",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BuffalosWealth.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-buffalo-s-wealth"
+    },
+    {
+      "index": 128,
+      "name": "Hot Coins Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:HotCoinsFortune--qLh2ro4S.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hot-coins-fortune"
+    },
+    {
+      "index": 129,
+      "name": "Lucky 10 Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_Lucky10Bells.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-10-bells"
+    },
+    {
+      "index": 130,
+      "name": "Lucky Bro Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyBroHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-bro-hold-and-win"
+    },
+    {
+      "index": 131,
+      "name": "Booming Fruits 81x",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits81x.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-81x"
+    },
+    {
+      "index": 132,
+      "name": "Tigers Steps Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:TigersStepsHoldAndWin-C_hbx4AeW.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-tigers-steps-hold-and-win"
+    },
+    {
+      "index": 133,
+      "name": "Booming Fruits 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-100"
+    },
+    {
+      "index": 134,
+      "name": "Mighty Red",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_MightyRed.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-mighty-red"
+    },
+    {
+      "index": 135,
+      "name": "Booming Fruits 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits10.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-10"
+    },
+    {
+      "index": 136,
+      "name": "Coins'n Fruits 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CoinsnFruits100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-coins-n-fruits-100"
+    },
+    {
+      "index": 137,
+      "name": "Book of Nibiru",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BookOfNibiru.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-book-of-nibiru"
+    },
+    {
+      "index": 138,
+      "name": "Cash'n Fruits 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_CashnFruits243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-243"
+    },
+    {
+      "index": 139,
+      "name": "Hot Coins & Fruits 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_HotCoinsAndFruits100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-hot-coins-fruits-100"
+    },
+    {
+      "index": 140,
+      "name": "Golden Joker 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-golden-joker-100"
+    },
+    {
+      "index": 141,
+      "name": "Lucky Tribe 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyTribe20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-tribe-20"
+    },
+    {
+      "index": 142,
+      "name": "Lucky Crown 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyCrown20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-crown-20"
+    },
+    {
+      "index": 143,
+      "name": "Flat & Hot Fruits 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_FlatAndHotFruits20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-flat-hot-fruits-20"
+    },
+    {
+      "index": 144,
+      "name": "Sweet Spins 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_SweetSpins20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-sweet-spins-20"
+    },
+    {
+      "index": 145,
+      "name": "Lucky Easter 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEaster243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-easter-243"
+    },
+    {
+      "index": 146,
+      "name": "Wild Lady Cash 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WildLadyCash10.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-wild-lady-cash-10"
+    },
+    {
+      "index": 147,
+      "name": "Gems and Cash Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GemsandCashHoldandWin.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-gems-and-cash-hold-and-win"
+    },
+    {
+      "index": 148,
+      "name": "Warrior's Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_WarriorsLuck.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-warrior-s-luck"
+    },
+    {
+      "index": 149,
+      "name": "Lucky Eve 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEve100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-eve-100"
+    },
+    {
+      "index": 150,
+      "name": "Lucky Fruit Wins 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyFruitWins100.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-fruit-wins-100"
+    },
+    {
+      "index": 151,
+      "name": "Lucky Snowlight",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckySnowlight.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-snowlight"
+    },
+    {
+      "index": 152,
+      "name": "Golden Joker 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_GoldenJoker243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-golden-joker-243"
+    },
+    {
+      "index": 153,
+      "name": "Lucky Xmas 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyXmas20.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-xmas-20"
+    },
+    {
+      "index": 154,
+      "name": "Cash'n Fruits Fortune 27",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1spin4win:CashnFruitsFortune27-RvafGP-AE.jpeg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-cash-n-fruits-fortune-27"
+    },
+    {
+      "index": 155,
+      "name": "Lady Wild 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LadyWild10.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lady-wild-10"
+    },
+    {
+      "index": 156,
+      "name": "Lucky Easter 10",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_LuckyEaster10.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-lucky-easter-10"
+    },
+    {
+      "index": 157,
+      "name": "Booming Fruits 243",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1spin4win_BoomingFruits243.jpg",
+      "game_link": "https://roobet.com/casino/game/1spin4win-booming-fruits-243"
+    }
+  ]
+}

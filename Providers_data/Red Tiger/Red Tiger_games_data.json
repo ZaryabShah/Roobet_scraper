@@ -1,0 +1,452 @@
+{
+  "provider": "Red Tiger",
+  "total_games": 74,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:39:20.095805",
+  "games": [
+    {
+      "index": 1,
+      "name": "Roobet Thor's Rage",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RoobetThorsRage-L16M_MDOI.jpeg",
+      "game_link": "https://roobet.com/casino/game/evolution:RoobetThorsRage"
+    },
+    {
+      "index": 2,
+      "name": "Zeus Lightning Power Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ZeusLightningPowerReels.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-zeus-lightning-power-reels"
+    },
+    {
+      "index": 3,
+      "name": "Rainbow Jackpots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainbowJackpots.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-rainbow-jackpots"
+    },
+    {
+      "index": 4,
+      "name": "Gonzo's Quest Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzosQuestMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-gonzo-s-quest-megaways"
+    },
+    {
+      "index": 5,
+      "name": "Mystery Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MysteryReels.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-mystery-reels"
+    },
+    {
+      "index": 6,
+      "name": "Zillard King Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ZillardKingMegaways-9MRLJ6mBL.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-zillard-king-megaways"
+    },
+    {
+      "index": 7,
+      "name": "Rise of Cleopatra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RiseofCleopatra-Aw4HTuCt1.jpeg",
+      "game_link": "https://roobet.com/casino/game/evolution:RiseofCleopatra"
+    },
+    {
+      "index": 8,
+      "name": "Cash Goddess",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CashGoddess-uuFdlDz6S.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-cash-goddess"
+    },
+    {
+      "index": 9,
+      "name": "Serpent King",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:SerpentKing-8KUumv69a.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-serpent-king"
+    },
+    {
+      "index": 10,
+      "name": "777 Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_777Strike.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-777-strike"
+    },
+    {
+      "index": 11,
+      "name": "Dragon's Fire Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsFireMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dragon-s-fire-megaways"
+    },
+    {
+      "index": 12,
+      "name": "Cash Volt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CashVolt.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-cash-volt"
+    },
+    {
+      "index": 13,
+      "name": "Piggy Riches Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiggyRichesMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-piggy-riches-megaways"
+    },
+    {
+      "index": 14,
+      "name": "Emperor of India",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_EmperorofIndia.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-emperor-of-india"
+    },
+    {
+      "index": 15,
+      "name": "Dragon's Clusterbuster",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsClusterbuster.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dragon-s-clusterbuster"
+    },
+    {
+      "index": 16,
+      "name": "Farmtastic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:Farmtastic-bn5A0b3Y-.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-farmtastic"
+    },
+    {
+      "index": 17,
+      "name": "Miami Rise",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MiamiRise-mlkBXtxIh.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-miami-rise"
+    },
+    {
+      "index": 18,
+      "name": "Rainbow Jackpots Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainbowJackpotsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-rainbow-jackpots-megaways"
+    },
+    {
+      "index": 19,
+      "name": "Big Gains",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BigGains-1BF4E9Jyl.jpeg",
+      "game_link": "https://roobet.com/casino/game/evolution:BigGains"
+    },
+    {
+      "index": 20,
+      "name": "777 Diamond Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:777DiamondStrike-iZK6qU7I2.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-777-diamond-strike"
+    },
+    {
+      "index": 21,
+      "name": "Dynamite Riches MegaWays",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DynamiteRichesMegaWays.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dynamite-riches-megaways"
+    },
+    {
+      "index": 22,
+      "name": "Wolf Stacks Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WolfStacksMegaways-NxvV_0cyP.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-wolf-stacks-megaways"
+    },
+    {
+      "index": 23,
+      "name": "Primate King MegaWays",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PrimateKingMegaWays.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-primate-king-megaways"
+    },
+    {
+      "index": 24,
+      "name": "Blood Suckers MegaWays",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_bloodsuckersmega.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-blood-suckers-megaways"
+    },
+    {
+      "index": 25,
+      "name": "Jackrabbit Jackpots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JackrabbitJackpots-WE_dLQ2NB.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-jackrabbit-jackpots"
+    },
+    {
+      "index": 26,
+      "name": "777 Super Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_777SuperStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-777-super-strike"
+    },
+    {
+      "index": 27,
+      "name": "Piggy Riches 2 Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiggyRiches2Megaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-piggy-riches-2-megaways"
+    },
+    {
+      "index": 28,
+      "name": "Bass Boss Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BassBossMegaways-rMEfhUKzg.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-bass-boss-megaways"
+    },
+    {
+      "index": 29,
+      "name": "Dragon's Mirror",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsMirror.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dragon-s-mirror"
+    },
+    {
+      "index": 30,
+      "name": "7's Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:7sLuck-ZX88S18N2.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-7-s-luck"
+    },
+    {
+      "index": 31,
+      "name": "10001 Nights Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_10001nightsmegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-10001-nights-megaways"
+    },
+    {
+      "index": 32,
+      "name": "Trillionaire MegaWays",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TrillionaireMegaWays-qPuiIfz62.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-trillionaire-megaways"
+    },
+    {
+      "index": 33,
+      "name": "The Good, The Bad and The Rich",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TheGoodTheBadAndTheRich-AufJSGR4U.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-the-good-the-bad-and-the-rich"
+    },
+    {
+      "index": 34,
+      "name": "Bass Boss",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BassBoss.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-bass-boss"
+    },
+    {
+      "index": 35,
+      "name": "Play with the Devil",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PlaywiththeDevil.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-play-with-the-devil"
+    },
+    {
+      "index": 36,
+      "name": "Diamond Blitz 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DiamondBlitz2.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-diamond-blitz-2"
+    },
+    {
+      "index": 37,
+      "name": "Vault Cracker MegaWays",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VaultCrackerMegaWays.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-vault-cracker-megaways"
+    },
+    {
+      "index": 38,
+      "name": "Savannah Pride",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:SavannahPride-dSFpJl_Tl.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-savannah-pride"
+    },
+    {
+      "index": 39,
+      "name": "Egypt Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_EgyptMegaWays.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-egypt-megaways"
+    },
+    {
+      "index": 40,
+      "name": "Zeus Lightning Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ZeusLightningMegaways-nCgpdG8wr.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-zeus-lightning-megaways"
+    },
+    {
+      "index": 41,
+      "name": "Gods of Troy Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GodsofTroyMegaways-oai4dDT27.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-gods-of-troy-megaways"
+    },
+    {
+      "index": 42,
+      "name": "Ultra Rich",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_UltraRich.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-ultra-rich"
+    },
+    {
+      "index": 43,
+      "name": "Gold Mine Mistress",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldMineMistress.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-gold-mine-mistress"
+    },
+    {
+      "index": 44,
+      "name": "Primate King",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PrimateKing.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-primate-king"
+    },
+    {
+      "index": 45,
+      "name": "Fortune House",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FortuneHouse.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-fortune-house"
+    },
+    {
+      "index": 46,
+      "name": "Dragons’ Lock",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DragonsLock-4YlRtZimK.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dragons-lock"
+    },
+    {
+      "index": 47,
+      "name": "Egypt Clusterbuster",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:EgyptClusterbuster-tL-Xcj2jx.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-egypt-clusterbuster"
+    },
+    {
+      "index": 48,
+      "name": "Wild Hot Chilli Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildHotChilliReels.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-wild-hot-chilli-reels"
+    },
+    {
+      "index": 49,
+      "name": "Wings of Ra Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WingsofRaMegaways-dpYD-OH-V.png",
+      "game_link": "https://roobet.com/casino/game/red-tiger-wings-of-ra-megaways"
+    },
+    {
+      "index": 50,
+      "name": "Buffalo Collector",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BuffaloCollector.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-buffalo-collector"
+    },
+    {
+      "index": 51,
+      "name": "Dynamite Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DynamiteRiches.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dynamite-riches"
+    },
+    {
+      "index": 52,
+      "name": "Diamonds Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DiamondsUp-k8ewe4kOq.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-diamonds-up"
+    },
+    {
+      "index": 53,
+      "name": "Fa Fa Babies 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FaFaBabies2.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-fa-fa-babies-2"
+    },
+    {
+      "index": 54,
+      "name": "Viking’s Legacy Everyway",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VikingsLegacyEveryway.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-viking-s-legacy-everyway"
+    },
+    {
+      "index": 55,
+      "name": "Trophy Fish",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TrophyFish-8_FAceba9.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-trophy-fish"
+    },
+    {
+      "index": 56,
+      "name": "Gonzita's Quest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzitasQuest.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-gonzita-s-quest"
+    },
+    {
+      "index": 57,
+      "name": "Wild Hot Chilli Reels 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WildHotChilliReels2-hq5jRHE26.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-wild-hot-chilli-reels-2"
+    },
+    {
+      "index": 58,
+      "name": "Midnight Romance",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MidnightRomance.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-midnight-romance"
+    },
+    {
+      "index": 59,
+      "name": "Clover Craze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CloverCraze.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-clover-craze"
+    },
+    {
+      "index": 60,
+      "name": "Fishtastic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Fishtastic.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-fishtastic"
+    },
+    {
+      "index": 61,
+      "name": "The Wild Kiss",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TheWildKiss.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-the-wild-kiss"
+    },
+    {
+      "index": 62,
+      "name": "Moon Spell",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MoonSpell-AIg1bFx_u.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-moon-spell"
+    },
+    {
+      "index": 63,
+      "name": "Fruit Flash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitFlash.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-fruit-flash"
+    },
+    {
+      "index": 64,
+      "name": "Bounty Raid 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BountyRaid2.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-bounty-raid-2"
+    },
+    {
+      "index": 65,
+      "name": "Redline Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RedlineRush.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-redline-rush"
+    },
+    {
+      "index": 66,
+      "name": "Gladiator Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GladiatorWays-VmZgZKss9.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-gladiator-ways"
+    },
+    {
+      "index": 67,
+      "name": "Sakura Masks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SakuraMasks.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-sakura-masks"
+    },
+    {
+      "index": 68,
+      "name": "Cannonball Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CannonballCash.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-cannonball-cash"
+    },
+    {
+      "index": 69,
+      "name": "Turtle Paradise",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TurtleParadise.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-turtle-paradise"
+    },
+    {
+      "index": 70,
+      "name": "Dear Santa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DearSanta-ZgMWUwKZQ.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-dear-santa"
+    },
+    {
+      "index": 71,
+      "name": "10001 Nights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_10001Nights.jpg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-10001-nights"
+    },
+    {
+      "index": 72,
+      "name": "Cash Explorer",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CashExplorer-k606n_Tfr.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-cash-explorer"
+    },
+    {
+      "index": 73,
+      "name": "Diamond Doggies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DiamondDoggies-uR1gpSL9K.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-diamond-doggies"
+    },
+    {
+      "index": 74,
+      "name": "Roman Emperors",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RomanEmperors-O-xOicKFu.jpeg",
+      "game_link": "https://roobet.com/casino/game/red-tiger-roman-emperors"
+    }
+  ]
+}

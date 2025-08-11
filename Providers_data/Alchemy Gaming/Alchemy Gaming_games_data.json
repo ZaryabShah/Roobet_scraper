@@ -1,0 +1,80 @@
+{
+  "provider": "Alchemy Gaming",
+  "total_games": 12,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:27:45.880917",
+  "games": [
+    {
+      "index": 1,
+      "name": "Amazon - Lost Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_amazon-lostgold.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-amazon-lost-gold"
+    },
+    {
+      "index": 2,
+      "name": "10000 Wishes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:alc_10000wishes-Xzn7O9hYB.jpeg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-10000-wishes"
+    },
+    {
+      "index": 3,
+      "name": "Football Finals X UP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_footballfinalsxup.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-football-finals-x-up"
+    },
+    {
+      "index": 4,
+      "name": "Anvil and Ore",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_anvilandore.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-anvil-and-ore"
+    },
+    {
+      "index": 5,
+      "name": "Africa X Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_africaxup.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-africa-x-up"
+    },
+    {
+      "index": 6,
+      "name": "Red Hot Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_redhotriches.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-red-hot-riches"
+    },
+    {
+      "index": 7,
+      "name": "Chronicles of Olympus II - Zeus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_chroniclesofolympusii-zeus.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-chronicles-of-olympus-ii-zeus"
+    },
+    {
+      "index": 8,
+      "name": "Bolt X UP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_boltxup.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-bolt-x-up"
+    },
+    {
+      "index": 9,
+      "name": "Chronicles of Olympus X Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_chroniclesofolympusxup.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-chronicles-of-olympus-x-up"
+    },
+    {
+      "index": 10,
+      "name": "Tiger's Ice",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_tigersice.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-tiger-s-ice"
+    },
+    {
+      "index": 11,
+      "name": "25000 Talons",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_25000talons.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-25000-talons"
+    },
+    {
+      "index": 12,
+      "name": "Aquanauts",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_aquanauts.jpg",
+      "game_link": "https://roobet.com/casino/game/alchemy-gaming-aquanauts"
+    }
+  ]
+}

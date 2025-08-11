@@ -1,0 +1,137 @@
+All41 Games Data
+==================================================
+Total games found: 26
+Load More clicks: 0
+Extraction date: 2025-08-11 04:28:35
+==================================================
+
+Game #1:
+  Name: Shamrock Holmes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_shamrockholmes.jpg
+  Game Link: https://roobet.com/casino/game/all41-shamrock-holmes
+----------------------------------------
+Game #2:
+  Name: Arena of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_arenaofgold.jpg
+  Game Link: https://roobet.com/casino/game/all41-arena-of-gold
+----------------------------------------
+Game #3:
+  Name: Forgotten Island Megaways ™
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_forgottenislandmegaways.jpg
+  Game Link: https://roobet.com/casino/game/all41-forgotten-island-megaways
+----------------------------------------
+Game #4:
+  Name: Mayan Eagle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_mayaneagle.jpg
+  Game Link: https://roobet.com/casino/game/all41-mayan-eagle
+----------------------------------------
+Game #5:
+  Name: Luck of the Devil: POWER COMBO
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_luckofthedevilpowercombo.jpg
+  Game Link: https://roobet.com/casino/game/all41-luck-of-the-devil-power-combo
+----------------------------------------
+Game #6:
+  Name: Chests of Gold: Power Combo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_chestsofgoldpowercombo.jpg
+  Game Link: https://roobet.com/casino/game/all41-chests-of-gold-power-combo
+----------------------------------------
+Game #7:
+  Name: Eggz! POWER COMBO
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_eggzpowercombo.jpg
+  Game Link: https://roobet.com/casino/game/all41-eggz-power-combo
+----------------------------------------
+Game #8:
+  Name: 6 Tokens of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_6tokensofgold.jpg
+  Game Link: https://roobet.com/casino/game/all41-6-tokens-of-gold
+----------------------------------------
+Game #9:
+  Name: Dragon's Loot Link and Win 4Tune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_dragonslootlinkandwin4tune.jpg
+  Game Link: https://roobet.com/casino/game/all41-dragon-s-loot-link-and-win-4tune
+----------------------------------------
+Game #10:
+  Name: 11 Enchanting Relics
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_11enchantingrelics.jpg
+  Game Link: https://roobet.com/casino/game/all41-11-enchanting-relics
+----------------------------------------
+Game #11:
+  Name: Temple of Medusa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_templeofmedusa.jpg
+  Game Link: https://roobet.com/casino/game/all41-temple-of-medusa
+----------------------------------------
+Game #12:
+  Name: Kings of Crystals
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_kingsofcrystals.jpg
+  Game Link: https://roobet.com/casino/game/all41-kings-of-crystals
+----------------------------------------
+Game #13:
+  Name: Gold Collector: Diamond Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_goldcollectordiamondedition.jpg
+  Game Link: https://roobet.com/casino/game/all41-gold-collector-diamond-edition
+----------------------------------------
+Game #14:
+  Name: Alchemy Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_alchemyfortunes.jpg
+  Game Link: https://roobet.com/casino/game/all41-alchemy-fortunes
+----------------------------------------
+Game #15:
+  Name: Electric Avenue
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_electricavenue.jpg
+  Game Link: https://roobet.com/casino/game/all41-electric-avenue
+----------------------------------------
+Game #16:
+  Name: 11 Coins of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_11coinsoffire.jpg
+  Game Link: https://roobet.com/casino/game/all41-11-coins-of-fire
+----------------------------------------
+Game #17:
+  Name: Book of Captain Silver
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_bookofcaptainsilver.jpg
+  Game Link: https://roobet.com/casino/game/all41-book-of-captain-silver
+----------------------------------------
+Game #18:
+  Name: Pearl Catcher
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_pearlcatcher.jpg
+  Game Link: https://roobet.com/casino/game/all41-pearl-catcher
+----------------------------------------
+Game #19:
+  Name: Joyful Joker Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_joyfuljokermegaways.jpg
+  Game Link: https://roobet.com/casino/game/all41-joyful-joker-megaways
+----------------------------------------
+Game #20:
+  Name: Gold Collector
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_goldcollector.jpg
+  Game Link: https://roobet.com/casino/game/all41-gold-collector
+----------------------------------------
+Game #21:
+  Name: Queens of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_queensofra.jpg
+  Game Link: https://roobet.com/casino/game/all41-queens-of-ra
+----------------------------------------
+Game #22:
+  Name: Forgotten Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_forgottenisland.jpg
+  Game Link: https://roobet.com/casino/game/all41-forgotten-island
+----------------------------------------
+Game #23:
+  Name: Agent Blitz: Mission Moneymaker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_agentblitzmissionmoneymaker.jpg
+  Game Link: https://roobet.com/casino/game/all41-agent-blitz-mission-moneymaker
+----------------------------------------
+Game #24:
+  Name: Dia del Mariachi Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_diadelmariachimegaways.jpg
+  Game Link: https://roobet.com/casino/game/all41-dia-del-mariachi-megaways
+----------------------------------------
+Game #25:
+  Name: Book of Atem
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_bookofatem.jpg
+  Game Link: https://roobet.com/casino/game/all41-book-of-atem
+----------------------------------------
+Game #26:
+  Name: Geese With Attitude
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_all_geesewithattitude.jpg
+  Game Link: https://roobet.com/casino/game/all41-geese-with-attitude
+----------------------------------------

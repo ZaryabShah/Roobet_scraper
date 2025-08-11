@@ -1,0 +1,97 @@
+Clawbuster Games Data
+==================================================
+Total games found: 18
+Load More clicks: 0
+Extraction date: 2025-08-11 04:31:16
+==================================================
+
+Game #1:
+  Name: Claw Bonanza: Gold Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:GOLD_RUSH-Q5E_WB6xm.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster:GOLD_RUSH
+----------------------------------------
+Game #2:
+  Name: Fruits, Coins & Claw
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:FRUITS_COINS_CLAW-nHigcISw2.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-fruits-coins-claw
+----------------------------------------
+Game #3:
+  Name: Hot Book Of Claws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/clawbuster_BOOK_OF_CLAWS.jpg
+  Game Link: https://roobet.com/casino/game/clawbuster-hot-book-of-claws
+----------------------------------------
+Game #4:
+  Name: Lucky Tiger Plinko
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:LUCKY_TIGER_PLINKO-ETYuuejnm.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-lucky-tiger-plinko
+----------------------------------------
+Game #5:
+  Name: Zeus Claws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:ZEUS_CLAWS-fY2qVwsn5.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-zeus-claws
+----------------------------------------
+Game #6:
+  Name: Buffalo Power Claw: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:BUFFALO_POWER_CLAW-c9u6iCYLW.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-buffalo-power-claw-hold-and-win
+----------------------------------------
+Game #7:
+  Name: Sweet Dream Bonanza Claw 2000
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:SWEET_BONANZA_2000-RZFERuHfv.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-sweet-dream-bonanza-claw-2000
+----------------------------------------
+Game #8:
+  Name: Guns of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:GUNS_OF_GOLD-qTSaOPG-h.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-guns-of-gold
+----------------------------------------
+Game #9:
+  Name: Double Triple Burning Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:DOUBLE_TRIPLE_BURNING_WILDS-3raGIS7H1.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster:DOUBLE_TRIPLE_BURNING_WILDS
+----------------------------------------
+Game #10:
+  Name: The Great Clawsby Deluxe: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:GREAT_CLAWSBY_DELUXE-4G5TRuPi9.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-the-great-clawsby-deluxe-hold-and-win
+----------------------------------------
+Game #11:
+  Name: Gems Claw Xtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:GEMS_CLAW_XTREME-tKvI7_YvP.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-gems-claw-xtreme
+----------------------------------------
+Game #12:
+  Name: Wolf Hunt: Claw and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:WOLF_HUNT-CEoU4o9uh.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-wolf-hunt-claw-and-win
+----------------------------------------
+Game #13:
+  Name: The Great Clawsby: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:CLAWSBY_HNW-ppC_84_CZ.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-the-great-clawsby-hold-and-win
+----------------------------------------
+Game #14:
+  Name: Hot Lucky Sevens Claw
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/clawbuster_HOT_LUCKY_SEVENS.jpg
+  Game Link: https://roobet.com/casino/game/clawbuster-hot-lucky-sevens-claw
+----------------------------------------
+Game #15:
+  Name: Book of Fortune Clover
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:FORTUNE_CLOVER-4ujOzqrCn.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-book-of-fortune-clover
+----------------------------------------
+Game #16:
+  Name: Double Triple Wild Claw
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:DOUBLE_TRIPLE_WILD_CLAW-5bVsOlJi2.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-double-triple-wild-claw
+----------------------------------------
+Game #17:
+  Name: Panda Claw Jackpot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:PANDA_CLAW_JACKPOT-wKmq7f7aY.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-panda-claw-jackpot
+----------------------------------------
+Game #18:
+  Name: ClawBass Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/clawbuster:CLAW_BASS_BONANZA-wNhmXaoZm.jpeg
+  Game Link: https://roobet.com/casino/game/clawbuster-clawbass-bonanza
+----------------------------------------

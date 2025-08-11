@@ -1,0 +1,47 @@
+Eurasian Gaming Slots Games Data
+==================================================
+Total games found: 8
+Load More clicks: 0
+Extraction date: 2025-08-10 17:50:57
+==================================================
+
+Game #1:
+  Name: Lucky rooster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_b22a64b2e026441cb773c1fa57ed0361.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-lucky-rooster
+----------------------------------------
+Game #2:
+  Name: Bagua
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_38de8faa129b47c9be7150c310993f0c.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-bagua
+----------------------------------------
+Game #3:
+  Name: Big Game Safari
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_a6eddd606e6c41c3a9cc18f200afc146.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-big-game-safari
+----------------------------------------
+Game #4:
+  Name: Dragon Powerflame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_d89cbe04d9ff4233b9f74ff38e8620e0.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-dragon-powerflame
+----------------------------------------
+Game #5:
+  Name: Chilli Hunter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_4ab2213b2ca44e24b2d9ef8947216f84.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-chilli-hunter
+----------------------------------------
+Game #6:
+  Name: Leprechaun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_2100d65b84a3a211b052ae92bc5ca034a811ccce.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-leprechaun
+----------------------------------------
+Game #7:
+  Name: Blackbeard Legacy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_fdfc465470274d7b8aa753296bbd04ed.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-blackbeard-legacy
+----------------------------------------
+Game #8:
+  Name: Hot Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_ad9cbce41dc64c51984c146e79f948ef.jpg
+  Game Link: https://roobet.com/casino/game/eurasian-gaming-slots-hot-fruits
+----------------------------------------

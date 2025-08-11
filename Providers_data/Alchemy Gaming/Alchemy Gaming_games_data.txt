@@ -1,0 +1,67 @@
+Alchemy Gaming Games Data
+==================================================
+Total games found: 12
+Load More clicks: 0
+Extraction date: 2025-08-11 04:27:45
+==================================================
+
+Game #1:
+  Name: Amazon - Lost Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_amazon-lostgold.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-amazon-lost-gold
+----------------------------------------
+Game #2:
+  Name: 10000 Wishes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:alc_10000wishes-Xzn7O9hYB.jpeg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-10000-wishes
+----------------------------------------
+Game #3:
+  Name: Football Finals X UP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_footballfinalsxup.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-football-finals-x-up
+----------------------------------------
+Game #4:
+  Name: Anvil and Ore
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_anvilandore.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-anvil-and-ore
+----------------------------------------
+Game #5:
+  Name: Africa X Up
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_africaxup.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-africa-x-up
+----------------------------------------
+Game #6:
+  Name: Red Hot Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_redhotriches.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-red-hot-riches
+----------------------------------------
+Game #7:
+  Name: Chronicles of Olympus II - Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_chroniclesofolympusii-zeus.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-chronicles-of-olympus-ii-zeus
+----------------------------------------
+Game #8:
+  Name: Bolt X UP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_boltxup.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-bolt-x-up
+----------------------------------------
+Game #9:
+  Name: Chronicles of Olympus X Up
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_chroniclesofolympusxup.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-chronicles-of-olympus-x-up
+----------------------------------------
+Game #10:
+  Name: Tiger's Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_tigersice.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-tiger-s-ice
+----------------------------------------
+Game #11:
+  Name: 25000 Talons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_25000talons.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-25000-talons
+----------------------------------------
+Game #12:
+  Name: Aquanauts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_alc_aquanauts.jpg
+  Game Link: https://roobet.com/casino/game/alchemy-gaming-aquanauts
+----------------------------------------

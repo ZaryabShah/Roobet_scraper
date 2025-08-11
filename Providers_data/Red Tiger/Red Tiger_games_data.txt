@@ -1,0 +1,377 @@
+Red Tiger Games Data
+==================================================
+Total games found: 74
+Load More clicks: 1
+Extraction date: 2025-08-11 00:39:20
+==================================================
+
+Game #1:
+  Name: Roobet Thor's Rage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RoobetThorsRage-L16M_MDOI.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:RoobetThorsRage
+----------------------------------------
+Game #2:
+  Name: Zeus Lightning Power Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ZeusLightningPowerReels.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-zeus-lightning-power-reels
+----------------------------------------
+Game #3:
+  Name: Rainbow Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainbowJackpots.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-rainbow-jackpots
+----------------------------------------
+Game #4:
+  Name: Gonzo's Quest Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzosQuestMegaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-gonzo-s-quest-megaways
+----------------------------------------
+Game #5:
+  Name: Mystery Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MysteryReels.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-mystery-reels
+----------------------------------------
+Game #6:
+  Name: Zillard King Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ZillardKingMegaways-9MRLJ6mBL.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-zillard-king-megaways
+----------------------------------------
+Game #7:
+  Name: Rise of Cleopatra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RiseofCleopatra-Aw4HTuCt1.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:RiseofCleopatra
+----------------------------------------
+Game #8:
+  Name: Cash Goddess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CashGoddess-uuFdlDz6S.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-cash-goddess
+----------------------------------------
+Game #9:
+  Name: Serpent King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:SerpentKing-8KUumv69a.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-serpent-king
+----------------------------------------
+Game #10:
+  Name: 777 Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_777Strike.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-777-strike
+----------------------------------------
+Game #11:
+  Name: Dragon's Fire Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsFireMegaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-dragon-s-fire-megaways
+----------------------------------------
+Game #12:
+  Name: Cash Volt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CashVolt.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-cash-volt
+----------------------------------------
+Game #13:
+  Name: Piggy Riches Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiggyRichesMegaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-piggy-riches-megaways
+----------------------------------------
+Game #14:
+  Name: Emperor of India
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_EmperorofIndia.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-emperor-of-india
+----------------------------------------
+Game #15:
+  Name: Dragon's Clusterbuster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsClusterbuster.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-dragon-s-clusterbuster
+----------------------------------------
+Game #16:
+  Name: Farmtastic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:Farmtastic-bn5A0b3Y-.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-farmtastic
+----------------------------------------
+Game #17:
+  Name: Miami Rise
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MiamiRise-mlkBXtxIh.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-miami-rise
+----------------------------------------
+Game #18:
+  Name: Rainbow Jackpots Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainbowJackpotsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-rainbow-jackpots-megaways
+----------------------------------------
+Game #19:
+  Name: Big Gains
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BigGains-1BF4E9Jyl.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:BigGains
+----------------------------------------
+Game #20:
+  Name: 777 Diamond Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:777DiamondStrike-iZK6qU7I2.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-777-diamond-strike
+----------------------------------------
+Game #21:
+  Name: Dynamite Riches MegaWays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DynamiteRichesMegaWays.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-dynamite-riches-megaways
+----------------------------------------
+Game #22:
+  Name: Wolf Stacks Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WolfStacksMegaways-NxvV_0cyP.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-wolf-stacks-megaways
+----------------------------------------
+Game #23:
+  Name: Primate King MegaWays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PrimateKingMegaWays.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-primate-king-megaways
+----------------------------------------
+Game #24:
+  Name: Blood Suckers MegaWays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_bloodsuckersmega.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-blood-suckers-megaways
+----------------------------------------
+Game #25:
+  Name: Jackrabbit Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JackrabbitJackpots-WE_dLQ2NB.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-jackrabbit-jackpots
+----------------------------------------
+Game #26:
+  Name: 777 Super Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_777SuperStrike.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-777-super-strike
+----------------------------------------
+Game #27:
+  Name: Piggy Riches 2 Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiggyRiches2Megaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-piggy-riches-2-megaways
+----------------------------------------
+Game #28:
+  Name: Bass Boss Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BassBossMegaways-rMEfhUKzg.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-bass-boss-megaways
+----------------------------------------
+Game #29:
+  Name: Dragon's Mirror
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DragonsMirror.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-dragon-s-mirror
+----------------------------------------
+Game #30:
+  Name: 7's Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:7sLuck-ZX88S18N2.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-7-s-luck
+----------------------------------------
+Game #31:
+  Name: 10001 Nights Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_10001nightsmegaways.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-10001-nights-megaways
+----------------------------------------
+Game #32:
+  Name: Trillionaire MegaWays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TrillionaireMegaWays-qPuiIfz62.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-trillionaire-megaways
+----------------------------------------
+Game #33:
+  Name: The Good, The Bad and The Rich
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TheGoodTheBadAndTheRich-AufJSGR4U.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-the-good-the-bad-and-the-rich
+----------------------------------------
+Game #34:
+  Name: Bass Boss
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BassBoss.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-bass-boss
+----------------------------------------
+Game #35:
+  Name: Play with the Devil
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PlaywiththeDevil.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-play-with-the-devil
+----------------------------------------
+Game #36:
+  Name: Diamond Blitz 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DiamondBlitz2.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-diamond-blitz-2
+----------------------------------------
+Game #37:
+  Name: Vault Cracker MegaWays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VaultCrackerMegaWays.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-vault-cracker-megaways
+----------------------------------------
+Game #38:
+  Name: Savannah Pride
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:SavannahPride-dSFpJl_Tl.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-savannah-pride
+----------------------------------------
+Game #39:
+  Name: Egypt Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_EgyptMegaWays.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-egypt-megaways
+----------------------------------------
+Game #40:
+  Name: Zeus Lightning Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ZeusLightningMegaways-nCgpdG8wr.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-zeus-lightning-megaways
+----------------------------------------
+Game #41:
+  Name: Gods of Troy Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GodsofTroyMegaways-oai4dDT27.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-gods-of-troy-megaways
+----------------------------------------
+Game #42:
+  Name: Ultra Rich
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_UltraRich.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-ultra-rich
+----------------------------------------
+Game #43:
+  Name: Gold Mine Mistress
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldMineMistress.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-gold-mine-mistress
+----------------------------------------
+Game #44:
+  Name: Primate King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PrimateKing.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-primate-king
+----------------------------------------
+Game #45:
+  Name: Fortune House
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FortuneHouse.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-fortune-house
+----------------------------------------
+Game #46:
+  Name: Dragons’ Lock
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DragonsLock-4YlRtZimK.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-dragons-lock
+----------------------------------------
+Game #47:
+  Name: Egypt Clusterbuster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:EgyptClusterbuster-tL-Xcj2jx.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-egypt-clusterbuster
+----------------------------------------
+Game #48:
+  Name: Wild Hot Chilli Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildHotChilliReels.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-wild-hot-chilli-reels
+----------------------------------------
+Game #49:
+  Name: Wings of Ra Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WingsofRaMegaways-dpYD-OH-V.png
+  Game Link: https://roobet.com/casino/game/red-tiger-wings-of-ra-megaways
+----------------------------------------
+Game #50:
+  Name: Buffalo Collector
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BuffaloCollector.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-buffalo-collector
+----------------------------------------
+Game #51:
+  Name: Dynamite Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DynamiteRiches.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-dynamite-riches
+----------------------------------------
+Game #52:
+  Name: Diamonds Up
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DiamondsUp-k8ewe4kOq.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-diamonds-up
+----------------------------------------
+Game #53:
+  Name: Fa Fa Babies 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FaFaBabies2.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-fa-fa-babies-2
+----------------------------------------
+Game #54:
+  Name: Viking’s Legacy Everyway
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VikingsLegacyEveryway.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-viking-s-legacy-everyway
+----------------------------------------
+Game #55:
+  Name: Trophy Fish
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TrophyFish-8_FAceba9.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-trophy-fish
+----------------------------------------
+Game #56:
+  Name: Gonzita's Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzitasQuest.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-gonzita-s-quest
+----------------------------------------
+Game #57:
+  Name: Wild Hot Chilli Reels 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WildHotChilliReels2-hq5jRHE26.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-wild-hot-chilli-reels-2
+----------------------------------------
+Game #58:
+  Name: Midnight Romance
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MidnightRomance.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-midnight-romance
+----------------------------------------
+Game #59:
+  Name: Clover Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CloverCraze.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-clover-craze
+----------------------------------------
+Game #60:
+  Name: Fishtastic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Fishtastic.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-fishtastic
+----------------------------------------
+Game #61:
+  Name: The Wild Kiss
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TheWildKiss.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-the-wild-kiss
+----------------------------------------
+Game #62:
+  Name: Moon Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MoonSpell-AIg1bFx_u.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-moon-spell
+----------------------------------------
+Game #63:
+  Name: Fruit Flash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitFlash.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-fruit-flash
+----------------------------------------
+Game #64:
+  Name: Bounty Raid 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BountyRaid2.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-bounty-raid-2
+----------------------------------------
+Game #65:
+  Name: Redline Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RedlineRush.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-redline-rush
+----------------------------------------
+Game #66:
+  Name: Gladiator Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GladiatorWays-VmZgZKss9.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-gladiator-ways
+----------------------------------------
+Game #67:
+  Name: Sakura Masks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SakuraMasks.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-sakura-masks
+----------------------------------------
+Game #68:
+  Name: Cannonball Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CannonballCash.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-cannonball-cash
+----------------------------------------
+Game #69:
+  Name: Turtle Paradise
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TurtleParadise.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-turtle-paradise
+----------------------------------------
+Game #70:
+  Name: Dear Santa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DearSanta-ZgMWUwKZQ.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-dear-santa
+----------------------------------------
+Game #71:
+  Name: 10001 Nights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_10001Nights.jpg
+  Game Link: https://roobet.com/casino/game/red-tiger-10001-nights
+----------------------------------------
+Game #72:
+  Name: Cash Explorer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CashExplorer-k606n_Tfr.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-cash-explorer
+----------------------------------------
+Game #73:
+  Name: Diamond Doggies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DiamondDoggies-uR1gpSL9K.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-diamond-doggies
+----------------------------------------
+Game #74:
+  Name: Roman Emperors
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RomanEmperors-O-xOicKFu.jpeg
+  Game Link: https://roobet.com/casino/game/red-tiger-roman-emperors
+----------------------------------------

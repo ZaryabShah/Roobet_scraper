@@ -1,0 +1,162 @@
+Gaming Corps Games Data
+==================================================
+Total games found: 31
+Load More clicks: 0
+Extraction date: 2025-08-11 04:35:29
+==================================================
+
+Game #1:
+  Name: 3 Pigs of Olympus Bonus Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:3PigsofOlympusBonusPot-rN3aS5tac.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-3-pigs-of-olympus-bonus-pot
+----------------------------------------
+Game #2:
+  Name: Snoop's High Rollers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:SnoopsHighRollers-7YDW0fTom.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-snoops-high-rollers
+----------------------------------------
+Game #3:
+  Name: Fishing Pro: Reel Collect
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:FishingProReelCollect-o_dlSo1Tv.jpeg
+  Game Link: https://roobet.com/casino/game/gamingcorps:FishingProReelCollect
+----------------------------------------
+Game #4:
+  Name: Plinkball 5000
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:Plinkball5000-KbulMqqYe.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-plinkball-5000
+----------------------------------------
+Game #5:
+  Name: Gates of Hellfire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:GatesOfHellfire-yY7Ph_-P7.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-gates-of-hellfire
+----------------------------------------
+Game #6:
+  Name: Bass Rewards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:BassRewards-FRZNumiVj.jpeg
+  Game Link: https://roobet.com/casino/game/gamingcorps:BassRewards
+----------------------------------------
+Game #7:
+  Name: 777 Jackpot Diamond Hold and Win Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_777JackpotDiamondHoldandWinDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-777-jackpot-diamond-hold-and-win-deluxe
+----------------------------------------
+Game #8:
+  Name: Bonbon Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_BonbonBonanza.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-bonbon-bonanza
+----------------------------------------
+Game #9:
+  Name: Lobster Hotpot 2 Even Hotter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:LobsterHotpot2EvenHotter-I7D3eO5Yz.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-lobster-hotpot-2-even-hotter
+----------------------------------------
+Game #10:
+  Name: Wild Woof
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_WildWoof.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-wild-woof
+----------------------------------------
+Game #11:
+  Name: Prospector's Plinko
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_ProspectorsPlinko.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-prospector-s-plinko
+----------------------------------------
+Game #12:
+  Name: Freedom Eagle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:FreedomEagle-0cuCOqg6L.png
+  Game Link: https://roobet.com/casino/game/gaming-corps-freedom-eagle
+----------------------------------------
+Game #13:
+  Name: Lobster Hot Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_LobsterHotPot.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-lobster-hot-pot
+----------------------------------------
+Game #14:
+  Name: Mighty Mammoth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_MightyMammoth.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-mighty-mammoth
+----------------------------------------
+Game #15:
+  Name: Aztec Bonus Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_AztecBonusPot.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-aztec-bonus-pot
+----------------------------------------
+Game #16:
+  Name: Fire and Freedom Rapid Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:FireandFreedomRapidHoldandWin-r_m3Jekwv.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-fire-and-freedom-rapid-hold-and-win
+----------------------------------------
+Game #17:
+  Name: Luke E. Chance and the Book of Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_LukeEChanceandtheBookofLuck.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-luke-e-chance-and-the-book-of-luck
+----------------------------------------
+Game #18:
+  Name: Amazonia Jackpot Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:AmazoniaJackpotHoldandWin--20nnfPQ2.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-amazonia-jackpot-hold-and-win
+----------------------------------------
+Game #19:
+  Name: Wet and Wild Beavers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:WetandWildBeavers-h5tVVVi_0.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-wet-and-wild-beavers
+----------------------------------------
+Game #20:
+  Name: Super Hot Stacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_SuperHotStacks.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-super-hot-stacks
+----------------------------------------
+Game #21:
+  Name: Egypt Bonus Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_EgyptBonusPot.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-egypt-bonus-pot
+----------------------------------------
+Game #22:
+  Name: Paddy's Payouts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_PaddysPayouts.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-paddy-s-payouts
+----------------------------------------
+Game #23:
+  Name: 9 Jokers Stick and Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_9JokersStickandSpin.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-9-jokers-stick-and-spin
+----------------------------------------
+Game #24:
+  Name: Vegas Payouts Rapid Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_VegasPayoutsRapidHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-vegas-payouts-rapid-hold-win
+----------------------------------------
+Game #25:
+  Name: Destino Das Almas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_DestinoDasAlmas.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-destino-das-almas
+----------------------------------------
+Game #26:
+  Name: Golden Dragon Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_GoldenDragonWealth.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-golden-dragon-wealth
+----------------------------------------
+Game #27:
+  Name: Luke E. Chance and The Inca Sun God
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_LukeEChanceandTheIncaSunGod.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-luke-e-chance-and-the-inca-sun-god
+----------------------------------------
+Game #28:
+  Name: 777 Jackpot Diamond Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_777JackpotDiamondHoldandWin.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-777-jackpot-diamond-hold-and-win
+----------------------------------------
+Game #29:
+  Name: Tikiz N Juice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_TikizNJuice.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-tikiz-n-juice
+----------------------------------------
+Game #30:
+  Name: Raging Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamingcorps_RagingZeus.jpg
+  Game Link: https://roobet.com/casino/game/gaming-corps-raging-zeus
+----------------------------------------
+Game #31:
+  Name: 9 Hot Fruits Stick and Spin 3x3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:9HotFruitsStickandSpin3x3-912WiDaQ4.jpeg
+  Game Link: https://roobet.com/casino/game/gaming-corps-9-hot-fruits-stick-and-spin-3x3
+----------------------------------------

@@ -1,0 +1,42 @@
+Four Leaf Gaming Games Data
+==================================================
+Total games found: 7
+Load More clicks: 0
+Extraction date: 2025-08-11 04:33:23
+==================================================
+
+Game #1:
+  Name: The 3 Bears
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:The3Bears-yhx9w0MNj.jpeg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-the-3-bears
+----------------------------------------
+Game #2:
+  Name: Everest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Everest.jpg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-everest
+----------------------------------------
+Game #3:
+  Name: Bloodaxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Bloodaxe.jpg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-bloodaxe
+----------------------------------------
+Game #4:
+  Name: Cyber Vault
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CyberVault.jpg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-cyber-vault
+----------------------------------------
+Game #5:
+  Name: Cosmic Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:CosmicRush-aPIdpB3vw.jpeg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-cosmic-rush
+----------------------------------------
+Game #6:
+  Name: Clover Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CloverFortunes.jpg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-clover-fortunes
+----------------------------------------
+Game #7:
+  Name: Curse Of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CurseOfRa.jpg
+  Game Link: https://roobet.com/casino/game/four-leaf-gaming-curse-of-ra
+----------------------------------------

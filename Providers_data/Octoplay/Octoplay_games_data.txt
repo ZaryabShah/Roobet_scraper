@@ -1,0 +1,497 @@
+Octoplay Games Data
+==================================================
+Total games found: 98
+Load More clicks: 1
+Extraction date: 2025-08-10 17:48:23
+==================================================
+
+Game #1:
+  Name: Coin Bang Bang Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_coinbangbangholdandwin-fT7qoPuTX.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-coin-bang-bang-hold-and-win
+----------------------------------------
+Game #2:
+  Name: Twin Cash: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_twincashholdwin-KlRlJvyyv.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-twin-cash-hold-and-win
+----------------------------------------
+Game #3:
+  Name: Bank Busters: The Big Score
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_bankbustersthebigscore-4nBqL_5rv.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-bank-busters-the-big-score
+----------------------------------------
+Game #4:
+  Name: Break The Piggy Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_breakthepiggybank-nK78RytoN.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-break-the-piggy-bank
+----------------------------------------
+Game #5:
+  Name: 3 Energy Diamonds: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_3energydiamondsholdandwin-b-Jg8005S.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-3-energy-diamonds-hold-and-win
+----------------------------------------
+Game #6:
+  Name: 777 Streak
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_777streak-G2Ts1pZyE.png
+  Game Link: https://roobet.com/casino/game/octoplay-777-streak
+----------------------------------------
+Game #7:
+  Name: Super Grand Link Express: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_supergrandlinkexpressholdandwin-TcFgFz6t0.png
+  Game Link: https://roobet.com/casino/game/octoplay-super-grand-link-express-hold-and-win
+----------------------------------------
+Game #8:
+  Name: 5 Rings of Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_5ringsofdarkness.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-5-rings-of-darkness
+----------------------------------------
+Game #9:
+  Name: Shaolin Panda: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_shaolinpandaholdandwin-Ny7jrd6M-.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-shaolin-panda-hold-and-win
+----------------------------------------
+Game #10:
+  Name: Grand Link Express: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_grandlinkexpressholdwin-0UrzeusI4.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-grand-link-express-hold-and-win
+----------------------------------------
+Game #11:
+  Name: 777 Hot Reels: Supercharged
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_777hotreelssupercharged-RFe9VjsjG.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-777-hot-reels-supercharged
+----------------------------------------
+Game #12:
+  Name: 5 Star Coins: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_5starcoinsholdwin-VWWngWy7L.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-5-star-coins-hold-and-win
+----------------------------------------
+Game #13:
+  Name:  3 Pyramids of Gold: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_3pyramidsofgoldholdwin-yHSHqMiPC.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-3-pyramids-of-gold-hold-and-win
+----------------------------------------
+Game #14:
+  Name: Super Cash Boost: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_supercashboost-sgN3gJUOy.png
+  Game Link: https://roobet.com/casino/game/octoplay-super-cash-boost-hold-and-win
+----------------------------------------
+Game #15:
+  Name: Juicy Rolls: Feature Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_juicyrollsfeaturefrenzy-QXG-q_N1G.png
+  Game Link: https://roobet.com/casino/game/octoplay-juicy-rolls-feature-frenzy
+----------------------------------------
+Game #16:
+  Name: Doge Life
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_dogelife.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-doge-life
+----------------------------------------
+Game #17:
+  Name: Shaolin Panda Chaos Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_shaolinpandachaosreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-shaolin-panda-chaos-reels
+----------------------------------------
+Game #18:
+  Name: Buffalo Smash: Supercharged
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_buffalosmashsupercharged-vOjGZa4_T.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-buffalo-smash-supercharged
+----------------------------------------
+Game #19:
+  Name: 3 Golden Baskets: Treasure Tides
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_3goldenbasketstreasuretides-77OtVRzaY.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-3-golden-baskets-treasure-tides
+----------------------------------------
+Game #20:
+  Name: Eternal Clash Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_eternalclashreloaded.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-eternal-clash-reloaded
+----------------------------------------
+Game #21:
+  Name: Eternal Clash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_eternalclash.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-eternal-clash
+----------------------------------------
+Game #22:
+  Name: Supersonic Express: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_supersonicexpressholdandwin-d_iOhQgNK.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-supersonic-express-hold-and-win
+----------------------------------------
+Game #23:
+  Name: Gemstone Guardians
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_gemstoneguardians.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-gemstone-guardians
+----------------------------------------
+Game #24:
+  Name: Kawaii Princess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_kawaiiprincess.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-kawaii-princess
+----------------------------------------
+Game #25:
+  Name:  Flame and Fortune: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_flamefortuneholdwin-_kv1dXzAz.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-flame-and-fortune-hold-and-win
+----------------------------------------
+Game #26:
+  Name: Hell of a Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_hellofaspin.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-hell-of-a-spin
+----------------------------------------
+Game #27:
+  Name: Vegas is Dead: Battle Arena
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_vegasisdeadbattlearena-AlbJPv4H0.png
+  Game Link: https://roobet.com/casino/game/hub88:oct_vegasisdeadbattlearena
+----------------------------------------
+Game #28:
+  Name: 4 Leaf Fortune: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_fourleaffortuneholdandwin-ymjxjEnZp.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-4-leaf-fortune-hold-and-win
+----------------------------------------
+Game #29:
+  Name: Lucky Seven Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_luckysevenspin-nU5xLIjA2.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-lucky-seven-spin
+----------------------------------------
+Game #30:
+  Name: Eggsponential
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_eggsponential.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-eggsponential
+----------------------------------------
+Game #31:
+  Name: Salmon King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_salmonking.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-salmon-king
+----------------------------------------
+Game #32:
+  Name: Buffalo Blaze: Wild Wealth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_buffaloblazewildwealth-pG6_Qnq6o.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-buffalo-blaze-wild-wealth
+----------------------------------------
+Game #33:
+  Name: Pip and Pippa's Pots of Plenty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_pippippaspotsofplenty-Ktcle8QC5.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-pip-and-pippa-s-pots-of-plenty
+----------------------------------------
+Game #34:
+  Name: Vegas Blitz: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_vegasblitzholdandwin-fvWNQt0Bo.png
+  Game Link: https://roobet.com/casino/game/octoplay-vegas-blitz-hold-and-win
+----------------------------------------
+Game #35:
+  Name: Roaming Wild Buffalo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_roamingwildbuffalo-7CZQjAEDO.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-roaming-wild-buffalo
+----------------------------------------
+Game #36:
+  Name: Happy Honey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_happyhoney.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-happy-honey
+----------------------------------------
+Game #37:
+  Name: Barhalla
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_barhalla.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-barhalla
+----------------------------------------
+Game #38:
+  Name: Bullet Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_bulletbonanza.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-bullet-bonanza
+----------------------------------------
+Game #39:
+  Name: Lollicat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_lollicat.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-lollicat
+----------------------------------------
+Game #40:
+  Name: Dynamite Trail: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_dynamitetrailholdwin-xgpj4TY9D.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-dynamite-trail-hold-and-win
+----------------------------------------
+Game #41:
+  Name: Jackpot Heist: Daylight Robbery!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_jackpotheistdaylightrobbery.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-jackpot-heist-daylight-robbery
+----------------------------------------
+Game #42:
+  Name: Cash Maximus: Battle Arena
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_cashmaximusbattlearena-dAEMCDfHN.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-cash-maximus-battle-arena
+----------------------------------------
+Game #43:
+  Name: 777 Hot Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_777hotreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-777-hot-reels
+----------------------------------------
+Game #44:
+  Name: Panda Bills
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_pandabills.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-panda-bills
+----------------------------------------
+Game #45:
+  Name: Piggy Coin: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_piggycoinholdandwin-qUFjChdqK.png
+  Game Link: https://roobet.com/casino/game/octoplay-piggy-coin-hold-and-win
+----------------------------------------
+Game #46:
+  Name: Legends: Battle for Earth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_legendsbattleforearth.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-legends-battle-for-earth
+----------------------------------------
+Game #47:
+  Name: Vault Blast Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_vaultblastholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-vault-blast-hold-and-win
+----------------------------------------
+Game #48:
+  Name: Mad Melons Chaos Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_madmelonschaosreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-mad-melons-chaos-reels
+----------------------------------------
+Game #49:
+  Name: Super Sundae
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_supersundae.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-super-sundae
+----------------------------------------
+Game #50:
+  Name: Star Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_starkingdom.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-star-kingdom
+----------------------------------------
+Game #51:
+  Name: Wish for a Cash Star
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_wishforacashstar-0zK2VunMR.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-wish-for-a-cash-star
+----------------------------------------
+Game #52:
+  Name: Christmas Link Express: Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_christmaslinkexpressholdwin-IRjMA7Kvu.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-christmas-link-express-hold-and-win
+----------------------------------------
+Game #53:
+  Name: 12 Treasures: Aztec Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_12treasuresaztecriches-ps5H3P145.png
+  Game Link: https://roobet.com/casino/game/octoplay-12-treasures-aztec-riches
+----------------------------------------
+Game #54:
+  Name: Gold Chain
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_goldchain.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-gold-chain
+----------------------------------------
+Game #55:
+  Name: Spirit Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_spiritblast.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-spirit-blast
+----------------------------------------
+Game #56:
+  Name: Doom's Digging Machine
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_doomsdiggingmachine.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-doom-s-digging-machine
+----------------------------------------
+Game #57:
+  Name: Midas Moolah: Random Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_midasmoolahrandomreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-midas-moolah-random-reels
+----------------------------------------
+Game #58:
+  Name: Mutant Potatoes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_mutantpotatoes.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-mutant-potatoes
+----------------------------------------
+Game #59:
+  Name: Walrus King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_walrusking.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-walrus-king
+----------------------------------------
+Game #60:
+  Name: Sugar Splash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_sugarsplash-RrljwjwL5.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-sugar-splash
+----------------------------------------
+Game #61:
+  Name: Disco Dive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_discodive.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-disco-dive
+----------------------------------------
+Game #62:
+  Name: Joker Jackpots: Prize Mania
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_jokerjackpotsprizemania.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-joker-jackpots-prize-mania
+----------------------------------------
+Game #63:
+  Name: Rune Raiders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_runeraiders.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-rune-raiders
+----------------------------------------
+Game #64:
+  Name: Thunder Hog Chaos Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_thunderhogchaosreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-thunder-hog-chaos-reels
+----------------------------------------
+Game #65:
+  Name: The Great Jackpot Expedition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_thegreatjackpotexpedition-kbumuOx0p.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-the-great-jackpot-expedition
+----------------------------------------
+Game #66:
+  Name: Cash Inferno Sizzling Scatters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_cashinfernosizzlingscatters.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-cash-inferno-sizzling-scatters
+----------------------------------------
+Game #67:
+  Name: Boom the Buffoon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_boomthebuffoon.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-boom-the-buffoon
+----------------------------------------
+Game #68:
+  Name: Blazing Touch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_blazingtouch.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-blazing-touch
+----------------------------------------
+Game #69:
+  Name: Golden Suns: Chain Collect
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_goldensunschaincollect.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-golden-suns-chain-collect
+----------------------------------------
+Game #70:
+  Name: Zeus Smash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_zeussmash.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-zeus-smash
+----------------------------------------
+Game #71:
+  Name: Sheep King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_sheepking.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-sheep-king
+----------------------------------------
+Game #72:
+  Name: Teddy's Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_teddysquest.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-teddy-s-quest
+----------------------------------------
+Game #73:
+  Name: Savannah Gold: Coin of the Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_savannahgoldholdandwin-axvOiAtNs.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-savannah-gold-coin-of-the-wild
+----------------------------------------
+Game #74:
+  Name: Cash on Wheels Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_cashonwheelsholdwin-d8lYqClJ9.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-cash-on-wheels-hold-and-win
+----------------------------------------
+Game #75:
+  Name: Wild White Rhino
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_wildwhiterhino-mw24XUz1W.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-wild-white-rhino
+----------------------------------------
+Game #76:
+  Name: Heavy Anchor
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_heavyanchor.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-heavy-anchor
+----------------------------------------
+Game #77:
+  Name: Christmas Crumble
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_christmascrumble.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-christmas-crumble
+----------------------------------------
+Game #78:
+  Name: Dystopia: Rebel Road
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_dystopiarebelroad.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-dystopia-rebel-road
+----------------------------------------
+Game #79:
+  Name: Sweet Smash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_sweetsmash.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-sweet-smash
+----------------------------------------
+Game #80:
+  Name: Caishen's Temple of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_caishenstempleofgold.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-caishen-s-temple-of-gold
+----------------------------------------
+Game #81:
+  Name: Blazing Inferno Chaos Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_blazinginfernochaosreels.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-blazing-inferno-chaos-reels
+----------------------------------------
+Game #82:
+  Name: Treasure Journey: Genie's Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_treasurejourneygeniesgold-aafY7Qx08.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-treasure-journey-genie-s-gold
+----------------------------------------
+Game #83:
+  Name: Cash Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_cashstrike.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-cash-strike
+----------------------------------------
+Game #84:
+  Name: Mr. Piggles
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_mrpiggles.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-mr-piggles
+----------------------------------------
+Game #85:
+  Name: Lord of the Dunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_lordofthedunes.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-lord-of-the-dunes
+----------------------------------------
+Game #86:
+  Name: Wilfred's Wheel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_wilfredswheel.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-wilfred-s-wheel
+----------------------------------------
+Game #87:
+  Name: Aztec Ancients
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_aztecancients.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-aztec-ancients
+----------------------------------------
+Game #88:
+  Name: Royal Ribbit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_royalribbit.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-royal-ribbit
+----------------------------------------
+Game #89:
+  Name: Twice As Nice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_twiceasnice.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-twice-as-nice
+----------------------------------------
+Game #90:
+  Name: God Smash: Eternal Chaos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_godsmasheternalchaos-ev90D4xW9.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-god-smash-eternal-chaos
+----------------------------------------
+Game #91:
+  Name: Hot Harvest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_hotharvest.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-hot-harvest
+----------------------------------------
+Game #92:
+  Name: Flaming Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_flamingfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-flaming-frenzy
+----------------------------------------
+Game #93:
+  Name: Lightning Blitz: Supercharged
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:oct_lightningblitzsupercharged-pX2Oi5-Tq.jpeg
+  Game Link: https://roobet.com/casino/game/octoplay-lightning-blitz-supercharged
+----------------------------------------
+Game #94:
+  Name: Pearly Shores
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_pearlyshores.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-pearly-shores
+----------------------------------------
+Game #95:
+  Name: Mole Smash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_molesmash.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-mole-smash
+----------------------------------------
+Game #96:
+  Name: Blarney's Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_blarneysgold.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-blarney-s-gold
+----------------------------------------
+Game #97:
+  Name: Santa Smash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_santasmash.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-santa-smash
+----------------------------------------
+Game #98:
+  Name: Crop of the Dead
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_oct_cropofthedead.jpg
+  Game Link: https://roobet.com/casino/game/octoplay-crop-of-the-dead
+----------------------------------------

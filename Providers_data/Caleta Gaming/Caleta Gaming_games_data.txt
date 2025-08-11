@@ -1,0 +1,642 @@
+Caleta Gaming Games Data
+==================================================
+Total games found: 127
+Load More clicks: 2
+Extraction date: 2025-08-10 17:39:04
+==================================================
+
+Game #1:
+  Name: Caves & Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cavestreasures.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-caves-treasures
+----------------------------------------
+Game #2:
+  Name: Banana Keno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananakeno.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-banana-keno
+----------------------------------------
+Game #3:
+  Name: Mega Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_megabingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-mega-bingo
+----------------------------------------
+Game #4:
+  Name: Rainbow Keno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rainbowkeno.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rainbow-keno
+----------------------------------------
+Game #5:
+  Name: Coin King Beto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_coinkingbeto-yN9Xtcqua.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-coin-king-beto
+----------------------------------------
+Game #6:
+  Name: Keno Goal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_kenogoal.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-keno-goal
+----------------------------------------
+Game #7:
+  Name: Fishing Season
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_fishingseason.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-fishing-season
+----------------------------------------
+Game #8:
+  Name: Bingo Samba Rio
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosambario.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-samba-rio
+----------------------------------------
+Game #9:
+  Name: Paradise Trippies Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_paradisetrippiesbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-paradise-trippies-bingo
+----------------------------------------
+Game #10:
+  Name: Keno Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_kenohalloween.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-keno-halloween
+----------------------------------------
+Game #11:
+  Name: Bingo Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bingobingo--WCcUIrNJ.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:clt_bingobingo
+----------------------------------------
+Game #12:
+  Name: Blackjack Beto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_blackjackbeto-l6jY6Cqko.png
+  Game Link: https://roobet.com/casino/game/caleta-gaming-blackjack-beto
+----------------------------------------
+Game #13:
+  Name: Aqua Boutique Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_aquaboutiquebingo-zCW4g7Cmf.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-aqua-boutique-bingo
+----------------------------------------
+Game #14:
+  Name: Grandma Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_grandmafortune.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-grandma-fortune
+----------------------------------------
+Game #15:
+  Name: Caipirinha Keno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_caipirinhakeno.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-caipirinha-keno
+----------------------------------------
+Game #16:
+  Name: Dragon Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_dragonrising.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-dragon-rising
+----------------------------------------
+Game #17:
+  Name: Piggy Show Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_pggyshowbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-piggy-show-bingo
+----------------------------------------
+Game #18:
+  Name: Blackjack Royale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_blackjackroyale.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-blackjack-royale
+----------------------------------------
+Game #19:
+  Name: Madame Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_madamefortune.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-madame-fortune
+----------------------------------------
+Game #20:
+  Name: Bingo Señorita Calavera
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoseoritacalavera.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-se-orita-calavera
+----------------------------------------
+Game #21:
+  Name: Garoto de Ipanema Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_garotodeipanemabingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-garoto-de-ipanema-bingo
+----------------------------------------
+Game #22:
+  Name: Ocean Richies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_oceanrichies.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-ocean-richies
+----------------------------------------
+Game #23:
+  Name: Banana Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananabingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-banana-bingo
+----------------------------------------
+Game #24:
+  Name: Billion Llama in Vegas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_billionllamainvegas.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-billion-llama-in-vegas
+----------------------------------------
+Game #25:
+  Name: Wings of Liberty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_wingsofliberty-rvcw65skC.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-wings-of-liberty
+----------------------------------------
+Game #26:
+  Name: RCT - New Fruit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-newfruit.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-new-fruit
+----------------------------------------
+Game #27:
+  Name: Dressing Room
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_dressingroom.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-dressing-room
+----------------------------------------
+Game #28:
+  Name: Jingle Bell Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_jinglebellbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-jingle-bell-bingo
+----------------------------------------
+Game #29:
+  Name: Pirates of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_piratesoffortune.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-pirates-of-fortune
+----------------------------------------
+Game #30:
+  Name: Hallowinner
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hallowinner.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-hallowinner
+----------------------------------------
+Game #31:
+  Name: Whale of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_whaleoffortune.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-whale-of-fortune
+----------------------------------------
+Game #32:
+  Name: Lost Saga
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_lostsaga.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-lost-saga
+----------------------------------------
+Game #33:
+  Name: Bollywood Nights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_bollywoodnights.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bollywood-nights
+----------------------------------------
+Game #34:
+  Name: RCT - Reis do Egito
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-reisdoegito.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-reis-do-egito
+----------------------------------------
+Game #35:
+  Name: Beto Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_betobingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-beto-bingo
+----------------------------------------
+Game #36:
+  Name: Basketball Pro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_basketballpro.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-basketball-pro
+----------------------------------------
+Game #37:
+  Name: Grandma Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_grandmabingo-B2DaRI2jH.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-grandma-bingo
+----------------------------------------
+Game #38:
+  Name: Carnival Beauties
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_carnivalbeauties.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-carnival-beauties
+----------------------------------------
+Game #39:
+  Name: Astro Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_astrowild.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-astro-wild
+----------------------------------------
+Game #40:
+  Name: Bichos da Amazonia Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bichosdaamazniabingo-V7MeNaH0M.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bichos-da-amazonia-bingo
+----------------------------------------
+Game #41:
+  Name: Golden Dragon Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_goldendragon.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-golden-dragon-bingo
+----------------------------------------
+Game #42:
+  Name: Bingo Tornado
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotornado.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-tornado
+----------------------------------------
+Game #43:
+  Name: Magic Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_magicforest.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-magic-forest
+----------------------------------------
+Game #44:
+  Name: Bingo Cientista Doidão
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingocientistadoido.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-cientista-doid-o
+----------------------------------------
+Game #45:
+  Name: Paradise Trippies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_paradisetrippiesslot.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-paradise-trippies
+----------------------------------------
+Game #46:
+  Name: Frozen Fluffies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_frozenfluffies.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-frozen-fluffies
+----------------------------------------
+Game #47:
+  Name: Bingo Gênio
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingognio.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-g-nio
+----------------------------------------
+Game #48:
+  Name: Lucky K
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_luckyk.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-lucky-k
+----------------------------------------
+Game #49:
+  Name: Hungry Chef
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hungrychef.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-hungry-chef
+----------------------------------------
+Game #50:
+  Name: Bingolaço
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingolaco.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingola-o
+----------------------------------------
+Game #51:
+  Name: Bingo Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingohalloween.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-halloween
+----------------------------------------
+Game #52:
+  Name: Bingo Tesoro Maya
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotesoromaya.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-tesoro-maya
+----------------------------------------
+Game #53:
+  Name: Bingo Gatinho
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingogatinho.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-gatinho
+----------------------------------------
+Game #54:
+  Name: Coliseu Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_coliseubingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-coliseu-bingo
+----------------------------------------
+Game #55:
+  Name: Atlantis Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_atlantisbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-atlantis-bingo
+----------------------------------------
+Game #56:
+  Name: Princess of the Ocean
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_princessoftheocean.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-princess-of-the-ocean
+----------------------------------------
+Game #57:
+  Name: Circus Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_circusbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-circus-bingo
+----------------------------------------
+Game #58:
+  Name: Bingo Royale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoroyale.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-royale
+----------------------------------------
+Game #59:
+  Name: Rock 'n' Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rocknreels.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rock-n-reels
+----------------------------------------
+Game #60:
+  Name: Bingo Bruxaria
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingobruxaria.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-bruxaria
+----------------------------------------
+Game #61:
+  Name: Bingo Pescaria
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingopescaria.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-pescaria
+----------------------------------------
+Game #62:
+  Name: Crystal Unicorn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_crystalunicorn.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-crystal-unicorn
+----------------------------------------
+Game #63:
+  Name: Bingo Pirata
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingopirata.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-pirata
+----------------------------------------
+Game #64:
+  Name: Magical Keno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_magicalkeno.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-magical-keno
+----------------------------------------
+Game #65:
+  Name: Lucky Express
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_luckyexpress.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-lucky-express
+----------------------------------------
+Game #66:
+  Name: Bingo Fada da Fortuna
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingofadadafortuna.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-fada-da-fortuna
+----------------------------------------
+Game #67:
+  Name: Bingo Saga Loca
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosagaloca.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-saga-loca
+----------------------------------------
+Game #68:
+  Name: Beach Tennis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_beachtennis.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-beach-tennis
+----------------------------------------
+Game #69:
+  Name: Feel The Music
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_feelthemusic.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-feel-the-music
+----------------------------------------
+Game #70:
+  Name: Bingo Valhalla
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bingovalhalla-6XO5WFikP.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-valhalla
+----------------------------------------
+Game #71:
+  Name: Boto Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_botobingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-boto-bingo
+----------------------------------------
+Game #72:
+  Name: Hurricash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hurricash.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-hurricash
+----------------------------------------
+Game #73:
+  Name: Premier League Cricket
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_premierleaguecricket.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-premier-league-cricket
+----------------------------------------
+Game #74:
+  Name: RCT - Talismanes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-talismanes.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-talismanes
+----------------------------------------
+Game #75:
+  Name: Diwali Lights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_diwalilights.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-diwali-lights
+----------------------------------------
+Game #76:
+  Name: Bingo Trevo da Sorte
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingotrevodasorte.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-trevo-da-sorte
+----------------------------------------
+Game #77:
+  Name: Classic Royals
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_classicroyals.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-classic-royals
+----------------------------------------
+Game #78:
+  Name: Fright Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_frightnight.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-fright-night
+----------------------------------------
+Game #79:
+  Name: Hidden Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hiddenkingdom.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-hidden-kingdom
+----------------------------------------
+Game #80:
+  Name: Village Brewery
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_villagebrewery.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-village-brewery
+----------------------------------------
+Game #81:
+  Name: Halloween Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenscratchcard.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-halloween-scratchcard
+----------------------------------------
+Game #82:
+  Name: World Wild Cup
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_worldwildcup.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-world-wild-cup
+----------------------------------------
+Game #83:
+  Name: Gold Fever
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_goldfever.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-gold-fever
+----------------------------------------
+Game #84:
+  Name: Wild Fruit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_wildfruit.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-wild-fruit
+----------------------------------------
+Game #85:
+  Name: Cutey Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cuteycats.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-cutey-cats
+----------------------------------------
+Game #86:
+  Name: RCT - Samba
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rctsamba.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-samba
+----------------------------------------
+Game #87:
+  Name: Crazy Clover Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_crazycloverbingo-yXZBWMAuH.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-crazy-clover-bingo
+----------------------------------------
+Game #88:
+  Name: Trevo da Sorte Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_trevodasortescratchcard.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-trevo-da-sorte-scratchcard
+----------------------------------------
+Game #89:
+  Name: Cherry Cherry Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cherrycherryscratchcard.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-cherry-cherry-scratchcard
+----------------------------------------
+Game #90:
+  Name: Bingo Señor Taco
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingosenortaco.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-se-or-taco
+----------------------------------------
+Game #91:
+  Name: Cruise of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cruiseoffortune.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-cruise-of-fortune
+----------------------------------------
+Game #92:
+  Name: Banana Boom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bananaboom.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-banana-boom
+----------------------------------------
+Game #93:
+  Name: Cherry Cherry
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_cherrycherry.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-cherry-cherry
+----------------------------------------
+Game #94:
+  Name: Viking Madness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_vikingmadness.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-viking-madness
+----------------------------------------
+Game #95:
+  Name: Trial of the Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_trialofthegods-2cVuwx499.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-trial-of-the-gods
+----------------------------------------
+Game #96:
+  Name: Fate of Olympus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_fateofolympus-2o5guVW08.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-fate-of-olympus
+----------------------------------------
+Game #97:
+  Name: Pick'em Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_pickemfruits.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-pick-em-fruits
+----------------------------------------
+Game #98:
+  Name: RCT - Rio de Janeiro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rct-riodejaneiro.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-rio-de-janeiro
+----------------------------------------
+Game #99:
+  Name:  Baile Funk Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_bailefunkbingo-upYYGdzSM.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-baile-funk-bingo
+----------------------------------------
+Game #100:
+  Name: Crazy Lab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_crazylab.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-crazy-lab
+----------------------------------------
+Game #101:
+  Name: Heroes Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_heroesempire.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-heroes-empire
+----------------------------------------
+Game #102:
+  Name: Kabaddi Raiders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_kabaddiraiders.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-kabaddi-raiders
+----------------------------------------
+Game #103:
+  Name: Jungle Keno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_junglekeno.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-jungle-keno
+----------------------------------------
+Game #104:
+  Name: Football Pro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballpro.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-football-pro
+----------------------------------------
+Game #105:
+  Name: Torch Of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_torchoffire.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-torch-of-fire
+----------------------------------------
+Game #106:
+  Name: Lords Balcony
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ids_lordsbalcony.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-lords-balcony
+----------------------------------------
+Game #107:
+  Name: Atomico Lotto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_atomicolotto.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-atomico-lotto
+----------------------------------------
+Game #108:
+  Name: Fortune Wolf
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:clt_fortunewolf-A9Wc0aM4K.jpeg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-fortune-wolf
+----------------------------------------
+Game #109:
+  Name: Catch a Fish Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_catchafishbingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-catch-a-fish-bingo
+----------------------------------------
+Game #110:
+  Name: Bingo Billion Llama
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingobillionllama.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-billion-llama
+----------------------------------------
+Game #111:
+  Name: Halloween Lotto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenlotto.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-halloween-lotto
+----------------------------------------
+Game #112:
+  Name: Enchanted Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_enchantedcash.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-enchanted-cash
+----------------------------------------
+Game #113:
+  Name: Betina Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_betinabingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-betina-bingo
+----------------------------------------
+Game #114:
+  Name: RCT - Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_rcthalloween.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-rct-halloween
+----------------------------------------
+Game #115:
+  Name: Vegas Baby
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_vegasbaby.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-vegas-baby
+----------------------------------------
+Game #116:
+  Name: Football Pro Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballproscratchcard.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-football-pro-scratchcard
+----------------------------------------
+Game #117:
+  Name: Hungry Chef Pick'em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_hungrychefpickem.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-hungry-chef-pick-em
+----------------------------------------
+Game #118:
+  Name: Whale Bingo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_whalebingo.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-whale-bingo
+----------------------------------------
+Game #119:
+  Name: China Charms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_chinacharms.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-china-charms
+----------------------------------------
+Game #120:
+  Name: Bingo Iglu
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingoiglu.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-iglu
+----------------------------------------
+Game #121:
+  Name: Halloween Pick'em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_halloweenpickem.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-halloween-pick-em
+----------------------------------------
+Game #122:
+  Name: Billion Llama Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_billionllamascratchcards.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-billion-llama-scratchcard
+----------------------------------------
+Game #123:
+  Name: Carnaval Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_carnavalscratchcards.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-carnaval-scratchcard
+----------------------------------------
+Game #124:
+  Name: Bingo Hortinha
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingohortinha.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingo-hortinha
+----------------------------------------
+Game #125:
+  Name: Bingolicia
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_bingolcia.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-bingolicia
+----------------------------------------
+Game #126:
+  Name: Fruitverse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_fruitverse.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-fruitverse
+----------------------------------------
+Game #127:
+  Name: Football Lotto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_clt_footballlotto.jpg
+  Game Link: https://roobet.com/casino/game/caleta-gaming-football-lotto
+----------------------------------------

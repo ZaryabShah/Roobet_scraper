@@ -1,0 +1,2627 @@
+Spinomenal Games Data
+==================================================
+Total games found: 524
+Load More clicks: 9
+Extraction date: 2025-08-11 00:52:01
+==================================================
+
+Game #1:
+  Name: 4 Horsemen 3 - Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:4Horsemen3Inferno-T7E1lymxA.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:4Horsemen3Inferno
+----------------------------------------
+Game #2:
+  Name: Gorilla Fury - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GorillaFuryHoldAndHit-LVGCuK1OJ.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:GorillaFuryHoldAndHit
+----------------------------------------
+Game #3:
+  Name: Book Of Majestic Claws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfMajesticClaws-M84e2IvR7.png
+  Game Link: https://roobet.com/casino/game/spnmnl:BookOfMajesticClaws
+----------------------------------------
+Game #4:
+  Name: Majestic Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticZeus-CBdzv91-Y.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:MajesticZeus
+----------------------------------------
+Game #5:
+  Name: Book of Loki - Master of Illusions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofLokiMasterofIllusions-xaj6uIlYm.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-loki-master-of-illusions
+----------------------------------------
+Game #6:
+  Name: Book Of Clovers - Extreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfCloversExtreme-xt2-IqGpZ.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-clovers-extreme
+----------------------------------------
+Game #7:
+  Name: Hades' Infernal Blaze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HadesInfernalBlaze-C6OqHb0Th.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:HadesInfernalBlaze
+----------------------------------------
+Game #8:
+  Name: African Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AfricanRampage-IWrmkj5Af.png
+  Game Link: https://roobet.com/casino/game/spinomenal-african-rampage
+----------------------------------------
+Game #9:
+  Name: 40 Lucky Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:40LuckyFruits-sR-180Sqz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-40-lucky-fruits
+----------------------------------------
+Game #10:
+  Name: Book Of The Titans - Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTheTitansZeus-BYRfyg3e4.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-titans-zeus
+----------------------------------------
+Game #11:
+  Name: Queen Of Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfInferno-iySljqsZP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-inferno
+----------------------------------------
+Game #12:
+  Name: 4 Horsemen - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:4HorsemenHoldHit-TPLp7YG3S.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-4-horsemen-hold-hit
+----------------------------------------
+Game #13:
+  Name: Buffalo Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BuffaloRampage-bVDfFPgv6.png
+  Game Link: https://roobet.com/casino/game/spinomenal-buffalo-rampage
+----------------------------------------
+Game #14:
+  Name: 1 Reel - Aztec Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelAztecSpell-JTsn6kD2p.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:1ReelAztecSpell
+----------------------------------------
+Game #15:
+  Name: Zeus Unchained - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ZeusUnchainedHoldHit-Fw8ii7br2.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-zeus-unchained-hold-hit
+----------------------------------------
+Game #16:
+  Name: Athena's Glory - Twilight Of The Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AthenasGloryTwilightOfTheGods-Tp5Ku3JVH.png
+  Game Link: https://roobet.com/casino/game/spinomenal-athena-s-glory-twilight-of-the-gods
+----------------------------------------
+Game #17:
+  Name: Book Of Demi Gods II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods2-hayHJVLN9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-ii
+----------------------------------------
+Game #18:
+  Name: Majestic Jaguar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticJaguar-3JZG1fA8F.png
+  Game Link: https://roobet.com/casino/game/spnmnl:MajesticJaguar
+----------------------------------------
+Game #19:
+  Name: European Roulette VIP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EuropeanRouletteVIP-q1hWHReM7.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-european-roulette-vip
+----------------------------------------
+Game #20:
+  Name: Joker’s Mega Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersMegaFortune-DLcUsMRF9.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:JokersMegaFortune
+----------------------------------------
+Game #21:
+  Name: Book of The Divine - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofTheDivineEgyptianDarkness-og-XKdBsd.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-divine-egyptian-darkness
+----------------------------------------
+Game #22:
+  Name: Queen Of Shadows
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfShadows-I5T-CVlGJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-shadows
+----------------------------------------
+Game #23:
+  Name: Wolf Fang - Desert Mirage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangDesertMirage-P5BF1cS-s.png
+  Game Link: https://roobet.com/casino/game/spnmnl:WolfFangDesertMirage
+----------------------------------------
+Game #24:
+  Name: Book of Aphrodite - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofAphroditeTheGoldenEra-EccjqP6q_.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-aphrodite-the-golden-era
+----------------------------------------
+Game #25:
+  Name: Baba Yaga Tales - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BabaYagaTalesHoldHit-O4Uj-qiJH.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-baba-yaga-tales-hold-hit
+----------------------------------------
+Game #26:
+  Name: Wolf & Piggies Chase
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfPiggiesChase-lerzi3wqo.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-piggies-chase
+----------------------------------------
+Game #27:
+  Name: Majestic Wild Buffalo - Dusk Till Dawn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWildBuffaloDuskTillDawn-lrLfnuCJm.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-wild-buffalo-dusk-till-dawn
+----------------------------------------
+Game #28:
+  Name: Majestic Winter - Polar Adventures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWinterPolarAdventures-RJMw--0dU.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-winter-polar-adventures
+----------------------------------------
+Game #29:
+  Name: Blue Panther
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BluePanther--4PPaNHlM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-blue-panther
+----------------------------------------
+Game #30:
+  Name: Fruits Collection 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCollection10Lines-gD2xuLbP5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-collection-10-lines
+----------------------------------------
+Game #31:
+  Name: Book Of Panther
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfPanther-oLrplt0CQ.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-panther
+----------------------------------------
+Game #32:
+  Name: Super Miner - Oil Drilling
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperMinerOilDrilling-GjIDdHE5T.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-miner-oil-drilling
+----------------------------------------
+Game #33:
+  Name: Book Of Champions - European Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfChampionsEuropeanGlory-sBqmqpGZd.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-champions-european-glory
+----------------------------------------
+Game #34:
+  Name: Queen Of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfFire-ldPYOOwiU.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-fire
+----------------------------------------
+Game #35:
+  Name: Rooster Mayhem
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RoosterMayhem-y3rBYF1N6.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-rooster-mayhem
+----------------------------------------
+Game #36:
+  Name: Queen Of The Amazon - Nightcrawler
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfTheAmazonNightcrawler-QYLzb2Ryy.png
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-the-amazon-nightcrawler
+----------------------------------------
+Game #37:
+  Name: Majestic Panda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticPanda-aZMwoR0k-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-panda
+----------------------------------------
+Game #38:
+  Name: Demi Gods VI - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsVIHoldHit-NXIBhA-bU.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:DemiGodsVIHoldHit
+----------------------------------------
+Game #39:
+  Name: City Heat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:CityHeat-k_IC1VbJI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-city-heat
+----------------------------------------
+Game #40:
+  Name: Book Of 4 Horsemen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOf4Horsemen-VJXED0GYt.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-4-horsemen
+----------------------------------------
+Game #41:
+  Name: Queen Of Fire Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfFireExpandedEdition-ZoYakxzFI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-fire-expanded-edition
+----------------------------------------
+Game #42:
+  Name: Book Of Clovers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfClovers-vTHPfOlXk.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-clovers
+----------------------------------------
+Game #43:
+  Name: Book Of Savannah's Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfSavannahsQueen-2grDK1oMB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-savannah-s-queen
+----------------------------------------
+Game #44:
+  Name: 4 Horsemen II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:4Horsemen2-OCsW3lB14.png
+  Game Link: https://roobet.com/casino/game/spinomenal-4-horsemen-ii
+----------------------------------------
+Game #45:
+  Name: Book Of Demi Gods II Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods2Reloaded-bktx0wf3w.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-ii-reloaded
+----------------------------------------
+Game #46:
+  Name: Queen Of The Forest - Autumn Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfTheForestAutumnKingdom-f8CmyCx8k.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-the-forest-autumn-kingdom
+----------------------------------------
+Game #47:
+  Name: Majestic Wild Buffalo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWildBuffalo-u_Ago36X8.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-wild-buffalo
+----------------------------------------
+Game #48:
+  Name: Queen Of Water - Tides Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfWaterTidesOfFortune-zqwRNXFRC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-water-tides-of-fortune
+----------------------------------------
+Game #49:
+  Name: Lucky Jack - Book Of Rebirth - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyJackBookOfRebirthEgyptianDarkness-9u-RuNzOD.png
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-jack-book-of-rebirth-egyptian-darkness
+----------------------------------------
+Game #50:
+  Name: Book of Easter Piggy Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofEasterPiggyBank-OiwvXTOfG.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-easter-piggy-bank
+----------------------------------------
+Game #51:
+  Name: Book of Champions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofChampions-02AtUgfvs.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-champions
+----------------------------------------
+Game #52:
+  Name: Summer Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SummerWays-nqd-Rj8_l.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-summer-ways
+----------------------------------------
+Game #53:
+  Name: Blazing Rhino - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BlazingRhinoHoldAndHit-FtCll64wr.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-blazing-rhino-hold-hit
+----------------------------------------
+Game #54:
+  Name: Queen Of Water
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfWater-aIznllvoB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-water
+----------------------------------------
+Game #55:
+  Name: Athena's Glory - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AthenasGloryTheGoldenEra-TqLG141RN.png
+  Game Link: https://roobet.com/casino/game/spinomenal-athena-s-glory-the-golden-era
+----------------------------------------
+Game #56:
+  Name: Book Of Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDiamonds-6DId75F_w.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-diamonds
+----------------------------------------
+Game #57:
+  Name: Midnight Pack - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MidnightPackHoldandHit-w_z0q-Mqx.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:MidnightPackHoldandHit
+----------------------------------------
+Game #58:
+  Name: Trout's Treasure - Fishing Season
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureFishingSeason-xEjNw2LBO.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-fishing-season
+----------------------------------------
+Game #59:
+  Name: Westside Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WestsideGlory-4y3Ji-sXz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-westside-glory
+----------------------------------------
+Game #60:
+  Name: African Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AfricanFortune-bwuGleySI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-african-fortune
+----------------------------------------
+Game #61:
+  Name: Book Of Atlas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfAtlas-gpbLCsOfm.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-atlas
+----------------------------------------
+Game #62:
+  Name: Fortuna De Los Muertos 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FortunaDeLosMuertos3-OTejTDyuW.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fortuna-de-los-muertos-3
+----------------------------------------
+Game #63:
+  Name: Majestic Silverback
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticSilverback-KTfdWzp4r.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-silverback
+----------------------------------------
+Game #64:
+  Name: Age Of Pirates 15 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AgeOfPirates15Lines-owUsu3YFJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-age-of-pirates-15-lines
+----------------------------------------
+Game #65:
+  Name: Demi Gods V
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsV-jQQUTOjZR.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-v
+----------------------------------------
+Game #66:
+  Name: 4 Horsemen III
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:4HorsemenIII-sX7_B6MyC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-4-horsemen-iii
+----------------------------------------
+Game #67:
+  Name: Queen Of Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfIce-WKXdDaXin.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-ice
+----------------------------------------
+Game #68:
+  Name: Book Of Rebirth - Extreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRebirthExtreme-t4N87AfD-.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rebirth-extreme
+----------------------------------------
+Game #69:
+  Name: Age of Pirates
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AgeofPirates-0kyqFwCn9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-age-of-pirates
+----------------------------------------
+Game #70:
+  Name: Wild Cobra Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildCobraRiches-v7FB0_izS.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-cobra-riches
+----------------------------------------
+Game #71:
+  Name: Majestic King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticKing-aXelnCv1B.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-king
+----------------------------------------
+Game #72:
+  Name: Rooster Mayhem - Farm Outbreak
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RoosterMayhemFarmOutbreak-qhEzXLnG5.png
+  Game Link: https://roobet.com/casino/game/spinomenal-rooster-mayhem-farm-outbreak
+----------------------------------------
+Game #73:
+  Name: Zeus's Lightning Blaze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ZeussLightningBlaze-taBts5ns0.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-zeus-s-lightning-blaze
+----------------------------------------
+Game #74:
+  Name: Werewolf - Darkest Flame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WerewolfDarkestFlame-I3jwrTyc6.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-werewolf-darkest-flame
+----------------------------------------
+Game #75:
+  Name: Story Of Vikings
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfVikings-qGWcroll-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-vikings
+----------------------------------------
+Game #76:
+  Name: Celestial Conquest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:CelestialConquest-j9eGX45At.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-celestial-conquest
+----------------------------------------
+Game #77:
+  Name: 1 Reel - Majestic Spirit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMajesticSpirit-GealiIHyn.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:1ReelMajesticSpirit
+----------------------------------------
+Game #78:
+  Name: Story Of Medusa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfMedusa-eWq40-8z4.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-medusa
+----------------------------------------
+Game #79:
+  Name: Golden Piggy Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GoldenPiggyBank-o6XazEJ9x.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-golden-piggy-bank
+----------------------------------------
+Game #80:
+  Name: Book Of Piggy Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfPiggyBank-8H6xznJQ3.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-piggy-bank
+----------------------------------------
+Game #81:
+  Name: Majestic Cleopatra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticCleopatra-5k0BwE29Y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-cleopatra
+----------------------------------------
+Game #82:
+  Name: Baba Yaga Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BabaYagaTales-g7qCX_UZF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-baba-yaga-tales
+----------------------------------------
+Game #83:
+  Name: Book Of Titans
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTitans-gHKiInNju.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-titans
+----------------------------------------
+Game #84:
+  Name: Hut With Chicken Legs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HutWithChickenLegs-GAB-k_KC5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-hut-with-chicken-legs
+----------------------------------------
+Game #85:
+  Name: Titan's Rising - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TitansRisingTheGoldenEra-_h5EWFl3P.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-titan-s-rising-the-golden-era
+----------------------------------------
+Game #86:
+  Name: Book Of Champions Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfChampionsReloaded-zwukekMbV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-champions-reloaded
+----------------------------------------
+Game #87:
+  Name: Break The Piggy Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BreakThePiggyBank-GMu-DvL5f.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-break-the-piggy-bank
+----------------------------------------
+Game #88:
+  Name: Demi Gods V - A Moonlit Oath
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsVAMoonlitOath-kOtyt1M6M.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-v-a-moonlit-oath
+----------------------------------------
+Game #89:
+  Name: Trout's Treasure - Payday
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasurePayday-Fufy1GsE9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-payday
+----------------------------------------
+Game #90:
+  Name: Aztec Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AztecSpell-cOcutozWV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-aztec-spell
+----------------------------------------
+Game #91:
+  Name: Book Of Tribes Extreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTribesExtreme-pEzbaZy-I.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-tribes-extreme
+----------------------------------------
+Game #92:
+  Name: Egyptian Rebirth II Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirth2ExpandedEdition-kMqJJNVU4.png
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii-expanded-edition
+----------------------------------------
+Game #93:
+  Name: Athena's Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AthenasGlory-CsyCK2kNv.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-athena-s-glory
+----------------------------------------
+Game #94:
+  Name: Book Of Ocean Outlaws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfOceanOutlaws-lfnxT-Xs7.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-ocean-outlaws
+----------------------------------------
+Game #95:
+  Name: Fairytale Beauties 2 - Enchanted Hearts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FairytaleBeauties2EnchantedHearts-l-5pnyrEu.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fairytale-beauties-2-enchanted-hearts
+----------------------------------------
+Game #96:
+  Name: Vegas - Chase'N'Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:VegasChaseNWin-hX2Yz8gsQ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-vegas-chase-n-win
+----------------------------------------
+Game #97:
+  Name: Atlas Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AtlasUnleashed-aQUkX_1NW.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-atlas-unleashed
+----------------------------------------
+Game #98:
+  Name: Trout's Treasure - Wild Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureWildChristmas-DPYG1LIH1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-wild-christmas
+----------------------------------------
+Game #99:
+  Name: Lucky Score
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyScore-cgtkXo8Ni.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-score
+----------------------------------------
+Game #100:
+  Name: Book Of Horror - Friday the 13th
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfHorrorFridaythe13th-qePtWsRec.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-horror-friday-the-13th
+----------------------------------------
+Game #101:
+  Name: Book Of Piggy Bank - Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfPiggyBankRiches-hii2HaYoP.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-piggy-bank-riches
+----------------------------------------
+Game #102:
+  Name: MMA Champions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MMAChampions-pwfeYD_6C.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-mma-champions
+----------------------------------------
+Game #103:
+  Name: Story of Odin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofOdin-1OjyLzDtl.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-odin
+----------------------------------------
+Game #104:
+  Name: Wolf Fang - Snowfall
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangSnowfall-RKrpifV86.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-snowfall
+----------------------------------------
+Game #105:
+  Name: Book of Wolves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofWolves-waWQu_8MI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-wolves
+----------------------------------------
+Game #106:
+  Name: Age Of Cronus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AgeOfCronus-Dwt60If1U.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-age-of-cronus
+----------------------------------------
+Game #107:
+  Name: Baba Yaga Tales - Mystic Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BabaYagaTalesMysticFortune-8iA7qb2kt.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-baba-yaga-tales-mystic-fortune
+----------------------------------------
+Game #108:
+  Name: Book Of Majestic Wild Buffalo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfMajesticWildBuffalo-AxK2G2VIw.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-majestic-wild-buffalo
+----------------------------------------
+Game #109:
+  Name: Buffalo Rampage - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BuffaloRampageHoldHit-So0xe9JzS.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-buffalo-rampage-hold-hit
+----------------------------------------
+Game #110:
+  Name: Lucky Jack - Tut’s Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyJackTutsTreasures-RAyiRcqmJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-jack-tut-s-treasures
+----------------------------------------
+Game #111:
+  Name: Book of Rampage - Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofRampageReloaded-WfE8j986E.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rampage-reloaded
+----------------------------------------
+Game #112:
+  Name: PiggyBank - Stacked Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PiggyBankStackedFortune-q1Kguko1U.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-piggybank-stacked-fortune
+----------------------------------------
+Game #113:
+  Name: Mega Wild Fruits - On Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MegaWildFruitsOnFire-smuLB8DVM.png
+  Game Link: https://roobet.com/casino/game/spinomenal-mega-wild-fruits-on-fire
+----------------------------------------
+Game #114:
+  Name: Queen Of Fire - Frozen Flames
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfFireFrozenFlames-dB9Y_IpE_.png
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-fire-frozen-flames
+----------------------------------------
+Game #115:
+  Name: Wolf Fang - Ice & Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangIceFire-CkKe7l5ZO.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-ice-fire
+----------------------------------------
+Game #116:
+  Name: Trout's Treasure - Pearl Pier
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasurePearlPier-kqxguwFMT.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-pearl-pier
+----------------------------------------
+Game #117:
+  Name: Queen Of Ice - Frozen Flames
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfIceFrozenFlames-cGC0HLDt1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-ice-frozen-flames
+----------------------------------------
+Game #118:
+  Name: Snowing Gifts 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnowingGifts2-HFRkU-M9T.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snowing-gifts-2
+----------------------------------------
+Game #119:
+  Name: Mega Wild Fruits & Chillies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MegaWildFruitsAndChillies-LvSNDsPXl.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:MegaWildFruitsAndChillies
+----------------------------------------
+Game #120:
+  Name: Queen Of Oasis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfOasis-c_jH12odc.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:QueenOfOasis
+----------------------------------------
+Game #121:
+  Name: Book Of Rampage 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRampage2-9vCDBaEHe.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rampage-2
+----------------------------------------
+Game #122:
+  Name: Majestic Bison
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticBison-tF9_6CZlo.png
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-bison
+----------------------------------------
+Game #123:
+  Name: Luxury Club - Vip Room
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuxuryClubVipRoom--ImLJULKE.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-luxury-club-vip-room
+----------------------------------------
+Game #124:
+  Name: Koschei The Deathless
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KoscheiTheDeathless-4L6uGB8xq.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-koschei-the-deathless
+----------------------------------------
+Game #125:
+  Name: Mega Wild Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MegaWildFruits-jiZl8625a.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-mega-wild-fruits
+----------------------------------------
+Game #126:
+  Name: Book Of Aphrodite
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfAphrodite-AMV_MLYC0.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-aphrodite
+----------------------------------------
+Game #127:
+  Name: Dark Wolf
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DarkWolf-N2pFPgyfE.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dark-wolf
+----------------------------------------
+Game #128:
+  Name: Immortal Warlords
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ImmortalWarlords--ketMMDM1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-immortal-warlords
+----------------------------------------
+Game #129:
+  Name: Xmas Rooster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasRooster-sFY7XTagL.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-rooster
+----------------------------------------
+Game #130:
+  Name: Queen Of Rebirth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfRebirth-2m4UPtQY2.png
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-rebirth
+----------------------------------------
+Game #131:
+  Name: Majestic Claws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticClaws-eaeuNZfQF.png
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-claws
+----------------------------------------
+Game #132:
+  Name: Majestic Wild Buffalo - Winter Wonderland
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWildBuffaloWinterWonderland-Lm70lLdoi.png
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-wild-buffalo-winter-wonderland
+----------------------------------------
+Game #133:
+  Name: Book Of Baba Yaga
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfBabaYaga-V6bj8N4HX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-baba-yaga
+----------------------------------------
+Game #134:
+  Name: Book of Lucky Jack - Baba Yaga Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofLuckyJackBabaYagaTales-8Lv-MLwuL.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-lucky-jack-baba-yaga-tales
+----------------------------------------
+Game #135:
+  Name: Book Of Muertos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfMuertos-XYVqy6sMg.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-muertos
+----------------------------------------
+Game #136:
+  Name: Fruits Collection 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCollection20Lines-Ik_pKLU_O.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-collection-20-lines
+----------------------------------------
+Game #137:
+  Name: Book Of Demi Gods III
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods3-lEkt058tj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iii
+----------------------------------------
+Game #138:
+  Name: Book of Sirens - Golden Pearl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofSirensGoldenPearl-Plu8xiuWT.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-sirens-golden-pearl
+----------------------------------------
+Game #139:
+  Name: Wolf Fang - Underworld
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangUnderworld-ikztIEahB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-underworld
+----------------------------------------
+Game #140:
+  Name: Book Of Demi Gods IV - Thunderstorm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods4Thunderstorm-GOfF4f5gB.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iv-thunderstorm
+----------------------------------------
+Game #141:
+  Name: Athena's Glory - Story of Arachne
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AthenasGloryStoryofArachne-CBgGpdRAt.png
+  Game Link: https://roobet.com/casino/game/spinomenal-athena-s-glory-story-of-arachne
+----------------------------------------
+Game #142:
+  Name: Book Of Tribes Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTribesReloaded-hA5pEpklB.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-tribes-reloaded
+----------------------------------------
+Game #143:
+  Name: Book Of Rampage - A Moonlight Tale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRampageAMoonlightTale-ovcAwgQY0.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rampage-a-moonlight-tale
+----------------------------------------
+Game #144:
+  Name: Trout's Treasure - Frosty Fins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureFrostyFins-XIYfnBmio.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-frosty-fins
+----------------------------------------
+Game #145:
+  Name: Majestic White Rhino
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWhiteRhino-QSNAHID8v.png
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-white-rhino
+----------------------------------------
+Game #146:
+  Name: Winter's Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WintersGold-bjU_N3gKj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-winter-s-gold
+----------------------------------------
+Game #147:
+  Name: Book Of Demi Gods III Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods3Reloaded-kQ7JOZwt-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iii-reloaded
+----------------------------------------
+Game #148:
+  Name: Book Of The Cursed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTheCursed-KXZRPysZo.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-cursed
+----------------------------------------
+Game #149:
+  Name: Champions Circuit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ChampionsCircuit-RJrS6tYK1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-champions-circuit
+----------------------------------------
+Game #150:
+  Name: Outlaw’s Redemption
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:OutlawsRedemption-E8gIfNkqt.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-outlaw-s-redemption
+----------------------------------------
+Game #151:
+  Name: Book Of Diamonds Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDiamondsReloaded-9ioqivQhP.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-diamonds-reloaded
+----------------------------------------
+Game #152:
+  Name: Queen of The Forest - Night Whispers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenofTheForestNightWhispers-Jx98IDyyU.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-the-forest-night-whispers
+----------------------------------------
+Game #153:
+  Name: Book Of Demi Gods IV
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGods4-7L7xkJvdb.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iv
+----------------------------------------
+Game #154:
+  Name: Trout's Treasure - Caribbean Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureCaribbeanCatch-WT3Gbl6Z5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-caribbean-catch
+----------------------------------------
+Game #155:
+  Name: Wild Rush Bunny
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildRushBunny-AcF_ZutEt.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-rush-bunny
+----------------------------------------
+Game #156:
+  Name: Book of Clovers Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofCloversReloaded-w28xfmNf2.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-clovers-reloaded
+----------------------------------------
+Game #157:
+  Name: Kitsune's Scrolls - Sacred Flames
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KitsunesScrollsSacredFlames-FxNvTglBi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kitsune-s-scrolls-sacred-flames
+----------------------------------------
+Game #158:
+  Name: Fairytale Beauties
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FairytaleBeauties-rAlZI71qd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fairytale-beauties
+----------------------------------------
+Game #159:
+  Name: Book Of The Divine
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTheDivine-HKpXOsuuX.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-divine
+----------------------------------------
+Game #160:
+  Name: 1 Reel Caribbean Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelCaribbeanTreasure-hGBwdtb-b.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-caribbean-treasure
+----------------------------------------
+Game #161:
+  Name: Poseidon's Rising - 15 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PoseidonsRising15Lines-vNaZxWYRb.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-poseidon-s-rising-15-lines
+----------------------------------------
+Game #162:
+  Name: Wolf Fang - Apocalypse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangApocalypse-yYO-ET9A4.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-apocalypse
+----------------------------------------
+Game #163:
+  Name: Trout's Treasure - Countryside Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureCountrysideQuest-08u1W_YqA.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-countryside-quest
+----------------------------------------
+Game #164:
+  Name: 1 Reel - In Wonderland
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelInWonderland-pHucc4wae.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-in-wonderland
+----------------------------------------
+Game #165:
+  Name: Dracula - Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DraculaUnleashed-6ggQvrCP6.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dracula-unleashed
+----------------------------------------
+Game #166:
+  Name: 1 Reel - Classic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelClassic-TZafAfDSR.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-classic
+----------------------------------------
+Game #167:
+  Name: Demi Gods II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGods2-3QkFxOAxZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-ii
+----------------------------------------
+Game #168:
+  Name: Pick A Fruit - Frosty Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PickAFruitFrostyReels-f9Hl795IQ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-pick-a-fruit-frosty-reels
+----------------------------------------
+Game #169:
+  Name: Women's Day
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WomensDay-k4KEXHqfx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-women-s-day
+----------------------------------------
+Game #170:
+  Name: Club of Legends
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ClubofLegends-BJgIxAMjE.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-club-of-legends
+----------------------------------------
+Game #171:
+  Name: Joker Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokerWin-tQMVlok-a.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-win
+----------------------------------------
+Game #172:
+  Name: Poseidon's Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PoseidonsRising-PweXNi1Fb.png
+  Game Link: https://roobet.com/casino/game/spinomenal-poseidon-s-rising
+----------------------------------------
+Game #173:
+  Name: Book Of Rebirth Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRebirthReloaded-AwpO3sGBu.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rebirth-reloaded
+----------------------------------------
+Game #174:
+  Name: Wild Sailors - Tides Of Adventure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildSailorsTidesOfAdventure-VV8ocDfYm.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-sailors-tides-of-adventure
+----------------------------------------
+Game #175:
+  Name: Wolf Fang - Supermoon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangSupermoon-BRNo7iCkx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-supermoon
+----------------------------------------
+Game #176:
+  Name: Irish Treasures - Leprechaun's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:IrishTreasuresLeprechaunsFortune-b6fsJtTqu.png
+  Game Link: https://roobet.com/casino/game/spinomenal-irish-treasures-leprechaun-s-fortune
+----------------------------------------
+Game #177:
+  Name: Egyptian Rebirth II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirth2-4In4OxUoo.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii
+----------------------------------------
+Game #178:
+  Name: Book Of Baba Yaga - Winter Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfBabaYagaWinterSpell-Q96Hkmxu3.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-baba-yaga-winter-spell
+----------------------------------------
+Game #179:
+  Name: Trout's Treasure - Wild Rivers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureWildRivers-OpDB-bfI5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-wild-rivers
+----------------------------------------
+Game #180:
+  Name: Reindeer Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ReindeerRampage-TGs85X-aX.png
+  Game Link: https://roobet.com/casino/game/spinomenal-reindeer-rampage
+----------------------------------------
+Game #181:
+  Name: Dracula - Darkest Flame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DraculaDarkestFlame-D9u55sYEZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dracula-darkest-flame
+----------------------------------------
+Game #182:
+  Name: Majestic Spirit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticSpirit-aqlDK8Yb6.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-spirit
+----------------------------------------
+Game #183:
+  Name: Story Of Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfZeus-6S1brd9HK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-zeus
+----------------------------------------
+Game #184:
+  Name: Book Of Irish Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfIrishTreasures-NN09NXA3v.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-irish-treasures
+----------------------------------------
+Game #185:
+  Name: Halloween - Chase'N'Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HalloweenChaseNWin-tkBp0QQtR.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-halloween-chase-n-win
+----------------------------------------
+Game #186:
+  Name: Wild Santa - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildSantaHoldHit-VPZ4mLRUB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-santa-hold-hit
+----------------------------------------
+Game #187:
+  Name: Trout's Treasure - Mystic River
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureMysticRiver-_oAvjAG_H.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-mystic-river
+----------------------------------------
+Game #188:
+  Name: Athena's Glory - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AthenasGloryHoldHit-tz7RE-Gnd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-athena-s-glory-hold-hit
+----------------------------------------
+Game #189:
+  Name: 1 Reel Shamrock
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelShamrock-jT_xLBZIZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-shamrock
+----------------------------------------
+Game #190:
+  Name: Story Of Vikings 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfVikings10Lines-sRPmXjQNT.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-vikings-10-lines
+----------------------------------------
+Game #191:
+  Name: Wolf Fang - Treasure Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangTreasureIsland-7tb09MH_y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-treasure-island
+----------------------------------------
+Game #192:
+  Name: Penny Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PennyFruits-DNV1rnV2k.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-penny-fruits
+----------------------------------------
+Game #193:
+  Name: Majestic Winter - Avalanche
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWinterAvalanche-CDh9jegBS.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-winter-avalanche
+----------------------------------------
+Game #194:
+  Name: Book of Majestic King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofMajesticKing-oNnbzt3OQ.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-majestic-king
+----------------------------------------
+Game #195:
+  Name: Demi Gods IV - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsIVTheGoldenEra-Hds-g0VUg.png
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-iv-the-golden-era
+----------------------------------------
+Game #196:
+  Name: Nights Of Magic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightsOfMagic-Iu4QDHtVR.png
+  Game Link: https://roobet.com/casino/game/spinomenal-nights-of-magic
+----------------------------------------
+Game #197:
+  Name: Holidays Joker - Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HolidaysJokerXmas-ayWB8CoDZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-holidays-joker-xmas
+----------------------------------------
+Game #198:
+  Name: Book of Demi Gods III - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofDemiGodsIIITheGoldenEra-3DprXH8C1.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iii-the-golden-era
+----------------------------------------
+Game #199:
+  Name: Times Of Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TimesOfEgypt-Xt2fJ8Cce.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-times-of-egypt
+----------------------------------------
+Game #200:
+  Name: Cyclops Unchained
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:CyclopsUnchained-_-h6Tv502.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-cyclops-unchained
+----------------------------------------
+Game #201:
+  Name: Book Of Tribes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTribes-DPjLy7YJU.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-tribes
+----------------------------------------
+Game #202:
+  Name: Reels of Rio
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ReelsofRio-MLHr6MypT.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-reels-of-rio
+----------------------------------------
+Game #203:
+  Name: Book Of Elves 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfElves2-8Rprgtdz_.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-elves-2
+----------------------------------------
+Game #204:
+  Name: Book of Wolves - Full Moon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofWolvesFullMoon-VhY3K7tm3.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-wolves-full-moon
+----------------------------------------
+Game #205:
+  Name: Reign Of Seth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ReignOfSeth-VmeViV6-l.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-reign-of-seth
+----------------------------------------
+Game #206:
+  Name: Super Wild Fruits - On Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperWildFruitsOnIce-1_dfJZtB1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-wild-fruits-on-ice
+----------------------------------------
+Game #207:
+  Name: Trout's Treasure - Egyptian Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureEgyptianCatch-p4kV0Ypl2.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-egyptian-catch
+----------------------------------------
+Game #208:
+  Name: Egyptian Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianWays-MR2CT38HA.png
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-ways
+----------------------------------------
+Game #209:
+  Name: Wolf Fang - Northern Spirits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangNorthernSpirits-wvhgLyOi1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-northern-spirits
+----------------------------------------
+Game #210:
+  Name: Night Wolf - Darkest Flame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightWolfDarkestFlame-Tqh_wyKXR.png
+  Game Link: https://roobet.com/casino/game/spinomenal-night-wolf-darkest-flame
+----------------------------------------
+Game #211:
+  Name: Beer O'clock
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BeerOclock-GDPXgXxNg.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-beer-o-clock
+----------------------------------------
+Game #212:
+  Name: Lucky Jack - Book Of Rebirth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyJackBookOfRebirth-5IUxs1jcZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-jack-book-of-rebirth
+----------------------------------------
+Game #213:
+  Name: Wolf Fang - Nights Of Magic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangNightsOfMagic-b0hb64Ubn.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-nights-of-magic
+----------------------------------------
+Game #214:
+  Name: Fruits On Ice Collection - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsOnIceCollection10Lines-7SRadoYH1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-on-ice-collection-10-lines
+----------------------------------------
+Game #215:
+  Name: Gangster's Gold - On The Run
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GangstersGoldOnTheRun-cPZvJyzvd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-gangster-s-gold-on-the-run
+----------------------------------------
+Game #216:
+  Name: Origins Of Lilith
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:OriginsOfLilith-qjOIcwBAz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-origins-of-lilith
+----------------------------------------
+Game #217:
+  Name: Book Of Demi Gods V
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGodsV-5vOG-8g8f.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-v
+----------------------------------------
+Game #218:
+  Name: Majestic White Leopard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWhiteLeopard-TZsZg6iSC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-white-leopard
+----------------------------------------
+Game #219:
+  Name: Golden Piggy Bank - Bling Bling
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GoldenPiggyBankBlingBling-MSSV48UKk.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-golden-piggy-bank-bling-bling
+----------------------------------------
+Game #220:
+  Name: Freya Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FreyaUnleashed-BnKJu7u_4.png
+  Game Link: https://roobet.com/casino/game/spinomenal-freya-unleashed
+----------------------------------------
+Game #221:
+  Name: Majestic Claws - Wild Snow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticClawsWildSnow-VNl-DLYub.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-claws-wild-snow
+----------------------------------------
+Game #222:
+  Name: Book of Demi Gods II - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofDemiGodsIITheGoldenEra-2RF1tfwR4.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-ii-the-golden-era
+----------------------------------------
+Game #223:
+  Name: Titan's Rising 15 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TitansRising15Lines-NLvz4t6X7.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-titan-s-rising-15-lines
+----------------------------------------
+Game #224:
+  Name: Book Of Fairytale Beauties
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfFairytaleBeauties-wHG5OeIk7.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-fairytale-beauties
+----------------------------------------
+Game #225:
+  Name: 1 Reel Wolf Fang
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelWolfFang-4HWeKWD6r.png
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-wolf-fang
+----------------------------------------
+Game #226:
+  Name: Wolf Fang - The Origins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangTheOrigins--qCj7LztK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-the-origins
+----------------------------------------
+Game #227:
+  Name: Glowing Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GlowingFruits-t1fpOh7wO.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-glowing-fruits
+----------------------------------------
+Game #228:
+  Name: Hallow Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HallowReels-ZYcJamq3I.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-hallow-reels
+----------------------------------------
+Game #229:
+  Name: Patrick's Collection - Ultimate Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksCollectionUltimateEdition-kz0C5a0iw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-collection-ultimate-edition
+----------------------------------------
+Game #230:
+  Name: Trojan Tales - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TrojanTalesTheGoldenEra-_qX85o6xV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trojan-tales-the-golden-era
+----------------------------------------
+Game #231:
+  Name: Fruits Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCraze-uunI-mmrd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-craze
+----------------------------------------
+Game #232:
+  Name: Patrick's Day - Chase’N’Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksDayChaseNWin-qwiPa0KnP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-day-chase-n-win
+----------------------------------------
+Game #233:
+  Name: Demi Gods II 15 Lines Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGods215LinesEdition--cavOVqc8.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-ii-15-lines-edition
+----------------------------------------
+Game #234:
+  Name: Wild Easter Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildEasterGifts-1oCssuEFR.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-easter-gifts
+----------------------------------------
+Game #235:
+  Name: Trout's Treasure - Deep Water
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TroutsTreasureDeepWater-6xf6VQyXC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trout-s-treasure-deep-water
+----------------------------------------
+Game #236:
+  Name: Dreams Of Cleopatra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DreamsOfCleopatra-uLjml4VFY.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dreams-of-cleopatra
+----------------------------------------
+Game #237:
+  Name: Olympian Throne
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:OlympianThrone-4HXDja6Us.png
+  Game Link: https://roobet.com/casino/game/spinomenal-olympian-throne
+----------------------------------------
+Game #238:
+  Name: Legend Of Lilith
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LegendOfLilith-Pz-tG-lU-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-legend-of-lilith
+----------------------------------------
+Game #239:
+  Name: Book Of Hercules - A Legendary Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfHerculesALegendaryQuest-kS1n56Riw.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-hercules-a-legendary-quest
+----------------------------------------
+Game #240:
+  Name: Halloween Charms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HalloweenCharms-aoZERFr3f.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-halloween-charms
+----------------------------------------
+Game #241:
+  Name: Wacky Monkey - Chase'N'Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WackyMonkeyChaseNWin-_LnRW-4xA.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wacky-monkey-chase-n-win
+----------------------------------------
+Game #242:
+  Name: 1 Reel - Rooster Mayhem
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelRoosterMayhem-w0bcwV03X.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-rooster-mayhem
+----------------------------------------
+Game #243:
+  Name: Wolf Fang - Western Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangWesternTales-AdQZf0mVY.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-western-tales
+----------------------------------------
+Game #244:
+  Name: Book of Demi Gods IV - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofDemiGodsIVTheGoldenEra-raNaSEVc4.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-iv-the-golden-era
+----------------------------------------
+Game #245:
+  Name: Wild Bandida
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildBandida-bzddgjdBv.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-bandida
+----------------------------------------
+Game #246:
+  Name: Ded Moroz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DedMoroz-8W00Fc52I.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-ded-moroz
+----------------------------------------
+Game #247:
+  Name: Book of Lucky Jack - The Lost Pearl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofLuckyJackTheLostPearl-Qs0cOEYYq.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-lucky-jack-the-lost-pearl
+----------------------------------------
+Game #248:
+  Name: Fruits On Ice Collection - 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsOnIceCollection20Lines-SlqqpJtpD.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-on-ice-collection-20-lines
+----------------------------------------
+Game #249:
+  Name: Book Of Rebirth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRebirth-tz1UVqmum.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rebirth
+----------------------------------------
+Game #250:
+  Name: Fortuna de los Muertos II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FortunadelosMuertos2-LPUXtPoaR.png
+  Game Link: https://roobet.com/casino/game/spinomenal-fortuna-de-los-muertos-ii
+----------------------------------------
+Game #251:
+  Name: Book Of Elves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfElves-7Ijvad_oW.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-elves
+----------------------------------------
+Game #252:
+  Name: Goddess Of Lotus - Blooming Wonder
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GoddessOfLotusBloomingWonder-PjYA4qgrw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-goddess-of-lotus-blooming-wonder
+----------------------------------------
+Game #253:
+  Name: Book Of Panther - Wild Dawn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfPantherWildDawn-Wvt4vjE0C.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-panther-wild-dawn
+----------------------------------------
+Game #254:
+  Name: Easter Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EasterSpin-r9M1mc5N7.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-easter-spin
+----------------------------------------
+Game #255:
+  Name: Dracula - The Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DraculaTheHunt-uPHr6ztL1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dracula-the-hunt
+----------------------------------------
+Game #256:
+  Name: Demi Gods VI - Mystic Shadows
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsVIMysticShadows-rcbjt7nlc.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-vi-mystic-shadows
+----------------------------------------
+Game #257:
+  Name: Fairytale Beauties - Daydream Fantasy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FairytaleBeautiesDaydreamFantasy-pJXSI0gNe.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fairytale-beauties-daydream-fantasy
+----------------------------------------
+Game #258:
+  Name: Book Of Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfXmas-rGfZFrBxq.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-xmas
+----------------------------------------
+Game #259:
+  Name: Book Of Lucky Mr Patrick
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfLuckyMrPatrick-HGEa4FOWe.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-lucky-mr-patrick
+----------------------------------------
+Game #260:
+  Name: Joker’s Charms - Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersCharmsHalloween-z6RxXKVtz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-charms-halloween
+----------------------------------------
+Game #261:
+  Name: Fruits - Chase'N'Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsChaseNWin-BJqFfxSdB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-chase-n-win
+----------------------------------------
+Game #262:
+  Name: Snow White's Magic Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnowWhitesMagicQuest-xA35jsGkX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snow-white-s-magic-quest
+----------------------------------------
+Game #263:
+  Name: Book Of SpinOWeen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfSpinOWeen-bhvvqei-S.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-spinoween
+----------------------------------------
+Game #264:
+  Name: Holidays Joker - Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HolidaysJokerHalloween-g9yVmHgO3.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-holidays-joker-halloween
+----------------------------------------
+Game #265:
+  Name: Wolf Fang - Spring Awakening
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangSpringAwakening-b9nHS6pcX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-spring-awakening
+----------------------------------------
+Game #266:
+  Name: Book Of Trojan Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTrojanTales-Z8wubyeD1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-trojan-tales
+----------------------------------------
+Game #267:
+  Name: Tales Of Camelot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TalesOfCamelot-yuN1AY-Oc.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-tales-of-camelot
+----------------------------------------
+Game #268:
+  Name: Baba Yaga Tales - Haunted Hollows
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BabaYagaTalesHauntedHollows-E5rw1iTSB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-baba-yaga-tales-haunted-hollows
+----------------------------------------
+Game #269:
+  Name: Frozen Fruits - Chase'N’Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FrozenFruitsChaseNWin-lCbBdT3Ga.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-frozen-fruits-chase-n-win
+----------------------------------------
+Game #270:
+  Name: Spear Of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SpearOfFire-yugo0MOd3.png
+  Game Link: https://roobet.com/casino/game/spinomenal-spear-of-fire
+----------------------------------------
+Game #271:
+  Name: Super Miner - Diamond Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperMinerDiamondFrenzy-9hpX-7x9H.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-miner-diamond-frenzy
+----------------------------------------
+Game #272:
+  Name: Book Of Mystic Revelations
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfMysticRevelations-5s_CTNqCO.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-mystic-revelations
+----------------------------------------
+Game #273:
+  Name: Trojan Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TrojanTales-gdOhrK2ZK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-trojan-tales
+----------------------------------------
+Game #274:
+  Name: Joker's Wild Ride - Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersWildRideXmas-MfetL14R-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-wild-ride-xmas
+----------------------------------------
+Game #275:
+  Name: Snegurochka & Ded Moroz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnegurochkaDedMoroz-F3oKSYz-0.png
+  Game Link: https://roobet.com/casino/game/spinomenal-snegurochka-ded-moroz
+----------------------------------------
+Game #276:
+  Name: Wolf Fang - Ancient Greece
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangAncientGreece-9dfPispsn.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-ancient-greece
+----------------------------------------
+Game #277:
+  Name: Book Of Xmas - Jingle Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfXmasJingleBells-oJRwQ9dFy.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-xmas-jingle-bells
+----------------------------------------
+Game #278:
+  Name: New Year's Celebration
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NewYearsCelebration-PLcfHHMmA.png
+  Game Link: https://roobet.com/casino/game/spinomenal-new-year-s-celebration
+----------------------------------------
+Game #279:
+  Name: Penny Fruits Xtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PennyFruitsXtreme-6d5JEaKeJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-penny-fruits-xtreme
+----------------------------------------
+Game #280:
+  Name: Winners Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WinnersGold-wjIsAlc7Y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-winners-gold
+----------------------------------------
+Game #281:
+  Name: Book of Sirens - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofSirensTheGoldenEra-d51SG4R4t.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-sirens-the-golden-era
+----------------------------------------
+Game #282:
+  Name: 1 Reel - Demi Gods V
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelDemiGodsV-486cPUyI2.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-demi-gods-v
+----------------------------------------
+Game #283:
+  Name: Reign Of Seth - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ReignOfSethEgyptianDarkness-N3v4h_OGd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-reign-of-seth-egyptian-darkness
+----------------------------------------
+Game #284:
+  Name: 1 Reel Monkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMonkey-zahPtPDQo.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-monkey
+----------------------------------------
+Game #285:
+  Name: Oktober Spin Fest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:OktoberSpinFest-HuAuei12z.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-oktober-spin-fest
+----------------------------------------
+Game #286:
+  Name: Book Of Alice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfAlice-JbKNZYBq_.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-alice
+----------------------------------------
+Game #287:
+  Name: Wild Penguin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildPenguin-G55AHiPPw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-penguin
+----------------------------------------
+Game #288:
+  Name: Night Wolf - Frozen Flame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightWolfFrozenFlame-oe9LyMliG.png
+  Game Link: https://roobet.com/casino/game/spinomenal-night-wolf-frozen-flame
+----------------------------------------
+Game #289:
+  Name: Ra's Golden Loot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RasGoldenLoot-_QMPxrT3w.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-ra-s-golden-loot
+----------------------------------------
+Game #290:
+  Name: Super Miner - Golden Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperMinerGoldenTreasure-y79aQ2wiA.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-miner-golden-treasure
+----------------------------------------
+Game #291:
+  Name: Pick a Fruit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PickaFruit-l553iDW7E.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-pick-a-fruit
+----------------------------------------
+Game #292:
+  Name: Story Of The Little Mermaid
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfTheLittleMermaid-y28oWcxwU.png
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-the-little-mermaid
+----------------------------------------
+Game #293:
+  Name: Reels Of Rio - Party Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ReelsOfRioPartyTime-g12mveznx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-reels-of-rio-party-time
+----------------------------------------
+Game #294:
+  Name: Treasures Of The Trident
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TreasuresOfTheTrident-o4lpGW-_c.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-treasures-of-the-trident
+----------------------------------------
+Game #295:
+  Name: Majestic Blue Panther
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticBluePanther-kiB7_VcJx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-blue-panther
+----------------------------------------
+Game #296:
+  Name: 1 Reel Buffalo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelBuffalo-eN2Qatodv.png
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-buffalo
+----------------------------------------
+Game #297:
+  Name: Xmas - Chase'N'Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasChaseNWin-kNu4ceazD.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-chase-n-win
+----------------------------------------
+Game #298:
+  Name: Joker's Wild Ride - Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersWildRideHalloween-yYBXLjWFi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-wild-ride-halloween
+----------------------------------------
+Game #299:
+  Name: 1 Reel Reef
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelReef-Hsc7nRyxx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-reef
+----------------------------------------
+Game #300:
+  Name: Super Miner - Silver Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperMinerSilverFortunes-zn95wjYUP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-miner-silver-fortunes
+----------------------------------------
+Game #301:
+  Name: Santa’s Wild Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SantasWildNight-uagtc6Okx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-santa-s-wild-night
+----------------------------------------
+Game #302:
+  Name: Savannah's Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SavannahsQueen-8yng2UJUK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-savannah-s-queen
+----------------------------------------
+Game #303:
+  Name: Egyptian Sands
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianSands-X6_AAfGrL.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-sands
+----------------------------------------
+Game #304:
+  Name: 1 Reel - Demi Gods Vl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelDemiGodsVl-ioJVaSdC0.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-demi-gods-vl
+----------------------------------------
+Game #305:
+  Name: Lucky Mrs Patrick
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyMrsPatrick-6FZFtUQrI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-mrs-patrick
+----------------------------------------
+Game #306:
+  Name: Mega Wild Fruits - Ice Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MegaWildFruitsIceBlast-FXvLMU-cV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-mega-wild-fruits-ice-blast
+----------------------------------------
+Game #307:
+  Name: 100 Lucky Chilies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:100LuckyChilies-caBA9OXO4.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-100-lucky-chilies
+----------------------------------------
+Game #308:
+  Name: 1 Reel - Medusa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMedusa-LMDH2Ke25.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-medusa
+----------------------------------------
+Game #309:
+  Name: Story Of The Samurai - Blade Of Destiny
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfTheSamuraiBladeOfDestiny-frZdNOpVm.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-the-samurai-blade-of-destiny
+----------------------------------------
+Game #310:
+  Name: Majestic King - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticKingHoldAndHit-fXum7oFFS.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-king-hold-hit
+----------------------------------------
+Game #311:
+  Name: Majestic Winter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticWinter-NKag3za45.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-winter
+----------------------------------------
+Game #312:
+  Name: Egyptian Myth - Tales of Fortune
+  Image URL: https://roobet.com/assets/Bermymtr.jpg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-myth-tales-of-fortune
+----------------------------------------
+Game #313:
+  Name: Joker’s Charms - Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersCharmsXmas-RCNohHWgF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-charms-xmas
+----------------------------------------
+Game #314:
+  Name: Kitsune's Scrolls
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KitsunesScrolls-8wkRIFFLC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kitsune-s-scrolls
+----------------------------------------
+Game #315:
+  Name: Magical Leprechaun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MagicalLeprechaun-2t-Z5OsQB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-magical-leprechaun
+----------------------------------------
+Game #316:
+  Name: Beer Collection 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BeerCollection40Lines-96_CGAh6t.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-beer-collection-40-lines
+----------------------------------------
+Game #317:
+  Name: Solar Odyssey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SolarOdyssey-_3IP8WIRF.png
+  Game Link: https://roobet.com/casino/game/spinomenal-solar-odyssey
+----------------------------------------
+Game #318:
+  Name: Goddess Of Lotus - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GoddessOfLotus10Lines-BASvQJ3W-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-goddess-of-lotus-10-lines
+----------------------------------------
+Game #319:
+  Name: Book Of The Divine Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTheDivineReloaded-lzXGIZSg7.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-divine-reloaded
+----------------------------------------
+Game #320:
+  Name: Tales Of Camelot - Moonlit Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TalesOfCamelotMoonlitQuest-ZtwbLcfVD.png
+  Game Link: https://roobet.com/casino/game/spinomenal-tales-of-camelot-moonlit-quest
+----------------------------------------
+Game #321:
+  Name: Beer Collection 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BeerCollection20Lines-UdopmtGCV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-beer-collection-20-lines
+----------------------------------------
+Game #322:
+  Name: Book of Frosty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofFrosty-Aorzya9bs.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-frosty
+----------------------------------------
+Game #323:
+  Name: Egyptian Rebirth II 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirth210Lines-KUMs-BiSO.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii-10-lines
+----------------------------------------
+Game #324:
+  Name: Wolf Fang - Iron Wolf
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangIronWolf-fIQ6AwUet.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-iron-wolf
+----------------------------------------
+Game #325:
+  Name: Fortuna De Los Muertos 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FortunaDeLosMuertos4-F5CVQc8HE.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fortuna-de-los-muertos-4
+----------------------------------------
+Game #326:
+  Name: Queen of The Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenofTheForest-YtCANuPOa.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-the-forest
+----------------------------------------
+Game #327:
+  Name: Lucky Jack - Lost Jungle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyJackLostJungle-zRLgyhrxw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-jack-lost-jungle
+----------------------------------------
+Game #328:
+  Name: Times of Egypt - Pharaoh's Reign
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TimesofEgyptPharaohsReign-H4tKyE3mo.png
+  Game Link: https://roobet.com/casino/game/spinomenal-times-of-egypt-pharaoh-s-reign
+----------------------------------------
+Game #329:
+  Name: Werewolf - The Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WerewolfTheHunt--lUXVky4J.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-werewolf-the-hunt
+----------------------------------------
+Game #330:
+  Name: 1 Reel - Majestic Wild Buffalo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMajesticWildBuffalo-4zt7L85sr.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-majestic-wild-buffalo
+----------------------------------------
+Game #331:
+  Name: Book Of Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRampage-qhLFQijbF.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rampage
+----------------------------------------
+Game #332:
+  Name: Story Of Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfEgypt-JcnnP6K0P.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-egypt
+----------------------------------------
+Game #333:
+  Name: The Ankh Protector
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TheAnkhProtector-kTDXAmU1u.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-the-ankh-protector
+----------------------------------------
+Game #334:
+  Name: Summer Of Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SummerOfLuck-w5OiuTIe0.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-summer-of-luck
+----------------------------------------
+Game #335:
+  Name: 1 Reel Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelHalloween-LGvTQzYdA.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-halloween
+----------------------------------------
+Game #336:
+  Name: Quest To The Underworld
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QuestToTheUnderworld-vfU1p94Zp.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-quest-to-the-underworld
+----------------------------------------
+Game #337:
+  Name: 1 Reel - Xmas Magic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelXmasMagic-rRsRZFLOX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-xmas-magic
+----------------------------------------
+Game #338:
+  Name: Wild Santa 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildSanta3-3gXK1dmQ9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-santa-3
+----------------------------------------
+Game #339:
+  Name: Joker Charms - Patrick's Day
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokerCharmsPatricksDay-mhXFueSs0.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-charms-patrick-s-day
+----------------------------------------
+Game #340:
+  Name: Wolf Fang
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFang-uoJxz_fuM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang
+----------------------------------------
+Game #341:
+  Name: Mardi Gras Wild Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MardiGrasWildParty-GBm4lO9ZT.png
+  Game Link: https://roobet.com/casino/game/spinomenal-mardi-gras-wild-party
+----------------------------------------
+Game #342:
+  Name: Snowing Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnowingGifts-A6f0BY7xA.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snowing-gifts
+----------------------------------------
+Game #343:
+  Name: Book Of Camelot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfCamelot-uazTj3MbD.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-camelot
+----------------------------------------
+Game #344:
+  Name: Mega Wild Fruits - Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MegaWildFruitsXmas-a1cpbbRx2.png
+  Game Link: https://roobet.com/casino/game/spinomenal-mega-wild-fruits-xmas
+----------------------------------------
+Game #345:
+  Name: Egyptian Rebirth II - Frozen Flames
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirth2FrozenFlames-0jTjku9in.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii-frozen-flames
+----------------------------------------
+Game #346:
+  Name: Snegurochka
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:Snegurochka-_FeVm1wMh.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snegurochka
+----------------------------------------
+Game #347:
+  Name: Book of Sirens
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofSirens-QRjm8es3M.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-sirens
+----------------------------------------
+Game #348:
+  Name: Book Of Xmas Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfXmasReloaded-P-kevTk48.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-xmas-reloaded
+----------------------------------------
+Game #349:
+  Name: Lunar Goddess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LunarGoddess-Elb2XBJnP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lunar-goddess
+----------------------------------------
+Game #350:
+  Name: European Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EuropeanRoulette-UMfM0VrBb.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-european-roulette
+----------------------------------------
+Game #351:
+  Name: Merlin's Mirage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MerlinsMirage-GlCKn2gG8.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-merlin-s-mirage
+----------------------------------------
+Game #352:
+  Name: Poseidon's Rising - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PoseidonsRisingTheGoldenEra-e8ToaScf0.png
+  Game Link: https://roobet.com/casino/game/spinomenal-poseidon-s-rising-the-golden-era
+----------------------------------------
+Game #353:
+  Name: Nights Of Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightsOfEgypt-kaf4tSsPV.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-nights-of-egypt
+----------------------------------------
+Game #354:
+  Name: Demi Gods IV - Thunderstorm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGods4Thunderstorm-E6_0pmRZM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-iv-thunderstorm
+----------------------------------------
+Game #355:
+  Name: Joker's Wild Ride - Valentine's
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersWildRideValentines-OkUYniJ-O.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-wild-ride-valentine-s
+----------------------------------------
+Game #356:
+  Name: Times Of Egypt - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TimesOfEgyptEgyptianDarkness-2G2h9TT7X.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-times-of-egypt-egyptian-darkness
+----------------------------------------
+Game #357:
+  Name: Magical Amazon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MagicalAmazon-c-eIlmUj3.png
+  Game Link: https://roobet.com/casino/game/spinomenal-magical-amazon
+----------------------------------------
+Game #358:
+  Name: Kitsune - Sakura Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KitsuneSakuraFortune-5xHCrRI9J.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kitsune-sakura-fortune
+----------------------------------------
+Game #359:
+  Name: Book Of Aphrodite - The Love Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfAphroditeTheLoveSpell-uJQai4_au.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-aphrodite-the-love-spell
+----------------------------------------
+Game #360:
+  Name: Fruits On Ice Collection - 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsOnIceCollection30Lines-SgfAUkBbn.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-on-ice-collection-30-lines
+----------------------------------------
+Game #361:
+  Name: 1 Reel Queen Of The Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelQueenOfTheForest-FCeQjAzSF.png
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-queen-of-the-forest
+----------------------------------------
+Game #362:
+  Name: Book Of The Last Ronin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfTheLastRonin-qmuOw82MM.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-the-last-ronin
+----------------------------------------
+Game #363:
+  Name: Luxury Club
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuxuryClub-eC3CsO00O.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-luxury-club
+----------------------------------------
+Game #364:
+  Name: Book Of PiggyBank - Black Friday
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfPiggyBankBlackFriday-0lXIuE3_A.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-piggybank-black-friday
+----------------------------------------
+Game #365:
+  Name: 1 Reel - Tales Of Camelot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelTalesOfCamelot-BZE0SO7Ns.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-tales-of-camelot
+----------------------------------------
+Game #366:
+  Name: The Ankh Protector - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TheAnkhProtectorEgyptianDarkness-yhPQAguXd.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-the-ankh-protector-egyptian-darkness
+----------------------------------------
+Game #367:
+  Name: Book Of Rebirth 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfRebirth2-ThqoRHg4X.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-rebirth-2
+----------------------------------------
+Game #368:
+  Name: Gangsters Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GangstersGold-hLWn8iQ8k.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-gangsters-gold
+----------------------------------------
+Game #369:
+  Name: 1 Reel - Golden Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelGoldenRush-Nt_6aQ56c.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-golden-rush
+----------------------------------------
+Game #370:
+  Name: Majestic King - Ice Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticKingIceKingdom-ZpyJ97UED.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-king-ice-kingdom
+----------------------------------------
+Game #371:
+  Name: Queen Of Rome
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfRome-gGJUaFtvM.png
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-rome
+----------------------------------------
+Game #372:
+  Name: Book Of Demi Gods VI
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfDemiGodsVI-o6Wwm0Dzc.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-demi-gods-vi
+----------------------------------------
+Game #373:
+  Name: Midsummer's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MidsummersFortune-gWyrSUd95.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-midsummer-s-fortune
+----------------------------------------
+Game #374:
+  Name: Wolf Fang - Golden Sands
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangGoldenSands-Zww_CXIvF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-golden-sands
+----------------------------------------
+Game #375:
+  Name: Fruits Craze - On Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCrazeOnIce-xvFVix9fX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-craze-on-ice
+----------------------------------------
+Game #376:
+  Name: Egyptian Rebirth II - Sands Of Eternity
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirthIISandsOfEternity-KfDHSuhyN.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii-sands-of-eternity
+----------------------------------------
+Game #377:
+  Name: Wolf Fang - Crystal Caves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangCrystalCaves-2dLDf7G_m.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-crystal-caves
+----------------------------------------
+Game #378:
+  Name: 88 Fortune Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:88FortuneCats-G6JRZj5wD.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-88-fortune-cats
+----------------------------------------
+Game #379:
+  Name: Patrick's Collection - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksCollection10Lines-EMfKfeFmX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-collection-10-lines
+----------------------------------------
+Game #380:
+  Name: 777 - Santa's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777SantasFortune-wuh-1c2Gj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-777-santa-s-fortune
+----------------------------------------
+Game #381:
+  Name: Egyptian Rebirth II: Mummy's Return
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianRebirthIIMummysReturn-n9q0fzXYi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-rebirth-ii-mummy-s-return
+----------------------------------------
+Game #382:
+  Name: Story of Hercules
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofHercules-Al2F-e00d.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-hercules
+----------------------------------------
+Game #383:
+  Name: Mammoth Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MammothRampage-vg9wB0DA-.png
+  Game Link: https://roobet.com/casino/game/spinomenal-mammoth-rampage
+----------------------------------------
+Game #384:
+  Name: Story Of Egypt 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfEgypt10Lines-yfrSEF0jk.png
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-egypt-10-lines
+----------------------------------------
+Game #385:
+  Name: Story of Medusa II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofMedusa2-mYiznxGd-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-medusa-ii
+----------------------------------------
+Game #386:
+  Name: 1 Reel - Trading Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelTradingFrenzy-BMQX0Oj5r.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-trading-frenzy
+----------------------------------------
+Game #387:
+  Name: Irish Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:IrishTreasures-TLcLthh95.png
+  Game Link: https://roobet.com/casino/game/spinomenal-irish-treasures
+----------------------------------------
+Game #388:
+  Name: Beer Collection 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BeerCollection30Lines-P_-SOefdB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-beer-collection-30-lines
+----------------------------------------
+Game #389:
+  Name: 1 Reel Santa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelSanta-HOAqijY44.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-santa
+----------------------------------------
+Game #390:
+  Name: Xmas Collection 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasCollection30Lines-dJWLSHB86.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-collection-30-lines
+----------------------------------------
+Game #391:
+  Name: Boxing Ring Champions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BoxingRingChampions-fe29-41az.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-boxing-ring-champions
+----------------------------------------
+Game #392:
+  Name: Goddess Of Lotus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GoddessOfLotus-CmeEKojqC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-goddess-of-lotus
+----------------------------------------
+Game #393:
+  Name: Fortuna de los Muertos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FortunadelosMuertos-n9NMNJgP1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fortuna-de-los-muertos
+----------------------------------------
+Game #394:
+  Name: Wolf Fang - Deep Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangDeepForest-CJNy84Xl1.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-deep-forest
+----------------------------------------
+Game #395:
+  Name: Story Of The Samurai - The Last Ronin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfTheSamuraiTheLastRonin-VAnxED7k5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-the-samurai-the-last-ronin
+----------------------------------------
+Game #396:
+  Name: Lucky Jack - Dagger Of Destiny
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyJackDaggerOfDestiny-6DysqgHQa.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-jack-dagger-of-destiny
+----------------------------------------
+Game #397:
+  Name: Beer Collection 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BeerCollection10Lines-5TfP3Tuvi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-beer-collection-10-lines
+----------------------------------------
+Game #398:
+  Name: Wolf Fang - Shadow Realm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangShadowRealm-GsYSChMw1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-shadow-realm
+----------------------------------------
+Game #399:
+  Name: Queen Of Ice - Winter Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfIceWinterKingdom-9w0us6z0i.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-ice-winter-kingdom
+----------------------------------------
+Game #400:
+  Name: Story of Vikings - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofVikingsTheGoldenEra-bR5y-l2Gi.png
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-vikings-the-golden-era
+----------------------------------------
+Game #401:
+  Name: Book of Justice - Athena's Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofJusticeAthenasGlory-6sxAcm1ZL.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-justice-athena-s-glory
+----------------------------------------
+Game #402:
+  Name: Titan's Rising Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TitansRisingExpandedEdition-fJ51-9wys.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-titan-s-rising-expanded-edition
+----------------------------------------
+Game #403:
+  Name: Irish Treasures - Wild Celtic Charms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:IrishTreasuresWildCelticCharms-xUcv1AbQ_.png
+  Game Link: https://roobet.com/casino/game/spinomenal-irish-treasures-wild-celtic-charms
+----------------------------------------
+Game #404:
+  Name: Holidays Joker - Valentines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HolidaysJokerValentines-5PNugqA6D.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-holidays-joker-valentines
+----------------------------------------
+Game #405:
+  Name: Mardi Gras Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MardiGrasFortunes-kh39yyx5q.png
+  Game Link: https://roobet.com/casino/game/spinomenal-mardi-gras-fortunes
+----------------------------------------
+Game #406:
+  Name: Wolf Fang - Valhalla Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangValhallaRising-PLP6OM9_w.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-valhalla-rising
+----------------------------------------
+Game #407:
+  Name: Wolf Fang - Winter Storm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangWinterStorm-hMfxarK2Z.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-winter-storm
+----------------------------------------
+Game #408:
+  Name: Tennis Champions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TennisChampions-1pQu1JwY1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-tennis-champions
+----------------------------------------
+Game #409:
+  Name: Wolf Fang - The Wilderness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangTheWilderness-K-71x7_cj.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-the-wilderness
+----------------------------------------
+Game #410:
+  Name: 1 Reel Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelFruits-hlRGkFUY-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-fruits
+----------------------------------------
+Game #411:
+  Name: Ra's Golden Loot - Sapphire Suns
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RasGoldenLootSapphireSuns-l6q8VIaRg.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-ra-s-golden-loot-sapphire-suns
+----------------------------------------
+Game #412:
+  Name: Wolf Fang - Volcano
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangVolcano-sTtkCnbpj.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-volcano
+----------------------------------------
+Game #413:
+  Name: Super Wild Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SuperWildFruits-oXSq5YJsr.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-super-wild-fruits
+----------------------------------------
+Game #414:
+  Name: Book Of Xmas 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfXmas2-SHuFFL6br.png
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-xmas-2
+----------------------------------------
+Game #415:
+  Name: Fruits On Ice Collection - 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsOnIceCollection40Lines-kZl7_vYi-.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-on-ice-collection-40-lines
+----------------------------------------
+Game #416:
+  Name: Xmas Collection - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasCollection10Lines-pWyhoXBan.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-collection-10-lines
+----------------------------------------
+Game #417:
+  Name: Leshy's Magical Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LeshysMagicalForest-m2dEumSMZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-leshy-s-magical-forest
+----------------------------------------
+Game #418:
+  Name: Banshee's Call
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BansheesCall-tDH0iviCZ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-banshee-s-call
+----------------------------------------
+Game #419:
+  Name: Castle Of The Beast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:CastleOfTheBeast-Vteh67eHC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-castle-of-the-beast
+----------------------------------------
+Game #420:
+  Name: Gangsters Gold - Royal Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:GangstersGoldRoyalRiches-uyiZHvCDF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-gangsters-gold-royal-riches
+----------------------------------------
+Game #421:
+  Name: Wolf Fang - Sakura Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangSakuraFortune-leZcBkIJ3.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-sakura-fortune
+----------------------------------------
+Game #422:
+  Name: 1 Reel Beauty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelBeauty-tJtvAeK14.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-beauty
+----------------------------------------
+Game #423:
+  Name: Snegurochka II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:Snegurochka2-yfAe_P_0y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snegurochka-ii
+----------------------------------------
+Game #424:
+  Name: Kitsune's Scrolls - Nine Tails
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KitsunesScrollsNineTails-5ICugichF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kitsune-s-scrolls-nine-tails
+----------------------------------------
+Game #425:
+  Name: 100 Juicy Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:100JuicyFruits-3SNn3spte.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-100-juicy-fruits
+----------------------------------------
+Game #426:
+  Name: Lucky Mr. Patrick
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:LuckyMrPatrick-iOQLM_0Aj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-lucky-mr-patrick
+----------------------------------------
+Game #427:
+  Name: Western Tales - Bounty Pursuit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WesternTalesBountyPursuit-a1FPcDYnK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-western-tales-bounty-pursuit
+----------------------------------------
+Game #428:
+  Name: Dark Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DarkReels-fdMOCQ_MJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-dark-reels
+----------------------------------------
+Game #429:
+  Name: Night Wolf - Frostbite Fury
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightWolfFrostbiteFury-UmBDwy7VL.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-night-wolf-frostbite-fury
+----------------------------------------
+Game #430:
+  Name: Fruits Collection 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCollection40Lines-pEib4086M.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-collection-40-lines
+----------------------------------------
+Game #431:
+  Name: Story of Alice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofAlice-mZgGab0G5.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-alice
+----------------------------------------
+Game #432:
+  Name: Xmas Collection 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasCollection20Lines-iwTV8e3mX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-collection-20-lines
+----------------------------------------
+Game #433:
+  Name: Bavarian Riches 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BavarianRiches2-rrAp-cwrn.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-bavarian-riches-2
+----------------------------------------
+Game #434:
+  Name: Patrick's Collection 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksCollection20Lines-lc7ZAHBIa.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-collection-20-lines
+----------------------------------------
+Game #435:
+  Name: Kupala
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:Kupala-hT_KNdqdQ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kupala
+----------------------------------------
+Game #436:
+  Name: Mighty Odin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MightyOdin-QBLK-ylUM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-mighty-odin
+----------------------------------------
+Game #437:
+  Name: Western Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WesternTales-snbhyXI3Y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-western-tales
+----------------------------------------
+Game #438:
+  Name: 1 Reel Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelEgypt-01D4smqeb.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-egypt
+----------------------------------------
+Game #439:
+  Name: Joker's Wild Ride - Patrick's Day
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokersWildRidePatricksDay-fLvuTWiE1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-s-wild-ride-patrick-s-day
+----------------------------------------
+Game #440:
+  Name: Story of Medusa II - The Golden Era
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofMedusaIITheGoldenEra-gZnayLL-P.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-medusa-ii-the-golden-era
+----------------------------------------
+Game #441:
+  Name: Story of Gaia
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofGaia-kPmDMnSZN.png
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-gaia
+----------------------------------------
+Game #442:
+  Name: Holidays Joker - St. Patrick's Day
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HolidaysJokerStPatricksDay-RG8HttvuY.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-holidays-joker-st-patrick-s-day
+----------------------------------------
+Game #443:
+  Name: Xmas Collection 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:XmasCollection40Lines-ocFgRwm6T.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-xmas-collection-40-lines
+----------------------------------------
+Game #444:
+  Name: 1 Reel Demi Gods IV
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelDemiGods4-byK4KQblx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-demi-gods-iv
+----------------------------------------
+Game #445:
+  Name: Pick a Fruit - Fire Blaze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PickaFruitFireBlaze-QtxiWDr7v.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-pick-a-fruit-fire-blaze
+----------------------------------------
+Game #446:
+  Name: 1 Reel - Queen Of Water
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelQueenOfWater-PsJNb84_2.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-queen-of-water
+----------------------------------------
+Game #447:
+  Name: Wolf Fang - The Wild Snow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangTheWildSnow-yBS_W4jOi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-the-wild-snow
+----------------------------------------
+Game #448:
+  Name: Fairytale Beauties 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FairytaleBeauties2-jZ6KBlaPC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fairytale-beauties-2
+----------------------------------------
+Game #449:
+  Name: Demi Gods VI
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsVI-kwC4qmgor.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-vi
+----------------------------------------
+Game #450:
+  Name: Snowing Gifts 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnowingGifts3-JcJP1JbhF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-snowing-gifts-3
+----------------------------------------
+Game #451:
+  Name: Story Of The Samurai - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfTheSamurai10Lines-ygwNsYauw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-the-samurai-10-lines
+----------------------------------------
+Game #452:
+  Name: 1 Reel - Egyptian Marvel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelEgyptianMarvel-aw6n--T4a.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-egyptian-marvel
+----------------------------------------
+Game #453:
+  Name: Aztec Spell - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:AztecSpell10Lines-y_osNfD7H.png
+  Game Link: https://roobet.com/casino/game/spinomenal-aztec-spell-10-lines
+----------------------------------------
+Game #454:
+  Name: Story Of Love - Aphrodite's Spell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfLoveAphroditesSpell-KcbM1hQbG.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-love-aphrodite-s-spell
+----------------------------------------
+Game #455:
+  Name: Wolf Fang - Spear of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangSpearofFire-68NpqNe-b.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-spear-of-fire
+----------------------------------------
+Game #456:
+  Name: 1 Reel - Jarptitsa Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelJarptitsaUnleashed-kpSKkUHKH.png
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-jarptitsa-unleashed
+----------------------------------------
+Game #457:
+  Name: Story Of Hercules 15 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfHercules15Lines-hsEt44EWP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-hercules-15-lines
+----------------------------------------
+Game #458:
+  Name: Valentine's Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ValentinesFortune-o0KFSCyF9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-valentine-s-fortune
+----------------------------------------
+Game #459:
+  Name: Demi Gods V - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsVHoldHit-XiNknqWsW.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-v-hold-hit
+----------------------------------------
+Game #460:
+  Name: 1 Reel Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelJoker-ns6AsN07L.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-joker
+----------------------------------------
+Game #461:
+  Name: Midnight Pack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MidnightPack-t-eT9sXAz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-midnight-pack
+----------------------------------------
+Game #462:
+  Name: Rainbow Odyssey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RainbowOdyssey-ArPX7mORX.png
+  Game Link: https://roobet.com/casino/game/spinomenal-rainbow-odyssey
+----------------------------------------
+Game #463:
+  Name: Book Of Horror
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookOfHorror-qqrMe8RHe.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-horror
+----------------------------------------
+Game #464:
+  Name: Wildfire Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildfireFruits-LYCAcUDzQ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wildfire-fruits
+----------------------------------------
+Game #465:
+  Name: Queen Of Ice Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfIceExpandedEdition-8l2gCLByJ.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-ice-expanded-edition
+----------------------------------------
+Game #466:
+  Name: Night Wolf - Hold & Hit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NightWolfHoldHit-IYo_C6EgB.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-night-wolf-hold-hit
+----------------------------------------
+Game #467:
+  Name: Joker Charms - Valentine's
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:JokerCharmsValentines-PiqqeZyQ1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-joker-charms-valentine-s
+----------------------------------------
+Game #468:
+  Name: Queen Of The Amazon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:QueenOfTheAmazon-9qh5zeRVc.png
+  Game Link: https://roobet.com/casino/game/spinomenal-queen-of-the-amazon
+----------------------------------------
+Game #469:
+  Name: Valentine Collection 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ValentineCollection40Lines-NZT-UB7na.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-valentine-collection-40-lines
+----------------------------------------
+Game #470:
+  Name: Demi Gods III - 15 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGods315Lines-HSZubbrxz.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-iii-15-lines
+----------------------------------------
+Game #471:
+  Name: Valentine Collection 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ValentineCollection30Lines-A3909e0yI.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-valentine-collection-30-lines
+----------------------------------------
+Game #472:
+  Name: Story Of Cinderella
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfCinderella-_Wy7y0OXF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-cinderella
+----------------------------------------
+Game #473:
+  Name: 1 Reel Panther
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelPanther--edDRr3OO.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-panther
+----------------------------------------
+Game #474:
+  Name: Comic Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ComicCraze-3SMcjnjoP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-comic-craze
+----------------------------------------
+Game #475:
+  Name: Wild Dragon Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildDragonRiches-lng8NAjLj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-dragon-riches
+----------------------------------------
+Game #476:
+  Name: Valentine Collection 20 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ValentineCollection20Lines-E3nQOnnK4.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-valentine-collection-20-lines
+----------------------------------------
+Game #477:
+  Name: Book of Champions - World Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BookofChampionsWorldGlory-uAFvmyRKw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-book-of-champions-world-glory
+----------------------------------------
+Game #478:
+  Name: Wild Santa 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildSanta2-HQnT8DMSS.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-santa-2
+----------------------------------------
+Game #479:
+  Name: Spinning Beers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SpinningBeers-3Xg3XpUP1.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-spinning-beers
+----------------------------------------
+Game #480:
+  Name: Kitsune's Scrolls Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:KitsunesScrollsExpandedEdition-Bzr_LDEzr.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kitsune-s-scrolls-expanded-edition
+----------------------------------------
+Game #481:
+  Name: 1 Reel Demi Gods III
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelDemiGods3-4STNucASt.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-demi-gods-iii
+----------------------------------------
+Game #482:
+  Name: 1 Reel Elves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelElves-cL4xM1jxC.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-elves
+----------------------------------------
+Game #483:
+  Name: 1 Reel Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelXmas-XRVfBvS0s.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-xmas
+----------------------------------------
+Game #484:
+  Name: Hawaiian Bliss
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HawaiianBliss-QMddj9m4x.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-hawaiian-bliss
+----------------------------------------
+Game #485:
+  Name: Story Of Jarptitsa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfJarptitsa-uFxPV3kob.png
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-jarptitsa
+----------------------------------------
+Game #486:
+  Name: Majestic Lemur
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticLemure-JnUF6Oxrg.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-lemur
+----------------------------------------
+Game #487:
+  Name: Wild Santa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WildSanta-A0lXXZ6jP.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wild-santa
+----------------------------------------
+Game #488:
+  Name: New Year's Eve Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:NewYearsEveFortune-ZeF_seziT.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-new-year-s-eve-fortune
+----------------------------------------
+Game #489:
+  Name: Story of Loki - Master of Illusions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryofLokiMasterofIllusions-0gASSMnSi.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-loki-master-of-illusions
+----------------------------------------
+Game #490:
+  Name: Run Chase
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:RunChase-So59YV3XD.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-run-chase
+----------------------------------------
+Game #491:
+  Name: 1 Reel Majestic King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMajesticKing-Fd8prycmk.png
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-majestic-king
+----------------------------------------
+Game #492:
+  Name: Snow White's Magical Spring
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnowWhitesMagicalSpring-OmcOA8o8b.png
+  Game Link: https://roobet.com/casino/game/spinomenal-snow-white-s-magical-spring
+----------------------------------------
+Game #493:
+  Name: Titan's Rising
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TitansRising-m0zDWNzMx.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-titan-s-rising
+----------------------------------------
+Game #494:
+  Name: Fruits Collection 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsCollection30Lines-L0Y7ZYqR4.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-collection-30-lines
+----------------------------------------
+Game #495:
+  Name: Ded Moroz II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DedMoroz2-CQ_yv720f.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-ded-moroz-ii
+----------------------------------------
+Game #496:
+  Name: Ded Moroz 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DedMoroz4-NnsMMqClk.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-ded-moroz-4
+----------------------------------------
+Game #497:
+  Name: 1 Reel - Patrick's Day Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelPatricksDayCraze-MGWa15qyG.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-patrick-s-day-craze
+----------------------------------------
+Game #498:
+  Name: 1 Reel Golden Piggy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelGoldenPiggy-7ilw2gjq9.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-golden-piggy
+----------------------------------------
+Game #499:
+  Name: Majestic King - Sunset
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MajesticKingSunset-8Z2Ek3CaX.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-majestic-king-sunset
+----------------------------------------
+Game #500:
+  Name: Kupala II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:Kupala2-FcjcMjyrK.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-kupala-ii
+----------------------------------------
+Game #501:
+  Name: 1 Reel Mammoth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelMammoth-CMUbb8PEF.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-mammoth
+----------------------------------------
+Game #502:
+  Name: 1 Reel - Cupid's Charm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelCupidsCharm-EAdf91Aak.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-cupid-s-charm
+----------------------------------------
+Game #503:
+  Name: Egyptian Marvel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EgyptianMarvel-1FFl8Zn-g.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-egyptian-marvel
+----------------------------------------
+Game #504:
+  Name: Mythical Creatures of Greece
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MythicalCreaturesofGreece-IocpCAVcv.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-mythical-creatures-of-greece
+----------------------------------------
+Game #505:
+  Name: Wacky Monkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WackyMonkey-9ORcmBVjM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wacky-monkey
+----------------------------------------
+Game #506:
+  Name: Fruity Summer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitySummer-EmpPz5nU2.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruity-summer
+----------------------------------------
+Game #507:
+  Name: Patrick's Collection 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksCollection40Lines-AVw5p3eHp.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-collection-40-lines
+----------------------------------------
+Game #508:
+  Name: Poseidon's Rising Expanded Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PoseidonsRisingExpandedEdition-QrjfzA_02.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-poseidon-s-rising-expanded-edition
+----------------------------------------
+Game #509:
+  Name: 1 Reel - Fruits Craze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/spinomenal_1ReelFrutisCraze.jpg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-fruits-craze
+----------------------------------------
+Game #510:
+  Name: 1 Reel Baba Yaga
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelBabaYaga-ZF8wHBN2J.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-baba-yaga
+----------------------------------------
+Game #511:
+  Name: 1 Reel Hawaiian Bliss
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelHawaiianBliss-szYqY-AxM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-hawaiian-bliss
+----------------------------------------
+Game #512:
+  Name: 1 Reel Patrick
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelPatrick-1fr5Exc5y.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-patrick
+----------------------------------------
+Game #513:
+  Name: 1 Reel Thanksgiving
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:1ReelThanksgiving-f7bjGch9I.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-1-reel-thanksgiving
+----------------------------------------
+Game #514:
+  Name: Bavarian Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:BavarianRiches-oHy8FNvsM.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-bavarian-riches
+----------------------------------------
+Game #515:
+  Name: Colossus Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ColossusFruits-yxgHMY_Mj.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-colossus-fruits
+----------------------------------------
+Game #516:
+  Name: Demi Gods IV
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DemiGodsIV-V_e8p_E2P.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-demi-gods-iv
+----------------------------------------
+Game #517:
+  Name: Easter Gifts - 40 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:EasterGifts40Lines-c7mi3ccrh.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-easter-gifts-40-lines
+----------------------------------------
+Game #518:
+  Name: Fruits On Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FruitsOnIce-UswbP8v9U.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-fruits-on-ice
+----------------------------------------
+Game #519:
+  Name: Patrick's Collection 30 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:PatricksCollection30Lines-0i17Z85tE.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-patrick-s-collection-30-lines
+----------------------------------------
+Game #520:
+  Name: Story Of Egypt - Egyptian Darkness
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:StoryOfEgyptEgyptianDarkness-18RCFm4dY.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-story-of-egypt-egyptian-darkness
+----------------------------------------
+Game #521:
+  Name: Valentine Collection - 10 Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ValentineCollection10Lines-J4D9Wr7qs.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-valentine-collection-10-lines
+----------------------------------------
+Game #522:
+  Name: Wolf Fang - Eclipse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangEclipse-mroC4perL.png
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-eclipse
+----------------------------------------
+Game #523:
+  Name: Wolf Fang - The Polar Lights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:WolfFangThePolarLights-zmrOz4F6w.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-wolf-fang-the-polar-lights
+----------------------------------------
+Game #524:
+  Name: Irish Treasures 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:IrishTreasures2-egaUFdzNw.jpeg
+  Game Link: https://roobet.com/casino/game/spinomenal-irish-treasures-2
+----------------------------------------

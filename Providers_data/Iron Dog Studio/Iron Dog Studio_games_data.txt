@@ -1,0 +1,327 @@
+Iron Dog Studio Games Data
+==================================================
+Total games found: 64
+Load More clicks: 1
+Extraction date: 2025-08-11 04:36:22
+==================================================
+
+Game #1:
+  Name: 3 Mad Frogs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:3MadFrogs-l2WJxrF27.jpeg
+  Game Link: https://roobet.com/casino/game/1x2gaming:3MadFrogs
+----------------------------------------
+Game #2:
+  Name: Inspector Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:InspectorWilds-m25ohwmm4.jpeg
+  Game Link: https://roobet.com/casino/game/1x2gaming:InspectorWilds
+----------------------------------------
+Game #3:
+  Name: 1 Million Fortunes Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_1MillionFortunesMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-1-million-fortunes-megaways
+----------------------------------------
+Game #4:
+  Name: Red Zone Blitz Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:RedZoneBlitzHoldandWin-CxQf9bT1i.jpeg
+  Game Link: https://roobet.com/casino/game/1x2gaming:RedZoneBlitzHoldandWin
+----------------------------------------
+Game #5:
+  Name: 1 Million Megaways BC
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_OneMillionMegawaysBC.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-1-million-megaways-bc
+----------------------------------------
+Game #6:
+  Name: Pirate Kingdom Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_PirateKingdomMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-pirate-kingdom-megaways
+----------------------------------------
+Game #7:
+  Name: Western Wilds Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WesternWildsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-western-wilds-megaways
+----------------------------------------
+Game #8:
+  Name: Megaways Jack and The Magic Beans
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJackandTheMagicBeans.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-megaways-jack-and-the-magic-beans
+----------------------------------------
+Game #9:
+  Name: Megaways Jack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJack.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-megaways-jack
+----------------------------------------
+Game #10:
+  Name: Aztec Wilds Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_AztecWildsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-aztec-wilds-megaways
+----------------------------------------
+Game #11:
+  Name: Sweet Candy Cash Megaways Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCashMegawaysDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-sweet-candy-cash-megaways-deluxe
+----------------------------------------
+Game #12:
+  Name: Gods Of Asgard Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsOfAsgardMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-gods-of-asgard-megaways
+----------------------------------------
+Game #13:
+  Name: Rainbow Wilds Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RainbowWildsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-rainbow-wilds-megaways
+----------------------------------------
+Game #14:
+  Name: Rainin’ Money
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RaininMoney.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-rainin-money
+----------------------------------------
+Game #15:
+  Name: Halloween Horrors Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_HalloweenHorrorsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-halloween-horrors-megaways
+----------------------------------------
+Game #16:
+  Name: 3 Porky Banks Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_3PorkyBanksHoldAndWin.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-3-porky-banks-hold-win
+----------------------------------------
+Game #17:
+  Name: Barbarian Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BarbarianGold.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-barbarian-gold
+----------------------------------------
+Game #18:
+  Name: Feeding Fury
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FeedingFury.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-feeding-fury
+----------------------------------------
+Game #19:
+  Name: Santa's Big Bash Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SantasBigBashMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-santa-s-big-bash-megaways
+----------------------------------------
+Game #20:
+  Name: Savannah Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SavannahStrike.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-savannah-strike
+----------------------------------------
+Game #21:
+  Name: Dwarven Gems Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_DwarvenGemsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-dwarven-gems-megaways
+----------------------------------------
+Game #22:
+  Name: Red Zone Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RedZoneBlitz.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-red-zone-blitz
+----------------------------------------
+Game #23:
+  Name: Vegas Hot Spots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_VegasHotSpots.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-vegas-hot-spots
+----------------------------------------
+Game #24:
+  Name: Sirens Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SirensKingdom.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-sirens-kingdom
+----------------------------------------
+Game #25:
+  Name: Farming Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FarmingFrenzy.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-farming-frenzy
+----------------------------------------
+Game #26:
+  Name: Rum and Raiders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RumandRaiders.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-rum-and-raiders
+----------------------------------------
+Game #27:
+  Name: Forge of the Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ForgeoftheGods.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-forge-of-the-gods
+----------------------------------------
+Game #28:
+  Name: Sweet Candy Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyChristmas.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-sweet-candy-christmas
+----------------------------------------
+Game #29:
+  Name: Vegas Branded Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_VegasBrandedHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-vegas-branded-hold-win
+----------------------------------------
+Game #30:
+  Name: Dr Jekyll and Mr Hyde
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_DrJekyllandMrHyde.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-dr-jekyll-and-mr-hyde
+----------------------------------------
+Game #31:
+  Name: Sweet Candy Cash Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCashMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-sweet-candy-cash-megaways
+----------------------------------------
+Game #32:
+  Name: Sweet Candy Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCash.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-sweet-candy-cash
+----------------------------------------
+Game #33:
+  Name: Goal Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GoalBlitz.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-goal-blitz
+----------------------------------------
+Game #34:
+  Name: Robbin Robin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RobbinRobin.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-robbin-robin
+----------------------------------------
+Game #35:
+  Name: Gods of Olympus II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsofOlympusII.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-gods-of-olympus-ii
+----------------------------------------
+Game #36:
+  Name: Solar Nova
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SolarNova.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-solar-nova
+----------------------------------------
+Game #37:
+  Name: Boom Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BoomTime.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-boom-time
+----------------------------------------
+Game #38:
+  Name: Megaways Jack Frost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJackFrost.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-megaways-jack-frost
+----------------------------------------
+Game #39:
+  Name: Eagle Strike Lucky Cache
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_EagleStrikeLuckyCache.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-eagle-strike-lucky-cache
+----------------------------------------
+Game #40:
+  Name: Bacon Banker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BaconBanker.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-bacon-banker
+----------------------------------------
+Game #41:
+  Name: Rock the Reels Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RockTheReelsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-rock-the-reels-megaways
+----------------------------------------
+Game #42:
+  Name: Arriba Heat: Salsa Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ArribaHeatSalsaWilds.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-arriba-heat-salsa-wilds
+----------------------------------------
+Game #43:
+  Name: 8 Treasures: Luck of the Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_8TreasuresLuckoftheDragon.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-8-treasures-luck-of-the-dragon
+----------------------------------------
+Game #44:
+  Name: Apex Strike Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ApexStrikeMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-apex-strike-megaways
+----------------------------------------
+Game #45:
+  Name: Stampeding Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_StampedingStrike.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-stampeding-strike
+----------------------------------------
+Game #46:
+  Name: Cherry Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_CherryBlast.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-cherry-blast
+----------------------------------------
+Game #47:
+  Name: Gifts of Ostara
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GiftsOfOstara.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-gifts-of-ostara
+----------------------------------------
+Game #48:
+  Name: The Choice Is Yours Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_TheChoiceIsYoursMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-the-choice-is-yours-megaways
+----------------------------------------
+Game #49:
+  Name: Wolf Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WolfStrike.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-wolf-strike
+----------------------------------------
+Game #50:
+  Name: Branded Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BrandedMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-branded-megaways
+----------------------------------------
+Game #51:
+  Name: Crown of Avalon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_CrownofAvalon.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-crown-of-avalon
+----------------------------------------
+Game #52:
+  Name: Blirix's Workshop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BlirixsWorkshop.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-blirix-s-workshop
+----------------------------------------
+Game #53:
+  Name: Richie in Vegas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RichieinVegas.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-richie-in-vegas
+----------------------------------------
+Game #54:
+  Name: Blood Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BloodQueen.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-blood-queen
+----------------------------------------
+Game #55:
+  Name: Mad Cabs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MadCabs.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-mad-cabs
+----------------------------------------
+Game #56:
+  Name: Fruity Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FruityMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-fruity-megaways
+----------------------------------------
+Game #57:
+  Name: Astro Newts Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_AstroNewtsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-astro-newts-megaways
+----------------------------------------
+Game #58:
+  Name: Grizzly Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GrizzlyStrike.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-grizzly-strike
+----------------------------------------
+Game #59:
+  Name: Mr Porky Banker: Cash Stash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MrPorkyBankerCashStash.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-mr-porky-banker-cash-stash
+----------------------------------------
+Game #60:
+  Name: Luck of the Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_LuckoftheDragon.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-luck-of-the-dragon
+----------------------------------------
+Game #61:
+  Name: Eagle Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_EagleStrike.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-eagle-strike
+----------------------------------------
+Game #62:
+  Name: Western Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WesternWilds.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-western-wilds
+----------------------------------------
+Game #63:
+  Name: Merry Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MerryMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-merry-megaways
+----------------------------------------
+Game #64:
+  Name: Gods of Olympus III Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsofOlympusIIIMegaways.jpg
+  Game Link: https://roobet.com/casino/game/irondogstudio-gods-of-olympus-iii-megaways
+----------------------------------------

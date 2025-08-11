@@ -1,0 +1,12 @@
+Old Skool Games Data
+==================================================
+Total games found: 1
+Load More clicks: 0
+Extraction date: 2025-08-11 04:43:01
+==================================================
+
+Game #1:
+  Name: Ascension: Rise to Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_old_ascensionrisetoriches.jpg
+  Game Link: https://roobet.com/casino/game/old-skool-ascension-rise-to-riches
+----------------------------------------

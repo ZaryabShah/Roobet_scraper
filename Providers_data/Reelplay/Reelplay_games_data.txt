@@ -1,0 +1,67 @@
+Reelplay Games Data
+==================================================
+Total games found: 12
+Load More clicks: 0
+Extraction date: 2025-08-11 04:43:34
+==================================================
+
+Game #1:
+  Name: Shamrock Money Pot 10K Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ShamrockMoneyPot10KWays.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-shamrock-money-pot-10k-ways
+----------------------------------------
+Game #2:
+  Name: Hypernova Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HypernovaMegaways.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-hypernova-megaways
+----------------------------------------
+Game #3:
+  Name: 10,000 Wonders 10K Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_10000Wonders10KWays.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-10-000-wonders-10k-ways
+----------------------------------------
+Game #4:
+  Name: Atlantis Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_atlantismegaways.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-atlantis-megaways
+----------------------------------------
+Game #5:
+  Name: Lady Merlin Lightning Chase
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_LadyMerlinLightningChase.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-lady-merlin-lightning-chase
+----------------------------------------
+Game #6:
+  Name: Tsai Shen 10K Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:TsaiShen10KWays-LYts0ZlZ1.jpeg
+  Game Link: https://roobet.com/casino/game/reelplay-tsai-shen-10k-ways
+----------------------------------------
+Game #7:
+  Name: Joker Super Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_JokerSuperReels.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-joker-super-reels
+----------------------------------------
+Game #8:
+  Name: Thor Infinity Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_thorinfinityreels.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-thor-infinity-reels
+----------------------------------------
+Game #9:
+  Name: Lucky Lady Leprechaun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:LuckyLadyLeprechaun-HahCGkYoF.jpeg
+  Game Link: https://roobet.com/casino/game/reelplay-lucky-lady-leprechaun
+----------------------------------------
+Game #10:
+  Name: Hercules 10K Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Hercules10KWays.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-hercules-10k-ways
+----------------------------------------
+Game #11:
+  Name: Big Bucks Bandits Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BigBucksBanditsMegaways.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-big-bucks-bandits-megaways
+----------------------------------------
+Game #12:
+  Name: Bucks And Doe 10K Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BucksAndDoe10KWays.jpg
+  Game Link: https://roobet.com/casino/game/reelplay-bucks-and-doe-10k-ways
+----------------------------------------

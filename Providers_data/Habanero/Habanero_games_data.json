@@ -1,0 +1,1070 @@
+{
+  "provider": "Habanero",
+  "total_games": 177,
+  "load_more_clicks": 3,
+  "extraction_date": "2025-08-10T17:43:54.743295",
+  "games": [
+    {
+      "index": 1,
+      "name": "Taberna De Los Muertos",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_tabernadelosmuertos.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-taberna-de-los-muertos"
+    },
+    {
+      "index": 2,
+      "name": "Rainbow Mania",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_rainbowmania.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-rainbow-mania"
+    },
+    {
+      "index": 3,
+      "name": "Gladiator Royal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_gladiatorroyal-zqEOy9vla.jpeg",
+      "game_link": "https://roobet.com/casino/game/hub88:hbo_gladiatorroyal"
+    },
+    {
+      "index": 4,
+      "name": "Prost",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_prost.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-prost"
+    },
+    {
+      "index": 5,
+      "name": "Wild Trucks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_wildtrucks.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-wild-trucks"
+    },
+    {
+      "index": 6,
+      "name": "5 Lucky Lions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_5luckylions.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-5-lucky-lions"
+    },
+    {
+      "index": 7,
+      "name": "Jump!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_jump.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-jump"
+    },
+    {
+      "index": 8,
+      "name": "Hot Hot Fruit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_hothotfruit.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-hot-hot-fruit"
+    },
+    {
+      "index": 9,
+      "name": "Golden Unicorn Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_goldenunicorndeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-golden-unicorn-deluxe"
+    },
+    {
+      "index": 10,
+      "name": "Happiest Christmas Tree",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_happiestchristmastree.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-happiest-christmas-tree"
+    },
+    {
+      "index": 11,
+      "name": "Mystic Rings",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_mysticrings-Ag76Ht1gz.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-mystic-rings"
+    },
+    {
+      "index": 12,
+      "name": "Laughing Buddha",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_laughingbuddha.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-laughing-buddha"
+    },
+    {
+      "index": 13,
+      "name": "Tower Of Pizza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_towerofpizza.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-tower-of-pizza"
+    },
+    {
+      "index": 14,
+      "name": "Egyptian Dreams Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_egyptiandreamsdeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-egyptian-dreams-deluxe"
+    },
+    {
+      "index": 15,
+      "name": "Love and Riches: Eldorado",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_loveandricheseldorado-DK6-SO4v5.png",
+      "game_link": "https://roobet.com/casino/game/habanero-love-and-riches-eldorado"
+    },
+    {
+      "index": 16,
+      "name": "The Grape Escape",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_thegrapeescape.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-the-grape-escape"
+    },
+    {
+      "index": 17,
+      "name": "Japanese Mask",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_japanesemask-nhCTvxgK0.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-japanese-mask"
+    },
+    {
+      "index": 18,
+      "name": "Witches Tome",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_witchestome.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-witches-tome"
+    },
+    {
+      "index": 19,
+      "name": "Crystopia",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_crystopia.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-crystopia"
+    },
+    {
+      "index": 20,
+      "name": "The Big Deal Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_thebigdealdeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-the-big-deal-deluxe"
+    },
+    {
+      "index": 21,
+      "name": "Zeus 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_zeus2.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-zeus-2"
+    },
+    {
+      "index": 22,
+      "name": "Pool Shark",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_poolshark.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-pool-shark"
+    },
+    {
+      "index": 23,
+      "name": "Tuk Tuk Thailand",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_tuktukthailand.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-tuk-tuk-thailand"
+    },
+    {
+      "index": 24,
+      "name": "Mystic Fortune Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mysticfortunedeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mystic-fortune-deluxe"
+    },
+    {
+      "index": 25,
+      "name": "Haunted House",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_hauntedhouse.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-haunted-house"
+    },
+    {
+      "index": 26,
+      "name": "Legendary Beasts",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_legendarybeasts.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-legendary-beasts"
+    },
+    {
+      "index": 27,
+      "name": "Pirate's Plunder",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_piratesplunder.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-pirate-s-plunder"
+    },
+    {
+      "index": 28,
+      "name": "Koi Gate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_koigate.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-koi-gate"
+    },
+    {
+      "index": 29,
+      "name": "Carnival Cove",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_carnivalcove-HK6akD3Qz.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-carnival-cove"
+    },
+    {
+      "index": 30,
+      "name": "Fire Rooster",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_firerooster.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fire-rooster"
+    },
+    {
+      "index": 31,
+      "name": "Super Fruit Blast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_superfruitblast-PtyT9Ren1.png",
+      "game_link": "https://roobet.com/casino/game/habanero-super-fruit-blast"
+    },
+    {
+      "index": 32,
+      "name": "Monster Mash Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_monstermashcash.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-monster-mash-cash"
+    },
+    {
+      "index": 33,
+      "name": "Calaveras Explosivas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_calaverasexplosivas.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-calaveras-explosivas"
+    },
+    {
+      "index": 34,
+      "name": "Hyper Hues",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_hyperhues-sQmsF71uA.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-hyper-hues"
+    },
+    {
+      "index": 35,
+      "name": "Mystic Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mysticfortune.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mystic-fortune"
+    },
+    {
+      "index": 36,
+      "name": "MX Mania",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_mxmania-3VL9-islc.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-mx-mania"
+    },
+    {
+      "index": 37,
+      "name": "Taiko Beats",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_taikobeats.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-taiko-beats"
+    },
+    {
+      "index": 38,
+      "name": "Happy Ape",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_happyape.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-happy-ape"
+    },
+    {
+      "index": 39,
+      "name": "Before Time Runs Out",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_beforetimerunsout.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-before-time-runs-out"
+    },
+    {
+      "index": 40,
+      "name": "S.O.S!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_sos.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-s-o-s"
+    },
+    {
+      "index": 41,
+      "name": "Queen of Queens",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_queenofqueens.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-queen-of-queens"
+    },
+    {
+      "index": 42,
+      "name": "Bomb Runner",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_bombrunner.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-bomb-runner"
+    },
+    {
+      "index": 43,
+      "name": "Little Green Money",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_littlegreenmoney.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-little-green-money"
+    },
+    {
+      "index": 44,
+      "name": "Tooty Fruity Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_tootyfruityfruits.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-tooty-fruity-fruits"
+    },
+    {
+      "index": 45,
+      "name": "Jungle Rumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_junglerumble.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-jungle-rumble"
+    },
+    {
+      "index": 46,
+      "name": "Sparta",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_sparta.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-sparta"
+    },
+    {
+      "index": 47,
+      "name": "Gold Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_goldrush.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-gold-rush"
+    },
+    {
+      "index": 48,
+      "name": "Coyote Crash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_coyotecrash.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-coyote-crash"
+    },
+    {
+      "index": 49,
+      "name": "Cash Reef",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_cashreef.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-cash-reef"
+    },
+    {
+      "index": 50,
+      "name": "Mummy Money",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mummymoney.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mummy-money"
+    },
+    {
+      "index": 51,
+      "name": "Cashosaurus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_cashosaurus.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-cashosaurus"
+    },
+    {
+      "index": 52,
+      "name": "Space Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_spacefortune.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-space-fortune"
+    },
+    {
+      "index": 53,
+      "name": "Waltz Beauty",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_waltzbeauty.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-waltz-beauty"
+    },
+    {
+      "index": 54,
+      "name": "The Big Deal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_thebigdeal.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-the-big-deal"
+    },
+    {
+      "index": 55,
+      "name": "Lucky Durian",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_luckydurian.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-lucky-durian"
+    },
+    {
+      "index": 56,
+      "name": "BabaYaga",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_babayaga-tMrBm3f_o.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-babayaga"
+    },
+    {
+      "index": 57,
+      "name": "Moo Moo Cow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_moomoocow.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-moo-moo-cow"
+    },
+    {
+      "index": 58,
+      "name": "Jump! 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_jump2-g237qLIeu.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-jump-2"
+    },
+    {
+      "index": 59,
+      "name": "Flying High",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_flyinghigh.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-flying-high"
+    },
+    {
+      "index": 60,
+      "name": "Atomic Kittens",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_atomickittens.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-atomic-kittens"
+    },
+    {
+      "index": 61,
+      "name": "Wicked Witch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_wickedwitch.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-wicked-witch"
+    },
+    {
+      "index": 62,
+      "name": "Wild Flow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_wildflow.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-wild-flow"
+    },
+    {
+      "index": 63,
+      "name": "Presto!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_presto.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-presto"
+    },
+    {
+      "index": 64,
+      "name": "Mr Bling",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mrbling.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mr-bling"
+    },
+    {
+      "index": 65,
+      "name": "Taberna De Los Muertos Ultra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_tabernadelosmuertosultra.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-taberna-de-los-muertos-ultra"
+    },
+    {
+      "index": 66,
+      "name": "Jugglenaut",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_jugglenaut.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-jugglenaut"
+    },
+    {
+      "index": 67,
+      "name": "Haunted Harbor",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_hauntedharbor.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-haunted-harbor"
+    },
+    {
+      "index": 68,
+      "name": "Shamrock Quest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_shamrockquest-Ha_RZYRmr.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-shamrock-quest"
+    },
+    {
+      "index": 69,
+      "name": "New Year's Bash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_newyearsbash.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-new-year-s-bash"
+    },
+    {
+      "index": 70,
+      "name": "Arcane Elements",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_arcaneelements.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-arcane-elements"
+    },
+    {
+      "index": 71,
+      "name": "Zeus Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_zeusdeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-zeus-deluxe"
+    },
+    {
+      "index": 72,
+      "name": "Treasure Diver",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_treasurediver.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-treasure-diver"
+    },
+    {
+      "index": 73,
+      "name": "Carnival Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_carnivalcash.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-carnival-cash"
+    },
+    {
+      "index": 74,
+      "name": "Legend of Nezha",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_legendofnezha.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-legend-of-nezha"
+    },
+    {
+      "index": 75,
+      "name": "Fruity Mayan",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fruitymayan.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fruity-mayan"
+    },
+    {
+      "index": 76,
+      "name": "Sir Blingalot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_sirblingalot.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-sir-blingalot"
+    },
+    {
+      "index": 77,
+      "name": "Super Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_superstrike.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-super-strike"
+    },
+    {
+      "index": 78,
+      "name": "Dragon Castle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_dragoncastle.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-dragon-castle"
+    },
+    {
+      "index": 79,
+      "name": "Indian Cash Catcher",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_indiancashcatcher.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-indian-cash-catcher"
+    },
+    {
+      "index": 80,
+      "name": "Galactic Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_galacticcash.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-galactic-cash"
+    },
+    {
+      "index": 81,
+      "name": "Ocean's Call",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_oceanscall.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-ocean-s-call"
+    },
+    {
+      "index": 82,
+      "name": "Panda Panda",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_pandapanda.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-panda-panda"
+    },
+    {
+      "index": 83,
+      "name": "Ride 'em Cowboy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_rideemcowboy.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-ride-em-cowboy"
+    },
+    {
+      "index": 84,
+      "name": "Shaolin Fortunes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_shaolinfortunes.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-shaolin-fortunes"
+    },
+    {
+      "index": 85,
+      "name": "Roman Empire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_romanempire.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-roman-empire"
+    },
+    {
+      "index": 86,
+      "name": "Bikini Island Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_bikiniislanddeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-bikini-island-deluxe"
+    },
+    {
+      "index": 87,
+      "name": "Hey Sushi",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_heysushi.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-hey-sushi"
+    },
+    {
+      "index": 88,
+      "name": "Golden Unicorn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_goldenunicorn.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-golden-unicorn"
+    },
+    {
+      "index": 89,
+      "name": "Meow Janken",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_meowjanken.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-meow-janken"
+    },
+    {
+      "index": 90,
+      "name": "12 Zodiacs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_12zodiacs.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-12-zodiacs"
+    },
+    {
+      "index": 91,
+      "name": "The Dead Escape",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_thedeadescape.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-the-dead-escape"
+    },
+    {
+      "index": 92,
+      "name": "Lantern Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_lanternluck.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-lantern-luck"
+    },
+    {
+      "index": 93,
+      "name": "Bird of Thunder",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_birdofthunder.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-bird-of-thunder"
+    },
+    {
+      "index": 94,
+      "name": "Bikini Island",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_bikiniisland.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-bikini-island"
+    },
+    {
+      "index": 95,
+      "name": "Siren’s Spell",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_sirensspell.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-siren-s-spell"
+    },
+    {
+      "index": 96,
+      "name": "Wealth Inn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_wealthinn.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-wealth-inn"
+    },
+    {
+      "index": 97,
+      "name": "Santa's Inn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_santasinn.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-santa-s-inn"
+    },
+    {
+      "index": 98,
+      "name": "Mighty Medusa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mightymedusa.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mighty-medusa"
+    },
+    {
+      "index": 99,
+      "name": "Frontier Fortunes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_frontierfortunes.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-frontier-fortunes"
+    },
+    {
+      "index": 100,
+      "name": "Barnstormer Bucks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_barnstormerbucks.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-barnstormer-bucks"
+    },
+    {
+      "index": 101,
+      "name": "Cake Valley",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_cakevalley.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-cake-valley"
+    },
+    {
+      "index": 102,
+      "name": "Soju Bomb",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_sojubomb.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-soju-bomb"
+    },
+    {
+      "index": 103,
+      "name": "Dragon's Realm",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_dragonsrealm.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-dragon-s-realm"
+    },
+    {
+      "index": 104,
+      "name": "Fruity Halloween",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fruityhalloween.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fruity-halloween"
+    },
+    {
+      "index": 105,
+      "name": "Glory of Rome",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_gloryofrome.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-glory-of-rome"
+    },
+    {
+      "index": 106,
+      "name": "5 Mariachis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_5mariachis.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-5-mariachis"
+    },
+    {
+      "index": 107,
+      "name": "Knockout Football Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_knockoutfootballrush.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-knockout-football-rush"
+    },
+    {
+      "index": 108,
+      "name": "Mount Mazuma",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_mountmazuma.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-mount-mazuma"
+    },
+    {
+      "index": 109,
+      "name": "Santa's Village",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_santasvillage.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-santa-s-village"
+    },
+    {
+      "index": 110,
+      "name": "Zeus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_zeus.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-zeus"
+    },
+    {
+      "index": 111,
+      "name": "Wizards Want War",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_wizardswantwar.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-wizards-want-war"
+    },
+    {
+      "index": 112,
+      "name": "Hot Hot Summer",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_hothotsummer.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-hot-hot-summer"
+    },
+    {
+      "index": 113,
+      "name": "Rolling Roger",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_rollingroger.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-rolling-roger"
+    },
+    {
+      "index": 114,
+      "name": "Weird Science",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_weirdscience.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-weird-science"
+    },
+    {
+      "index": 115,
+      "name": "Pamper Me",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_pamperme.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-pamper-me"
+    },
+    {
+      "index": 116,
+      "name": "Lucky Fortune Cat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_luckyfortunecat.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-lucky-fortune-cat"
+    },
+    {
+      "index": 117,
+      "name": "Queen of Queens II",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_queenofqueensii.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-queen-of-queens-ii"
+    },
+    {
+      "index": 118,
+      "name": "Space Goonz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_spacegoonz.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-space-goonz"
+    },
+    {
+      "index": 119,
+      "name": "Buggy Bonus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_buggybonus.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-buggy-bonus"
+    },
+    {
+      "index": 120,
+      "name": "Shaolin Fortunes 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_shaolinfortunes100.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-shaolin-fortunes-100"
+    },
+    {
+      "index": 121,
+      "name": "Four Divine Beasts",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fourdivinebeasts.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-four-divine-beasts"
+    },
+    {
+      "index": 122,
+      "name": "Pumpkin Patch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_pumpkinpatch.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-pumpkin-patch"
+    },
+    {
+      "index": 123,
+      "name": "Fenghuang",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fenghuang.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fenghuang"
+    },
+    {
+      "index": 124,
+      "name": "Fa Cai Shen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_facaishen.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fa-cai-shen"
+    },
+    {
+      "index": 125,
+      "name": "Slime Party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_slimeparty.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-slime-party"
+    },
+    {
+      "index": 126,
+      "name": "Treasure Tomb",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_treasuretomb.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-treasure-tomb"
+    },
+    {
+      "index": 127,
+      "name": "Vampire's Fate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_vampiresfate.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-vampire-s-fate"
+    },
+    {
+      "index": 128,
+      "name": "Hot Hot Halloween",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_hothothalloween.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-hot-hot-halloween"
+    },
+    {
+      "index": 129,
+      "name": "Pucker Up Prince",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_puckerupprince.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-pucker-up-prince"
+    },
+    {
+      "index": 130,
+      "name": "Disco Funk",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_discofunk.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-disco-funk"
+    },
+    {
+      "index": 131,
+      "name": "Jellyfish Flow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_jellyfishflow.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-jellyfish-flow"
+    },
+    {
+      "index": 132,
+      "name": "All For One",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_allforone.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-all-for-one"
+    },
+    {
+      "index": 133,
+      "name": "Arctic Hunt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_arctichunt.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-arctic-hunt"
+    },
+    {
+      "index": 134,
+      "name": "London Hunter",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_londonhunter.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-london-hunter"
+    },
+    {
+      "index": 135,
+      "name": "Glam Rock",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_glamrock.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-glam-rock"
+    },
+    {
+      "index": 136,
+      "name": "Marvelous Furlongs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_marvelousfurlongs.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-marvelous-furlongs"
+    },
+    {
+      "index": 137,
+      "name": "Totem Warrior",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_totemwarrior.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-totem-warrior"
+    },
+    {
+      "index": 138,
+      "name": "Techno Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbn_technotumble.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-techno-tumble"
+    },
+    {
+      "index": 139,
+      "name": "Aztlan's Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_aztlansgold.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-aztlan-s-gold"
+    },
+    {
+      "index": 140,
+      "name": "Bombs Away",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_bombsaway.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-bombs-away"
+    },
+    {
+      "index": 141,
+      "name": "Naughty Santa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_naughtysanta.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-naughty-santa"
+    },
+    {
+      "index": 142,
+      "name": "Naughty Wukong",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_naughtwukong.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-naughty-wukong"
+    },
+    {
+      "index": 143,
+      "name": "Disco Beats",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_discobeats.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-disco-beats"
+    },
+    {
+      "index": 144,
+      "name": "Scopa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_scopa.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-scopa"
+    },
+    {
+      "index": 145,
+      "name": "Scruffy Scallywags",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_scruffyscallywags.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-scruffy-scallywags"
+    },
+    {
+      "index": 146,
+      "name": "Sky's the Limit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_skysthelimit.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-sky-s-the-limit"
+    },
+    {
+      "index": 147,
+      "name": "Double O Dollars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_doubleodollars.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-double-o-dollars"
+    },
+    {
+      "index": 148,
+      "name": "King Tut's Tomb",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_kingtutstomb.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-king-tut-s-tomb"
+    },
+    {
+      "index": 149,
+      "name": "Super Twister",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_supertwister.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-super-twister"
+    },
+    {
+      "index": 150,
+      "name": "Ruffled Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_ruffledup.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-ruffled-up"
+    },
+    {
+      "index": 151,
+      "name": "Koi-Koi Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_koi-koitreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-koi-koi-treasure"
+    },
+    {
+      "index": 152,
+      "name": "Kane's Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_kanesinferno.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-kane-s-inferno"
+    },
+    {
+      "index": 153,
+      "name": "Viking's Plunder",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_vikingsplunder.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-viking-s-plunder"
+    },
+    {
+      "index": 154,
+      "name": "Poseidon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:hbo_poseidon-lDbUW6fFL.jpeg",
+      "game_link": "https://roobet.com/casino/game/habanero-poseidon"
+    },
+    {
+      "index": 155,
+      "name": "Lucky Lucky",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_luckylucky.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-lucky-lucky"
+    },
+    {
+      "index": 156,
+      "name": "Arctic Wonders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_arcticwonders.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-arctic-wonders"
+    },
+    {
+      "index": 157,
+      "name": "Nine Tails",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_ninetails.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-nine-tails"
+    },
+    {
+      "index": 158,
+      "name": "Dr Feelgood",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_drfeelgood.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-dr-feelgood"
+    },
+    {
+      "index": 159,
+      "name": "Christmas Gift Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_christmasgiftrush.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-christmas-gift-rush"
+    },
+    {
+      "index": 160,
+      "name": "Fly",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fly.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fly"
+    },
+    {
+      "index": 161,
+      "name": "Magic Oak",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_magicoak.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-magic-oak"
+    },
+    {
+      "index": 162,
+      "name": "Totem Towers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_totemtowers.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-totem-towers"
+    },
+    {
+      "index": 163,
+      "name": "Gangsters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_gangsters.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-gangsters"
+    },
+    {
+      "index": 164,
+      "name": "Valentine Monchy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_valentinemonchy.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-valentine-monchy"
+    },
+    {
+      "index": 165,
+      "name": "Colossal Gems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_colossalgems.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-colossal-gems"
+    },
+    {
+      "index": 166,
+      "name": "Knockout Football",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_knockoutfootball.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-knockout-football"
+    },
+    {
+      "index": 167,
+      "name": "Egyptian Dreams",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_egyptiandreams.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-egyptian-dreams"
+    },
+    {
+      "index": 168,
+      "name": "Ways Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_waysoffortune.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-ways-of-fortune"
+    },
+    {
+      "index": 169,
+      "name": "Jellyfish Flow Ultra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_jellyfishflowultra.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-jellyfish-flow-ultra"
+    },
+    {
+      "index": 170,
+      "name": "Dragon Tiger Gate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_dragontigergate.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-dragon-tiger-gate"
+    },
+    {
+      "index": 171,
+      "name": "Dragon's Throne",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_dragonsthrone.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-dragon-s-throne"
+    },
+    {
+      "index": 172,
+      "name": "Fortune Dogs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_fortunedogs.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-fortune-dogs"
+    },
+    {
+      "index": 173,
+      "name": "Rodeo Drive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_rodeodrive.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-rodeo-drive"
+    },
+    {
+      "index": 174,
+      "name": "Shogun's Land",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_shogunsland.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-shogun-s-land"
+    },
+    {
+      "index": 175,
+      "name": "Nuwa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_nuwa.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-nuwa"
+    },
+    {
+      "index": 176,
+      "name": "Candy Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_candytower.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-candy-tower"
+    },
+    {
+      "index": 177,
+      "name": "Golden Taj Mahal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_hbo_goldentajmahal.jpg",
+      "game_link": "https://roobet.com/casino/game/habanero-golden-taj-mahal"
+    }
+  ]
+}

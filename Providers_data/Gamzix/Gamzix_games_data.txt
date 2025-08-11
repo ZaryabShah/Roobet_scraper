@@ -1,0 +1,262 @@
+Gamzix Games Data
+==================================================
+Total games found: 51
+Load More clicks: 0
+Extraction date: 2025-08-10 17:44:38
+==================================================
+
+Game #1:
+  Name: Patrick's Luck: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:PatricksLuckHoldTheSpin-pV9dnXpmD.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix-patrick-s-luck-hold-the-spin
+----------------------------------------
+Game #2:
+  Name: Yummy Dumplings Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:YummyDumplings-qt7Xk2NN0.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix-yummy-dumplings-hold-the-spin
+----------------------------------------
+Game #3:
+  Name: Egypt Sphere: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_EgyptSphereHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-egypt-sphere-hold-the-spin
+----------------------------------------
+Game #4:
+  Name: Japanese Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_JapaneseCoinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-japanese-coin-hold-the-spin
+----------------------------------------
+Game #5:
+  Name: 3X3: 27 Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_3X327Ways.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-3x3-27-ways
+----------------------------------------
+Game #6:
+  Name: Santa Sphere: Hold The Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:SantaSphereHoldTheSpins-Zas_H18ng.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix-santa-sphere-hold-the-spins
+----------------------------------------
+Game #7:
+  Name: Coin Win: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_CoinWinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-coin-win-hold-the-spin
+----------------------------------------
+Game #8:
+  Name: Book Of Symbols
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BookOfSymbols.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-book-of-symbols
+----------------------------------------
+Game #9:
+  Name: 3x3 Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_3x3HoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-3x3-hold-the-spin
+----------------------------------------
+Game #10:
+  Name: Sunny Coin 2: Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_SunnyCoin2HoldtheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-sunny-coin-2-hold-the-spin
+----------------------------------------
+Game #11:
+  Name: Tiger Pot: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:TigerPotHoldTheSpin-wHetq7MC0.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix-tiger-pot-hold-the-spin
+----------------------------------------
+Game #12:
+  Name: 3X3: Hell Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_3X3HellSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-3x3-hell-spin
+----------------------------------------
+Game #13:
+  Name: Billie Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:BillieWild-Je3B-Pn5o.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix-billie-wild
+----------------------------------------
+Game #14:
+  Name: 40 Sweet Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_40SweetFruits.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-40-sweet-fruits
+----------------------------------------
+Game #15:
+  Name: Samba Stars: Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_SambaStarsHoldtheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-samba-stars-hold-the-spin
+----------------------------------------
+Game #16:
+  Name: Snow Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_SnowCoinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-snow-coin-hold-the-spin
+----------------------------------------
+Game #17:
+  Name: Locky Fruits: Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_LockyFruitsHoldtheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-locky-fruits-hold-the-spin
+----------------------------------------
+Game #18:
+  Name: 40 Chilli Fruits Superior
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamzix:40ChilliFruitsSuperior-rg7nJ3OmO.jpeg
+  Game Link: https://roobet.com/casino/game/gamzix:40ChilliFruitsSuperior
+----------------------------------------
+Game #19:
+  Name: Book of Cairo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BookofCairo.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-book-of-cairo
+----------------------------------------
+Game #20:
+  Name: Buffalo Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BuffaloCoin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-buffalo-coin-hold-the-spin
+----------------------------------------
+Game #21:
+  Name: Sunny Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_SunnyCoinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-sunny-coin-hold-the-spin
+----------------------------------------
+Game #22:
+  Name: Patrick's Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_PatricksCoinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-patrick-s-coin-hold-the-spin
+----------------------------------------
+Game #23:
+  Name: Happy Rabbit: 27 Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_HappyRabbit27Ways.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-happy-rabbit-27-ways
+----------------------------------------
+Game #24:
+  Name: Juicy Win: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_JuicyWinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-juicy-win-hold-the-spin
+----------------------------------------
+Game #25:
+  Name: 3X3 Egypt: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_3X3EgyptHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-3x3-egypt-hold-the-spin
+----------------------------------------
+Game #26:
+  Name: 40 Chilli Fruits Flaming Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_40ChilliFruitsFlamingEdition.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-40-chilli-fruits-flaming-edition
+----------------------------------------
+Game #27:
+  Name: Sticky Coin: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_StickyCoinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-sticky-coin-hold-the-spin
+----------------------------------------
+Game #28:
+  Name: Really Hot 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_ReallyHot2.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-really-hot-2
+----------------------------------------
+Game #29:
+  Name: Olympus of Luck: Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_OlympusofLuckHoldtheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-olympus-of-luck-hold-the-spin
+----------------------------------------
+Game #30:
+  Name: Bonanza Donut
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BonanzaDonut.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-bonanza-donut
+----------------------------------------
+Game #31:
+  Name: 40 Chilli Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_40ChilliFruits.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-40-chilli-fruits
+----------------------------------------
+Game #32:
+  Name: Fruit Story: Hold the Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_FruitStoryHoldtheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-fruit-story-hold-the-spin
+----------------------------------------
+Game #33:
+  Name: Won Hundred
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_WonHundred.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-won-hundred
+----------------------------------------
+Game #34:
+  Name: Hot Patrick
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_HotPatrick.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-hot-patrick
+----------------------------------------
+Game #35:
+  Name: Bonanza Donut Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BonanzaDonutXmas.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-bonanza-donut-xmas
+----------------------------------------
+Game #36:
+  Name: Ultra Luck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_UltraLuck.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-ultra-luck
+----------------------------------------
+Game #37:
+  Name: Really Hot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_ReallyHot.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-really-hot
+----------------------------------------
+Game #38:
+  Name: The Hottest Game
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_TheHottestGame.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-the-hottest-game
+----------------------------------------
+Game #39:
+  Name: Dice: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_DiceHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-dice-hold-the-spin
+----------------------------------------
+Game #40:
+  Name: Buffalo Ice: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BuffaloIceHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-buffalo-ice-hold-the-spin
+----------------------------------------
+Game #41:
+  Name: Really Easter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_ReallyEaster.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-really-easter
+----------------------------------------
+Game #42:
+  Name: Joker Splash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_JokerSplash.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-joker-splash
+----------------------------------------
+Game #43:
+  Name: Wolf Story
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_WolfStory.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-wolf-story
+----------------------------------------
+Game #44:
+  Name: Gold Mania
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_GoldMania.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-gold-mania
+----------------------------------------
+Game #45:
+  Name: Royal Chip
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_RoyalChip.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-royal-chip
+----------------------------------------
+Game #46:
+  Name: Really Hot Flaming Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_ReallyHotFlamingEdition.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-really-hot-flaming-edition
+----------------------------------------
+Game #47:
+  Name: Hot Love
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_HotLove.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-hot-love
+----------------------------------------
+Game #48:
+  Name: Go Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_GoWild.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-go-wild
+----------------------------------------
+Game #49:
+  Name: Ruby Win: Hold The Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_RubyWinHoldTheSpin.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-ruby-win-hold-the-spin
+----------------------------------------
+Game #50:
+  Name: Burning Power
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_BurningPower.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-burning-power
+----------------------------------------
+Game #51:
+  Name: Fruit Story
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/gamzix_FruitStory.jpg
+  Game Link: https://roobet.com/casino/game/gamzix-fruit-story
+----------------------------------------

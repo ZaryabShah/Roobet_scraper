@@ -1,0 +1,32 @@
+{
+  "provider": "NowNow Gaming",
+  "total_games": 4,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:42:17.237790",
+  "games": [
+    {
+      "index": 1,
+      "name": "Sugar Park",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1861-7LLqXRaPz.jpeg",
+      "game_link": "https://roobet.com/casino/game/hacksaw:1861"
+    },
+    {
+      "index": 2,
+      "name": "8-Bit Quest",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1707-RiLEDrtx-.jpeg",
+      "game_link": "https://roobet.com/casino/game/nownow-gaming-8-bit-quest"
+    },
+    {
+      "index": 3,
+      "name": "Street Knockout",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1821-vTfWX-wfy.jpeg",
+      "game_link": "https://roobet.com/casino/game/nownow-gaming-street-knockout"
+    },
+    {
+      "index": 4,
+      "name": "Shadow Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1540-_L8hOrLBp.jpeg",
+      "game_link": "https://roobet.com/casino/game/nownow-gaming-shadow-treasure"
+    }
+  ]
+}

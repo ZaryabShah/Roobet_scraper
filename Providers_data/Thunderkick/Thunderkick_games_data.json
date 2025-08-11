@@ -1,0 +1,590 @@
+{
+  "provider": "Thunderkick",
+  "total_games": 97,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:44:47.472332",
+  "games": [
+    {
+      "index": 1,
+      "name": "MeJUICEa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MeJUICEa-v6q024weZ.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick:MeJUICEa"
+    },
+    {
+      "index": 2,
+      "name": "Milk the Cow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MilktheCow-5FFKfWHiL.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick:MilktheCow"
+    },
+    {
+      "index": 3,
+      "name": "Hot Potato",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_HotPotato_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-hot-potato"
+    },
+    {
+      "index": 4,
+      "name": "The Wildos 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheWildos2-3V_6hn7jY.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-wildos-2"
+    },
+    {
+      "index": 5,
+      "name": "Midas Golden Touch 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MidasGoldenTouch3-zaLSS5i9m.png",
+      "game_link": "https://roobet.com/casino/game/thunderkick:MidasGoldenTouch3"
+    },
+    {
+      "index": 6,
+      "name": "Midas Golden Touch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouch_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-midas-golden-touch"
+    },
+    {
+      "index": 7,
+      "name": "Beat the Beast: Cerberus' Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastCerberusInferno.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-cerberus-inferno"
+    },
+    {
+      "index": 8,
+      "name": "Eager Beavers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_EagerBeavers94_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-eager-beavers"
+    },
+    {
+      "index": 9,
+      "name": "Gods of Rock! Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GodsofRockReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-gods-of-rock-reborn"
+    },
+    {
+      "index": 10,
+      "name": "Beat the Beast: Griffin's Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastGriffinsGold_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-griffin-s-gold"
+    },
+    {
+      "index": 11,
+      "name": "Beat the Beast: Kraken's Lair",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_KrakensLair_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-kraken-s-lair"
+    },
+    {
+      "index": 12,
+      "name": "Beat the Beast: Quetzalcoatl's Trial",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastQuetzalcoatlsTrial.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-quetzalcoatl-s-trial"
+    },
+    {
+      "index": 13,
+      "name": "Sword of Khans",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofKhans_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-sword-of-khans"
+    },
+    {
+      "index": 14,
+      "name": "The Wildos",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheWildos_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-wildos"
+    },
+    {
+      "index": 15,
+      "name": "Odin's Gamble Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGambleReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-odin-s-gamble-reborn"
+    },
+    {
+      "index": 16,
+      "name": "Bones & Bounty!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BonesAndBounty_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-bones-bounty"
+    },
+    {
+      "index": 17,
+      "name": "1429 Uncharted Seas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_1429UnchartedSeas_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-1429-uncharted-seas"
+    },
+    {
+      "index": 18,
+      "name": "Esqueleto Explosivo 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:EsqueletoExplosivo3-wFcWaTxN_.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-esqueleto-explosivo-3"
+    },
+    {
+      "index": 19,
+      "name": "Jiggly Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JigglyCash_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-jiggly-cash"
+    },
+    {
+      "index": 20,
+      "name": "Esqueleto Explosivo 2 Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_EsqueletoExplosivo2Reborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-esqueleto-explosivo-2-reborn"
+    },
+    {
+      "index": 21,
+      "name": "The Golden Pot & Pints",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheGoldenPotPints-9ujKgCYlY.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-golden-pot-pints"
+    },
+    {
+      "index": 22,
+      "name": "Odin’s Gamble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGamble_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-odin-s-gamble"
+    },
+    {
+      "index": 23,
+      "name": "Dionysus Golden Feast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DionysusGoldenFeast_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-dionysus-golden-feast"
+    },
+    {
+      "index": 24,
+      "name": "Sword of Arthur",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofArthur94_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-sword-of-arthur"
+    },
+    {
+      "index": 25,
+      "name": "Hot Turkey",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:HotTurkey-qTJkIdU6d.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-hot-turkey"
+    },
+    {
+      "index": 26,
+      "name": "Beat the Beast: Dragon's Wrath",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastDragonsWrath_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-dragon-s-wrath"
+    },
+    {
+      "index": 27,
+      "name": "Midas Golden Touch 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouch294_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-midas-golden-touch-2"
+    },
+    {
+      "index": 28,
+      "name": "Dragon Horn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DragonHorn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-dragon-horn"
+    },
+    {
+      "index": 29,
+      "name": "Sword of Shoguns",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofShoguns_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-sword-of-shoguns"
+    },
+    {
+      "index": 30,
+      "name": "Carnival Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueen_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-carnival-queen"
+    },
+    {
+      "index": 31,
+      "name": "Pink Elephants",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-pink-elephants"
+    },
+    {
+      "index": 32,
+      "name": "Archie O'Loggins and the Enchanted Masks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:ArchieOLogginsandtheEnchantedMasks-_tVbDCF2I.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-archie-o-loggins-and-the-enchanted-masks"
+    },
+    {
+      "index": 33,
+      "name": "Pink Elephants 2 Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants2Reborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-pink-elephants-2-reborn"
+    },
+    {
+      "index": 34,
+      "name": "King of the Party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_KingoftheParty94_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-king-of-the-party"
+    },
+    {
+      "index": 35,
+      "name": "Split Happens",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:SplitHappens-oh0jL9dMW.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-split-happens"
+    },
+    {
+      "index": 36,
+      "name": "Ways Of Athena",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:WaysOfAthena-ETJMa8ZJY.jpeg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-ways-of-athena"
+    },
+    {
+      "index": 37,
+      "name": "Lost City of the Djinn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_LostCityoftheDjinn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-lost-city-of-the-djinn"
+    },
+    {
+      "index": 38,
+      "name": "Pyramyth",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Pyramyth_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-pyramyth"
+    },
+    {
+      "index": 39,
+      "name": "The Gunman of Goldwood",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheGunmanofGoldwood94_tk--zF1jsegK.png",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-gunman-of-goldwood"
+    },
+    {
+      "index": 40,
+      "name": "Gods of Rock!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GodsofRock_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-gods-of-rock"
+    },
+    {
+      "index": 41,
+      "name": "Sword of Khans - Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofKhansReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-sword-of-khans-reborn"
+    },
+    {
+      "index": 42,
+      "name": "Riders of the Storm",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RidersoftheStorm_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-riders-of-the-storm"
+    },
+    {
+      "index": 43,
+      "name": "Fortune Cats Golden Stacks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FortuneCatsGoldenStacks.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-fortune-cats-golden-stacks"
+    },
+    {
+      "index": 44,
+      "name": "Midas Golden Touch Christmas Edition",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouchChristmasEdition_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-midas-golden-touch-christmas-edition"
+    },
+    {
+      "index": 45,
+      "name": "Jin Chan’s Pond of Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JinChansPondofRiches.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-jin-chan-s-pond-of-riches"
+    },
+    {
+      "index": 46,
+      "name": "The Falcon Huntress",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheFalconHuntress_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-falcon-huntress"
+    },
+    {
+      "index": 47,
+      "name": "Wild Heist at Peacock Manor",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_WildHeist_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-wild-heist-at-peacock-manor"
+    },
+    {
+      "index": 48,
+      "name": "Beat the Beast: Griffin's Gold Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastGriffinsGoldReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-beat-the-beast-griffin-s-gold-reborn"
+    },
+    {
+      "index": 49,
+      "name": "Pink Elephants 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants2_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-pink-elephants-2"
+    },
+    {
+      "index": 50,
+      "name": "Big Fin Bay",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BigFinBay_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-big-fin-bay"
+    },
+    {
+      "index": 51,
+      "name": "Baron Bloodmore and the Crimson Castle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BaronBloodmoreandtheCrimsonCastle_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-baron-bloodmore-and-the-crimson-castle"
+    },
+    {
+      "index": 52,
+      "name": "12 Bolts of Thunder",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_12BoltsofThunder_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-12-bolts-of-thunder"
+    },
+    {
+      "index": 53,
+      "name": "Fruit Warp",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FruitWarp_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-fruit-warp"
+    },
+    {
+      "index": 54,
+      "name": "Phoenix Paradise",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PhoenixParadise_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-phoenix-paradise"
+    },
+    {
+      "index": 55,
+      "name": "Zap Attack!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_ZapAttack_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-zap-attack"
+    },
+    {
+      "index": 56,
+      "name": "Midas Golden Touch Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouchReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-midas-golden-touch-reborn"
+    },
+    {
+      "index": 57,
+      "name": "Lava Lava",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_LavaLava_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-lava-lava"
+    },
+    {
+      "index": 58,
+      "name": "Triple Royal Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TripleRoyalGold.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-triple-royal-gold"
+    },
+    {
+      "index": 59,
+      "name": "Shifting Seas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_ShiftingSeas_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-shifting-seas"
+    },
+    {
+      "index": 60,
+      "name": "Rex the Hunt!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RextheHunt_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-rex-the-hunt"
+    },
+    {
+      "index": 61,
+      "name": "Divine Lotus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DivineLotus_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-divine-lotus"
+    },
+    {
+      "index": 62,
+      "name": "Crystal Quest: Frostlands",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestFrostlands_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-crystal-quest-frostlands"
+    },
+    {
+      "index": 63,
+      "name": "Cosmic Voyager",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CosmicVoyager_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick:CosmicVoyager_tk"
+    },
+    {
+      "index": 64,
+      "name": "Hellapenos",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Hellapenos_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-hellapenos"
+    },
+    {
+      "index": 65,
+      "name": "The Rift",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheRift_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-the-rift"
+    },
+    {
+      "index": 66,
+      "name": "Yeti Battle of Greenhat peak",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_YetiBattle_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-yeti-battle-of-greenhat-peak"
+    },
+    {
+      "index": 67,
+      "name": "Odin's Gamble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGamble94_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick:OdinsGamble94_tk"
+    },
+    {
+      "index": 68,
+      "name": "Pyramyth Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PyramythReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-pyramyth-reborn"
+    },
+    {
+      "index": 69,
+      "name": "Flame Busters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FlameBusters_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-flame-busters"
+    },
+    {
+      "index": 70,
+      "name": "Full Moon Romance",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FullMoonRomance_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-full-moon-romance"
+    },
+    {
+      "index": 71,
+      "name": "Zoom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Zoom_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-zoom"
+    },
+    {
+      "index": 72,
+      "name": "Grand Melee",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GrandMelee_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-grand-melee"
+    },
+    {
+      "index": 73,
+      "name": "Carnival Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueen.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick:CarnivalQueen"
+    },
+    {
+      "index": 74,
+      "name": "Xterminate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Xterminate94_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-xterminate"
+    },
+    {
+      "index": 75,
+      "name": "Bork The Berzerker - Hack ‘N’ Slash Edition",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BorkTheBerzerker_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-bork-the-berzerker-hack-n-slash-edition"
+    },
+    {
+      "index": 76,
+      "name": "Triple Christmas Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TripleChristmasGold_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-triple-christmas-gold"
+    },
+    {
+      "index": 77,
+      "name": "Crystal Quest: Arcane Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestArcaneTower_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-crystal-quest-arcane-tower"
+    },
+    {
+      "index": 78,
+      "name": "Ravens Eye",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RavensEye_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-ravens-eye"
+    },
+    {
+      "index": 79,
+      "name": "Arcader",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_arcader_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-arcader"
+    },
+    {
+      "index": 80,
+      "name": "Birds On A Wire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BirdsOnAWire_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-birds-on-a-wire"
+    },
+    {
+      "index": 81,
+      "name": "Magicious",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Magicious_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-magicious"
+    },
+    {
+      "index": 82,
+      "name": "Carnival Queen - Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueenReborn_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-carnival-queen-reborn"
+    },
+    {
+      "index": 83,
+      "name": "Crystal Quest: Deep Jungle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestDeepJungle_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-crystal-quest-deep-jungle"
+    },
+    {
+      "index": 84,
+      "name": "Tiger Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TigerRush_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-tiger-rush"
+    },
+    {
+      "index": 85,
+      "name": "Babushkas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Babushkas_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-babushkas"
+    },
+    {
+      "index": 86,
+      "name": "Luchadora",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Luchadora_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-luchadora"
+    },
+    {
+      "index": 87,
+      "name": "Jaguar Temple",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JaguarTemple_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-jaguar-temple"
+    },
+    {
+      "index": 88,
+      "name": "Turning Totems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TurningTotems_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-turning-totems"
+    },
+    {
+      "index": 89,
+      "name": "Sunset Delight",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SunsetDelight_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-sunset-delight"
+    },
+    {
+      "index": 90,
+      "name": "Rocket Fellas Inc",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RocketFellas_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-rocket-fellas-inc"
+    },
+    {
+      "index": 91,
+      "name": "Barbershop: Uncut",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Barbershop_Uncut_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-barbershop-uncut"
+    },
+    {
+      "index": 92,
+      "name": "Not Enough Kittens",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_NotEnoughKittens_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-not-enough-kittens"
+    },
+    {
+      "index": 93,
+      "name": "Frog Grog",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FrogGrog_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-frog-grog"
+    },
+    {
+      "index": 94,
+      "name": "Flux",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Flux_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-flux"
+    },
+    {
+      "index": 95,
+      "name": "Well of Wonders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_WellOfWonders_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-well-of-wonders"
+    },
+    {
+      "index": 96,
+      "name": "Spectra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Spectra_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-spectra"
+    },
+    {
+      "index": 97,
+      "name": "Toki Time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TokiTime_tk.jpg",
+      "game_link": "https://roobet.com/casino/game/thunderkick-toki-time"
+    }
+  ]
+}

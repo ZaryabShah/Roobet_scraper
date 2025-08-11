@@ -1,0 +1,107 @@
+Gameburger Games Data
+==================================================
+Total games found: 20
+Load More clicks: 0
+Extraction date: 2025-08-11 04:34:53
+==================================================
+
+Game #1:
+  Name: Fishin' Pots of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_fishinpotsofgold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-fishin-pots-of-gold
+----------------------------------------
+Game #2:
+  Name: 9 Masks of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_9masksoffire.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-9-masks-of-fire
+----------------------------------------
+Game #3:
+  Name: 9 Masks of Fire HyperSpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_9masksoffirehyperspins.jpeg
+  Game Link: https://roobet.com/casino/game/gameburger-9-masks-of-fire-hyperspins
+----------------------------------------
+Game #4:
+  Name: Hyper Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_hypergold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-hyper-gold
+----------------------------------------
+Game #5:
+  Name: 9 Pots of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_9potsofgold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-9-pots-of-gold
+----------------------------------------
+Game #6:
+  Name: 9 Pots of Gold Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_9potsofgoldmegaways.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-9-pots-of-gold-megaways
+----------------------------------------
+Game #7:
+  Name: Fishin Bigger Pots of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_fishinbiggerpotsofgold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-fishin-bigger-pots-of-gold
+----------------------------------------
+Game #8:
+  Name: Hyper Star
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_hyperstar.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-hyper-star
+----------------------------------------
+Game #9:
+  Name: Break Da Bank Again Respin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_breakdabankagainrespin.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-break-da-bank-again-respin
+----------------------------------------
+Game #10:
+  Name: Break Da Bank Again Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_breakdabankagainmegaways.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-break-da-bank-again-megaways
+----------------------------------------
+Game #11:
+  Name: Fishin' Christmas Pots of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_fishinchristmaspotsofgold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-fishin-christmas-pots-of-gold
+----------------------------------------
+Game #12:
+  Name: 777 Surge
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_777surge.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-777-surge
+----------------------------------------
+Game #13:
+  Name: Hyper Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_hyperstrike.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-hyper-strike
+----------------------------------------
+Game #14:
+  Name: Playboy Fortunes HyperSpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_playboyfortuneshyperspins.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-playboy-fortunes-hyperspins
+----------------------------------------
+Game #15:
+  Name: Mining Pots of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_miningpotsofgold.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-mining-pots-of-gold
+----------------------------------------
+Game #16:
+  Name: Hyper Strike King Millions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_hyperstrikekingmillions.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-hyper-strike-king-millions
+----------------------------------------
+Game #17:
+  Name: 9 Pots of Gold HyperSpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_9potsofgoldhyperspins.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-9-pots-of-gold-hyperspins
+----------------------------------------
+Game #18:
+  Name: Playboy Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_playboyfortunes.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-playboy-fortunes
+----------------------------------------
+Game #19:
+  Name: Hyper Strike HyperSpins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_hyperstrikehyperspins.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-hyper-strike-hyperspins
+----------------------------------------
+Game #20:
+  Name: 11 Champions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_gbu_11champions.jpg
+  Game Link: https://roobet.com/casino/game/gameburger-11-champions
+----------------------------------------

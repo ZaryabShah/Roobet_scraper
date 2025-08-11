@@ -1,0 +1,20 @@
+{
+  "provider": "SpinOn",
+  "total_games": 2,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:44:52.905718",
+  "games": [
+    {
+      "index": 1,
+      "name": "Eskimo Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10772-RVWohTwev.jpeg",
+      "game_link": "https://roobet.com/casino/game/yggdrasil:10772"
+    },
+    {
+      "index": 2,
+      "name": "Gigablox Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10765-gB6V_ahiF.jpeg",
+      "game_link": "https://roobet.com/casino/game/spinon-gigablox-kingdom"
+    }
+  ]
+}

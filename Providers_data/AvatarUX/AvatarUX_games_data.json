@@ -1,0 +1,356 @@
+{
+  "provider": "AvatarUX",
+  "total_games": 58,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:47:57.574788",
+  "games": [
+    {
+      "index": 1,
+      "name": "Cherry Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CherryPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-cherry-pop"
+    },
+    {
+      "index": 2,
+      "name": "Reel Warriors",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ReelWarriors-Ka0SCwY4Z.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux:ReelWarriors"
+    },
+    {
+      "index": 3,
+      "name": "XmasPop Delight",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:XmasPopDelight-clGlywBNk.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-xmaspop-delight"
+    },
+    {
+      "index": 4,
+      "name": "Cherry Pop Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CherryPopDeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-cherry-pop-deluxe"
+    },
+    {
+      "index": 5,
+      "name": "LooneyPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_LooneyPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-looneypop"
+    },
+    {
+      "index": 6,
+      "name": "The Vault Chase",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TheVaultChase-AGifqYP47.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux:TheVaultChase"
+    },
+    {
+      "index": 7,
+      "name": "Hippo Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HippoPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-hippo-pop"
+    },
+    {
+      "index": 8,
+      "name": "Juicy Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:JuicyPop-DyGEDuftu.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-juicy-pop"
+    },
+    {
+      "index": 9,
+      "name": "Monkey Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_MonkeyPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-monkey-pop"
+    },
+    {
+      "index": 10,
+      "name": "Pop-oGold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_POPOGold.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-pop-ogold"
+    },
+    {
+      "index": 11,
+      "name": "Zombie aPOPalypse",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ZombieaPOPalypse.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-zombie-apopalypse"
+    },
+    {
+      "index": 12,
+      "name": "Cosmic Jokers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CosmicJokers-FYgfAIPGw.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux:CosmicJokers"
+    },
+    {
+      "index": 13,
+      "name": "Captain More'gain",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CaptainMoregain--VnEXCX12.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-captain-more-gain"
+    },
+    {
+      "index": 14,
+      "name": "PiggyPop Grand Affair",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:PiggyPopGrandAffair-UIfFkRtvz.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-piggypop-grand-affair"
+    },
+    {
+      "index": 15,
+      "name": "Bounty Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_BountyPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-bounty-pop"
+    },
+    {
+      "index": 16,
+      "name": "ArcanaPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ArcanaPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-arcanapop"
+    },
+    {
+      "index": 17,
+      "name": "HelioPOPolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HelioPOPolis.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-heliopopolis"
+    },
+    {
+      "index": 18,
+      "name": "Pop Noir",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PopNoir.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-pop-noir"
+    },
+    {
+      "index": 19,
+      "name": "GemPops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_GemPops.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-gempops"
+    },
+    {
+      "index": 20,
+      "name": "Rebel Paws",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:RebelPaws-AAMODpjuD.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-rebel-paws"
+    },
+    {
+      "index": 21,
+      "name": "ReefPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_ReefPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-reefpop"
+    },
+    {
+      "index": 22,
+      "name": "Worms of Valor",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WormsofValor.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-worms-of-valor"
+    },
+    {
+      "index": 23,
+      "name": "Critter Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_CritterPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-critter-pop"
+    },
+    {
+      "index": 24,
+      "name": "Silicon Spinners",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:SiliconSpinners-avowUhx5Z.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-silicon-spinners"
+    },
+    {
+      "index": 25,
+      "name": "Duck Hunt 500",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:DuckHunt500-MZZRGtB2e.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-duck-hunt-500"
+    },
+    {
+      "index": 26,
+      "name": "PixiePOP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PixiePOP.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-pixiepop"
+    },
+    {
+      "index": 27,
+      "name": "Sweet Gummy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_SweetGummy.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-sweet-gummy"
+    },
+    {
+      "index": 28,
+      "name": "Gods Gone Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:GodsGoneWild--GulH-DAR.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-gods-gone-wild"
+    },
+    {
+      "index": 29,
+      "name": "HipHopPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_HipHopPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-hiphoppop"
+    },
+    {
+      "index": 30,
+      "name": "Depths of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_DepthsofFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-depths-of-fortune"
+    },
+    {
+      "index": 31,
+      "name": "Beastly Burglars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_BeastlyBurglars.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-beastly-burglars"
+    },
+    {
+      "index": 32,
+      "name": "JinglePop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_JinglePop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-jinglepop"
+    },
+    {
+      "index": 33,
+      "name": "Electro Cubes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ElectroCubes-eOamadsBO.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-electro-cubes"
+    },
+    {
+      "index": 34,
+      "name": "Donkey and The GOATS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_DonkeyandTheGOATS.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-donkey-and-the-goats"
+    },
+    {
+      "index": 35,
+      "name": "Nugget",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_Nugget.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-nugget"
+    },
+    {
+      "index": 36,
+      "name": "Animals Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:AnimalsStrike-r_LuiU4zb.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-animals-strike"
+    },
+    {
+      "index": 37,
+      "name": "Canyon Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:CanyonRiches--EvlrCgeg.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-canyon-riches"
+    },
+    {
+      "index": 38,
+      "name": "Witchy POPpins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WitchyPOPpins.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-witchy-poppins"
+    },
+    {
+      "index": 39,
+      "name": "Vegas Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:VegasFortune-ePqxAhQxx.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-vegas-fortune"
+    },
+    {
+      "index": 40,
+      "name": "KokeshiPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_KokeshiPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-kokeshipop"
+    },
+    {
+      "index": 41,
+      "name": "80sPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_80sPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-80spop"
+    },
+    {
+      "index": 42,
+      "name": "Lolli Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_LolliPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-lolli-pop"
+    },
+    {
+      "index": 43,
+      "name": "Piggy Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PiggyPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-piggy-pop"
+    },
+    {
+      "index": 44,
+      "name": "Pop Rocks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PopRocks.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-pop-rocks"
+    },
+    {
+      "index": 45,
+      "name": "TikiPop Spooky Temples",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TikiPopSpookyTemples-EE3H51QAJ.png",
+      "game_link": "https://roobet.com/casino/game/avatarux-tikipop-spooky-temples"
+    },
+    {
+      "index": 46,
+      "name": "Floridaman",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_Floridaman.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-floridaman"
+    },
+    {
+      "index": 47,
+      "name": "Wild Pops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_WildPops.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-wild-pops"
+    },
+    {
+      "index": 48,
+      "name": "Raging Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_RagingPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-raging-pop"
+    },
+    {
+      "index": 49,
+      "name": "Kitty POPpins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_KittyPOPpins.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-kitty-poppins"
+    },
+    {
+      "index": 50,
+      "name": "Pixel Paws",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:PixelPaws-zydXYGQYW.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-pixel-paws"
+    },
+    {
+      "index": 51,
+      "name": "Tiki Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_TikiPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-tiki-pop"
+    },
+    {
+      "index": 52,
+      "name": "Big Catch Craze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:BigCatchCraze-4BPLln35k.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-big-catch-craze"
+    },
+    {
+      "index": 53,
+      "name": "Imperial Coins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ImperialCoins-kPpZhTyY8.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-imperial-coins"
+    },
+    {
+      "index": 54,
+      "name": "Tik Talkers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:TikTalkers-FEPCzXCZx.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-tik-talkers"
+    },
+    {
+      "index": 55,
+      "name": "Papaya Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/avatarux_PapayaPop.jpg",
+      "game_link": "https://roobet.com/casino/game/avatarux-papaya-pop"
+    },
+    {
+      "index": 56,
+      "name": "7 Lucky Gods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:7LuckyGods-KxWqbsc45.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-7-lucky-gods"
+    },
+    {
+      "index": 57,
+      "name": "Toad's Bounty",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:ToadsBounty-uOwJMAFMa.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-toad-s-bounty"
+    },
+    {
+      "index": 58,
+      "name": "King of Samba",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/avatarux:KingofSamba-75EU2Q0d7.jpeg",
+      "game_link": "https://roobet.com/casino/game/avatarux-king-of-samba"
+    }
+  ]
+}

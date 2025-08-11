@@ -1,0 +1,12 @@
+Trusty Gaming Games Data
+==================================================
+Total games found: 1
+Load More clicks: 0
+Extraction date: 2025-08-11 04:47:35
+==================================================
+
+Game #1:
+  Name: Lucky Multifruit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1588-t2eupCT3f.jpeg
+  Game Link: https://roobet.com/casino/game/trusty-gaming-lucky-multifruit
+----------------------------------------

@@ -1,0 +1,492 @@
+Thunderkick Games Data
+==================================================
+Total games found: 97
+Load More clicks: 1
+Extraction date: 2025-08-11 00:44:47
+==================================================
+
+Game #1:
+  Name: MeJUICEa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MeJUICEa-v6q024weZ.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick:MeJUICEa
+----------------------------------------
+Game #2:
+  Name: Milk the Cow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MilktheCow-5FFKfWHiL.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick:MilktheCow
+----------------------------------------
+Game #3:
+  Name: Hot Potato
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_HotPotato_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-hot-potato
+----------------------------------------
+Game #4:
+  Name: The Wildos 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheWildos2-3V_6hn7jY.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-the-wildos-2
+----------------------------------------
+Game #5:
+  Name: Midas Golden Touch 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:MidasGoldenTouch3-zaLSS5i9m.png
+  Game Link: https://roobet.com/casino/game/thunderkick:MidasGoldenTouch3
+----------------------------------------
+Game #6:
+  Name: Midas Golden Touch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouch_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-midas-golden-touch
+----------------------------------------
+Game #7:
+  Name: Beat the Beast: Cerberus' Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastCerberusInferno.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-cerberus-inferno
+----------------------------------------
+Game #8:
+  Name: Eager Beavers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_EagerBeavers94_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-eager-beavers
+----------------------------------------
+Game #9:
+  Name: Gods of Rock! Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GodsofRockReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-gods-of-rock-reborn
+----------------------------------------
+Game #10:
+  Name: Beat the Beast: Griffin's Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastGriffinsGold_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-griffin-s-gold
+----------------------------------------
+Game #11:
+  Name: Beat the Beast: Kraken's Lair
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_KrakensLair_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-kraken-s-lair
+----------------------------------------
+Game #12:
+  Name: Beat the Beast: Quetzalcoatl's Trial
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastQuetzalcoatlsTrial.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-quetzalcoatl-s-trial
+----------------------------------------
+Game #13:
+  Name: Sword of Khans
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofKhans_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-sword-of-khans
+----------------------------------------
+Game #14:
+  Name: The Wildos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheWildos_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-the-wildos
+----------------------------------------
+Game #15:
+  Name: Odin's Gamble Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGambleReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-odin-s-gamble-reborn
+----------------------------------------
+Game #16:
+  Name: Bones & Bounty!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BonesAndBounty_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-bones-bounty
+----------------------------------------
+Game #17:
+  Name: 1429 Uncharted Seas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_1429UnchartedSeas_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-1429-uncharted-seas
+----------------------------------------
+Game #18:
+  Name: Esqueleto Explosivo 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:EsqueletoExplosivo3-wFcWaTxN_.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-esqueleto-explosivo-3
+----------------------------------------
+Game #19:
+  Name: Jiggly Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JigglyCash_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-jiggly-cash
+----------------------------------------
+Game #20:
+  Name: Esqueleto Explosivo 2 Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_EsqueletoExplosivo2Reborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-esqueleto-explosivo-2-reborn
+----------------------------------------
+Game #21:
+  Name: The Golden Pot & Pints
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheGoldenPotPints-9ujKgCYlY.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-the-golden-pot-pints
+----------------------------------------
+Game #22:
+  Name: Odin’s Gamble
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGamble_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-odin-s-gamble
+----------------------------------------
+Game #23:
+  Name: Dionysus Golden Feast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DionysusGoldenFeast_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-dionysus-golden-feast
+----------------------------------------
+Game #24:
+  Name: Sword of Arthur
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofArthur94_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-sword-of-arthur
+----------------------------------------
+Game #25:
+  Name: Hot Turkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:HotTurkey-qTJkIdU6d.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-hot-turkey
+----------------------------------------
+Game #26:
+  Name: Beat the Beast: Dragon's Wrath
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastDragonsWrath_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-dragon-s-wrath
+----------------------------------------
+Game #27:
+  Name: Midas Golden Touch 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouch294_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-midas-golden-touch-2
+----------------------------------------
+Game #28:
+  Name: Dragon Horn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DragonHorn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-dragon-horn
+----------------------------------------
+Game #29:
+  Name: Sword of Shoguns
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofShoguns_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-sword-of-shoguns
+----------------------------------------
+Game #30:
+  Name: Carnival Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueen_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-carnival-queen
+----------------------------------------
+Game #31:
+  Name: Pink Elephants
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-pink-elephants
+----------------------------------------
+Game #32:
+  Name: Archie O'Loggins and the Enchanted Masks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:ArchieOLogginsandtheEnchantedMasks-_tVbDCF2I.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-archie-o-loggins-and-the-enchanted-masks
+----------------------------------------
+Game #33:
+  Name: Pink Elephants 2 Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants2Reborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-pink-elephants-2-reborn
+----------------------------------------
+Game #34:
+  Name: King of the Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_KingoftheParty94_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-king-of-the-party
+----------------------------------------
+Game #35:
+  Name: Split Happens
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:SplitHappens-oh0jL9dMW.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-split-happens
+----------------------------------------
+Game #36:
+  Name: Ways Of Athena
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:WaysOfAthena-ETJMa8ZJY.jpeg
+  Game Link: https://roobet.com/casino/game/thunderkick-ways-of-athena
+----------------------------------------
+Game #37:
+  Name: Lost City of the Djinn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_LostCityoftheDjinn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-lost-city-of-the-djinn
+----------------------------------------
+Game #38:
+  Name: Pyramyth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Pyramyth_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-pyramyth
+----------------------------------------
+Game #39:
+  Name: The Gunman of Goldwood
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/thunderkick:TheGunmanofGoldwood94_tk--zF1jsegK.png
+  Game Link: https://roobet.com/casino/game/thunderkick-the-gunman-of-goldwood
+----------------------------------------
+Game #40:
+  Name: Gods of Rock!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GodsofRock_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-gods-of-rock
+----------------------------------------
+Game #41:
+  Name: Sword of Khans - Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SwordofKhansReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-sword-of-khans-reborn
+----------------------------------------
+Game #42:
+  Name: Riders of the Storm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RidersoftheStorm_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-riders-of-the-storm
+----------------------------------------
+Game #43:
+  Name: Fortune Cats Golden Stacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FortuneCatsGoldenStacks.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-fortune-cats-golden-stacks
+----------------------------------------
+Game #44:
+  Name: Midas Golden Touch Christmas Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouchChristmasEdition_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-midas-golden-touch-christmas-edition
+----------------------------------------
+Game #45:
+  Name: Jin Chan’s Pond of Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JinChansPondofRiches.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-jin-chan-s-pond-of-riches
+----------------------------------------
+Game #46:
+  Name: The Falcon Huntress
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheFalconHuntress_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-the-falcon-huntress
+----------------------------------------
+Game #47:
+  Name: Wild Heist at Peacock Manor
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_WildHeist_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-wild-heist-at-peacock-manor
+----------------------------------------
+Game #48:
+  Name: Beat the Beast: Griffin's Gold Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BeattheBeastGriffinsGoldReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-beat-the-beast-griffin-s-gold-reborn
+----------------------------------------
+Game #49:
+  Name: Pink Elephants 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PinkElephants2_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-pink-elephants-2
+----------------------------------------
+Game #50:
+  Name: Big Fin Bay
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BigFinBay_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-big-fin-bay
+----------------------------------------
+Game #51:
+  Name: Baron Bloodmore and the Crimson Castle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BaronBloodmoreandtheCrimsonCastle_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-baron-bloodmore-and-the-crimson-castle
+----------------------------------------
+Game #52:
+  Name: 12 Bolts of Thunder
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_12BoltsofThunder_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-12-bolts-of-thunder
+----------------------------------------
+Game #53:
+  Name: Fruit Warp
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FruitWarp_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-fruit-warp
+----------------------------------------
+Game #54:
+  Name: Phoenix Paradise
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PhoenixParadise_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-phoenix-paradise
+----------------------------------------
+Game #55:
+  Name: Zap Attack!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_ZapAttack_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-zap-attack
+----------------------------------------
+Game #56:
+  Name: Midas Golden Touch Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_MidasGoldenTouchReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-midas-golden-touch-reborn
+----------------------------------------
+Game #57:
+  Name: Lava Lava
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_LavaLava_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-lava-lava
+----------------------------------------
+Game #58:
+  Name: Triple Royal Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TripleRoyalGold.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-triple-royal-gold
+----------------------------------------
+Game #59:
+  Name: Shifting Seas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_ShiftingSeas_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-shifting-seas
+----------------------------------------
+Game #60:
+  Name: Rex the Hunt!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RextheHunt_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-rex-the-hunt
+----------------------------------------
+Game #61:
+  Name: Divine Lotus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_DivineLotus_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-divine-lotus
+----------------------------------------
+Game #62:
+  Name: Crystal Quest: Frostlands
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestFrostlands_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-crystal-quest-frostlands
+----------------------------------------
+Game #63:
+  Name: Cosmic Voyager
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CosmicVoyager_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick:CosmicVoyager_tk
+----------------------------------------
+Game #64:
+  Name: Hellapenos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Hellapenos_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-hellapenos
+----------------------------------------
+Game #65:
+  Name: The Rift
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TheRift_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-the-rift
+----------------------------------------
+Game #66:
+  Name: Yeti Battle of Greenhat peak
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_YetiBattle_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-yeti-battle-of-greenhat-peak
+----------------------------------------
+Game #67:
+  Name: Odin's Gamble
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_OdinsGamble94_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick:OdinsGamble94_tk
+----------------------------------------
+Game #68:
+  Name: Pyramyth Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_PyramythReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-pyramyth-reborn
+----------------------------------------
+Game #69:
+  Name: Flame Busters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FlameBusters_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-flame-busters
+----------------------------------------
+Game #70:
+  Name: Full Moon Romance
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FullMoonRomance_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-full-moon-romance
+----------------------------------------
+Game #71:
+  Name: Zoom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Zoom_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-zoom
+----------------------------------------
+Game #72:
+  Name: Grand Melee
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_GrandMelee_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-grand-melee
+----------------------------------------
+Game #73:
+  Name: Carnival Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueen.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick:CarnivalQueen
+----------------------------------------
+Game #74:
+  Name: Xterminate
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Xterminate94_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-xterminate
+----------------------------------------
+Game #75:
+  Name: Bork The Berzerker - Hack ‘N’ Slash Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BorkTheBerzerker_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-bork-the-berzerker-hack-n-slash-edition
+----------------------------------------
+Game #76:
+  Name: Triple Christmas Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TripleChristmasGold_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-triple-christmas-gold
+----------------------------------------
+Game #77:
+  Name: Crystal Quest: Arcane Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestArcaneTower_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-crystal-quest-arcane-tower
+----------------------------------------
+Game #78:
+  Name: Ravens Eye
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RavensEye_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-ravens-eye
+----------------------------------------
+Game #79:
+  Name: Arcader
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_arcader_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-arcader
+----------------------------------------
+Game #80:
+  Name: Birds On A Wire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_BirdsOnAWire_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-birds-on-a-wire
+----------------------------------------
+Game #81:
+  Name: Magicious
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Magicious_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-magicious
+----------------------------------------
+Game #82:
+  Name: Carnival Queen - Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CarnivalQueenReborn_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-carnival-queen-reborn
+----------------------------------------
+Game #83:
+  Name: Crystal Quest: Deep Jungle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_CrystalQuestDeepJungle_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-crystal-quest-deep-jungle
+----------------------------------------
+Game #84:
+  Name: Tiger Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TigerRush_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-tiger-rush
+----------------------------------------
+Game #85:
+  Name: Babushkas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Babushkas_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-babushkas
+----------------------------------------
+Game #86:
+  Name: Luchadora
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Luchadora_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-luchadora
+----------------------------------------
+Game #87:
+  Name: Jaguar Temple
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_JaguarTemple_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-jaguar-temple
+----------------------------------------
+Game #88:
+  Name: Turning Totems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TurningTotems_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-turning-totems
+----------------------------------------
+Game #89:
+  Name: Sunset Delight
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_SunsetDelight_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-sunset-delight
+----------------------------------------
+Game #90:
+  Name: Rocket Fellas Inc
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_RocketFellas_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-rocket-fellas-inc
+----------------------------------------
+Game #91:
+  Name: Barbershop: Uncut
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Barbershop_Uncut_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-barbershop-uncut
+----------------------------------------
+Game #92:
+  Name: Not Enough Kittens
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_NotEnoughKittens_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-not-enough-kittens
+----------------------------------------
+Game #93:
+  Name: Frog Grog
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_FrogGrog_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-frog-grog
+----------------------------------------
+Game #94:
+  Name: Flux
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Flux_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-flux
+----------------------------------------
+Game #95:
+  Name: Well of Wonders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_WellOfWonders_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-well-of-wonders
+----------------------------------------
+Game #96:
+  Name: Spectra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_Spectra_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-spectra
+----------------------------------------
+Game #97:
+  Name: Toki Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/thunderkick_TokiTime_tk.jpg
+  Game Link: https://roobet.com/casino/game/thunderkick-toki-time
+----------------------------------------

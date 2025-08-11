@@ -1,0 +1,917 @@
+Hacksaw Gaming Games Data
+==================================================
+Total games found: 182
+Load More clicks: 3
+Extraction date: 2025-08-11 00:34:57
+==================================================
+
+Game #1:
+  Name: Wanted Dead or a Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1067-q-bBlb64E.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-wanted-dead-or-a-wild
+----------------------------------------
+Game #2:
+  Name: Le Bandit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1309-UTW7BoZfr.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-le-bandit
+----------------------------------------
+Game #3:
+  Name: Rainbow Princess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1817-X7CdUXsNq.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rainbow-princess
+----------------------------------------
+Game #4:
+  Name: The Luxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1795-Oqlp2Jvrq.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw:1795
+----------------------------------------
+Game #5:
+  Name: Le King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1787-pYjL6qjxX.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-le-king
+----------------------------------------
+Game #6:
+  Name: RIP City Roobet
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1955-2AUAjgeMj.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rip-city-roobet
+----------------------------------------
+Game #7:
+  Name: Le Pharaoh
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1562-zp9LjbwPa.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-le-pharaoh
+----------------------------------------
+Game #8:
+  Name: SixSixSix
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1534.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-sixsixsix
+----------------------------------------
+Game #9:
+  Name: Life and Death
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1460-zpzR04xzd.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-life-and-death
+----------------------------------------
+Game #10:
+  Name: Le Viking
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1689-9aI3Vtc5L.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-le-viking
+----------------------------------------
+Game #11:
+  Name: Duel at Dawn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1620-1VerUGnHx.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-duel-at-dawn
+----------------------------------------
+Game #12:
+  Name: Stormforged
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1243.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-stormforged
+----------------------------------------
+Game #13:
+  Name: Donny Dough
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1530.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-donny-dough
+----------------------------------------
+Game #14:
+  Name: Slayers Inc
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1482.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-slayers-inc
+----------------------------------------
+Game #15:
+  Name: Fist of Destruction
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1408.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-fist-of-destruction
+----------------------------------------
+Game #16:
+  Name: Pray for Three
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1736-CGM3UPrLx.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-pray-for-three
+----------------------------------------
+Game #17:
+  Name: RIP City
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1233.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rip-city
+----------------------------------------
+Game #18:
+  Name: FRKN Bananas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1693-gNe3KyZdJ.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-frkn-bananas
+----------------------------------------
+Game #19:
+  Name: Aiko and the Wind Spirit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1756-Tizdnry2d.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw:1756
+----------------------------------------
+Game #20:
+  Name: Ze Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1508.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-ze-zeus
+----------------------------------------
+Game #21:
+  Name: Hand of Anubis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1164-cQT4ymA--.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-hand-of-anubis
+----------------------------------------
+Game #22:
+  Name: Xmas Drop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1396.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-xmas-drop
+----------------------------------------
+Game #23:
+  Name: Rotten
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1209.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rotten
+----------------------------------------
+Game #24:
+  Name: Double Rainbow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1144-11JAY_qdm.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-double-rainbow
+----------------------------------------
+Game #25:
+  Name: Ultimate Slot of America
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1760-xXBInZ_Jf.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-ultimate-slot-of-america
+----------------------------------------
+Game #26:
+  Name: Itero
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1168.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-itero
+----------------------------------------
+Game #27:
+  Name: Drop'em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1314.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-drop-em
+----------------------------------------
+Game #28:
+  Name: Dork Unit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1172-6P6fOddbJ.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dork-unit
+----------------------------------------
+Game #29:
+  Name: Chaos Crew 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1352.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-chaos-crew-2
+----------------------------------------
+Game #30:
+  Name: Cloud Princess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1602--EOSzR-iK.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cloud-princess
+----------------------------------------
+Game #31:
+  Name: Spinman
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1748-HwEFiW6lu.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-spinman
+----------------------------------------
+Game #32:
+  Name: Hounds of Hell
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1666-I3flKtrTL.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-hounds-of-hell
+----------------------------------------
+Game #33:
+  Name: Beast Below
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1279.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-beast-below
+----------------------------------------
+Game #34:
+  Name: Stack'Em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1084.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-stack-em
+----------------------------------------
+Game #35:
+  Name: Marlin Masters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1681-qmjA84ihJ.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-marlin-masters
+----------------------------------------
+Game #36:
+  Name: Booze Bash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1783-in6_a7Jpd.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-booze-bash
+----------------------------------------
+Game #37:
+  Name: Densho
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1348.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-densho
+----------------------------------------
+Game #38:
+  Name: Mayan Stackways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1275.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-mayan-stackways
+----------------------------------------
+Game #39:
+  Name: Fighter Pit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1715-GonegYcrk.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-fighter-pit
+----------------------------------------
+Game #40:
+  Name: Danny Dollar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1685-QRVwIyMgm.png
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-danny-dollar
+----------------------------------------
+Game #41:
+  Name: Magic Piggy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1247.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-magic-piggy
+----------------------------------------
+Game #42:
+  Name: Frank's Farm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1225.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-frank-s-farm
+----------------------------------------
+Game #43:
+  Name: Snow Slingers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1558--KHwHNZx7.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-snow-slingers
+----------------------------------------
+Game #44:
+  Name: Donut Division
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1608-xDV2MUF7q.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-donut-division
+----------------------------------------
+Game #45:
+  Name: Divine Drop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1490.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-divine-drop
+----------------------------------------
+Game #46:
+  Name: Eye of Medusa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1740-IK3TfnqOA.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw:1740
+----------------------------------------
+Game #47:
+  Name: Pug Life
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1217.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-pug-life
+----------------------------------------
+Game #48:
+  Name: Orb of Destiny
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1474.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-orb-of-destiny
+----------------------------------------
+Game #49:
+  Name: Joker Bombs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1117.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-joker-bombs
+----------------------------------------
+Game #50:
+  Name: Toshi Video Club
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1087.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-toshi-video-club
+----------------------------------------
+Game #51:
+  Name: Cursed Seas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1263.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cursed-seas
+----------------------------------------
+Game #52:
+  Name: Baccarat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1446.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-baccarat
+----------------------------------------
+Game #53:
+  Name: Benny the Beer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1356.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-benny-the-beer
+----------------------------------------
+Game #54:
+  Name: Octo Attack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1584.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-octo-attack
+----------------------------------------
+Game #55:
+  Name: Book of Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1213.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-book-of-time
+----------------------------------------
+Game #56:
+  Name: Invictus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1791-EBMLUtH0w.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-invictus
+----------------------------------------
+Game #57:
+  Name: Fred's Food Truck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1229-8dCLwFqi6.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-freds-food-truck
+----------------------------------------
+Game #58:
+  Name: Dorks of the Deep
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1430-zRWVcw6HN.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dorks-of-the-deep
+----------------------------------------
+Game #59:
+  Name: Gladiator Legends
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1160.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gladiator-legends
+----------------------------------------
+Game #60:
+  Name: Rad Maxx
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1732-UeWExx1hF.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rad-maxx
+----------------------------------------
+Game #61:
+  Name: Reign of Rome
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1728-aqOlhFNPL.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-reign-of-rome
+----------------------------------------
+Game #62:
+  Name: Evil Eyes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1570-bsYTXcATm.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-evil-eyes
+----------------------------------------
+Game #63:
+  Name: 2 Wild 2 Die
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1400.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-2-wild-2-die
+----------------------------------------
+Game #64:
+  Name: Ronin Stackways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1267.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-ronin-stackways
+----------------------------------------
+Game #65:
+  Name: Time Spinners
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1181.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-time-spinners
+----------------------------------------
+Game #66:
+  Name: Fire My Laser
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1640-Ia-EdlED-.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-fire-my-laser
+----------------------------------------
+Game #67:
+  Name: Cash Crew
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1456.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-crew
+----------------------------------------
+Game #68:
+  Name: Beam Boys
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1426.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-beam-boys
+----------------------------------------
+Game #69:
+  Name: Immortal Desire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1364.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-immortal-desire
+----------------------------------------
+Game #70:
+  Name: Shaolin Master
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1554-I24lKsCNU.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-shaolin-master
+----------------------------------------
+Game #71:
+  Name: Eye of the Panda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1344.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-eye-of-the-panda
+----------------------------------------
+Game #72:
+  Name: Dark Summoning
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1392.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dark-summoning
+----------------------------------------
+Game #73:
+  Name: Fear the Dark
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1271.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-fear-the-dark
+----------------------------------------
+Game #74:
+  Name: Tai the Toad
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1478.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-tai-the-toad
+----------------------------------------
+Game #75:
+  Name: Rusty & Curly
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1404.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rusty-curly
+----------------------------------------
+Game #76:
+  Name: Phoenix DuelReels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1675-HPk1cAjNI.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-phoenix-duelreels
+----------------------------------------
+Game #77:
+  Name: Wings of Horus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1612-vVk0IyU-B.png
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-wings-of-horus
+----------------------------------------
+Game #78:
+  Name: Dragon's Domain
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1360.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dragon-s-domain
+----------------------------------------
+Game #79:
+  Name: Chaos Crew
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1059.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-chaos-crew
+----------------------------------------
+Game #80:
+  Name: Rise of Ymir
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1616-pJT9TsCVS.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rise-of-ymir
+----------------------------------------
+Game #81:
+  Name: Klowns
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1438-mDOJTOlyc.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-klowns
+----------------------------------------
+Game #82:
+  Name: Temple Of Torment
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1237.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-temple-of-torment
+----------------------------------------
+Game #83:
+  Name: Mighty Masks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1305.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-mighty-masks
+----------------------------------------
+Game #84:
+  Name: Undead Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1193.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-undead-fortune
+----------------------------------------
+Game #85:
+  Name: Twisted Lab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1514.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-twisted-lab
+----------------------------------------
+Game #86:
+  Name: Alpha Eagle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1201.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-alpha-eagle
+----------------------------------------
+Game #87:
+  Name: The Bowery Boys
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1135.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-the-bowery-boys
+----------------------------------------
+Game #88:
+  Name: Cubes 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1069.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cubes-2
+----------------------------------------
+Game #89:
+  Name: Fruit Duel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1197.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-fruit-duel
+----------------------------------------
+Game #90:
+  Name: Cursed Crypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1434.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cursed-crypt
+----------------------------------------
+Game #91:
+  Name: Outlaws Inc
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1083.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-outlaws-inc
+----------------------------------------
+Game #92:
+  Name: Hi-Lo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1328.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-hi-lo
+----------------------------------------
+Game #93:
+  Name: Bloodthirst
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1251.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-bloodthirst
+----------------------------------------
+Game #94:
+  Name: Bouncy Bombs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1422.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-bouncy-bombs
+----------------------------------------
+Game #95:
+  Name: Feel the Beat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1372.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-feel-the-beat
+----------------------------------------
+Game #96:
+  Name: Gronk's Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1221.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gronk-s-gems
+----------------------------------------
+Game #97:
+  Name: Get the CHEESE
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1580-Cb6TXUb8O.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-get-the-cheese
+----------------------------------------
+Game #98:
+  Name: Born Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1189.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-born-wild
+----------------------------------------
+Game #99:
+  Name: Strength of Hercules
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1697-wWwx6B1S1.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-strength-of-hercules
+----------------------------------------
+Game #100:
+  Name: Wishbringer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1711-JyTHGE581.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-wishbringer
+----------------------------------------
+Game #101:
+  Name: King Carrot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1127.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-king-carrot
+----------------------------------------
+Game #102:
+  Name: Dawn of Kings
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1442.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dawn-of-kings
+----------------------------------------
+Game #103:
+  Name: Vending Machine
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1340.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-vending-machine
+----------------------------------------
+Game #104:
+  Name: Hop'n'Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1091.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-hop-n-pop
+----------------------------------------
+Game #105:
+  Name: Buffalo Stack 'n' Sync
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1176.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-buffalo-stack-n-sync
+----------------------------------------
+Game #106:
+  Name: Gladius: Death or Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1807-1xJxdoOoV.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gladius-death-or-glory
+----------------------------------------
+Game #107:
+  Name: Keep'em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1494.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-keep-em
+----------------------------------------
+Game #108:
+  Name: Rocket Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1102.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rocket-reels
+----------------------------------------
+Game #109:
+  Name: Warrior Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1131.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-warrior-ways
+----------------------------------------
+Game #110:
+  Name: Merlin's Alchemy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1414.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-merlin-s-alchemy
+----------------------------------------
+Game #111:
+  Name: Aztec Twist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1066.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-aztec-twist
+----------------------------------------
+Game #112:
+  Name: Mystery Motel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1071.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-mystery-motel
+----------------------------------------
+Game #113:
+  Name: The Respinners
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1058.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-the-respinners
+----------------------------------------
+Game #114:
+  Name: Sticky Candyland
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1701-rHoNOCeSI.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-sticky-candyland
+----------------------------------------
+Game #115:
+  Name: Jelly Slice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1452.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-jelly-slice
+----------------------------------------
+Game #116:
+  Name: Miami Multiplier
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1049.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-miami-multiplier
+----------------------------------------
+Game #117:
+  Name: The Bomb
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1054.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-the-bomb
+----------------------------------------
+Game #118:
+  Name: Monkey Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1578-GnGMrco0G.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-monkey-frenzy
+----------------------------------------
+Game #119:
+  Name: Forest Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1185.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-forest-fortune
+----------------------------------------
+Game #120:
+  Name: Stick'Em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1042.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-stick-em
+----------------------------------------
+Game #121:
+  Name: Frutz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1081.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-frutz
+----------------------------------------
+Game #122:
+  Name: Cubes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1048.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cubes
+----------------------------------------
+Game #123:
+  Name: Keep 'em Cool
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1259.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-keep-em-cool
+----------------------------------------
+Game #124:
+  Name: Cash Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1099.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-quest
+----------------------------------------
+Game #125:
+  Name: Xpander
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1093.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-xpander
+----------------------------------------
+Game #126:
+  Name: Tasty Treats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1096.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-tasty-treats
+----------------------------------------
+Game #127:
+  Name: Harvest Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1140.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-harvest-wilds
+----------------------------------------
+Game #128:
+  Name: Break Bones
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1205.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-break-bones
+----------------------------------------
+Game #129:
+  Name: Platinum Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1001.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-platinum-scratch
+----------------------------------------
+Game #130:
+  Name: Dream Car Urban
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1017.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dream-car-urban
+----------------------------------------
+Game #131:
+  Name: Shave the Beard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1045.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-shave-the-beard
+----------------------------------------
+Game #132:
+  Name: Lucky Numbers x20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1030.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-numbers-x20
+----------------------------------------
+Game #133:
+  Name: Snow Scratcher
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1109.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-snow-scratcher
+----------------------------------------
+Game #134:
+  Name: OmNom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1043.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-omnom
+----------------------------------------
+Game #135:
+  Name: Chaos Crew Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1092.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-chaos-crew-scratch
+----------------------------------------
+Game #136:
+  Name: Gold Coins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1052.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gold-coins
+----------------------------------------
+Game #137:
+  Name: King Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1010.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-king-treasure
+----------------------------------------
+Game #138:
+  Name: Prince Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1013.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-prince-treasure
+----------------------------------------
+Game #139:
+  Name: Twenty-One
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1418.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-twenty-one
+----------------------------------------
+Game #140:
+  Name: Stack'Em Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1139.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-stack-em-scratch
+----------------------------------------
+Game #141:
+  Name: Express 200 Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1006.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-express-200-scratch
+----------------------------------------
+Game #142:
+  Name: Cash Vault II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1025.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-vault-ii
+----------------------------------------
+Game #143:
+  Name: It's Bananas!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1031.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-it-s-bananas
+----------------------------------------
+Game #144:
+  Name: Diamond Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1022.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-diamond-rush
+----------------------------------------
+Game #145:
+  Name: Lucky Numbers x16
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1029.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-numbers-x16
+----------------------------------------
+Game #146:
+  Name: Balloons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1061.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-balloons
+----------------------------------------
+Game #147:
+  Name: Gold Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1020.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gold-rush
+----------------------------------------
+Game #148:
+  Name: Cash Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1057.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-scratch
+----------------------------------------
+Game #149:
+  Name: Queen Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1011.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-queen-treasure
+----------------------------------------
+Game #150:
+  Name: Bronze scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1004.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-bronze-scratch
+----------------------------------------
+Game #151:
+  Name: Tiger Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1110.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-tiger-scratch
+----------------------------------------
+Game #152:
+  Name: Crazy Donuts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1062.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-crazy-donuts
+----------------------------------------
+Game #153:
+  Name: Love Is All You Need
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1072.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-love-is-all-you-need
+----------------------------------------
+Game #154:
+  Name: Scratchy Big
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1009.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-scratchy-big
+----------------------------------------
+Game #155:
+  Name: Scratch'Em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1047.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-scratch-em
+----------------------------------------
+Game #156:
+  Name: Lucky Numbers x12
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1028.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-numbers-x12
+----------------------------------------
+Game #157:
+  Name: Koi Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1053.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-koi-cash
+----------------------------------------
+Game #158:
+  Name: Shave the Sheep
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1060.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-shave-the-sheep
+----------------------------------------
+Game #159:
+  Name: The Perfect Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1080.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-the-perfect-scratch
+----------------------------------------
+Game #160:
+  Name: Cut the Grass
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1046.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cut-the-grass
+----------------------------------------
+Game #161:
+  Name: Scratchy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1008.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-scratchy
+----------------------------------------
+Game #162:
+  Name: Dream Car SUV
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1018.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dream-car-suv
+----------------------------------------
+Game #163:
+  Name: Dream Car Speed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1019.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-dream-car-speed
+----------------------------------------
+Game #164:
+  Name: Lucky Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1016.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-scratch
+----------------------------------------
+Game #165:
+  Name: Cash Pool
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1065.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-pool
+----------------------------------------
+Game #166:
+  Name: Summer Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1180.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-summer-scratch
+----------------------------------------
+Game #167:
+  Name: Lucky Numbers x8
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1027.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-numbers-x8
+----------------------------------------
+Game #168:
+  Name: Cash Vault I
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1024.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-cash-vault-i
+----------------------------------------
+Game #169:
+  Name: Gold Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1002.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-gold-scratch
+----------------------------------------
+Game #170:
+  Name: Ruby Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1021.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-ruby-rush
+----------------------------------------
+Game #171:
+  Name: Eggstra Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1082.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-eggstra-cash
+----------------------------------------
+Game #172:
+  Name: Break the ICE
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1050.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-break-the-ice
+----------------------------------------
+Game #173:
+  Name: Frog's Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1051.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-frog-s-scratch
+----------------------------------------
+Game #174:
+  Name: Happy Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1014.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-happy-scratch
+----------------------------------------
+Game #175:
+  Name: Spooky Scary Scratchy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1108.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-spooky-scary-scratchy
+----------------------------------------
+Game #176:
+  Name: Go Panda!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1064.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-go-panda
+----------------------------------------
+Game #177:
+  Name: Football Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1079.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-football-scratch
+----------------------------------------
+Game #178:
+  Name: Rat Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1063.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-rat-riches
+----------------------------------------
+Game #179:
+  Name: Double Salary for 1 Year
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1034.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-double-salary-for-1-year
+----------------------------------------
+Game #180:
+  Name: Lucky Shot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1023.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-lucky-shot
+----------------------------------------
+Game #181:
+  Name: Scratchy Mini
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1007.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-scratchy-mini
+----------------------------------------
+Game #182:
+  Name: Silver Scratch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hacksaw_1003.jpg
+  Game Link: https://roobet.com/casino/game/hacksaw-gaming-silver-scratch
+----------------------------------------

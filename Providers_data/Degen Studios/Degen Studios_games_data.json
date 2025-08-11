@@ -1,0 +1,20 @@
+{
+  "provider": "Degen Studios",
+  "total_games": 2,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:32:00.304480",
+  "games": [
+    {
+      "index": 1,
+      "name": "Hacker's Haven",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10706-RmgwPd5D2.jpeg",
+      "game_link": "https://roobet.com/casino/game/degen-studios-hackers-haven"
+    },
+    {
+      "index": 2,
+      "name": "Raider Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/gamingcorps:RaiderRiches-Q14uTJHBG.jpeg",
+      "game_link": "https://roobet.com/casino/game/degen-studios-raider-riches"
+    }
+  ]
+}

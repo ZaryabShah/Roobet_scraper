@@ -1,0 +1,26 @@
+{
+  "provider": "Buck Stakes Entertainment",
+  "total_games": 3,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:30:35.873216",
+  "games": [
+    {
+      "index": 1,
+      "name": "Betty's Big Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_bettysbigbonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/buck-stakes-entertainment-betty-s-big-bonanza"
+    },
+    {
+      "index": 2,
+      "name": "4 Diamond Blues Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_4diamondbluesmegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/buck-stakes-entertainment-4-diamond-blues-megaways"
+    },
+    {
+      "index": 3,
+      "name": "Money Mines",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bse_moneymines.jpg",
+      "game_link": "https://roobet.com/casino/game/buck-stakes-entertainment-money-mines"
+    }
+  ]
+}

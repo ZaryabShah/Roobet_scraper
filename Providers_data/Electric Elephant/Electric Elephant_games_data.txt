@@ -1,0 +1,17 @@
+Electric Elephant Games Data
+==================================================
+Total games found: 2
+Load More clicks: 0
+Extraction date: 2025-08-11 04:32:39
+==================================================
+
+Game #1:
+  Name: Star Pops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_StarPops.jpg
+  Game Link: https://roobet.com/casino/game/electric-elephant-star-pops
+----------------------------------------
+Game #2:
+  Name: Sherlock Bones
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SherlockBones.jpg
+  Game Link: https://roobet.com/casino/game/electric-elephant-sherlock-bones
+----------------------------------------

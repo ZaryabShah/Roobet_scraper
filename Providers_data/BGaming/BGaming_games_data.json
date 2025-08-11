@@ -1,0 +1,1040 @@
+{
+  "provider": "BGaming",
+  "total_games": 172,
+  "load_more_clicks": 3,
+  "extraction_date": "2025-08-11T00:38:29.385115",
+  "games": [
+    {
+      "index": 1,
+      "name": "Merge Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MergeUp.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-merge-up"
+    },
+    {
+      "index": 2,
+      "name": "Aviamasters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:Aviamasters-GL2hXgBQo.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aviamasters"
+    },
+    {
+      "index": 3,
+      "name": "Roobet Gems of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:RoobetGemsOfFortune-yyveaO8-C.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-roobet-gems-of-fortune"
+    },
+    {
+      "index": 4,
+      "name": "Burning Chilli X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BurningChilliX.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-burning-chilli-x"
+    },
+    {
+      "index": 5,
+      "name": "Clover Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CloverBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-clover-bonanza"
+    },
+    {
+      "index": 6,
+      "name": "Snoop Dogg Dollars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:SnoopDoggDollars-aeYh3FH9O.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-snoop-dogg-dollars"
+    },
+    {
+      "index": 7,
+      "name": "All Lucky Clovers 5",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AllLuckyClover5.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-lucky-clovers-5"
+    },
+    {
+      "index": 8,
+      "name": "Lucky Ducky",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:LuckyDucky-N9xUg6r5J.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-ducky"
+    },
+    {
+      "index": 9,
+      "name": "Wild Tiger",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildTiger.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-tiger"
+    },
+    {
+      "index": 10,
+      "name": "Aztec Clusters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AztecClusters.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aztec-clusters"
+    },
+    {
+      "index": 11,
+      "name": "Big Bucks Saloon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:BigBucksSaloon-S4F-mZQoe.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:BigBucksSaloon"
+    },
+    {
+      "index": 12,
+      "name": "Gemhalla",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Gemhalla.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gemhalla"
+    },
+    {
+      "index": 13,
+      "name": "Royal Fruits MultiLines",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:RoyalFruitsMultiLines-3fIJwppjn.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-royal-fruits-multilines"
+    },
+    {
+      "index": 14,
+      "name": "Wild Clusters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:WildClustersP-VKrhZ2qmD.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-clusters"
+    },
+    {
+      "index": 15,
+      "name": "Big Tuna Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:BigTunaBonanza-Ya1gmZ3Y6.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:BigTunaBonanza"
+    },
+    {
+      "index": 16,
+      "name": "Lucky 8 Merge Up",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Lucky8MergeUp.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-8-merge-up"
+    },
+    {
+      "index": 17,
+      "name": "Multihand Blackjack Pro 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:MultihandBlackjackPro2-Z_afPxmGz.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-multihand-blackjack-pro-2"
+    },
+    {
+      "index": 18,
+      "name": "Tramp Day Trueways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:TrampDayTrueways-9x5JPok7b.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:TrampDayTrueways"
+    },
+    {
+      "index": 19,
+      "name": "All Lucky Clovers 20",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AllLuckyClover20.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-lucky-clovers-20"
+    },
+    {
+      "index": 20,
+      "name": "Bonanza Billion",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:BonanzaBillion-DhOEipgWb.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-bonanza-billion"
+    },
+    {
+      "index": 21,
+      "name": "Doomsday Saloon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:DoomsdaySaloon-KNUSoTq2w.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-doomsday-saloon"
+    },
+    {
+      "index": 22,
+      "name": "Hot Chilli Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:HotChilliBells-4NRfjDKW5.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-hot-chilli-bells"
+    },
+    {
+      "index": 23,
+      "name": "Haunted Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:HauntedReels-v9HmxSuUV.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-haunted-reels"
+    },
+    {
+      "index": 24,
+      "name": "Gold Rush with Johnny Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GoldRushWithJohnny.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gold-rush-with-johnny-cash"
+    },
+    {
+      "index": 25,
+      "name": "Alien Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AlienFruits.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-alien-fruits"
+    },
+    {
+      "index": 26,
+      "name": "All Lucky Clovers 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AllLuckyClover100.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-lucky-clovers-100"
+    },
+    {
+      "index": 27,
+      "name": "Lady Wolf Moon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyLadyMoon.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lady-wolf-moon"
+    },
+    {
+      "index": 28,
+      "name": "Chicken Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ChickenRush.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-chicken-rush"
+    },
+    {
+      "index": 29,
+      "name": "Lady Wolf Moon Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyLadyMoonMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lady-wolf-moon-megaways"
+    },
+    {
+      "index": 30,
+      "name": "Bone Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BoneBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-bone-bonanza"
+    },
+    {
+      "index": 31,
+      "name": "Olympus TRUEWAYS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:OlympusTrueways--IsLBMl7D.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-olympus-trueways"
+    },
+    {
+      "index": 32,
+      "name": "Multihand Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MultihandBlackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-multihand-blackjack"
+    },
+    {
+      "index": 33,
+      "name": "Wild Cash x9990",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildCashX9990.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-cash-x9990"
+    },
+    {
+      "index": 34,
+      "name": "Infinity Pull",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:InfinityPull-tEdEBHBNN.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:InfinityPull"
+    },
+    {
+      "index": 35,
+      "name": "Dice Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DiceBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dice-bonanza"
+    },
+    {
+      "index": 36,
+      "name": "Cat's Soup",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:CatsSoup-J5qXmmepI.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:CatsSoup"
+    },
+    {
+      "index": 37,
+      "name": "Wild West TRUEWAYS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildWestTrueways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-west-trueways"
+    },
+    {
+      "index": 38,
+      "name": "Elvis Frog in Vegas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ElvisFroginVegas.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-elvis-frog-in-vegas"
+    },
+    {
+      "index": 39,
+      "name": "Wild Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildCash.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-cash"
+    },
+    {
+      "index": 40,
+      "name": "Aztec Magic Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AztecMagicBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aztec-magic-bonanza"
+    },
+    {
+      "index": 41,
+      "name": "Alice WonderLuck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:AliceWonderLuck-FO095jWPa.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-alice-wonderluck"
+    },
+    {
+      "index": 42,
+      "name": "Alien Fruits 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AlienFruits2.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-alien-fruits-2"
+    },
+    {
+      "index": 43,
+      "name": "Kraken's Hunger",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_KrakensHunger.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-kraken-s-hunger"
+    },
+    {
+      "index": 44,
+      "name": "Book of Pyramids",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BookOfPyramids.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-book-of-pyramids"
+    },
+    {
+      "index": 45,
+      "name": "Aztec Magic Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AztecMagicDeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aztec-magic-deluxe"
+    },
+    {
+      "index": 46,
+      "name": "Penny Pelican",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PennyPelican.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-penny-pelican"
+    },
+    {
+      "index": 47,
+      "name": "Balloon Mania",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:BalloonMania-RWJWwz3cq.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-balloon-mania"
+    },
+    {
+      "index": 48,
+      "name": "Sweet Rush Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SweetRushMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-sweet-rush-megaways"
+    },
+    {
+      "index": 49,
+      "name": "All Lucky Clovers 40",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AllLuckyClover40.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-lucky-clovers-40"
+    },
+    {
+      "index": 50,
+      "name": "Aloha King Elvis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AlohaKingElvis.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aloha-king-elvis"
+    },
+    {
+      "index": 51,
+      "name": "Lucky Lady's Clover",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyLadyClover.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-lady-s-clover"
+    },
+    {
+      "index": 52,
+      "name": "Rocket Dice",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_RocketDice.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-rocket-dice"
+    },
+    {
+      "index": 53,
+      "name": "Elvis Frog TRUEWAYS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ElvisFrogTrueways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-elvis-frog-trueways"
+    },
+    {
+      "index": 54,
+      "name": "Wild Card Gang",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:WildCardGang-n7ylEF4vh.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-card-gang"
+    },
+    {
+      "index": 55,
+      "name": "Catdiana",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:Catdiana-pwzuVGSSZ.png",
+      "game_link": "https://roobet.com/casino/game/bgaming-catdiana"
+    },
+    {
+      "index": 56,
+      "name": "Big Atlantis Frenzy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BigAtlantisFrenzy.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-big-atlantis-frenzy"
+    },
+    {
+      "index": 57,
+      "name": "Tramp Day",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_TrampDay.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-tramp-day"
+    },
+    {
+      "index": 58,
+      "name": "Lady Lucky Gun",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:LadyLuckyGun-Sm6ZZssK-.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:LadyLuckyGun"
+    },
+    {
+      "index": 59,
+      "name": "Four Lucky Clover",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FourLuckyClover.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-four-lucky-clover"
+    },
+    {
+      "index": 60,
+      "name": "Aztec Magic Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AztecMagicMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aztec-magic-megaways"
+    },
+    {
+      "index": 61,
+      "name": "Carnival Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:CarnivalBonanza-tOjegfmSQ.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-carnival-bonanza"
+    },
+    {
+      "index": 62,
+      "name": "Halloween Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_HalloweenBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-halloween-bonanza"
+    },
+    {
+      "index": 63,
+      "name": "Dragon Queen MEGAWAYS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:DragonQueenMegaways-3T3PSUl4r.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dragon-queen-megaways"
+    },
+    {
+      "index": 64,
+      "name": "Book Of Cats Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BookOfCatsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-book-of-cats-megaways"
+    },
+    {
+      "index": 65,
+      "name": "Book Of Cats",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BookOfCats.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-book-of-cats"
+    },
+    {
+      "index": 66,
+      "name": "Pop Zen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PopZen.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-pop-zen"
+    },
+    {
+      "index": 67,
+      "name": "Beer Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BeerBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-beer-bonanza"
+    },
+    {
+      "index": 68,
+      "name": "Multihand Blackjack Pro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BlackjackPro.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-multihand-blackjack-pro"
+    },
+    {
+      "index": 69,
+      "name": "Lucky Crew",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyCrew.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-crew"
+    },
+    {
+      "index": 70,
+      "name": "Voodoo People",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:VoodooPeople-00XfMrCP0.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-voodoo-people"
+    },
+    {
+      "index": 71,
+      "name": "Forgotten",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:Forgotten-KccJPYpeL.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-forgotten"
+    },
+    {
+      "index": 72,
+      "name": "Joker Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_JokerQueen.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-joker-queen"
+    },
+    {
+      "index": 73,
+      "name": "Rotating Element",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:RotatingElement-voTQ46xI4.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-rotating-element"
+    },
+    {
+      "index": 74,
+      "name": "Fruit Million",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FruitMillion.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-fruit-million"
+    },
+    {
+      "index": 75,
+      "name": "Loki Loot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:LokiLoot-42F8OIDE0.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-loki-loot"
+    },
+    {
+      "index": 76,
+      "name": "All-Star Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:AllStarFruits-s9BA9nvTh.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-star-fruits"
+    },
+    {
+      "index": 77,
+      "name": "Wild Chicago",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildChicago.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-chicago"
+    },
+    {
+      "index": 78,
+      "name": "Fire Lightning",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FireLightning.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-fire-lightning"
+    },
+    {
+      "index": 79,
+      "name": "Johnny Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_JohnnyCash.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-johnny-cash"
+    },
+    {
+      "index": 80,
+      "name": "Disco Party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:DiscoParty-6kxbLrkoV.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-disco-party"
+    },
+    {
+      "index": 81,
+      "name": "OOF The Goldmine Planet",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Oof.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-oof-the-goldmine-planet"
+    },
+    {
+      "index": 82,
+      "name": "Wild Moon Thieves",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:WildMoonThieves-7BR7KiL0Q.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-moon-thieves"
+    },
+    {
+      "index": 83,
+      "name": "Diamond of Jungle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DiamondOfJungle.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-diamond-of-jungle"
+    },
+    {
+      "index": 84,
+      "name": "Potion Spells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PotionSpells.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-potion-spells"
+    },
+    {
+      "index": 85,
+      "name": "Dice Million",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DiceMillion.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dice-million"
+    },
+    {
+      "index": 86,
+      "name": "Blackbeard's Bounty",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:BlackbeardsBounty-_bz3_yhpS.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-blackbeard-s-bounty"
+    },
+    {
+      "index": 87,
+      "name": "Catch the Gold Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CatchTheGoldHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-catch-the-gold-hold-and-win"
+    },
+    {
+      "index": 88,
+      "name": "Book of Panda Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BookOfPanda.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-book-of-panda-megaways"
+    },
+    {
+      "index": 89,
+      "name": "Gangsterz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Gangsterz.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gangsterz"
+    },
+    {
+      "index": 90,
+      "name": "Lucky Farm Bonanza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyFarmBonanza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-farm-bonanza"
+    },
+    {
+      "index": 91,
+      "name": "Candy Monsta",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CandyMonsta.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-candy-monsta"
+    },
+    {
+      "index": 92,
+      "name": "Dig Dig Digger",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DigDigDigger.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dig-dig-digger"
+    },
+    {
+      "index": 93,
+      "name": "Slot Machine",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SlotMachine.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-slot-machine"
+    },
+    {
+      "index": 94,
+      "name": "Dragon's Gold 100",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DragonsGold100.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dragon-s-gold-100"
+    },
+    {
+      "index": 95,
+      "name": "Golden Pride",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:GoldenPride-s0zfC_Qxd.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-golden-pride"
+    },
+    {
+      "index": 96,
+      "name": "Fishing Club",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FishingClub.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-fishing-club"
+    },
+    {
+      "index": 97,
+      "name": "Book of Kemet",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BookOfKemet.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-book-of-kemet"
+    },
+    {
+      "index": 98,
+      "name": "Mystery Garden",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:MysteryGarden-65YasxNs_.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-mystery-garden"
+    },
+    {
+      "index": 99,
+      "name": "Dragon Age: Hold and WIn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DragonAge.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-dragon-age-hold-and-win"
+    },
+    {
+      "index": 100,
+      "name": "Arrow Slot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:ArrowSlot-mxNqqgmOt.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-arrow-slot"
+    },
+    {
+      "index": 101,
+      "name": "Gemza",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Gemza.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gemza"
+    },
+    {
+      "index": 102,
+      "name": "West Town",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WestTown.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-west-town"
+    },
+    {
+      "index": 103,
+      "name": "Beast Band",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_BeastBand.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-beast-band"
+    },
+    {
+      "index": 104,
+      "name": "Winter Fishing Club",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:WinterFishingClub-i0w1z2vKf.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-winter-fishing-club"
+    },
+    {
+      "index": 105,
+      "name": "Gift Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GiftRush.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gift-rush"
+    },
+    {
+      "index": 106,
+      "name": "Treasure of Anubis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:TreasureOfAnubis-LONm2iiaP.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-treasure-of-anubis"
+    },
+    {
+      "index": 107,
+      "name": "Hottest 666",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Hottest666.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-hottest-666"
+    },
+    {
+      "index": 108,
+      "name": "Joker's Million",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:JokersMillion-1IOs-hAWM.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-joker-s-million"
+    },
+    {
+      "index": 109,
+      "name": "Luck & Magic",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckAndMagic.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-luck-magic"
+    },
+    {
+      "index": 110,
+      "name": "Sakura Riches 60",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:SakuraRiches60-Qgf4Ove0G.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-sakura-riches-60"
+    },
+    {
+      "index": 111,
+      "name": "Fortune Bells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:FortuneBells-piSJbiJcW.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-fortune-bells"
+    },
+    {
+      "index": 112,
+      "name": "Platinum Lightning Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PlatinumLightningDeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-platinum-lightning-deluxe"
+    },
+    {
+      "index": 113,
+      "name": "Wild Cash Dice",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_WildCashDice.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-wild-cash-dice"
+    },
+    {
+      "index": 114,
+      "name": "Golden Pinata Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:GoldenPinataHoldAndWin-KX5I_l36x.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-golden-pinata-hold-and-win"
+    },
+    {
+      "index": 115,
+      "name": "Forty Fruity Million",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FortyFruityMillion.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-forty-fruity-million"
+    },
+    {
+      "index": 116,
+      "name": "Savage Buffalo Spirit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SavageBuffaloSpirit.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-savage-buffalo-spirit"
+    },
+    {
+      "index": 117,
+      "name": "Grand Patron",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GrandPatron7rst.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-grand-patron"
+    },
+    {
+      "index": 118,
+      "name": "Penalty Duel",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:PenaltyDuel-6m1Gzj2M4.jpeg",
+      "game_link": "https://roobet.com/casino/game/softswiss:PenaltyDuel"
+    },
+    {
+      "index": 119,
+      "name": "Gold of Minos",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GoldOfMinos.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gold-of-minos"
+    },
+    {
+      "index": 120,
+      "name": "Royal High-Road",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_RoyalHighRoad.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-royal-high-road"
+    },
+    {
+      "index": 121,
+      "name": "God of Wealth Hold And Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GodOfWealthHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-god-of-wealth-hold-and-win"
+    },
+    {
+      "index": 122,
+      "name": "Monster Hunt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MonsterHunt.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-monster-hunt"
+    },
+    {
+      "index": 123,
+      "name": "Panda Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PandaLuck.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-panda-luck"
+    },
+    {
+      "index": 124,
+      "name": "Road 2 Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Road2Riches.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-road-2-riches"
+    },
+    {
+      "index": 125,
+      "name": "Deep Sea",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DeepSea.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-deep-sea"
+    },
+    {
+      "index": 126,
+      "name": "Soccermania",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Soccermania.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-soccermania"
+    },
+    {
+      "index": 127,
+      "name": "Easter Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_EasterHeist.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-easter-heist"
+    },
+    {
+      "index": 128,
+      "name": "Domnitor's Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_DomnitorsTreasure.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-domnitor-s-treasure"
+    },
+    {
+      "index": 129,
+      "name": "Zeus Goes Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:ZeusGoesWild-XR9Vos_4h.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-zeus-goes-wild"
+    },
+    {
+      "index": 130,
+      "name": "Jungle Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:JungleQueen--eFxi2uZy.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-jungle-queen"
+    },
+    {
+      "index": 131,
+      "name": "Savage Buffalo Spirit Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SavageBuffaloSpiritMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-savage-buffalo-spirit-megaways"
+    },
+    {
+      "index": 132,
+      "name": "Sugar Mix",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:SugarMix-NFfFR_Ry6.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-sugar-mix"
+    },
+    {
+      "index": 133,
+      "name": "Aztec's Claw Wild Dice",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:AztecsClawWildDice-TcO4rsziz.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-aztec-s-claw-wild-dice"
+    },
+    {
+      "index": 134,
+      "name": "Gold Magnate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_GoldMagnate.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-gold-magnate"
+    },
+    {
+      "index": 135,
+      "name": "Fortuna TRUEWAYS",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:FortunaTrueways-UlZBnCLnD.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-fortuna-trueways"
+    },
+    {
+      "index": 136,
+      "name": "Lucky Dragon MultiDice X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyDragonMultiDiceX.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-dragon-multidice-x"
+    },
+    {
+      "index": 137,
+      "name": "Platinum Lightning",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_PlatinumLightning.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-platinum-lightning"
+    },
+    {
+      "index": 138,
+      "name": "Miss Cherry Fruits Jackpot party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MissCherryFruitsJackpotparty.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-miss-cherry-fruits-jackpot-party"
+    },
+    {
+      "index": 139,
+      "name": "Secret Bar Multidice X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SecretBarMultiDiceX.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-secret-bar-multidice-x"
+    },
+    {
+      "index": 140,
+      "name": "Four Lucky Diamonds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FourLuckyDiamonds.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-four-lucky-diamonds"
+    },
+    {
+      "index": 141,
+      "name": "Mummy's Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MummysGold.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-mummy-s-gold"
+    },
+    {
+      "index": 142,
+      "name": "Hit The Route",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_HitTheRoute.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-hit-the-route"
+    },
+    {
+      "index": 143,
+      "name": "Train to Rio Grande",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_TrainToRioGrande.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-train-to-rio-grande"
+    },
+    {
+      "index": 144,
+      "name": "Luck & Magic Scratch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckAndMagicScratch.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-luck-magic-scratch"
+    },
+    {
+      "index": 145,
+      "name": "Spin and Spell",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_SpinAndSpell.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-spin-and-spell"
+    },
+    {
+      "index": 146,
+      "name": "Mechanical Clover",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MechanicalClover.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-mechanical-clover"
+    },
+    {
+      "index": 147,
+      "name": "Lucky Dama Muerta",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyDamaMuerta.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-dama-muerta"
+    },
+    {
+      "index": 148,
+      "name": "Jogo Do Bicho",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_JogoDoBicho.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-jogo-do-bicho"
+    },
+    {
+      "index": 149,
+      "name": "Lucky Oak",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_LuckyOak.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-lucky-oak"
+    },
+    {
+      "index": 150,
+      "name": "Maneki 88 Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Maneki88Gold.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-maneki-88-gold"
+    },
+    {
+      "index": 151,
+      "name": "Maneki 88 Fortunes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Maneki88Fortunes.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-maneki-88-fortunes"
+    },
+    {
+      "index": 152,
+      "name": "European Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_EuropeanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-european-roulette"
+    },
+    {
+      "index": 153,
+      "name": "Capymania Yellow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CapymaniaYellow.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-capymania-yellow"
+    },
+    {
+      "index": 154,
+      "name": "French Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_FrenchRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-french-roulette"
+    },
+    {
+      "index": 155,
+      "name": "Avalon: The Lost Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_Avalon.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-avalon-the-lost-kingdom"
+    },
+    {
+      "index": 156,
+      "name": "Scratch Dice",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ScratchDice.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-scratch-dice"
+    },
+    {
+      "index": 157,
+      "name": "Heads and Tails",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_HeadsTails.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-heads-and-tails"
+    },
+    {
+      "index": 158,
+      "name": "Ice Scratch Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_IceScratchGold.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-ice-scratch-gold"
+    },
+    {
+      "index": 159,
+      "name": "Ice Scratch Silver",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_IceScratchSilver.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-ice-scratch-silver"
+    },
+    {
+      "index": 160,
+      "name": "Miss Cherry Fruits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_MissCherryFruits.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-miss-cherry-fruits"
+    },
+    {
+      "index": 161,
+      "name": "3 Kings Scratch",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ThreeKingsScratch.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-3-kings-scratch"
+    },
+    {
+      "index": 162,
+      "name": "Capymania Orange",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CapymaniaOrange.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-capymania-orange"
+    },
+    {
+      "index": 163,
+      "name": "Rocket Dice XY",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_RocketDiceXY.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-rocket-dice-xy"
+    },
+    {
+      "index": 164,
+      "name": "Heads and Tails XY",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_HeadsandTailsXY.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-heads-and-tails-xy"
+    },
+    {
+      "index": 165,
+      "name": "Ice Scratch Bronze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_IceScratchBronze.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-ice-scratch-bronze"
+    },
+    {
+      "index": 166,
+      "name": "Capymania Green",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_CapymaniaGreen.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-capymania-green"
+    },
+    {
+      "index": 167,
+      "name": "Scratch Alpaca Bronze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ScratchAlpacaBronze.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-scratch-alpaca-bronze"
+    },
+    {
+      "index": 168,
+      "name": "American Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AmericanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-american-roulette"
+    },
+    {
+      "index": 169,
+      "name": "All Lucky Clovers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_AllLuckyClover.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-all-lucky-clovers"
+    },
+    {
+      "index": 170,
+      "name": "Scratch Alpaca Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ScratchAlpacaGold.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-scratch-alpaca-gold"
+    },
+    {
+      "index": 171,
+      "name": "Scratch Alpaca Silver",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/softswiss_ScratchAlpacaSilver.jpg",
+      "game_link": "https://roobet.com/casino/game/bgaming-scratch-alpaca-silver"
+    },
+    {
+      "index": 172,
+      "name": "Tile Master",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/softswiss:TileMaster-6CHFxAb1u.jpeg",
+      "game_link": "https://roobet.com/casino/game/bgaming-tile-master"
+    }
+  ]
+}

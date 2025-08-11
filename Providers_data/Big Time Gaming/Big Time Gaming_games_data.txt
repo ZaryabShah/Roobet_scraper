@@ -1,0 +1,257 @@
+Big Time Gaming Games Data
+==================================================
+Total games found: 50
+Load More clicks: 0
+Extraction date: 2025-08-11 00:47:05
+==================================================
+
+Game #1:
+  Name: Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Bonanza.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-bonanza
+----------------------------------------
+Game #2:
+  Name: Extra Chilli
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ExtraChilli.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-extra-chilli
+----------------------------------------
+Game #3:
+  Name: Millionaire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Millionaire.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-millionaire
+----------------------------------------
+Game #4:
+  Name: White Rabbit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WhiteRabbit.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-white-rabbit
+----------------------------------------
+Game #5:
+  Name: Gold Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldMegaways.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-gold-megaways
+----------------------------------------
+Game #6:
+  Name: Danger! High Voltage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DangerHighVoltage.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-danger-high-voltage
+----------------------------------------
+Game #7:
+  Name: Gifts Of Fortune Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GiftsOfFortune-_KQG__QHi.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-gifts-of-fortune-megaways
+----------------------------------------
+Game #8:
+  Name: Big Bad Bison
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BigBadBison-KH-J5NH0j.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-big-bad-bison
+----------------------------------------
+Game #9:
+  Name: Christmas Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ChristmasBonanza.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-christmas-bonanza
+----------------------------------------
+Game #10:
+  Name: Golden Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldenCatch.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-golden-catch
+----------------------------------------
+Game #11:
+  Name: The Final Countdown
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TheFinalCountdown.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-the-final-countdown
+----------------------------------------
+Game #12:
+  Name: Dragon Born
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DragonBorn-qD1AaeyxP.png
+  Game Link: https://roobet.com/casino/game/big-time-gaming-dragon-born
+----------------------------------------
+Game #13:
+  Name: Big Bucks Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BigBucksDeluxe-nOugnR1jj.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-big-bucks-deluxe
+----------------------------------------
+Game #14:
+  Name: Lil Devil
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LilDevil.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-lil-devil
+----------------------------------------
+Game #15:
+  Name: Max Megaways 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MaxMegaways2.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-max-megaways-2
+----------------------------------------
+Game #16:
+  Name: Rasputin Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RasputinMegaways.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-rasputin-megaways
+----------------------------------------
+Game #17:
+  Name: Opal Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_OpalFruits.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-opal-fruits
+----------------------------------------
+Game #18:
+  Name: Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Pop.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-pop
+----------------------------------------
+Game #19:
+  Name: Fireworks Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FireworksMegaways.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-fireworks-megaways
+----------------------------------------
+Game #20:
+  Name: Book of Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BookofGods-P8zT8Z1L6.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-book-of-gods
+----------------------------------------
+Game #21:
+  Name: Beef Lightning
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BeefLightning.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-beef-lightning
+----------------------------------------
+Game #22:
+  Name: Millionaire Tapcards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MillionaireTapcards-v8O_wKb1a.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:MillionaireTapcards
+----------------------------------------
+Game #23:
+  Name: Star Clusters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_StarClusters.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-star-clusters
+----------------------------------------
+Game #24:
+  Name: Big Bucks Deluxe Tapcards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BigBucksDeluxeTapcards-Sdw89UHd7.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:BigBucksDeluxeTapcards
+----------------------------------------
+Game #25:
+  Name: King of Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_KingofCats.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-king-of-cats
+----------------------------------------
+Game #26:
+  Name: Queen of Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:QueenofRiches-ctgJ-wcTH.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-queen-of-riches
+----------------------------------------
+Game #27:
+  Name: Spicy Meatballs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SpicyMeatballsRelaunch.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-spicy-meatballs
+----------------------------------------
+Game #28:
+  Name: Donuts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Donuts.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-donuts
+----------------------------------------
+Game #29:
+  Name: Wild Flower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildFlower.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-wild-flower
+----------------------------------------
+Game #30:
+  Name: Royal Mint
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RoyalMint.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-royal-mint
+----------------------------------------
+Game #31:
+  Name: Bonanza Falls
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BonanzaFalls.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-bonanza-falls
+----------------------------------------
+Game #32:
+  Name: Millionaire Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MillionaireRush.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-millionaire-rush
+----------------------------------------
+Game #33:
+  Name: Sanctuary
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Sanctuary.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-sanctuary
+----------------------------------------
+Game #34:
+  Name: Fizzy Pennyslot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FizzyPennyslot.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-fizzy-pennyslot
+----------------------------------------
+Game #35:
+  Name: Christmas Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ChristmasCatch.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-christmas-catch
+----------------------------------------
+Game #36:
+  Name: Temple Quest Spinfinity
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:TempleQuestSpinfinity-rzN82qjd0.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-temple-quest-spinfinity
+----------------------------------------
+Game #37:
+  Name: Crystal Towers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CrystalTowers-xpZx1xxX2.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-crystal-towers
+----------------------------------------
+Game #38:
+  Name: Trigger Happy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TriggerHappy.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-trigger-happy
+----------------------------------------
+Game #39:
+  Name: Chocolates
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Chocolates.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-chocolates
+----------------------------------------
+Game #40:
+  Name: Cyberslot Megaclusters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CyberslotMegaclusters.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-cyberslot-megaclusters
+----------------------------------------
+Game #41:
+  Name: Boo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:Boo-XW3jrUmKZ.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-boo
+----------------------------------------
+Game #42:
+  Name: Golden Goose Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GoldenGooseMegaways-QK5-Df_9l.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-golden-goose-megaways
+----------------------------------------
+Game #43:
+  Name: Panda Money
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PandaMoney.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-panda-money
+----------------------------------------
+Game #44:
+  Name: More Turkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MoreTurkey.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-more-turkey
+----------------------------------------
+Game #45:
+  Name: Extra Chili Tapcards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ExtraChiliTapcards-5cvl1rnjG.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:ExtraChiliTapcards
+----------------------------------------
+Game #46:
+  Name: Holy Diver Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:HolyDiverMegaways-PmkrNHTmn.jpeg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-holy-diver-megaways
+----------------------------------------
+Game #47:
+  Name: Kingmaker Fully Loaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_KingmakerFullyLoaded.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-kingmaker-fully-loaded
+----------------------------------------
+Game #48:
+  Name: Bonanza Tapcards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:BonanzaTapcards-vOPBB3GOb.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:BonanzaTapcards
+----------------------------------------
+Game #49:
+  Name: Lucky Streak Mk2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LuckyStreakMk2.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-lucky-streak-mk2
+----------------------------------------
+Game #50:
+  Name: Pirate Pays
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiratePays.jpg
+  Game Link: https://roobet.com/casino/game/big-time-gaming-pirate-pays
+----------------------------------------

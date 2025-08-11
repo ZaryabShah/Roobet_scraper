@@ -1,0 +1,212 @@
+Just For The Win Games Data
+==================================================
+Total games found: 41
+Load More clicks: 0
+Extraction date: 2025-08-11 04:37:43
+==================================================
+
+Game #1:
+  Name: Deco Diamonds Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_decodiamondsdeluxe.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-deco-diamonds-deluxe
+----------------------------------------
+Game #2:
+  Name: Legendary Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_legendarytreasures.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-legendary-treasures
+----------------------------------------
+Game #3:
+  Name: Divine Riches Diana
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_divinerichesdiana.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-divine-riches-diana
+----------------------------------------
+Game #4:
+  Name: Deco Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_decodiamonds.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-deco-diamonds
+----------------------------------------
+Game #5:
+  Name: Elven Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_elvengold.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-elven-gold
+----------------------------------------
+Game #6:
+  Name: Rubies of Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_rubiesofegypt.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-rubies-of-egypt
+----------------------------------------
+Game #7:
+  Name: The Eternal Widow
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_theeternalwidow.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-the-eternal-widow
+----------------------------------------
+Game #8:
+  Name: Wildfire Wins Extreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_wildfirewinsextreme.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-wildfire-wins-extreme
+----------------------------------------
+Game #9:
+  Name: Lucky Links
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_luckylinks.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-lucky-links
+----------------------------------------
+Game #10:
+  Name: Rockabilly Wolves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_rockabillywolves.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-rockabilly-wolves
+----------------------------------------
+Game #11:
+  Name: Wolf Howl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_wolfhowl.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-wolf-howl
+----------------------------------------
+Game #12:
+  Name: Golden Fields
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_goldenfields.jpg
+  Game Link: https://roobet.com/casino/game/hub88:jft_goldenfields
+----------------------------------------
+Game #13:
+  Name: Candy Paradise
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_candyparadise.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-candy-paradise
+----------------------------------------
+Game #14:
+  Name: Stellar 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_stellar7s.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-stellar-7s
+----------------------------------------
+Game #15:
+  Name: Serengeti Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_serengetigold.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-serengeti-gold
+----------------------------------------
+Game #16:
+  Name: Silverback: Multiplier Mountain
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_silverbackmultipliermountain.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-silverback-multiplier-mountain
+----------------------------------------
+Game #17:
+  Name: Sonic Links
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_soniclinks.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-sonic-links
+----------------------------------------
+Game #18:
+  Name: Plenty of Presents
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_plentyofpresents.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-plenty-of-presents
+----------------------------------------
+Game #19:
+  Name: Amazing Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_amazingcatch.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-amazing-catch
+----------------------------------------
+Game #20:
+  Name: Book of King Arthur
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_bookofkingarthur.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-book-of-king-arthur
+----------------------------------------
+Game #21:
+  Name: Piles of Presents
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_pilesofpresents.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-piles-of-presents
+----------------------------------------
+Game #22:
+  Name: Kodiak Kingdom 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_kodiakkingdom.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-kodiak-kingdom
+----------------------------------------
+Game #23:
+  Name: Adventures of Captain Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_adventuresofcaptainblackjack.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-adventures-of-captain-blackjack
+----------------------------------------
+Game #24:
+  Name: Juicy Joker Mega Moolah
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_juicyjokermegamoolah.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-juicy-joker-mega-moolah
+----------------------------------------
+Game #25:
+  Name: Emerald Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_emeraldgold.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-emerald-gold
+----------------------------------------
+Game #26:
+  Name: Western Gold 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_westerngold2.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-western-gold-2
+----------------------------------------
+Game #27:
+  Name: Scarab Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_scarabkingdom.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-scarab-kingdom
+----------------------------------------
+Game #28:
+  Name: Big Boom Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_bigboomriches.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-big-boom-riches
+----------------------------------------
+Game #29:
+  Name: Odins Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_odinsriches.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-odins-riches
+----------------------------------------
+Game #30:
+  Name: Reel Splitter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_reelsplitter.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-reel-splitter
+----------------------------------------
+Game #31:
+  Name: Amazon Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_amazonkingdom.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-amazon-kingdom
+----------------------------------------
+Game #32:
+  Name: Shogun of Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_shogunoftime.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-shogun-of-time
+----------------------------------------
+Game #33:
+  Name: Tweethearts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_tweethearts.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-tweethearts
+----------------------------------------
+Game #34:
+  Name: Amazing Aztecs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_amazingaztecs.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-amazing-aztecs
+----------------------------------------
+Game #35:
+  Name: Trojan Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_trojankingdom.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-trojan-kingdom
+----------------------------------------
+Game #36:
+  Name: Goldwyn's Fairies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_goldwynsfairies.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-goldwyn-s-fairies
+----------------------------------------
+Game #37:
+  Name: Sherlock & Moriarty Wowpot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_sherlockmoriartywowpot.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-sherlock-moriarty-wowpot
+----------------------------------------
+Game #38:
+  Name: Diamond Sands
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_diamondsands.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-diamond-sands
+----------------------------------------
+Game #39:
+  Name: Divine Riches Helios
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_divinericheshelios.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-divine-riches-helios
+----------------------------------------
+Game #40:
+  Name: Western Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_westerngold.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-western-gold
+----------------------------------------
+Game #41:
+  Name: Aurora: Beast Hunter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_jft_aurorabeasthunter.jpg
+  Game Link: https://roobet.com/casino/game/just-for-the-win-aurora-beast-hunter
+----------------------------------------

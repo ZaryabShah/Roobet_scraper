@@ -1,0 +1,302 @@
+Microgaming Games Data
+==================================================
+Total games found: 59
+Load More clicks: 1
+Extraction date: 2025-08-11 04:40:01
+==================================================
+
+Game #1:
+  Name: Sugar Mania 8000
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_sugarmania8000-vakdmBvpL.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_sugarmania8000
+----------------------------------------
+Game #2:
+  Name: Bountiful Birds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_bountifulbirds-p6WC04Dr7.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_bountifulbirds
+----------------------------------------
+Game #3:
+  Name: Moonlight Romance - The Awakening
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_moonlightromance-theawakening-RY8rYMtZk.png
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_moonlightromance-theawakening
+----------------------------------------
+Game #4:
+  Name: Diamond Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_diamondinferno-FH778F6uH.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_diamondinferno
+----------------------------------------
+Game #5:
+  Name: Mr. Pigg E. Bank
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_mrpiggebank-Tyb7h9M_t.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_mrpiggebank
+----------------------------------------
+Game #6:
+  Name: Sienna Steele
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_siennasteele-88bpEN07B.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-sienna-steele
+----------------------------------------
+Game #7:
+  Name: Diamond Diva Oink Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_diamonddivaoinkbonanza-89QcIkjQi.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_diamonddivaoinkbonanza
+----------------------------------------
+Game #8:
+  Name: Cash Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_cashblitz-MqpE8-VWA.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-cash-blitz
+----------------------------------------
+Game #9:
+  Name: Andvari the Golden Fish
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_andvarithegoldenfish-THZb1OmMw.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:mg_slots_andvarithegoldenfish
+----------------------------------------
+Game #10:
+  Name: Bronco Big Bounty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_broncobigbounty-xd8ikUw8V.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-bronco-big-bounty
+----------------------------------------
+Game #11:
+  Name: Gates of Asgard Power Combo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_gatesofasgardpowercombo-i4TdESpGZ.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-gates-of-asgard-power-combo
+----------------------------------------
+Game #12:
+  Name: Go! Fishing: Reelin' Fortunes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_gofishingreelinfortunes-HpgomqKzR.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-go-fishing-reelin-fortunes
+----------------------------------------
+Game #13:
+  Name: Dragon's Rhythm Link and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_dragonsrhythmlinkandwin-zSop-yRS1.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-dragon-s-rhythm-link-and-win
+----------------------------------------
+Game #14:
+  Name: Wildfire Wins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_wildfirewins-n0Gmosspc.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-wildfire-wins
+----------------------------------------
+Game #15:
+  Name: Reign of Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_reignoffire-clawg-qA4.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-reign-of-fire
+----------------------------------------
+Game #16:
+  Name: 3 Blazing Volcanoes Power Combo 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_3blazingvolcanoespowercombo-JaLm9n0_V.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-3-blazing-volcanoes-power-combo
+----------------------------------------
+Game #17:
+  Name: Star Stash Wild 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_starstashwild7s-FEP9WwsgG.png
+  Game Link: https://roobet.com/casino/game/microgaming-star-stash-wild-7s
+----------------------------------------
+Game #18:
+  Name: Mummy Lock Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_mummylockriches-PP7FHCN67.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-mummy-lock-riches
+----------------------------------------
+Game #19:
+  Name: Hatching Gold! Rooster's Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_hatchinggoldroostersriches-wc6x2ik1p.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-hatching-gold-rooster-s-riches
+----------------------------------------
+Game #20:
+  Name: Fishin' Pots of Gold: Gold Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_fishinpotsofgoldgoldblitz-c-LOY2HxA.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-fishin-pots-of-gold-gold-blitz
+----------------------------------------
+Game #21:
+  Name: Candy Rush Wilds 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_candyrushwilds2-7NEWkcscB.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-candy-rush-wilds-2
+----------------------------------------
+Game #22:
+  Name: Break Away Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_breakawaygold--cPmSYmlg.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-break-away-gold
+----------------------------------------
+Game #23:
+  Name: Break Away Max
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_breakawaymax-nfAlH4EX6.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-break-away-max
+----------------------------------------
+Game #24:
+  Name: Splash of Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_splashofriches-qPkl8QPg3.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-splash-of-riches
+----------------------------------------
+Game #25:
+  Name: Carnaval Fiesta
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_carnavalfiesta-wiSJ9N2i5.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-carnaval-fiesta
+----------------------------------------
+Game #26:
+  Name: Sweet Jar Combo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_sweetjarcombo-sq_iTOpAc.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-sweet-jar-combo
+----------------------------------------
+Game #27:
+  Name: Heavenly Elephant Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_heavenlyelephantfortune-mGhbTGvXs.png
+  Game Link: https://roobet.com/casino/game/microgaming-heavenly-elephant-fortune
+----------------------------------------
+Game #28:
+  Name: Money On Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_moneyonreels-EI-YyB8uE.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-money-on-reels
+----------------------------------------
+Game #29:
+  Name: Treasure Stacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_treasurestacks-PmBhuRhO6.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-treasure-stacks
+----------------------------------------
+Game #30:
+  Name: Candy Rush Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_candyrushwilds-Cn5WXIZXw.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-candy-rush-wilds
+----------------------------------------
+Game #31:
+  Name: Book of Wolves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_bookofwolves-Ovt_xcESD.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-book-of-wolves
+----------------------------------------
+Game #32:
+  Name: Lucky Rumble Power Surge
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_luckyrumblepowersurge-0KbtsxvA3.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-lucky-rumble-power-surge
+----------------------------------------
+Game #33:
+  Name: Yami Warriors
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_yamiwarriors-9tjlzSpSE.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-yami-warriors
+----------------------------------------
+Game #34:
+  Name: Royal Thunder Riders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_royalthunderriders-sqFQmkUcL.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-royal-thunder-riders
+----------------------------------------
+Game #35:
+  Name: Golden Fields
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_goldenfields-LcgUiMPUV.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-golden-fields
+----------------------------------------
+Game #36:
+  Name: Pong Pong Mahjong Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_pongpongmahjongjackpots-nhxsbg3rk.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-pong-pong-mahjong-jackpots
+----------------------------------------
+Game #37:
+  Name: Lucky Twins PowerCluster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_luckytwinspowercluster-P0m3WG48p.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-lucky-twins-powercluster
+----------------------------------------
+Game #38:
+  Name: Almighty Zeus Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_almightyzeusempire-_tCEDN7fP.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-almighty-zeus-empire
+----------------------------------------
+Game #39:
+  Name: Lucky Twins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_luckytwins-Kj3NzzMoG.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-lucky-twins
+----------------------------------------
+Game #40:
+  Name: Monkey’s Treasure Quest 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_monkeystreasurequest-yzW8UP4on.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-monkey-s-treasure-quest
+----------------------------------------
+Game #41:
+  Name: Ice Pop Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_icepopparty-_sFnfR7ES.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-ice-pop-party
+----------------------------------------
+Game #42:
+  Name: Hades Lost Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_hadeslosttreasures-J7Fd3dJRD.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-hades-lost-treasures
+----------------------------------------
+Game #43:
+  Name: 3rd Base
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_3rdbase-8aAtnH9lS.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-3rd-base
+----------------------------------------
+Game #44:
+  Name: Lucky Twins and 9 Lions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_luckytwinsand9lions-5iYLvHOq7.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-lucky-twins-and-9-lions
+----------------------------------------
+Game #45:
+  Name: Almighty Poseidon Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_almightyposeidonempire-IMKD9PN-C.png
+  Game Link: https://roobet.com/casino/game/microgaming-almighty-poseidon-empire
+----------------------------------------
+Game #46:
+  Name: Mighty Panda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_mightypanda-ZrlxqM0F9.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-mighty-panda
+----------------------------------------
+Game #47:
+  Name: Crazy Bob Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_crazybobbonanza-rgL_K1rf8.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-crazy-bob-bonanza
+----------------------------------------
+Game #48:
+  Name: Money Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_moneydragon-vMzyjak5m.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-money-dragon
+----------------------------------------
+Game #49:
+  Name: Lucky Twins Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_luckytwinswilds-_J5kTQhbs.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-lucky-twins-wilds
+----------------------------------------
+Game #50:
+  Name: Bonny's Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_bonnystreasures-nDHnYETNJ.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-bonny-s-treasures
+----------------------------------------
+Game #51:
+  Name: Arctic Wolf Triple Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_arcticwolftripleriches-DgCqC2sRC.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-arctic-wolf-triple-riches
+----------------------------------------
+Game #52:
+  Name: Almighty Athena Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_almightyathenaempire-jeh-OLjT-.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-almighty-athena-empire
+----------------------------------------
+Game #53:
+  Name: Gold Infinity
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_goldinfinity-icvdCsVId.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-gold-infinity
+----------------------------------------
+Game #54:
+  Name: Almighty Zeus Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_almightyzeuswilds-8bnLluFIU.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-almighty-zeus-wilds
+----------------------------------------
+Game #55:
+  Name: Eggz!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_eggz-SgoHRl7zb.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-eggz
+----------------------------------------
+Game #56:
+  Name: Kung Pao Panda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_kungpaopanda-JAFwFVFb8.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-kung-pao-panda
+----------------------------------------
+Game #57:
+  Name: Almighty Dionysus Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_almightydionysusempire-VWBmj17-c.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-almighty-dionysus-empire
+----------------------------------------
+Game #58:
+  Name: Shark Platinum
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_sharkplatinum-gSLrl4AdG.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-shark-platinum
+----------------------------------------
+Game #59:
+  Name: Queen of Cairo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mgg_queenofcairo-0fne749-C.jpeg
+  Game Link: https://roobet.com/casino/game/microgaming-queen-of-cairo
+----------------------------------------

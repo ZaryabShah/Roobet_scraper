@@ -1,0 +1,417 @@
+OneTouch Games Data
+==================================================
+Total games found: 82
+Load More clicks: 1
+Extraction date: 2025-08-11 00:48:49
+==================================================
+
+Game #1:
+  Name: Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_roulette.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-roulette
+----------------------------------------
+Game #2:
+  Name: Blackjack Classic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjackclassic.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-blackjack-classic
+----------------------------------------
+Game #3:
+  Name: Keno Rush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_kenorush.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-keno-rush
+----------------------------------------
+Game #4:
+  Name: Texas Holdem
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_texasholdem.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-texas-holdem
+----------------------------------------
+Game #5:
+  Name: Russian Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_russianpoker.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-russian-poker
+----------------------------------------
+Game #6:
+  Name: Ryse of the Mighty Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ryseofthemightygods.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-ryse-of-the-mighty-gods
+----------------------------------------
+Game #7:
+  Name: Wild Coyote Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildcoyotemegaways.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wild-coyote-megaways
+----------------------------------------
+Game #8:
+  Name: Blackjack Classic PP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjackclassicpp.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-blackjack-classic-pp
+----------------------------------------
+Game #9:
+  Name: Roobet Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bombayroulette.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-roobet-roulette
+----------------------------------------
+Game #10:
+  Name: Baccarat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccarat.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-baccarat
+----------------------------------------
+Game #11:
+  Name: Fortune Miner
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_fortuneminer-3reels.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-fortune-miner
+----------------------------------------
+Game #12:
+  Name: Baccarat Supreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_supremebaccarat.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-baccarat-supreme
+----------------------------------------
+Game #13:
+  Name: High Hand Holdem Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_highhandholdempoker.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-high-hand-holdem-poker
+----------------------------------------
+Game #14:
+  Name: Baccarat Triple Treat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccarattripletreat.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-baccarat-triple-treat
+----------------------------------------
+Game #15:
+  Name: Forgotten Pharaoh
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_forgottenpharaoh.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-forgotten-pharaoh
+----------------------------------------
+Game #16:
+  Name: Ryse of Rome
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ryseofrome.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-ryse-of-rome
+----------------------------------------
+Game #17:
+  Name: Grand Heist Feature Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandheistfeaturebuy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-grand-heist-feature-buy
+----------------------------------------
+Game #18:
+  Name: Gifts Of Horus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_giftsofhorus.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-gifts-of-horus
+----------------------------------------
+Game #19:
+  Name: Blackjack Supreme MHPP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjacksuprememhpp.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-blackjack-supreme-mhpp
+----------------------------------------
+Game #20:
+  Name: Tonatiuh's Legacy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_tonatiuhslegacy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-tonatiuh-s-legacy
+----------------------------------------
+Game #21:
+  Name: Wild Wild West 2120
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildwildwest2120.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wild-wild-west-2120
+----------------------------------------
+Game #22:
+  Name: Miko Festival Feature Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mikofestivalfeaturebuy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-miko-festival-feature-buy
+----------------------------------------
+Game #23:
+  Name: Traveling Treasures India
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresindia.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-traveling-treasures-india
+----------------------------------------
+Game #24:
+  Name: Neon2077
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_neon2077.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-neon2077
+----------------------------------------
+Game #25:
+  Name: Lady Fortuna
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ladyfortunaa.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-lady-fortuna
+----------------------------------------
+Game #26:
+  Name: Sea Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_seatreasure.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-sea-treasure
+----------------------------------------
+Game #27:
+  Name: Grand Heist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandheist.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-grand-heist
+----------------------------------------
+Game #28:
+  Name: God Hand Feature Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_godhandfeaturebuy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-god-hand-feature-buy
+----------------------------------------
+Game #29:
+  Name: Wild Voodoo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildvoodoo-94rtp.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wild-voodoo
+----------------------------------------
+Game #30:
+  Name: Queens of Glory Legacy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_queensofglorylegacy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-queens-of-glory-legacy
+----------------------------------------
+Game #31:
+  Name: Legends Cup
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_legendscup.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-legends-cup
+----------------------------------------
+Game #32:
+  Name: Wealthy Sharks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wealthysharks.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wealthy-sharks
+----------------------------------------
+Game #33:
+  Name: In Between Poker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_inbetweenpoker.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-in-between-poker
+----------------------------------------
+Game #34:
+  Name: Flexing Dragons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_flexingdragons.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-flexing-dragons
+----------------------------------------
+Game #35:
+  Name: Colosseum Clash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_colosseumclash.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-colosseum-clash
+----------------------------------------
+Game #36:
+  Name: Wild Waves Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildwavesmegaways.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wild-waves-megaways
+----------------------------------------
+Game #37:
+  Name: Bubbles Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bubblesbonanza.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-bubbles-bonanza
+----------------------------------------
+Game #38:
+  Name: Miko Festival
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mikofestival.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-miko-festival
+----------------------------------------
+Game #39:
+  Name: Teen Patti
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_teenpatti.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-teen-patti
+----------------------------------------
+Game #40:
+  Name: Genie's Secret Feature Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_geniessecretfeaturebuy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-genie-s-secret-feature-buy
+----------------------------------------
+Game #41:
+  Name: MVP Hoops
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_mvphoops.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-mvp-hoops
+----------------------------------------
+Game #42:
+  Name: Angels and Demons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_angelsanddemons.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-angels-and-demons
+----------------------------------------
+Game #43:
+  Name: Baccarat No Commission
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_baccaratnocommission.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-baccarat-no-commission
+----------------------------------------
+Game #44:
+  Name: Tiki Terror
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_tikiterror.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-tiki-terror
+----------------------------------------
+Game #45:
+  Name: Lucky Lion
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_luckylion.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-lucky-lion
+----------------------------------------
+Game #46:
+  Name: Wild Sorcery
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wildsorcery.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wild-sorcery
+----------------------------------------
+Game #47:
+  Name: Steam Vault
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_steamvault.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-steam-vault
+----------------------------------------
+Game #48:
+  Name: Traveling Treasures Africa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresafrica.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-traveling-treasures-africa
+----------------------------------------
+Game #49:
+  Name: Bonus Track
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bonustrack.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-bonus-track
+----------------------------------------
+Game #50:
+  Name: Queens of Glory
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_queensofglory.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-queens-of-glory
+----------------------------------------
+Game #51:
+  Name: Grand Christmas Heist Buy Feature
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_grandchristmasheistbuyfeature.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-grand-christmas-heist-buy-feature
+----------------------------------------
+Game #52:
+  Name: King of Mafia
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_kingofmafia.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-king-of-mafia
+----------------------------------------
+Game #53:
+  Name: Golden Stripe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_goldenstripe.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-golden-stripe
+----------------------------------------
+Game #54:
+  Name: Halloween Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_halloweenhunt.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-halloween-hunt
+----------------------------------------
+Game #55:
+  Name: Pip's Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_pipsquest.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-pip-s-quest
+----------------------------------------
+Game #56:
+  Name: God Hand
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_godhand.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-god-hand
+----------------------------------------
+Game #57:
+  Name: Golden Shisa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_goldenshisa.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-golden-shisa
+----------------------------------------
+Game #58:
+  Name: Monkey's Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_monkeystreasure.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-monkey-s-treasure
+----------------------------------------
+Game #59:
+  Name: Raiden Medal Burst
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_raidenmedalburst.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-raiden-medal-burst
+----------------------------------------
+Game #60:
+  Name: Jewelry Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_jewelrycats.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-jewelry-cats
+----------------------------------------
+Game #61:
+  Name: Stone Gaze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_stonegaze.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-stone-gaze
+----------------------------------------
+Game #62:
+  Name: Fire Combo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_firecombo.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-fire-combo
+----------------------------------------
+Game #63:
+  Name: Baccarat Supreme No Commission
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_supremebaccaratnocommission.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-baccarat-supreme-no-commission
+----------------------------------------
+Game #64:
+  Name: GanBaruto Battle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_ganbarutobattle.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-ganbaruto-battle
+----------------------------------------
+Game #65:
+  Name: Infinity Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_infinitytower.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-infinity-tower
+----------------------------------------
+Game #66:
+  Name: Mo Mo Moolah
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_momomoolah.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-mo-mo-moolah
+----------------------------------------
+Game #67:
+  Name: Beats EX
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_beatsex.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-beats-ex
+----------------------------------------
+Game #68:
+  Name: Teen Patti 20-20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_teenpatti20-20.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-teen-patti-20-20
+----------------------------------------
+Game #69:
+  Name: Sumo Showdown
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_sumoshowdown-4reels.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-sumo-showdown
+----------------------------------------
+Game #70:
+  Name: Reel Fruitz Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_reelfruitzfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-reel-fruitz-frenzy
+----------------------------------------
+Game #71:
+  Name: Genie's Secret
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_geniessecret.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-genie-s-secret
+----------------------------------------
+Game #72:
+  Name: Traveling Treasures Brazil
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_travelingtreasuresbrazil.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-traveling-treasures-brazil
+----------------------------------------
+Game #73:
+  Name: Snack Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_snackblast.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-snack-blast
+----------------------------------------
+Game #74:
+  Name: Blackjack Supreme SHPP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_blackjacksupremeshpp.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-blackjack-supreme-shpp
+----------------------------------------
+Game #75:
+  Name: Wacky Wildlife
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wackywildlife.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wacky-wildlife
+----------------------------------------
+Game #76:
+  Name: Sic Bo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_sicbo.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-sic-bo
+----------------------------------------
+Game #77:
+  Name: Andar Bahar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_andarbahar.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-andar-bahar
+----------------------------------------
+Game #78:
+  Name: Sea Treasure Deep Dive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_seatreasuredeepdive.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-sea-treasure-deep-dive
+----------------------------------------
+Game #79:
+  Name: Dragon Tiger
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_dragontiger.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-dragon-tiger
+----------------------------------------
+Game #80:
+  Name: Wheel Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_wheeloffortune.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-wheel-of-fortune
+----------------------------------------
+Game #81:
+  Name: Bombay Blackjack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_bombayblackjack.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-bombay-blackjack
+----------------------------------------
+Game #82:
+  Name: Loot or Boot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_ont_lootorboot.jpg
+  Game Link: https://roobet.com/casino/game/onetouch-loot-or-boot
+----------------------------------------

@@ -1,0 +1,698 @@
+{
+  "provider": "Quickspin",
+  "total_games": 115,
+  "load_more_clicks": 2,
+  "extraction_date": "2025-08-11T00:41:10.190984",
+  "games": [
+    {
+      "index": 1,
+      "name": "Sakura Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SakuraFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sakura-fortune"
+    },
+    {
+      "index": 2,
+      "name": "Cash Truck Begins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CashTruckBegins-YvM9v0uSO.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cash-truck-begins"
+    },
+    {
+      "index": 3,
+      "name": "Brawlers Bar Cash Collect",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BrawlersBarCashCollect.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-brawlers-bar-cash-collect"
+    },
+    {
+      "index": 4,
+      "name": "Epic Fish: Net of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:EpicFishNetofFortune-NjSF3LL1O.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-epic-fish-net-of-fortune"
+    },
+    {
+      "index": 5,
+      "name": "Hammer of Vulcan",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HammerofVulcan.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-hammer-of-vulcan"
+    },
+    {
+      "index": 6,
+      "name": "Sticky Bandits Thunder Rail",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:StickyBanditsThunderRail-ssr-rCbG3.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits-thunder-rail"
+    },
+    {
+      "index": 7,
+      "name": "Cash Truck 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruck2.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cash-truck-2"
+    },
+    {
+      "index": 8,
+      "name": "Eastern Emeralds Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_EasternEmeraldsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-eastern-emeralds-megaways"
+    },
+    {
+      "index": 9,
+      "name": "Diamond Duke",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DiamondDuke.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-diamond-duke"
+    },
+    {
+      "index": 10,
+      "name": "Goldilocks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Goldilocks.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-goldilocks"
+    },
+    {
+      "index": 11,
+      "name": "Big Bad Wolf: Pigs of Steel",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfPigsofSteel.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-big-bad-wolf-pigs-of-steel"
+    },
+    {
+      "index": 12,
+      "name": "Big Bad Wolf Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-big-bad-wolf-megaways"
+    },
+    {
+      "index": 13,
+      "name": "Sticky Bandits Trail of Blood",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsTrailofBlood.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits-trail-of-blood"
+    },
+    {
+      "index": 14,
+      "name": "Tiger's Glory",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TigersGlory.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-tiger-s-glory"
+    },
+    {
+      "index": 15,
+      "name": "Brooklyn Bootleggers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BrooklynBootleggers.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-brooklyn-bootleggers"
+    },
+    {
+      "index": 16,
+      "name": "Eastern Emeralds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_EasternEmeralds.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-eastern-emeralds"
+    },
+    {
+      "index": 17,
+      "name": "Hall of the Mountain King",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MountainKing.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-hall-of-the-mountain-king"
+    },
+    {
+      "index": 18,
+      "name": "Sticky Bandits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBandits.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits"
+    },
+    {
+      "index": 19,
+      "name": "Golden Glyph",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-golden-glyph"
+    },
+    {
+      "index": 20,
+      "name": "The Wild Chase",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TheWildChase.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-the-wild-chase"
+    },
+    {
+      "index": 21,
+      "name": "Dinosaur Rage",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DinosaurRage.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-dinosaur-rage"
+    },
+    {
+      "index": 22,
+      "name": "Cash Truck 3 Turbo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CashTruck3Turbo-_4Z3KwzVC.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cash-truck-3-turbo"
+    },
+    {
+      "index": 23,
+      "name": "Epic Fish Adventure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:EpicFishAdventure96-w3wITxZmD.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-epic-fish-adventure"
+    },
+    {
+      "index": 24,
+      "name": "Cabin Crashers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CabinCrashers.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cabin-crashers"
+    },
+    {
+      "index": 25,
+      "name": "Dragon Shrine",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DragonShrine.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-dragon-shrine"
+    },
+    {
+      "index": 26,
+      "name": "Big Bad Wolf",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolf.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-big-bad-wolf"
+    },
+    {
+      "index": 27,
+      "name": "Sticky Bandits: Wild Return",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsWildReturn.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits-wild-return"
+    },
+    {
+      "index": 28,
+      "name": "Cash Truck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruck.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cash-truck"
+    },
+    {
+      "index": 29,
+      "name": "Pineapple Crush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PineappleCrush96.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-pineapple-crush"
+    },
+    {
+      "index": 30,
+      "name": "Polar Paws",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PolarPaws.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-polar-paws"
+    },
+    {
+      "index": 31,
+      "name": "Wild Harlequin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildHarlequin94.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wild-harlequin"
+    },
+    {
+      "index": 32,
+      "name": "Reel Nightmare",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ReelNightmare.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-reel-nightmare"
+    },
+    {
+      "index": 33,
+      "name": "Joker Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_JokerStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-joker-strike"
+    },
+    {
+      "index": 34,
+      "name": "Durian Dynamite",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DurianDynamite.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-durian-dynamite"
+    },
+    {
+      "index": 35,
+      "name": "Titan Thunder: Wrath of Hades",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TitanThunderWrathOfHades.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-titan-thunder-wrath-of-hades"
+    },
+    {
+      "index": 36,
+      "name": "Northern Sky",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_NorthernSky.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-northern-sky"
+    },
+    {
+      "index": 37,
+      "name": "Book of Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookofInferno.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-book-of-inferno"
+    },
+    {
+      "index": 38,
+      "name": "Ghost Glyph",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GhostGlyph.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-ghost-glyph"
+    },
+    {
+      "index": 39,
+      "name": "Sticky Bandits 3: Most Wanted",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBandits3MostWanted.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits-3-most-wanted"
+    },
+    {
+      "index": 40,
+      "name": "Raven Rising",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_RavenRising.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-raven-rising"
+    },
+    {
+      "index": 41,
+      "name": "Golden Glyph 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph3.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-golden-glyph-3"
+    },
+    {
+      "index": 42,
+      "name": "Book Of Yuletide",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookOfYuletide.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-book-of-yuletide"
+    },
+    {
+      "index": 43,
+      "name": "Big Bad Wolf Christmas Special",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBadWolfChristmasSpecial.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-big-bad-wolf-christmas-special"
+    },
+    {
+      "index": 44,
+      "name": "Scepter of Anubis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:ScepterofAnubis-rS1w36uC-.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-scepter-of-anubis"
+    },
+    {
+      "index": 45,
+      "name": "Adventures Beyond Wonderland Magical Maze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_AdventuresBeyondWonderlandMagicalMaze.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-adventures-beyond-wonderland-magical-maze"
+    },
+    {
+      "index": 46,
+      "name": "Sakura Fortune 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SakuraFortune2.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sakura-fortune-2"
+    },
+    {
+      "index": 47,
+      "name": "Sticky Bandits Unchained",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_StickyBanditsUnchained.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sticky-bandits-unchained"
+    },
+    {
+      "index": 48,
+      "name": "Wild Chase: Tokyo Go",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildChaseTokyoGo.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wild-chase-tokyo-go"
+    },
+    {
+      "index": 49,
+      "name": "Book of Duat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BookofDuat.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-book-of-duat"
+    },
+    {
+      "index": 50,
+      "name": "Feasting Fox",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FeastingFox.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-feasting-fox"
+    },
+    {
+      "index": 51,
+      "name": "Loco the Monkey",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_LocotheMonkey.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-loco-the-monkey"
+    },
+    {
+      "index": 52,
+      "name": "Scatter Monsters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ScatterMonsters.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-scatter-monsters"
+    },
+    {
+      "index": 53,
+      "name": "Second Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SecondStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-second-strike"
+    },
+    {
+      "index": 54,
+      "name": "Azticons Chaos Clusters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_AzticonsChaosClusters.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-azticons-chaos-clusters"
+    },
+    {
+      "index": 55,
+      "name": "Warp Wreckers Power Glyph",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WarpWreckersPowerGlyph.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-warp-wreckers-power-glyph"
+    },
+    {
+      "index": 56,
+      "name": "Big Bot Crew",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BigBotCrew.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-big-bot-crew"
+    },
+    {
+      "index": 57,
+      "name": "Rapunzel's Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_RapunzelsTower.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-rapunzel-s-tower"
+    },
+    {
+      "index": 58,
+      "name": "Golden Glyph 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldenGlyph2.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-golden-glyph-2"
+    },
+    {
+      "index": 59,
+      "name": "Dog Town Deal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DogTownDeal.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-dog-town-deal"
+    },
+    {
+      "index": 60,
+      "name": "Wild Luchador",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildLuchador.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wild-luchador"
+    },
+    {
+      "index": 61,
+      "name": "Sevens High Ultra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SevensHighUltra.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sevens-high-ultra"
+    },
+    {
+      "index": 62,
+      "name": "Temple of Paw",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TempleofPaw.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-temple-of-paw"
+    },
+    {
+      "index": 63,
+      "name": "Nero's Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_NerosFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-nero-s-fortune"
+    },
+    {
+      "index": 64,
+      "name": "Wild Tome of the Woods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildTomeoftheWoods.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wild-tome-of-the-woods"
+    },
+    {
+      "index": 65,
+      "name": "Crystal Prince",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrystalPrince.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-crystal-prince"
+    },
+    {
+      "index": 66,
+      "name": "Guardian of Athens",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GuardianofAthens.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-guardian-of-athens"
+    },
+    {
+      "index": 67,
+      "name": "Crystal Queen's Coins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/quickspin:CrystalQueensCoins-Kot6zx26x.jpeg",
+      "game_link": "https://roobet.com/casino/game/quickspin-crystal-queen-s-coins"
+    },
+    {
+      "index": 68,
+      "name": "Shields of Lambda",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ShieldsofLambda.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-shields-of-lambda"
+    },
+    {
+      "index": 69,
+      "name": "Mine & Melt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MineMelt.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-mine-melt"
+    },
+    {
+      "index": 70,
+      "name": "Wild Cauldron",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WildCauldron.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wild-cauldron"
+    },
+    {
+      "index": 71,
+      "name": "Wins of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_WinsofFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-wins-of-fortune"
+    },
+    {
+      "index": 72,
+      "name": "Treasure Island",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TreasureIsland.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-treasure-island"
+    },
+    {
+      "index": 73,
+      "name": "High Street Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HighStreetHeist.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-high-street-heist"
+    },
+    {
+      "index": 74,
+      "name": "Reno 7's",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Reno7s.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-reno-7-s"
+    },
+    {
+      "index": 75,
+      "name": "Midas Coins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MidasCoins.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-midas-coins"
+    },
+    {
+      "index": 76,
+      "name": "Arcane Gems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ArcaneGems.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-arcane-gems"
+    },
+    {
+      "index": 77,
+      "name": "Pied Piper",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PiedPiper.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-pied-piper"
+    },
+    {
+      "index": 78,
+      "name": "Spinions Game Day",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SpinionsGameDay.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-spinions-game-day"
+    },
+    {
+      "index": 79,
+      "name": "Sevens high",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Sevenshigh.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sevens-high"
+    },
+    {
+      "index": 80,
+      "name": "Cash Truck Xmas Delivery",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CashTruckXmasDelivery.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-cash-truck-xmas-delivery"
+    },
+    {
+      "index": 81,
+      "name": "Artemis vs Medusa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_ArtemisvsMedusa.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-artemis-vs-medusa"
+    },
+    {
+      "index": 82,
+      "name": "Mighty Arthur",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_MightyArthur.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-mighty-arthur"
+    },
+    {
+      "index": 83,
+      "name": "Flip Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FlipRoyale.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-flip-royale"
+    },
+    {
+      "index": 84,
+      "name": "Prime Zone",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PrimeZone.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-prime-zone"
+    },
+    {
+      "index": 85,
+      "name": "Tales of Dr. Dolittle",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TalesofDrDolittle.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-tales-of-dr-dolittle"
+    },
+    {
+      "index": 86,
+      "name": "Candy Glyph",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CandyGlyph.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-candy-glyph"
+    },
+    {
+      "index": 87,
+      "name": "Hot Sync",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HotSync.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-hot-sync"
+    },
+    {
+      "index": 88,
+      "name": "Spinions X-mas Party",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SpinionsXmasParty.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-spinions-x-mas-party"
+    },
+    {
+      "index": 89,
+      "name": "Skulls UP!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SkullsUP!.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-skulls-up"
+    },
+    {
+      "index": 90,
+      "name": "Vampire Senpai",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_VampireSenpai.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-vampire-senpai"
+    },
+    {
+      "index": 91,
+      "name": "Slugger Time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_SluggerTime.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-slugger-time"
+    },
+    {
+      "index": 92,
+      "name": "Ticket to the stars",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Tickettothestars.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-ticket-to-the-stars"
+    },
+    {
+      "index": 93,
+      "name": "Catrina's Coins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CatrinasCoins.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-catrina-s-coins"
+    },
+    {
+      "index": 94,
+      "name": "Beastwood",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Beastwood.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-beastwood"
+    },
+    {
+      "index": 95,
+      "name": "Crown of Valor",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrownofValor.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-crown-of-valor"
+    },
+    {
+      "index": 96,
+      "name": "Pirate's Charm",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PiratesCharm.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-pirate-s-charm"
+    },
+    {
+      "index": 97,
+      "name": "Volcano Riches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_VolcanoRiches.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-volcano-riches"
+    },
+    {
+      "index": 98,
+      "name": "Spinions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Spinions.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-spinions"
+    },
+    {
+      "index": 99,
+      "name": "Divine Dreams",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DivineDreams.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-divine-dreams"
+    },
+    {
+      "index": 100,
+      "name": "Fairy Gate",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_FairyGate.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-fairy-gate"
+    },
+    {
+      "index": 101,
+      "name": "Betty Bonkers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BettyBonkers.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-betty-bonkers"
+    },
+    {
+      "index": 102,
+      "name": "Dwarfs Gone Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_DwarfsGoneWild.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-dwarfs-gone-wild"
+    },
+    {
+      "index": 103,
+      "name": "The Grand",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_TheGrand.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-the-grand"
+    },
+    {
+      "index": 104,
+      "name": "Leprechaun Hills",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_LeprechaunHills.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-leprechaun-hills"
+    },
+    {
+      "index": 105,
+      "name": "Hidden Valley 120",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_HiddenValley120.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-hidden-valley-120"
+    },
+    {
+      "index": 106,
+      "name": "Primal Spirits",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PrimalSpirits.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-primal-spirits"
+    },
+    {
+      "index": 107,
+      "name": "Ivan and the Immortal King",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_IvanandtheImmortalKing.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-ivan-and-the-immortal-king"
+    },
+    {
+      "index": 108,
+      "name": "Sinbad",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Sinbad1.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-sinbad"
+    },
+    {
+      "index": 109,
+      "name": "King Colossus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_KingColossus.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-king-colossus"
+    },
+    {
+      "index": 110,
+      "name": "Blue Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_BlueFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-blue-fortune"
+    },
+    {
+      "index": 111,
+      "name": "Panther's Reign",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PanthersReign.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-panther-s-reign"
+    },
+    {
+      "index": 112,
+      "name": "Crystal Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_CrystalQueen.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-crystal-queen"
+    },
+    {
+      "index": 113,
+      "name": "Mayana",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_Mayana.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-mayana"
+    },
+    {
+      "index": 114,
+      "name": "Phoenix Sun",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_PhoenixSun.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-phoenix-sun"
+    },
+    {
+      "index": 115,
+      "name": "Gold Lab",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/quickspin_GoldLab.jpg",
+      "game_link": "https://roobet.com/casino/game/quickspin-gold-lab"
+    }
+  ]
+}

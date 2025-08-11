@@ -1,0 +1,312 @@
+Push Gaming Games Data
+==================================================
+Total games found: 61
+Load More clicks: 1
+Extraction date: 2025-08-11 00:37:21
+==================================================
+
+Game #1:
+  Name: Wild Swarm Triple Hive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:WildSwarmTripleHive-2Rmvdx7D2.jpeg
+  Game Link: https://roobet.com/casino/game/pushgaming:WildSwarmTripleHive
+----------------------------------------
+Game #2:
+  Name: Retro Tapes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_retrotapes-01.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-retro-tapes
+----------------------------------------
+Game #3:
+  Name: Big Bamboo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BigBamboo.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-big-bamboo
+----------------------------------------
+Game #4:
+  Name: Retro Sweets
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:RetroSweets-CHv3IHxaX.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-retro-sweets
+----------------------------------------
+Game #5:
+  Name: Razor Returns
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RazorReturns.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-razor-returns
+----------------------------------------
+Game #6:
+  Name: Power Paws
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:PowerPaws-76m-vKw9G.jpeg
+  Game Link: https://roobet.com/casino/game/pushgaming:PowerPaws
+----------------------------------------
+Game #7:
+  Name: Henry The Ape
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:HenryTheApe-mQepFR_DS.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-henry-the-ape
+----------------------------------------
+Game #8:
+  Name: Dragon Hopper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:DragonHopper-SaypDPBde.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-dragon-hopper
+----------------------------------------
+Game #9:
+  Name: Jammin' Jars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jamminjars.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-jammin-jars
+----------------------------------------
+Game #10:
+  Name: Boss Bear
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BossBear.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-boss-bear
+----------------------------------------
+Game #11:
+  Name: Fat Banker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FatBanker.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fat-banker
+----------------------------------------
+Game #12:
+  Name: Razor Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RazorWays.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-razor-ways
+----------------------------------------
+Game #13:
+  Name: Razor Shark
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_razorshark.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-razor-shark
+----------------------------------------
+Game #14:
+  Name: Power Vault
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:PowerVault-14PAhbEas.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-power-vault
+----------------------------------------
+Game #15:
+  Name: Iron Phoenix
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:IronPhoenix-1hNgsMPgg.png
+  Game Link: https://roobet.com/casino/game/push-gaming-iron-phoenix
+----------------------------------------
+Game #16:
+  Name: Mystery Museum
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_mysterymuseum.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-mystery-museum
+----------------------------------------
+Game #17:
+  Name: Big Bite Push Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:BigBitePushWays-p6qe-OK4-.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-big-bite-push-ways
+----------------------------------------
+Game #18:
+  Name: Big Bite
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:BigBite-x7rmjq8nj.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-big-bite
+----------------------------------------
+Game #19:
+  Name: Wild Swarm 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_WildSwarm2.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-wild-swarm-2
+----------------------------------------
+Game #20:
+  Name: Jammin' Jars 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jamminjars2.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-jammin-jars-2
+----------------------------------------
+Game #21:
+  Name: Fat Drac
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatdrac.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fat-drac
+----------------------------------------
+Game #22:
+  Name: Mystery Mission - To The Moon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_mysterymissiontothemoon-01.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-mystery-mission-to-the-moon
+----------------------------------------
+Game #23:
+  Name: The Shadow Order
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_shadoworder.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-the-shadow-order
+----------------------------------------
+Game #24:
+  Name: Giga Jar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_GigaJar.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-giga-jar
+----------------------------------------
+Game #25:
+  Name: Fire Hopper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FireHopper.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fire-hopper
+----------------------------------------
+Game #26:
+  Name: 3 Magic Pots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:3MagicPots-AD6-0GOeN.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-3-magic-pots
+----------------------------------------
+Game #27:
+  Name: Tiki Tumble
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_TikiTumble1.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-tiki-tumble
+----------------------------------------
+Game #28:
+  Name: Dinopolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_dinopolis.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-dinopolis
+----------------------------------------
+Game #29:
+  Name: Mystery of the Nile
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:MysteryoftheNile-awkDPPrdR.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-mystery-of-the-nile
+----------------------------------------
+Game #30:
+  Name: Fang City
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:FangCity-W59hdPkww.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-fang-city
+----------------------------------------
+Game #31:
+  Name: Goat Getter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_GoatGetter.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-goat-getter
+----------------------------------------
+Game #32:
+  Name: The Grand Show
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_TheGrandShow.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-the-grand-show
+----------------------------------------
+Game #33:
+  Name: Wild Swarm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_wildswarm.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-wild-swarm
+----------------------------------------
+Game #34:
+  Name: Regal Knights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:RegalKnights-RFHWFt3o_.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-regal-knights
+----------------------------------------
+Game #35:
+  Name: Samurai's Katana
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_SamuraisKatana.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-samurai-s-katana
+----------------------------------------
+Game #36:
+  Name: Fat Santa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatsanta.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fat-santa
+----------------------------------------
+Game #37:
+  Name: Shamrock Saints
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_ShamrockSaints.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-shamrock-saints
+----------------------------------------
+Game #38:
+  Name: Fat Rabbit
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_fatrabbit.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fat-rabbit
+----------------------------------------
+Game #39:
+  Name: Fish ‘n’ Nudge Big Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:FishnNudgeBigCatch-9PeR_mrSw.jpeg
+  Game Link: https://roobet.com/casino/game/pushgaming:FishnNudgeBigCatch
+----------------------------------------
+Game #40:
+  Name: Deadly 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_Deadly5.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-deadly-5
+----------------------------------------
+Game #41:
+  Name: Candy Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:CandyBlast-jtDUZLsTe.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-candy-blast
+----------------------------------------
+Game #42:
+  Name: Joker Troupe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_jokertroupe.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-joker-troupe
+----------------------------------------
+Game #43:
+  Name: Bison Battle
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BisonBattle.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-bison-battle
+----------------------------------------
+Game #44:
+  Name: Big Bam-book
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_BigBambook.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-big-bam-book
+----------------------------------------
+Game #45:
+  Name: Rat King
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_RatKing.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-rat-king
+----------------------------------------
+Game #46:
+  Name: Jaguar Drop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:JaguarDrop-ogVtG9ESK.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-jaguar-drop
+----------------------------------------
+Game #47:
+  Name: Blaze of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_blazeofra1-01.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-blaze-of-ra
+----------------------------------------
+Game #48:
+  Name: Crystal Catcher
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_CrystalCatcher.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-crystal-catcher
+----------------------------------------
+Game #49:
+  Name: Mad Cars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_MadCars.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-mad-cars
+----------------------------------------
+Game #50:
+  Name: 10 Pharaohs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:10Pharaohs-1TqkxtxcS.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-10-pharaohs
+----------------------------------------
+Game #51:
+  Name: Olympus Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:OlympusUnleashed-JXC_GN4qQ.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-olympus-unleashed
+----------------------------------------
+Game #52:
+  Name: 10 Flaming Bisons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:10FlamingBisons-PnKB_LOsd.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-10-flaming-bisons
+----------------------------------------
+Game #53:
+  Name: Dino P.D.
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DinoPD.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-dino-p-d
+----------------------------------------
+Game #54:
+  Name: 10 Swords
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_10Swords.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-10-swords
+----------------------------------------
+Game #55:
+  Name: Mad Blast
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:MadBlast-s_vrWTIVj.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-mad-blast
+----------------------------------------
+Game #56:
+  Name: Cats of Olympuss
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/pushgaming:CatsOfOlympuss-ik3CC5lSw.jpeg
+  Game Link: https://roobet.com/casino/game/push-gaming-cats-of-olympuss
+----------------------------------------
+Game #57:
+  Name: Generous Jack
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_generousjack-01.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-generous-jack
+----------------------------------------
+Game #58:
+  Name: Fish 'n' Nudge
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_FishnNudge.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-fish-n-nudge
+----------------------------------------
+Game #59:
+  Name: Hearts Highway
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_HeartsHighway.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-hearts-highway
+----------------------------------------
+Game #60:
+  Name: DJ Fox
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DJFox.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-dj-fox
+----------------------------------------
+Game #61:
+  Name: DJ Cat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/pushgaming_DJCat.jpg
+  Game Link: https://roobet.com/casino/game/push-gaming-dj-cat
+----------------------------------------

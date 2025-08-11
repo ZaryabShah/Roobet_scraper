@@ -1,0 +1,1077 @@
+Amatic Games Data
+==================================================
+Total games found: 214
+Load More clicks: 3
+Extraction date: 2025-08-10 17:42:30
+==================================================
+
+Game #1:
+  Name: Lucky Joker 10 Cash Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker10CashSpins.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-10-cash-spins
+----------------------------------------
+Game #2:
+  Name: Lucky Joker 100 Extra Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker100ExtraGifts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-100-extra-gifts
+----------------------------------------
+Game #3:
+  Name: Sizzling Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:SizzlingDiamonds-QhaWMrQQz.jpeg
+  Game Link: https://roobet.com/casino/game/amatic:SizzlingDiamonds
+----------------------------------------
+Game #4:
+  Name: Ultra Seven
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_UltraSeven.jpg
+  Game Link: https://roobet.com/casino/game/amatic-ultra-seven
+----------------------------------------
+Game #5:
+  Name: Book of Fruits Halloween
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofFruitsHalloween.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-fruits-halloween
+----------------------------------------
+Game #6:
+  Name: Wild 7 Boost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:Wild7Boost-kJKykC-It.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-wild-7-boost
+----------------------------------------
+Game #7:
+  Name: Book Of Aztec
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookOfAztec.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-aztec
+----------------------------------------
+Game #8:
+  Name: Blazing Wilds 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:BlazingWilds20-Omm27EP-s.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-wilds-20
+----------------------------------------
+Game #9:
+  Name: Lucky Joker 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_luckyjoker10.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-10
+----------------------------------------
+Game #10:
+  Name: Multi Billyonaire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MultiBillyonaire.jpg
+  Game Link: https://roobet.com/casino/game/amatic-multi-billyonaire
+----------------------------------------
+Game #11:
+  Name: Triple Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_TripleWild.jpg
+  Game Link: https://roobet.com/casino/game/amatic-triple-wild
+----------------------------------------
+Game #12:
+  Name: Allways Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllwaysFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-allways-fruits
+----------------------------------------
+Game #13:
+  Name: Wild Shark Bonus Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildSharkBonusBuy.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-shark-bonus-buy
+----------------------------------------
+Game #14:
+  Name: Blazing Coins 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BlazingCoins40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-coins-40
+----------------------------------------
+Game #15:
+  Name: Billyonaire Bonus Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BillyonaireBonusBuy.jpg
+  Game Link: https://roobet.com/casino/game/amatic-billyonaire-bonus-buy
+----------------------------------------
+Game #16:
+  Name: Blazing Coins 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BlazingCoins100.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-coins-100
+----------------------------------------
+Game #17:
+  Name: Wild Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildDragon.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-dragon
+----------------------------------------
+Game #18:
+  Name: Joker X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_JokerX.jpg
+  Game Link: https://roobet.com/casino/game/amatic-joker-x
+----------------------------------------
+Game #19:
+  Name: Hot Seven Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotSevenDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-seven-deluxe
+----------------------------------------
+Game #20:
+  Name: Lucky Double
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_luckydouble.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-double
+----------------------------------------
+Game #21:
+  Name: Chilli Willie
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_ChilliWillie.jpg
+  Game Link: https://roobet.com/casino/game/amatic-chilli-willie
+----------------------------------------
+Game #22:
+  Name: Allways Hotter Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:AllwaysHotterFruits-4OEgovLUV.jpeg
+  Game Link: https://roobet.com/casino/game/amatic:AllwaysHotterFruits
+----------------------------------------
+Game #23:
+  Name: Dragons Pearl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DragonsPearl.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dragons-pearl
+----------------------------------------
+Game #24:
+  Name: Sizzling Wilds 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:SizzlingWilds10-Zro6nR8Eq.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-sizzling-wilds-10
+----------------------------------------
+Game #25:
+  Name: Hot Scatter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotScatter.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-scatter
+----------------------------------------
+Game #26:
+  Name: Wild Shark
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildShark.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-shark
+----------------------------------------
+Game #27:
+  Name: Piggy Coin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:PiggyCoin-VjkzcWyFz.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-piggy-coin
+----------------------------------------
+Game #28:
+  Name: Wolf Moon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WolfMoon.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wolf-moon
+----------------------------------------
+Game #29:
+  Name: Bells On Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BellsOnFire.jpg
+  Game Link: https://roobet.com/casino/game/amatic-bells-on-fire
+----------------------------------------
+Game #30:
+  Name: Bells On Fire Boost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:BellsOnFireBoost-UBe3Fvlrf.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-bells-on-fire-boost
+----------------------------------------
+Game #31:
+  Name: Sun Goddess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_sungoddess.jpg
+  Game Link: https://roobet.com/casino/game/amatic-sun-goddess
+----------------------------------------
+Game #32:
+  Name: Lucky Piggies 2 Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:LuckyPiggies2HoldWin-oP-BeWlDm.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-piggies-2-hold-win
+----------------------------------------
+Game #33:
+  Name: Cool Diamonds II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CoolDiamondsII.jpg
+  Game Link: https://roobet.com/casino/game/amatic-cool-diamonds-ii
+----------------------------------------
+Game #34:
+  Name: Hot Fruits 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits27.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-27
+----------------------------------------
+Game #35:
+  Name: Book of Aztec Bonus Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofAztecBonusBuy.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-aztec-bonus-buy
+----------------------------------------
+Game #36:
+  Name: Fruit Biters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:FruitBiters-P3J0a0eNB.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-biters
+----------------------------------------
+Game #37:
+  Name: Hot Fruits 20 Extra Chillis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:HotFruits20ExtraChillis-h4ntHd1Bf.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-20-extra-chillis
+----------------------------------------
+Game #38:
+  Name: Kings Crown
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_KingsCrown.jpg
+  Game Link: https://roobet.com/casino/game/amatic-kings-crown
+----------------------------------------
+Game #39:
+  Name: Bells on Fire Hot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BellsonFireHot.jpg
+  Game Link: https://roobet.com/casino/game/amatic-bells-on-fire-hot
+----------------------------------------
+Game #40:
+  Name: Hot Fruits 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-40
+----------------------------------------
+Game #41:
+  Name: Blazing Coins 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:BlazingCoins27-lZo1axKMB.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-coins-27
+----------------------------------------
+Game #42:
+  Name: Casanova
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Casanova.jpg
+  Game Link: https://roobet.com/casino/game/amatic-casanova
+----------------------------------------
+Game #43:
+  Name: Billy's Gang Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BillysGangHoldWin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-billy-s-gang-hold-win
+----------------------------------------
+Game #44:
+  Name: Fire Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FireQueen.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fire-queen
+----------------------------------------
+Game #45:
+  Name: Hot Choice Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotChoiceDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-choice-deluxe
+----------------------------------------
+Game #46:
+  Name: Blazing Bells 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_burningbells20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-bells-20
+----------------------------------------
+Game #47:
+  Name: Oktoberfest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Oktoberfest.jpg
+  Game Link: https://roobet.com/casino/game/amatic-oktoberfest
+----------------------------------------
+Game #48:
+  Name: Book of Montezuma
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofMontezuma.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-montezuma
+----------------------------------------
+Game #49:
+  Name: King of Dwarves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_KingofDwarves.jpg
+  Game Link: https://roobet.com/casino/game/amatic-king-of-dwarves
+----------------------------------------
+Game #50:
+  Name: Lucky Joker 40 Extra Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker40ExtraGifts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-40-extra-gifts
+----------------------------------------
+Game #51:
+  Name: Wild Stars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildStars.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-stars
+----------------------------------------
+Game #52:
+  Name: Fruit Box
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FruitBox.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-box
+----------------------------------------
+Game #53:
+  Name: Book of Pharao
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofPharao.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-pharao
+----------------------------------------
+Game #54:
+  Name: Fruit Box Boost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FruitBoxBoost.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-box-boost
+----------------------------------------
+Game #55:
+  Name: Hot Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-20
+----------------------------------------
+Game #56:
+  Name: Big Panda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BigPanda.jpg
+  Game Link: https://roobet.com/casino/game/amatic-big-panda
+----------------------------------------
+Game #57:
+  Name: King Midas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_KingMidas.jpg
+  Game Link: https://roobet.com/casino/game/amatic-king-midas
+----------------------------------------
+Game #58:
+  Name: Diamond Monkey
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DiamondMonkey.jpg
+  Game Link: https://roobet.com/casino/game/amatic-diamond-monkey
+----------------------------------------
+Game #59:
+  Name: Golden Fish
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GoldenFish.jpg
+  Game Link: https://roobet.com/casino/game/amatic-golden-fish
+----------------------------------------
+Game #60:
+  Name: Royal Unicorn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_RoyalUnicorn.jpg
+  Game Link: https://roobet.com/casino/game/amatic-royal-unicorn
+----------------------------------------
+Game #61:
+  Name: Bigger Cash & Crab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:BiggerCashAndCrab-wn97mv45q.png
+  Game Link: https://roobet.com/casino/game/amatic-bigger-cash-crab
+----------------------------------------
+Game #62:
+  Name: Lucky Coin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyCoin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-coin
+----------------------------------------
+Game #63:
+  Name: Grand Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GrandFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grand-fruits
+----------------------------------------
+Game #64:
+  Name: Lucky Golden 7
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyGolden7s.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-golden-7
+----------------------------------------
+Game #65:
+  Name: Lucky Joker 10 Extra Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker10ExtraGifts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-10-extra-gifts
+----------------------------------------
+Game #66:
+  Name: Billyonaire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Billyonaire.jpg
+  Game Link: https://roobet.com/casino/game/amatic-billyonaire
+----------------------------------------
+Game #67:
+  Name: Dia Muertos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DiaMuertos.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dia-muertos
+----------------------------------------
+Game #68:
+  Name: Wild Respin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildRespin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-respin
+----------------------------------------
+Game #69:
+  Name: Wild Dragon Hold & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:WildDragonHoldWin-jITIv7d6d.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-wild-dragon-hold-win
+----------------------------------------
+Game #70:
+  Name: Book Of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookOfFortune.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-fortune
+----------------------------------------
+Game #71:
+  Name: Lady Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LadyJoker.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lady-joker
+----------------------------------------
+Game #72:
+  Name: Lucky Joker 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-20
+----------------------------------------
+Game #73:
+  Name: Book of Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofFruits20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-fruits-20
+----------------------------------------
+Game #74:
+  Name: Dragon's Mystery
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DragonsMystery.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dragon-s-mystery
+----------------------------------------
+Game #75:
+  Name: Lucky Joker 5 Extra Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker5ExtraGifts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-5-extra-gifts
+----------------------------------------
+Game #76:
+  Name: Lucky Joker Twins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:LuckyJokerTwins-Gi7ccdRjJ.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-twins
+----------------------------------------
+Game #77:
+  Name: Hot Twenty
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotTwenty.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-twenty
+----------------------------------------
+Game #78:
+  Name: Hot Fruits Wheel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruitsWheel.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-wheel
+----------------------------------------
+Game #79:
+  Name: Fortunas Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FortunasFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fortunas-fruits
+----------------------------------------
+Game #80:
+  Name: GrandX
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GrandX.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grandx
+----------------------------------------
+Game #81:
+  Name: Hot Choice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotChoice.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-choice
+----------------------------------------
+Game #82:
+  Name: Book of Admiral
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofAdmiral.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-admiral
+----------------------------------------
+Game #83:
+  Name: All Ways Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllWaysJoker.jpg
+  Game Link: https://roobet.com/casino/game/amatic-all-ways-joker
+----------------------------------------
+Game #84:
+  Name: Super Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_SuperCats.jpg
+  Game Link: https://roobet.com/casino/game/amatic-super-cats
+----------------------------------------
+Game #85:
+  Name: Allways Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllwaysWin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-allways-win
+----------------------------------------
+Game #86:
+  Name: Lady Fruits 40 Easter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LadyFruits40Easter.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lady-fruits-40-easter
+----------------------------------------
+Game #87:
+  Name: Lucky Little Devil
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyLittleDevil.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-little-devil
+----------------------------------------
+Game #88:
+  Name: Grand Tiger
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GrandTiger.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grand-tiger
+----------------------------------------
+Game #89:
+  Name: Wild Volcano
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildVolcano.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-volcano
+----------------------------------------
+Game #90:
+  Name: Book of Fruits 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofFruits10.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-fruits-10
+----------------------------------------
+Game #91:
+  Name: Lucky Joker Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJokerXmas.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-xmas
+----------------------------------------
+Game #92:
+  Name: Double Joker 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DoubleJoker20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-double-joker-20
+----------------------------------------
+Game #93:
+  Name: Fortune Girl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FortuneGirl.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fortune-girl
+----------------------------------------
+Game #94:
+  Name: Fruit Express
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FruitExpress.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-express
+----------------------------------------
+Game #95:
+  Name: Book of Queen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofQueen.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-queen
+----------------------------------------
+Game #96:
+  Name: Sun Goddess II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_SunGoddessII.jpg
+  Game Link: https://roobet.com/casino/game/amatic-sun-goddess-ii
+----------------------------------------
+Game #97:
+  Name: Cash Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CashDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/amatic-cash-diamonds
+----------------------------------------
+Game #98:
+  Name: All Ways Candy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllWaysCandy.jpg
+  Game Link: https://roobet.com/casino/game/amatic-all-ways-candy
+----------------------------------------
+Game #99:
+  Name: Nicer Dice 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_NicerDice100.jpg
+  Game Link: https://roobet.com/casino/game/amatic-nicer-dice-100
+----------------------------------------
+Game #100:
+  Name: Hot Fruits Xmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:HotFruitsXmas-6_vyNh4pZ.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-xmas
+----------------------------------------
+Game #101:
+  Name: Cash & Crab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CashAndCrab.jpg
+  Game Link: https://roobet.com/casino/game/amatic-cash-crab
+----------------------------------------
+Game #102:
+  Name: Lucky Joker 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker5.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-5
+----------------------------------------
+Game #103:
+  Name: Diamond Cats
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DiamondCats.jpg
+  Game Link: https://roobet.com/casino/game/amatic-diamond-cats
+----------------------------------------
+Game #104:
+  Name: Blazing Bells 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BurningBells10.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-bells-10
+----------------------------------------
+Game #105:
+  Name: Lady Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LadyFruits20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lady-fruits-20
+----------------------------------------
+Game #106:
+  Name: Sharky's Gang
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_SharkysGang.jpg
+  Game Link: https://roobet.com/casino/game/amatic-sharky-s-gang
+----------------------------------------
+Game #107:
+  Name: Hot 81
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Hot81.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-81
+----------------------------------------
+Game #108:
+  Name: Fruit Loop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Fruitloop.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-loop
+----------------------------------------
+Game #109:
+  Name: Hot Scatter Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotScatterDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-scatter-deluxe
+----------------------------------------
+Game #110:
+  Name: Magic Forest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MagicForest.jpg
+  Game Link: https://roobet.com/casino/game/amatic-magic-forest
+----------------------------------------
+Game #111:
+  Name: Admiral Nelson
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Admiral.jpg
+  Game Link: https://roobet.com/casino/game/amatic-admiral-nelson
+----------------------------------------
+Game #112:
+  Name: Lucky Joker 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker100.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-100
+----------------------------------------
+Game #113:
+  Name: Magic Owl
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MagicOwl.jpg
+  Game Link: https://roobet.com/casino/game/amatic-magic-owl
+----------------------------------------
+Game #114:
+  Name: Blazing Coins 243
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BlazingCoins243.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-coins-243
+----------------------------------------
+Game #115:
+  Name: Lucky Joker 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-40
+----------------------------------------
+Game #116:
+  Name: Hot Fruits 10
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits10.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-10
+----------------------------------------
+Game #117:
+  Name: Aztec Emerald
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_aztecemerald.jpg
+  Game Link: https://roobet.com/casino/game/amatic-aztec-emerald
+----------------------------------------
+Game #118:
+  Name: Mr. Magic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MrMagic.jpg
+  Game Link: https://roobet.com/casino/game/amatic-mr-magic
+----------------------------------------
+Game #119:
+  Name: Bells On Fire Rombo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BellsOnFireRombo.jpg
+  Game Link: https://roobet.com/casino/game/amatic-bells-on-fire-rombo
+----------------------------------------
+Game #120:
+  Name: Pharaohs Gold 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_PharaohsGold20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-pharaohs-gold-20
+----------------------------------------
+Game #121:
+  Name: Hottest Fruits 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HottestFruits40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hottest-fruits-40
+----------------------------------------
+Game #122:
+  Name: Casinova
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Casinova.jpg
+  Game Link: https://roobet.com/casino/game/amatic-casinova
+----------------------------------------
+Game #123:
+  Name: Lucky Joker 20 Extra Gifts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyJoker20ExtraGifts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-joker-20-extra-gifts
+----------------------------------------
+Game #124:
+  Name: Hot Soccer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotSoccer.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-soccer
+----------------------------------------
+Game #125:
+  Name: Arising Phoenix
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_ArisingPhoenix.jpg
+  Game Link: https://roobet.com/casino/game/amatic-arising-phoenix
+----------------------------------------
+Game #126:
+  Name: Grand Casanova
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GrandCasanova.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grand-casanova
+----------------------------------------
+Game #127:
+  Name: Blazing Bells 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BurningBells40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-bells-40
+----------------------------------------
+Game #128:
+  Name: Wild Anubis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_wildanubis.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-anubis
+----------------------------------------
+Game #129:
+  Name: Crazy Bee
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CrazyBee.jpg
+  Game Link: https://roobet.com/casino/game/amatic-crazy-bee
+----------------------------------------
+Game #130:
+  Name: Kitty Bet
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_KittyBet.jpg
+  Game Link: https://roobet.com/casino/game/amatic-kitty-bet
+----------------------------------------
+Game #131:
+  Name: Flying Dutchman
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FlyingDutchman.jpg
+  Game Link: https://roobet.com/casino/game/amatic-flying-dutchman
+----------------------------------------
+Game #132:
+  Name: Lucky Respin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyRespin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-respin
+----------------------------------------
+Game #133:
+  Name: Harlequeen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Harlequeen.jpg
+  Game Link: https://roobet.com/casino/game/amatic-harlequeen
+----------------------------------------
+Game #134:
+  Name: Princess of Pearls
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_PrincessofPearls.jpg
+  Game Link: https://roobet.com/casino/game/amatic-princess-of-pearls
+----------------------------------------
+Game #135:
+  Name: All Ways Hottest Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllWaysHottestFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-all-ways-hottest-fruits
+----------------------------------------
+Game #136:
+  Name: Enchanted Cleopatra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_EnchantedCleopatra.jpg
+  Game Link: https://roobet.com/casino/game/amatic-enchanted-cleopatra
+----------------------------------------
+Game #137:
+  Name: Buffalo Thunderstacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BuffaloThunderstacks.jpg
+  Game Link: https://roobet.com/casino/game/amatic-buffalo-thunderstacks
+----------------------------------------
+Game #138:
+  Name: Lady Fruits 100 Easter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LadyFruits100Easter.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lady-fruits-100-easter
+----------------------------------------
+Game #139:
+  Name: Hot Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-diamonds
+----------------------------------------
+Game #140:
+  Name: Hot Fruits 20 Cash Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_hotfruits20cashspins.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-20-cash-spins
+----------------------------------------
+Game #141:
+  Name: Red Chilli
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_RedChilli.jpg
+  Game Link: https://roobet.com/casino/game/amatic-red-chilli
+----------------------------------------
+Game #142:
+  Name: Golden Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GoldenJoker.jpg
+  Game Link: https://roobet.com/casino/game/amatic-golden-joker
+----------------------------------------
+Game #143:
+  Name: Lucky Piggies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyPiggies.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-piggies
+----------------------------------------
+Game #144:
+  Name: Hot 7
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Hot7.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-7
+----------------------------------------
+Game #145:
+  Name: La Gran Aventura
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LaGranAventura.jpg
+  Game Link: https://roobet.com/casino/game/amatic-la-gran-aventura
+----------------------------------------
+Game #146:
+  Name: Double Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DoubleFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-double-fruits
+----------------------------------------
+Game #147:
+  Name: Eye Of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_EyeOfRa.jpg
+  Game Link: https://roobet.com/casino/game/amatic-eye-of-ra
+----------------------------------------
+Game #148:
+  Name: Juicy Doubles
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_JuicyDoubles.jpg
+  Game Link: https://roobet.com/casino/game/amatic-juicy-doubles
+----------------------------------------
+Game #149:
+  Name: Lovely Lady Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LovelyLadyDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lovely-lady-deluxe
+----------------------------------------
+Game #150:
+  Name: Gem Star
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GemStar.jpg
+  Game Link: https://roobet.com/casino/game/amatic-gem-star
+----------------------------------------
+Game #151:
+  Name: Dragons Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DragonsKingdom.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dragons-kingdom
+----------------------------------------
+Game #152:
+  Name: Book of Lords
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofLords.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-lords
+----------------------------------------
+Game #153:
+  Name: Hot 27
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Hot27.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-27
+----------------------------------------
+Game #154:
+  Name: Mega Shark
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MegaShark.jpg
+  Game Link: https://roobet.com/casino/game/amatic-mega-shark
+----------------------------------------
+Game #155:
+  Name: All Ways Hot Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AllwaysHotFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-all-ways-hot-fruits
+----------------------------------------
+Game #156:
+  Name: Lucky Zodiac
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyZodiac.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-zodiac
+----------------------------------------
+Game #157:
+  Name: Wild Hearts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_wildhearts.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-hearts
+----------------------------------------
+Game #158:
+  Name: Tiki Madness 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_TikiMadness100.jpg
+  Game Link: https://roobet.com/casino/game/amatic-tiki-madness-100
+----------------------------------------
+Game #159:
+  Name: Book of Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-fruits
+----------------------------------------
+Game #160:
+  Name: Book of Aztec Select
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BookofAztecSelect.jpg
+  Game Link: https://roobet.com/casino/game/amatic-book-of-aztec-select
+----------------------------------------
+Game #161:
+  Name: Relic Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_RelicRiches.jpg
+  Game Link: https://roobet.com/casino/game/amatic-relic-riches
+----------------------------------------
+Game #162:
+  Name: Hot Star
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotStar.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-star
+----------------------------------------
+Game #163:
+  Name: Hot Fruits 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits100.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-100
+----------------------------------------
+Game #164:
+  Name: Hot 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Hot40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-40
+----------------------------------------
+Game #165:
+  Name: Grand Wild Dragon 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_grandwilddragon20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grand-wild-dragon-20
+----------------------------------------
+Game #166:
+  Name: Mermaids Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MermaidsGold.jpg
+  Game Link: https://roobet.com/casino/game/amatic-mermaids-gold
+----------------------------------------
+Game #167:
+  Name: Party Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_PartyNight.jpg
+  Game Link: https://roobet.com/casino/game/amatic-party-night
+----------------------------------------
+Game #168:
+  Name: Hottest Fruits 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HottestFruits20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hottest-fruits-20
+----------------------------------------
+Game #169:
+  Name: Aztec Secret
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_AztecSecret.jpg
+  Game Link: https://roobet.com/casino/game/amatic-aztec-secret
+----------------------------------------
+Game #170:
+  Name: Diamond Staxx
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DiamondStaxx.jpg
+  Game Link: https://roobet.com/casino/game/amatic-diamond-staxx
+----------------------------------------
+Game #171:
+  Name: Merry Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MerryFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-merry-fruits
+----------------------------------------
+Game #172:
+  Name: Vampires
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Vampires.jpg
+  Game Link: https://roobet.com/casino/game/amatic-vampires
+----------------------------------------
+Game #173:
+  Name: Blazing Coins 20
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BlazingCoins20.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blazing-coins-20
+----------------------------------------
+Game #174:
+  Name: Hot Fruits Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruitsDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-deluxe
+----------------------------------------
+Game #175:
+  Name: Fire and Ice
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FireAndIce.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fire-and-ice
+----------------------------------------
+Game #176:
+  Name: Beauty Fairy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BeautyFairy.jpg
+  Game Link: https://roobet.com/casino/game/amatic-beauty-fairy
+----------------------------------------
+Game #177:
+  Name: Fruit Star
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FruitStar.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fruit-star
+----------------------------------------
+Game #178:
+  Name: Lovely Lady
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LadyLuck.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lovely-lady
+----------------------------------------
+Game #179:
+  Name: Grand Wild Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GrandWildDragon.jpg
+  Game Link: https://roobet.com/casino/game/amatic-grand-wild-dragon
+----------------------------------------
+Game #180:
+  Name: Casanovas Ladies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CasanovasLadies.jpg
+  Game Link: https://roobet.com/casino/game/amatic-casanovas-ladies
+----------------------------------------
+Game #181:
+  Name: Mistress of Monsters
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MistressofMonsters.jpg
+  Game Link: https://roobet.com/casino/game/amatic-mistress-of-monsters
+----------------------------------------
+Game #182:
+  Name: Billy's Game
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BillysGame.jpg
+  Game Link: https://roobet.com/casino/game/amatic-billy-s-game
+----------------------------------------
+Game #183:
+  Name: Wild Boost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildBoost.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-boost
+----------------------------------------
+Game #184:
+  Name: Crystal Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_CrystalFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-crystal-fruits
+----------------------------------------
+Game #185:
+  Name: Hot Neon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotNeon.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-neon
+----------------------------------------
+Game #186:
+  Name: Beauty Warrior
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BeautyWarrior.jpg
+  Game Link: https://roobet.com/casino/game/amatic-beauty-warrior
+----------------------------------------
+Game #187:
+  Name: Wild Witches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_WildWitches.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-witches
+----------------------------------------
+Game #188:
+  Name: Wild 7
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Wild7.jpg
+  Game Link: https://roobet.com/casino/game/amatic-wild-7
+----------------------------------------
+Game #189:
+  Name: Golden Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GoldenQuest.jpg
+  Game Link: https://roobet.com/casino/game/amatic-golden-quest
+----------------------------------------
+Game #190:
+  Name: Chinese Spider
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_ChineseSpider.jpg
+  Game Link: https://roobet.com/casino/game/amatic-chinese-spider
+----------------------------------------
+Game #191:
+  Name: Lovely Lady X-Mas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LovelyLadyXMas.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lovely-lady-x-mas
+----------------------------------------
+Game #192:
+  Name: Double Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DoubleDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/amatic-double-diamonds
+----------------------------------------
+Game #193:
+  Name: Dragon Pot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DragonPot.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dragon-pot
+----------------------------------------
+Game #194:
+  Name: Golden Book
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_GoldenBook.jpg
+  Game Link: https://roobet.com/casino/game/amatic-golden-book
+----------------------------------------
+Game #195:
+  Name: Lucky Shark
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyShark.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-shark
+----------------------------------------
+Game #196:
+  Name: Magic Idol
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_MagicIdol.jpg
+  Game Link: https://roobet.com/casino/game/amatic-magic-idol
+----------------------------------------
+Game #197:
+  Name: Lucky Bells
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_LuckyBells.jpg
+  Game Link: https://roobet.com/casino/game/amatic-lucky-bells
+----------------------------------------
+Game #198:
+  Name: Diamonds On Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DiamondsOnFire.jpg
+  Game Link: https://roobet.com/casino/game/amatic-diamonds-on-fire
+----------------------------------------
+Game #199:
+  Name: Scarab Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_ScarabTreasure.jpg
+  Game Link: https://roobet.com/casino/game/amatic-scarab-treasure
+----------------------------------------
+Game #200:
+  Name: Santas Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_SantasFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-santas-fruits
+----------------------------------------
+Game #201:
+  Name: Double Diamonds 50
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DoubleDiamonds50.jpg
+  Game Link: https://roobet.com/casino/game/amatic-double-diamonds-50
+----------------------------------------
+Game #202:
+  Name: Hot Football
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFootball.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-football
+----------------------------------------
+Game #203:
+  Name: Fiery Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_FieryFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fiery-fruits
+----------------------------------------
+Game #204:
+  Name: Tweety Birds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_TweetyBirds.jpg
+  Game Link: https://roobet.com/casino/game/amatic-tweety-birds
+----------------------------------------
+Game #205:
+  Name: Fiery 7's
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_Fiery7s.jpg
+  Game Link: https://roobet.com/casino/game/amatic-fiery-7-s
+----------------------------------------
+Game #206:
+  Name: Sakura Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_SakuraFruits.jpg
+  Game Link: https://roobet.com/casino/game/amatic-sakura-fruits
+----------------------------------------
+Game #207:
+  Name: Blue Dolphin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BlueDolphin.jpg
+  Game Link: https://roobet.com/casino/game/amatic-blue-dolphin
+----------------------------------------
+Game #208:
+  Name: Bounty Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_BountyBonanza.jpg
+  Game Link: https://roobet.com/casino/game/amatic-bounty-bonanza
+----------------------------------------
+Game #209:
+  Name: Dragons Gift
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_DragonsGift.jpg
+  Game Link: https://roobet.com/casino/game/amatic-dragons-gift
+----------------------------------------
+Game #210:
+  Name: Nicer Dice 40
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_NicerDice40.jpg
+  Game Link: https://roobet.com/casino/game/amatic-nicer-dice-40
+----------------------------------------
+Game #211:
+  Name: Party Time
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_PartyTime.jpg
+  Game Link: https://roobet.com/casino/game/amatic-party-time
+----------------------------------------
+Game #212:
+  Name: Plenty Dragons
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_PlentyDragons.jpg
+  Game Link: https://roobet.com/casino/game/amatic-plenty-dragons
+----------------------------------------
+Game #213:
+  Name: Hot Fruits 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/amatic_HotFruits5.jpg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-5
+----------------------------------------
+Game #214:
+  Name: Hot Fruits 40 Extra Chillis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/amatic:HotFruits40ExtraChillis-C4YkD75fB.jpeg
+  Game Link: https://roobet.com/casino/game/amatic-hot-fruits-40-extra-chillis
+----------------------------------------

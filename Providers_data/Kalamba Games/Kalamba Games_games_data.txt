@@ -1,0 +1,357 @@
+Kalamba Games Games Data
+==================================================
+Total games found: 70
+Load More clicks: 1
+Extraction date: 2025-08-11 04:38:35
+==================================================
+
+Game #1:
+  Name: Clover Supreme Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_cloversupremeholdandwin-_AtjROq5h.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:klb_cloversupremeholdandwin
+----------------------------------------
+Game #2:
+  Name: MultiBlitz 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_multiblitz7s-MML656YcB.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:klb_multiblitz7s
+----------------------------------------
+Game #3:
+  Name: Jewels of Jupiter Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_jewelsofjupiterholdandwin--o31egaqy.png
+  Game Link: https://roobet.com/casino/game/hub88:klb_jewelsofjupiterholdandwin
+----------------------------------------
+Game #4:
+  Name: Blessed Dragons Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_blesseddragonsholdandwin-SKwv4MZuY.png
+  Game Link: https://roobet.com/casino/game/kalamba-games-blessed-dragons-hold-and-win
+----------------------------------------
+Game #5:
+  Name: Firebolt Max 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_fireboltmax7sholdandwin-M9CzeueBA.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-firebolt-max-7s-hold-and-win
+----------------------------------------
+Game #6:
+  Name: Eagle Honor 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_eaglehonor7s-RtlFQaHEs.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:klb_eaglehonor7s
+----------------------------------------
+Game #7:
+  Name: Aloha Juicy 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_alohajuicy7s-c4yOcXAx6.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-aloha-juicy-7s
+----------------------------------------
+Game #8:
+  Name: Firedream 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_firedream7sholdandwin-ra5f8JG2a.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:klb_firedream7sholdandwin
+----------------------------------------
+Game #9:
+  Name: Shamrock Party 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_shamrockparty7s.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-shamrock-party-7s
+----------------------------------------
+Game #10:
+  Name: Hell Chef Goes Fishing
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_hellchefgoesfishing-fRtDFlmlh.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-hell-chef-goes-fishing
+----------------------------------------
+Game #11:
+  Name: Joker Spark 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_jokerspark7s-l8I-Hm_E_.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-spark-7s
+----------------------------------------
+Game #12:
+  Name: Pharaoh's Dynasty PrizeMatch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_pharaohsdynastyprizematch.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-pharaoh-s-dynasty-prizematch
+----------------------------------------
+Game #13:
+  Name: Alien Eggstractors
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_alieneggstractors-nBfYPhrsS.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-alien-eggstractors
+----------------------------------------
+Game #14:
+  Name: Bunny Hunt 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_bunnyhunt7s-ka4NgVkcH.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-bunny-hunt-7s
+----------------------------------------
+Game #15:
+  Name: Emerald Bounty 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_emeraldbounty7sholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-emerald-bounty-7s-hold-and-win
+----------------------------------------
+Game #16:
+  Name: Dolphin Riches Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_dolphinrichesholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-dolphin-riches-hold-and-win
+----------------------------------------
+Game #17:
+  Name: SoloReel Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_soloreeltmblitz-T3r5SqMce.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:klb_soloreeltmblitz
+----------------------------------------
+Game #18:
+  Name: Joker Max
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_jokermax.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-max
+----------------------------------------
+Game #19:
+  Name: Finnegan's Treasure 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_finneganstreasure7s-teP86UKPI.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-finnegan-s-treasure-7s
+----------------------------------------
+Game #20:
+  Name: Glow Burst 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_glowburst7s-R3Fvzsfek.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-glow-burst-7s
+----------------------------------------
+Game #21:
+  Name: Mango Express 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_mangoexpress7s-vZxtCIIgu.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-mango-express-7s
+----------------------------------------
+Game #22:
+  Name: Machina PrizeMatch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_machinaprizematch.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-machina-prizematch
+----------------------------------------
+Game #23:
+  Name: Double Joker Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_doublejokerholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-double-joker-hold-and-win
+----------------------------------------
+Game #24:
+  Name: Emerald Bisons PrizeMatch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_emeraldbisonsprizematch-M8qIJstcw.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-emerald-bisons-prizematch
+----------------------------------------
+Game #25:
+  Name: Ninjaz vs Narcos
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_ninjazvsnarcos-1yfvEZLR1.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-ninjaz-vs-narcos
+----------------------------------------
+Game #26:
+  Name: Snake Fortune Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_snakefortuneholdandwin-LI-xpwUyp.png
+  Game Link: https://roobet.com/casino/game/kalamba-games-snake-fortune-hold-and-win
+----------------------------------------
+Game #27:
+  Name: Skull Spirit 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_skullspirit7sholdandwin-arrY4q48L.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-skull-spirit-7s-hold-and-win
+----------------------------------------
+Game #28:
+  Name: Moo Snatchers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_moosnatchers.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-moo-snatchers
+----------------------------------------
+Game #29:
+  Name: 9 Blazing Cashpots 50K
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_9blazingcashpots50k.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-9-blazing-cashpots-50k
+----------------------------------------
+Game #30:
+  Name: Flaming Scarabs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_flamingscarabs.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-flaming-scarabs
+----------------------------------------
+Game #31:
+  Name: Caribbean Anne Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_caribbeananneholdandwin-dXlTx2VmF.png
+  Game Link: https://roobet.com/casino/game/kalamba-games-caribbean-anne-hold-and-win
+----------------------------------------
+Game #32:
+  Name: Wilds from the Crypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_wildsfromthecrypt-m46RovMau.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-wilds-from-the-crypt
+----------------------------------------
+Game #33:
+  Name: Soccer Storm Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_soccerstormholdandwin-ki5gxmClk.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-soccer-storm-hold-and-win
+----------------------------------------
+Game #34:
+  Name: Firebolt Multi 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_fireboltmulti7sholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-firebolt-multi-7s-hold-and-win
+----------------------------------------
+Game #35:
+  Name: Aztec Apocalypse PrizeMatch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_aztecapocalypseprizematch-hLmC-Y_nf.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-aztec-apocalypse-prizematch
+----------------------------------------
+Game #36:
+  Name: Ramses Blitz Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_ramsesblitzholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-ramses-blitz-hold-and-win
+----------------------------------------
+Game #37:
+  Name: St. Patrick's Aqua Magic Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_stpatricksaquamagicholdandwin-S7hmTL6uy.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-st-patrick-s-aqua-magic-hold-and-win
+----------------------------------------
+Game #38:
+  Name: Homeland Fortune 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_homelandfortune7sholdandwin-qSrGZCZul.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-homeland-fortune-7s-hold-and-win
+----------------------------------------
+Game #39:
+  Name: Heart's Bounty Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_heartsbountyblitz-A738R2Ksg.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-heart-s-bounty-blitz
+----------------------------------------
+Game #40:
+  Name: Double Jewel Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_doublejewelholdandwin-raR63lPPU.png
+  Game Link: https://roobet.com/casino/game/kalamba-games-double-jewel-hold-and-win
+----------------------------------------
+Game #41:
+  Name: Heimdall's Gate Cash Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_heimdallsgatecashquest.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-heimdall-s-gate-cash-quest
+----------------------------------------
+Game #42:
+  Name: Chili Max 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_chilimax7sholdandwin-3qLMF9aHG.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-chili-max-7s-hold-and-win
+----------------------------------------
+Game #43:
+  Name: Jingle 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_jingle7sholdandwin-mRKlTwSMf.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-jingle-7s-hold-and-win
+----------------------------------------
+Game #44:
+  Name: Dynasty Spark 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_dynastyspark7s-Yr22yACVL.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-dynasty-spark-7s
+----------------------------------------
+Game #45:
+  Name: Double Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_doublejoker.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-double-joker
+----------------------------------------
+Game #46:
+  Name: Clover Blitz Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_cloverblitzholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-clover-blitz-hold-and-win
+----------------------------------------
+Game #47:
+  Name: Diamond Bounty 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_diamondbounty7sholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-diamond-bounty-7s-hold-and-win
+----------------------------------------
+Game #48:
+  Name: Champion Blitz Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_championblitzholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-champion-blitz-hold-and-win
+----------------------------------------
+Game #49:
+  Name: Golden Kegs 50K
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_goldenkegs50k-kBk-TG2zm.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-golden-kegs-50k
+----------------------------------------
+Game #50:
+  Name: Blazing Bull
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_blazingbull.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-blazing-bull
+----------------------------------------
+Game #51:
+  Name: Joker Leprechauns Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_jokerleprechaunsholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-leprechauns-hold-and-win
+----------------------------------------
+Game #52:
+  Name: Mooncake Riches Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_mooncakerichesholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-mooncake-riches-hold-and-win
+----------------------------------------
+Game #53:
+  Name: Festive Xmas 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_festivexmas7s-9dssA0yDc.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-festive-xmas-7s
+----------------------------------------
+Game #54:
+  Name: Rumble Ratz Hold the Cheese
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_rumbleratzholdthecheese.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-rumble-ratz-hold-the-cheese
+----------------------------------------
+Game #55:
+  Name: Miami Sunset 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_miamisunset7s.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-miami-sunset-7s-hold-and-win
+----------------------------------------
+Game #56:
+  Name: Joker Fortune Blitz 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_jokerfortuneblitz2-FpU8lGEZn.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-fortune-blitz-2
+----------------------------------------
+Game #57:
+  Name: Pinata Burst
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_pinataburst-DkkHOAApm.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-pinata-burst
+----------------------------------------
+Game #58:
+  Name: Hyper Neko 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_hyperneko7s-yVSy9cijw.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-hyper-neko-7s
+----------------------------------------
+Game #59:
+  Name: Cherry Rush 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_cherryrush7s-8WVAPN-mH.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-cherry-rush-7s
+----------------------------------------
+Game #60:
+  Name: Fire Eagle Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_fireeaglereborn.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-fire-eagle-reborn
+----------------------------------------
+Game #61:
+  Name: Cashpot Strike 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_cashpotstrike7s.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-cashpot-strike-7s
+----------------------------------------
+Game #62:
+  Name: Hell Chef
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_hellchef.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-hell-chef
+----------------------------------------
+Game #63:
+  Name: Touchdown Thunder Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_touchdownthunderholdandwin--l8HsV_Bz.png
+  Game Link: https://roobet.com/casino/game/kalamba-games-touchdown-thunder-hold-and-win
+----------------------------------------
+Game #64:
+  Name: Football Blast Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_footballblastholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-football-blast-hold-and-win
+----------------------------------------
+Game #65:
+  Name: Joker Gold 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_jokergold7s.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-gold-7s
+----------------------------------------
+Game #66:
+  Name: Gold Mint 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_goldmint7sholdandwin-EoglCxYbN.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-gold-mint-7s-hold-and-win
+----------------------------------------
+Game #67:
+  Name: Fishline Loot Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_fishlinelootholdandwin-RO5DHr1zG.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-fishline-loot-hold-and-win
+----------------------------------------
+Game #68:
+  Name: Haunted Joker Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:klb_hauntedjokerholdandwin-QpVoupbfS.jpeg
+  Game Link: https://roobet.com/casino/game/kalamba-games-haunted-joker-hold-and-win
+----------------------------------------
+Game #69:
+  Name: Chili Flame 7s Hold and Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_chiliflame7sholdandwin.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-chili-flame-7s-hold-and-win
+----------------------------------------
+Game #70:
+  Name: Joker Hit 'n' Goal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_klb_jokerhitngoal.jpg
+  Game Link: https://roobet.com/casino/game/kalamba-games-joker-hit-n-goal
+----------------------------------------

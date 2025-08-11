@@ -1,0 +1,127 @@
+Triple Edge Games Data
+==================================================
+Total games found: 24
+Load More clicks: 0
+Extraction date: 2025-08-11 04:46:51
+==================================================
+
+Game #1:
+  Name: Cash 'N Riches Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_cashnrichesmegaways.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-cash-n-riches-megaways
+----------------------------------------
+Game #2:
+  Name: African Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_africanquest.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-african-quest
+----------------------------------------
+Game #3:
+  Name: Ancient Fortunes Poseidon Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_ancientfortunesposeidonmegaways.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-ancient-fortunes-poseidon-megaways
+----------------------------------------
+Game #4:
+  Name: Assassin Moon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_assassinmoon.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-assassin-moon
+----------------------------------------
+Game #5:
+  Name: Ancient Fortunes Poseidon WowPot Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_ancientfortunesposeidonwowpotmegaways.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-ancient-fortunes-poseidon-wowpot-megaways
+----------------------------------------
+Game #6:
+  Name: Ancient Fortunes: Zeus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_ancientfortuneszeus.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-ancient-fortunes-zeus
+----------------------------------------
+Game #7:
+  Name: Book of Oz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_bookofoz.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-book-of-oz
+----------------------------------------
+Game #8:
+  Name: Legacy of Oz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_legacyofoz.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-legacy-of-oz
+----------------------------------------
+Game #9:
+  Name: The Phantom of the Opera: Link & Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_thephantomoftheoperalinkwin.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-the-phantom-of-the-opera-link-win
+----------------------------------------
+Game #10:
+  Name: Bookie of Odds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_bookieofodds.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-bookie-of-odds
+----------------------------------------
+Game #11:
+  Name: Adventures Of Doubloon Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:mg_slots_adventuresofdoubloonisland-Vy1psYBqk.jpeg
+  Game Link: https://roobet.com/casino/game/triple-edge-adventures-of-doubloon-island
+----------------------------------------
+Game #12:
+  Name: Snow and Sable
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_snowandsable.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-snow-and-sable
+----------------------------------------
+Game #13:
+  Name: Fire and Roses Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_fireandrosesjoker.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-fire-and-roses-joker
+----------------------------------------
+Game #14:
+  Name: Lara Croft: Temples and Tombs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_laracrofttemplesandtombs.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-lara-croft-temples-and-tombs
+----------------------------------------
+Game #15:
+  Name: Diamond Inferno
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_diamondinferno.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-diamond-inferno
+----------------------------------------
+Game #16:
+  Name: Rising Rewards
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_risingrewards.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-rising-rewards
+----------------------------------------
+Game #17:
+  Name: Lara Croft: Tomb of the Sun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_laracrofttombofthesun.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-lara-croft-tomb-of-the-sun
+----------------------------------------
+Game #18:
+  Name: Playboy Gold Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_playboygoldjackpots.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-playboy-gold-jackpots
+----------------------------------------
+Game #19:
+  Name: Wicked Tales: Dark Red
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_wickedtalesdarkred.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-wicked-tales-dark-red
+----------------------------------------
+Game #20:
+  Name: Book of Oz Lock 'N Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_bookofozlocknspin.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-book-of-oz-lock-n-spin
+----------------------------------------
+Game #21:
+  Name: Absolootly Mad: Mega Moolah
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_absolootlymadmegamoolah.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-absolootly-mad-mega-moolah
+----------------------------------------
+Game #22:
+  Name: Fire and Roses Jolly Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_fireandrosesjollyjoker.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-fire-and-roses-jolly-joker
+----------------------------------------
+Game #23:
+  Name: Playboy Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_playboygold.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-playboy-gold
+----------------------------------------
+Game #24:
+  Name: Sisters of Oz WowPot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_tre_sistersofozwowpot.jpg
+  Game Link: https://roobet.com/casino/game/triple-edge-sisters-of-oz-wowpot
+----------------------------------------

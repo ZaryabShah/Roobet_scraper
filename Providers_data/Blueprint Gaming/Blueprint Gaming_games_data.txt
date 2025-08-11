@@ -1,0 +1,957 @@
+Blueprint Gaming Games Data
+==================================================
+Total games found: 190
+Load More clicks: 3
+Extraction date: 2025-08-11 00:44:03
+==================================================
+
+Game #1:
+  Name: Safari Gold Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_safarigoldmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-safari-gold-megaways
+----------------------------------------
+Game #2:
+  Name: Cash Strike Triple Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_cashstriketriplefire-93yychaFm.jpeg
+  Game Link: https://roobet.com/casino/game/hub88:bpt_cashstriketriplefire
+----------------------------------------
+Game #3:
+  Name: Eye of Horus The Golden Tablet
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusthegoldentablet.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-the-golden-tablet
+----------------------------------------
+Game #4:
+  Name: Cash Strike Hotstepper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_cashstrikehotstepper.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike-hotstepper
+----------------------------------------
+Game #5:
+  Name: Wish Upon A Leprechaun Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wishuponaleprechaunmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wish-upon-a-leprechaun-megaways
+----------------------------------------
+Game #6:
+  Name: Genie Jackpots Wishmaker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_geniejackpotswishmaker.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-genie-jackpots-wishmaker
+----------------------------------------
+Game #7:
+  Name: Lucky Fire Blitz Hotstepper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_luckyfireblitzhotstepper-c0MkQs1Om.png
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-lucky-fire-blitz-hotstepper
+----------------------------------------
+Game #8:
+  Name: Eye of Horus Tablets of Destiny
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_eyeofhorustabletsofdestiny-kSnLcOV6K.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-tablets-of-destiny
+----------------------------------------
+Game #9:
+  Name: King Kong Cash Even Bigger Bananas 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_kingkongcashevenbiggerbananas4-5Vx-bNYQX.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-even-bigger-bananas-4
+----------------------------------------
+Game #10:
+  Name: Wish Upon a Jackpot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wishuponajackpot.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wish-upon-a-jackpot
+----------------------------------------
+Game #11:
+  Name: Temple of Treasures Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_templeoftreasuresmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-temple-of-treasures-megaways
+----------------------------------------
+Game #12:
+  Name: The Pig Wizard Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_thepigwizardmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-the-pig-wizard-megaways
+----------------------------------------
+Game #13:
+  Name: Buffalo Rising Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_buffalorisingmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-buffalo-rising-megaways
+----------------------------------------
+Game #14:
+  Name: Napoleon: Rise of an Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_napoleon.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-napoleon-rise-of-an-empire
+----------------------------------------
+Game #15:
+  Name: Cash strike Power up
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_cashstrikepowerup-myBvyyiPT.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike-power-up
+----------------------------------------
+Game #16:
+  Name: Cash Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_cashstrike.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike
+----------------------------------------
+Game #17:
+  Name: Eye of Horus Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusfortuneplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-fortune-play
+----------------------------------------
+Game #18:
+  Name: Fishin Frenzy The Big Splash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzythebigsplash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-the-big-splash
+----------------------------------------
+Game #19:
+  Name: Big Catch Bass Fishing
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bigcatchbassfishing.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-catch-bass-fishing
+----------------------------------------
+Game #20:
+  Name: 6 in the Chamber
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_6inthechamber.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-6-in-the-chamber
+----------------------------------------
+Game #21:
+  Name: King Kong Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingkongcash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash
+----------------------------------------
+Game #22:
+  Name: Diamond Mine 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_diamondmine2.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-diamond-mine-2
+----------------------------------------
+Game #23:
+  Name: Majestic Fury Megaways Unleashed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_majesticfurymegawaysunleashed-dJAtDjCmD.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-majestic-fury-megaways-unleashed
+----------------------------------------
+Game #24:
+  Name: Big Catch Even Bigger Bass  
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_bigcatchevenbiggerbass-Sbg3MGAUD.png
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-catch-even-bigger-bass
+----------------------------------------
+Game #25:
+  Name: Return of Kong Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_returnofkongmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-return-of-kong-megaways
+----------------------------------------
+Game #26:
+  Name: Fishin Frenzy Even Bigger Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzyevenbiggercatch.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-even-bigger-catch
+----------------------------------------
+Game #27:
+  Name: Genie Jackpots Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_geniejackpotsmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-genie-jackpots-megaways
+----------------------------------------
+Game #28:
+  Name: Big Catch even bigger bass 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_bigcatchevenbiggerbass2-w9ArGQ6iP.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-catch-even-bigger-bass-2
+----------------------------------------
+Game #29:
+  Name: Eye of Horus Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-megaways
+----------------------------------------
+Game #30:
+  Name: Legacy Of Ra Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_legacyoframegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-legacy-of-ra-megaways
+----------------------------------------
+Game #31:
+  Name: Rise of Atlantis 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_riseofatlantis2.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-rise-of-atlantis-2
+----------------------------------------
+Game #32:
+  Name: King kong Cash Even bigger Bananas Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_kingkongcashevenbiggerbananaschristmas-UWuI0RWGD.png
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-even-bigger-bananas-christmas
+----------------------------------------
+Game #33:
+  Name: Big Catch Bass Fishing Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_bigcatchbassfishingchristmas-6Onh1nyVj.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-catch-bass-fishing-christmas
+----------------------------------------
+Game #34:
+  Name: Cash Strike Power 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_cashstrikepower-R1sH7Md6m.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike-power-5
+----------------------------------------
+Game #35:
+  Name: Kong 3 Even bigger Bonus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_kong3evenbiggerbonus-puA6kUEcd.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-kong-3-even-bigger-bonus
+----------------------------------------
+Game #36:
+  Name: Bounty Hunter Unchained
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bountyhunterunchained.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bounty-hunter-unchained
+----------------------------------------
+Game #37:
+  Name: Eye of Horus Rise of Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusriseofegypt.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-rise-of-egypt
+----------------------------------------
+Game #38:
+  Name: King Kong Cash Prize Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingkongcashprizelines.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-prize-lines
+----------------------------------------
+Game #39:
+  Name: Primal Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_primalmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-primal-megaways
+----------------------------------------
+Game #40:
+  Name: Vikings Unleashed Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_vikingsunleashed.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-vikings-unleashed-megaways
+----------------------------------------
+Game #41:
+  Name: Cash Strike Win Boost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_cashstrikewinboost-IjotHxYiI.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike-win-boost
+----------------------------------------
+Game #42:
+  Name: Fishin Frenzy The Big Catch
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzybigcatch.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-the-big-catch
+----------------------------------------
+Game #43:
+  Name: Fishin' Frenzy Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzymegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-megaways
+----------------------------------------
+Game #44:
+  Name: Bankin’ More Bacon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bankinmorebacon.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bankin-more-bacon
+----------------------------------------
+Game #45:
+  Name: Napoleon Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_napoleondeluxe.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-napoleon-deluxe
+----------------------------------------
+Game #46:
+  Name: Bison Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_almightybuffalobonanza.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bison-bonanza
+----------------------------------------
+Game #47:
+  Name: Rise Of Atlantis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_riseofatlantis.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-rise-of-atlantis
+----------------------------------------
+Game #48:
+  Name: Diamond Mine Extra Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_diamondmineextragold.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-diamond-mine-extra-gold
+----------------------------------------
+Game #49:
+  Name: Eye Of Horus Power 4 Slots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhoruspower4slots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-power-4-slots
+----------------------------------------
+Game #50:
+  Name: Luck O' The Irish Fortune Spins 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckotheirishfortunespins2.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-irish-fortune-spins-2
+----------------------------------------
+Game #51:
+  Name: Pirates Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_piratesfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-pirates-frenzy
+----------------------------------------
+Game #52:
+  Name: Wolf Legend Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wolflegendmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wolf-legend-megaways
+----------------------------------------
+Game #53:
+  Name: Napoleon Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_napoleonmegaways-LRPGfKn7A.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-napoleon-megaways
+----------------------------------------
+Game #54:
+  Name: Gorilla Gold Megaways: Power 4 slots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_gorillagoldmegawayspower4slots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gorilla-gold-megaways-power-4-slots
+----------------------------------------
+Game #55:
+  Name: Chilli Picante Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_chillipicantemegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-chilli-picante-megaways
+----------------------------------------
+Game #56:
+  Name: Cop The Lot Megaways Power play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_copthelotmegawayspowerplay-Oo_kaGe16.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cop-the-lot-megaways-power-play
+----------------------------------------
+Game #57:
+  Name: Magic Mirror Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_magicmirrordeluxe.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-magic-mirror-deluxe
+----------------------------------------
+Game #58:
+  Name: El Jackpotto
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eljackpotto.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-el-jackpotto
+----------------------------------------
+Game #59:
+  Name: Thai Flower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_thaiflower.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-thai-flower
+----------------------------------------
+Game #60:
+  Name: Napoleon 2 FatStacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_napoleon2fatstacks.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-napoleon-2-fatstacks
+----------------------------------------
+Game #61:
+  Name: Buffalo Rising Megaways VIP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_buffalorisingmegawaysvip.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-buffalo-rising-megaways-vip
+----------------------------------------
+Game #62:
+  Name: Eye of Horus The Golden Tablet Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusthegoldentabletmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-the-golden-tablet-megaways
+----------------------------------------
+Game #63:
+  Name: Diamond Mine
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_diamondmine.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-diamond-mine
+----------------------------------------
+Game #64:
+  Name: Bar-X Safecracker Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bar-xmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bar-x-safecracker-megaways
+----------------------------------------
+Game #65:
+  Name: Sweet Success Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_sweetsuccessmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-sweet-success-megaways
+----------------------------------------
+Game #66:
+  Name: Wild ANTics
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wildantics.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wild-antics
+----------------------------------------
+Game #67:
+  Name: Eye of Horus Gambler
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofhorusgambler.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-horus-gambler
+----------------------------------------
+Game #68:
+  Name: 7s Deluxe Repeater
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_7sdeluxerepeater.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-7s-deluxe-repeater
+----------------------------------------
+Game #69:
+  Name: Imperial Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_imperialdragon.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-imperial-dragon
+----------------------------------------
+Game #70:
+  Name: Blazing Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_blazingcash-JG8Qj5Cuz.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-blazing-cash
+----------------------------------------
+Game #71:
+  Name: Wish Upon A Cashpot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wishuponacashpot.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wish-upon-a-cashpot
+----------------------------------------
+Game #72:
+  Name: Fishin Frenzy Power 4 Slots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzypower4slots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-power-4-slots
+----------------------------------------
+Game #73:
+  Name: Big Money Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bigmoneyfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-money-frenzy
+----------------------------------------
+Game #74:
+  Name: Bison Rising Reloaded Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bisonrisingreloaded.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bison-rising-reloaded-megaways
+----------------------------------------
+Game #75:
+  Name: Super 7 Winner
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_super7winner-8OnZr9wID.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-super-7-winner
+----------------------------------------
+Game #76:
+  Name: Saint Nicked 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_saintnicked2-fjZ7sUcpB.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-saint-nicked-2
+----------------------------------------
+Game #77:
+  Name: Crabbin’ for Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_crabbinforcash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crabbin-for-cash
+----------------------------------------
+Game #78:
+  Name: Bankin' Bacon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bankinbacon.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bankin-bacon
+----------------------------------------
+Game #79:
+  Name: Legacy of Gods Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_legacyofgodsmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-legacy-of-gods-megaways
+----------------------------------------
+Game #80:
+  Name: King Kong Cash Even Bigger Bananas 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_kingkongcashevenbiggerbananas2-lTW4VGx7E.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-even-bigger-bananas-2
+----------------------------------------
+Game #81:
+  Name: Fishin Frenzy Big Catch Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzybigcatchmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-big-catch-megaways
+----------------------------------------
+Game #82:
+  Name: King Kong Cash Even Bigger Bananas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingkongcashevenbiggerbananasmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-even-bigger-bananas
+----------------------------------------
+Game #83:
+  Name: Trailblazer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_trailblazer.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-trailblazer
+----------------------------------------
+Game #84:
+  Name: Lucky Pharaoh
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckypharaoh.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-lucky-pharaoh
+----------------------------------------
+Game #85:
+  Name: Lucky Nuggets Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckysnuggetsmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-lucky-nuggets-megaways
+----------------------------------------
+Game #86:
+  Name: Way of the Tiger
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wayofthetiger.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-way-of-the-tiger
+----------------------------------------
+Game #87:
+  Name: Dragonfall
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_dragonfall.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-dragonfall
+----------------------------------------
+Game #88:
+  Name: Bison Rising Gold Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_bisonrisinggoldstrike-JA4Ow_oZ4.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bison-rising-gold-strike
+----------------------------------------
+Game #89:
+  Name: Eternal Phoenix Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eternalphoenixpremiumplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eternal-phoenix-megaways
+----------------------------------------
+Game #90:
+  Name: Cashpots Blazinator
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_cashpotsblazinator.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cashpots-blazinator
+----------------------------------------
+Game #91:
+  Name: Eye of Dead
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_eyeofdead.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eye-of-dead
+----------------------------------------
+Game #92:
+  Name: Bullion Blitz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_bullionblitz-EIPp5Ni0P.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bullion-blitz
+----------------------------------------
+Game #93:
+  Name: Crabbin’ for Cash: Extra Big Splash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_crabbinforcashextrabigsplash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crabbin-for-cash-extra-big-splash
+----------------------------------------
+Game #94:
+  Name: Bigger Catch Bass Fishing
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_biggercatchbassfishing-RPlY9_qNy.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bigger-catch-bass-fishing
+----------------------------------------
+Game #95:
+  Name: Genie Jackpots: Big Spin Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_geniejackpotsbigspinfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-genie-jackpots-big-spin-frenzy
+----------------------------------------
+Game #96:
+  Name: Gold Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_goldfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gold-frenzy
+----------------------------------------
+Game #97:
+  Name: Wolf Legend Spinboost
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_wolflegendspinboost-_qh3MPuEO.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wolf-legend-spinboost
+----------------------------------------
+Game #98:
+  Name: World Darts Championship
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_worlddartschampionship.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-world-darts-championship
+----------------------------------------
+Game #99:
+  Name: Thai Flower Megaways™
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_thaiflowermegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-thai-flower-megaways
+----------------------------------------
+Game #100:
+  Name: Big Catch Bass Fishing Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bigcatchbassfishingmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-catch-bass-fishing-megaways
+----------------------------------------
+Game #101:
+  Name: Fishin' Frenzy Prize Lines
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzyprizelines.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-prize-lines
+----------------------------------------
+Game #102:
+  Name: Irish Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_irishfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-irish-frenzy
+----------------------------------------
+Game #103:
+  Name: Crown Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_crowngems.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crown-gems
+----------------------------------------
+Game #104:
+  Name: Cash Strike Hotstepper Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_cashstrikemegaways-NwYEHSEUp.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-cash-strike-hotstepper-megaways
+----------------------------------------
+Game #105:
+  Name: King Kong Cashpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingkongcashpots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cashpots
+----------------------------------------
+Game #106:
+  Name: Plenty o’ Fish
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_plentyofish.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-plenty-o-fish
+----------------------------------------
+Game #107:
+  Name: 777 Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_777deluxe.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-777-deluxe
+----------------------------------------
+Game #108:
+  Name: Rolling in Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_rollingingold.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-rolling-in-gold
+----------------------------------------
+Game #109:
+  Name: Gold Strike Bonanza Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_goldstrikebonanzafortuneplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gold-strike-bonanza-fortune-play
+----------------------------------------
+Game #110:
+  Name: Gold strike 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_goldstrike2-h5L1j7bnf.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gold-strike-2
+----------------------------------------
+Game #111:
+  Name: Luck o' the Irish Go For Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckoftheirishgoforgold.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-irish-go-for-gold
+----------------------------------------
+Game #112:
+  Name: Fruitopolis Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fruitopolis.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fruitopolis-fortune-play
+----------------------------------------
+Game #113:
+  Name: Maradona El Diez
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_maradoneldiez-3muRtXEHC.png
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-maradona-el-diez
+----------------------------------------
+Game #114:
+  Name: Spirit Wolf Wins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_spiritwolfwins-l3EA5r9B8.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-spirit-wolf-wins
+----------------------------------------
+Game #115:
+  Name: Fishin Frenzy Fortune Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzyfortunespins.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-fortune-spins
+----------------------------------------
+Game #116:
+  Name: Midas King of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_midaskingofgold.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-midas-king-of-gold
+----------------------------------------
+Game #117:
+  Name: Fishin Frenzy Reel Time Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzyreeltimefortuneplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-reel-time-fortune-play
+----------------------------------------
+Game #118:
+  Name: Into the Wild Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_intothewild.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-into-the-wild-megaways
+----------------------------------------
+Game #119:
+  Name: Triple Flame
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_tripleflame.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-triple-flame
+----------------------------------------
+Game #120:
+  Name: Savanna Stampede
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_savannastampede.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-savanna-stampede
+----------------------------------------
+Game #121:
+  Name: Almighty Bear Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_almightybearmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-almighty-bear-megaways
+----------------------------------------
+Game #122:
+  Name: Tomb of Dead: Power 4 slots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_tombofdeadpower4slots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-tomb-of-dead-power-4-slots
+----------------------------------------
+Game #123:
+  Name: FatStacks Miami Cash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fatstacksmiamicash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fatstacks-miami-cash
+----------------------------------------
+Game #124:
+  Name: Coins on Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_coinsonfire.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-coins-on-fire
+----------------------------------------
+Game #125:
+  Name: Viking Fury: Spinfinity
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_vikingfuryspinfinity.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-viking-fury-spinfinity
+----------------------------------------
+Game #126:
+  Name: Diamond Mine Extra Gold VIP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_diamondmineextragoldvip.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-diamond-mine-extra-gold-vip
+----------------------------------------
+Game #127:
+  Name: 7s Deluxe Fortune Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_7sdeluxefortunespins.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-7s-deluxe-fortune-spins
+----------------------------------------
+Game #128:
+  Name: Fortunes of Sparta
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fortunesofsparta.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fortunes-of-sparta
+----------------------------------------
+Game #129:
+  Name: The G.O.A.T
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_thegoat.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-the-g-o-a-t
+----------------------------------------
+Game #130:
+  Name: Valletta Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_vallettamegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-valletta-megaways
+----------------------------------------
+Game #131:
+  Name: Kong's Temple
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kongstemple.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-kong-s-temple
+----------------------------------------
+Game #132:
+  Name: Revolution
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_revolution.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-revolution
+----------------------------------------
+Game #133:
+  Name: Loki Lord of Mischief
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_lokilordofmischief.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-loki-lord-of-mischief
+----------------------------------------
+Game #134:
+  Name: King Kong Cash DJ Prime8
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingkongcashdjprime8.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-kong-cash-dj-prime8
+----------------------------------------
+Game #135:
+  Name: Majestic Fury Win Stepper
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_majesticfurywinstepper-PSzz-0GQ8.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-majestic-fury-win-stepper
+----------------------------------------
+Game #136:
+  Name: Crypt of the Dead
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_cryptofthedead.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crypt-of-the-dead
+----------------------------------------
+Game #137:
+  Name: Crabbin’ For Cash Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_crabbinforcashmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crabbin-for-cash-megaways
+----------------------------------------
+Game #138:
+  Name: King of the West 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingofthewest.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-king-of-the-west
+----------------------------------------
+Game #139:
+  Name: Luck O' the Irish Mystery Ways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckoftheirishmysteryways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-irish-mystery-ways
+----------------------------------------
+Game #140:
+  Name: Temple of Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_templeofriches.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-temple-of-riches
+----------------------------------------
+Game #141:
+  Name: LOTI Fortune Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_lotifortunespins.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-loti-fortune-spins
+----------------------------------------
+Game #142:
+  Name: Bon Bomb Luxpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bonbombluxpots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-bon-bomb-luxpots
+----------------------------------------
+Game #143:
+  Name: Limerick Lightning
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_limericklightning.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-limerick-lightning
+----------------------------------------
+Game #144:
+  Name: Rome Rise Of An Empire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_romeriseofanempire.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-rome-rise-of-an-empire
+----------------------------------------
+Game #145:
+  Name: The Stash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_thestash.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-the-stash
+----------------------------------------
+Game #146:
+  Name: Super Lucky Frog
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_superluckyfrog.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-super-lucky-frog
+----------------------------------------
+Game #147:
+  Name: Saint Nicked
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_saintnicked.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-saint-nicked
+----------------------------------------
+Game #148:
+  Name: Lion Thunder
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_lionthunder.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-lion-thunder
+----------------------------------------
+Game #149:
+  Name: Gates of Etherea
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_gatesofetherea.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gates-of-etherea
+----------------------------------------
+Game #150:
+  Name: Buckaneers Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_buckaneersfrenzy.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-buckaneers-frenzy
+----------------------------------------
+Game #151:
+  Name: Luck O' the Irish Big Bonus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_lotibigbonus.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-irish-big-bonus
+----------------------------------------
+Game #152:
+  Name: Voodoo Temple
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_voodootemple.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-voodoo-temple
+----------------------------------------
+Game #153:
+  Name: Super Fortune Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_superfortunedragon.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-super-fortune-dragon
+----------------------------------------
+Game #154:
+  Name: Lightning Strike Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_lightningstrikemegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-lightning-strike-megaways
+----------------------------------------
+Game #155:
+  Name: Maradona El Pibe De Oro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_maradonaelpibedeoro.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-maradona-el-pibe-de-oro
+----------------------------------------
+Game #156:
+  Name: Fishin' Frenzy Scratchcard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fishinfrenzyscratchcard.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fishin-frenzy-scratchcard
+----------------------------------------
+Game #157:
+  Name: 7s Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_7sdeluxe.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-7s-deluxe
+----------------------------------------
+Game #158:
+  Name: Hot Frootastic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_hotfrootastic.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-hot-frootastic
+----------------------------------------
+Game #159:
+  Name: Gold Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_goldstrike.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gold-strike
+----------------------------------------
+Game #160:
+  Name: Sinful 7’s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_sinful7s.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-sinful-7-s
+----------------------------------------
+Game #161:
+  Name: Eagle Storm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hub88:bpt_eaglestorm-shy8Hwo9b.jpeg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-eagle-storm
+----------------------------------------
+Game #162:
+  Name: Funky Buddha
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_funkybuddha.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-funky-buddha
+----------------------------------------
+Game #163:
+  Name: Good Feathers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_goodfeathers.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-good-feathers
+----------------------------------------
+Game #164:
+  Name: Big Money Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_bigmoneymegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-big-money-megaways
+----------------------------------------
+Game #165:
+  Name: Rhino Rampage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_rhinorampage.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-rhino-rampage
+----------------------------------------
+Game #166:
+  Name: 5 Pots O' Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_5potsoriches.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-5-pots-o-riches
+----------------------------------------
+Game #167:
+  Name: Divine Links
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_divinelinks.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-divine-links
+----------------------------------------
+Game #168:
+  Name: Hope Diamond
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_hopediamond.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-hope-diamond
+----------------------------------------
+Game #169:
+  Name: Luck O' The Leprechaun AWP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckotheleprechaun.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-leprechaun-awp
+----------------------------------------
+Game #170:
+  Name: Fortunes of Ra
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fortunesofra.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-fortunes-of-ra
+----------------------------------------
+Game #171:
+  Name: Crabbin for Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_crabbinforchristmas.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-crabbin-for-christmas
+----------------------------------------
+Game #172:
+  Name: Jewel Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_jewelstrike.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-jewel-strike
+----------------------------------------
+Game #173:
+  Name: Joker Maxima
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_jokermaxima.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-joker-maxima
+----------------------------------------
+Game #174:
+  Name: Dios Maradona
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_maradona.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-dios-maradona
+----------------------------------------
+Game #175:
+  Name: Kingdom of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_kingdomoffortune.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-kingdom-of-fortune
+----------------------------------------
+Game #176:
+  Name: Wish Upon A Jackpot Megaways™
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_wishuponajackpotmegawaystm.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-wish-upon-a-jackpot-megaways
+----------------------------------------
+Game #177:
+  Name: Ballin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_ballin.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-ballin
+----------------------------------------
+Game #178:
+  Name: Luck O' The Irish Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_luckotheirishmegaways.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-luck-o-the-irish-megaways
+----------------------------------------
+Game #179:
+  Name: Spins O’ Gold Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_spinsogoldfortuneplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-spins-o-gold-fortune-play
+----------------------------------------
+Game #180:
+  Name: Treasures of the Dead
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_treasuresofthedead.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-treasures-of-the-dead
+----------------------------------------
+Game #181:
+  Name: Jewel Twist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_jeweltwist.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-jewel-twist
+----------------------------------------
+Game #182:
+  Name: Jungle Jackpots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_junglejackpots.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-jungle-jackpots
+----------------------------------------
+Game #183:
+  Name: Gunslinger: Fully Loaded 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_gunslingerfullyloaded.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-gunslinger-fully-loaded
+----------------------------------------
+Game #184:
+  Name: Buffalo Rising Megaways All Action
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_buffalorisingmegawaysallaction.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-buffalo-rising-megaways-all-action
+----------------------------------------
+Game #185:
+  Name: Journey of the Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_journeyofthegods.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-journey-of-the-gods
+----------------------------------------
+Game #186:
+  Name: Viking Fall
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_vikingfall.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-viking-fall
+----------------------------------------
+Game #187:
+  Name: 7s Deluxe Wild Fortune Play
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_7sdeluxewildfortuneplay.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-7s-deluxe-wild-fortune-play
+----------------------------------------
+Game #188:
+  Name: Jungle Fortune Build Your Bonus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_junglefortune.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-jungle-fortune-build-your-bonus
+----------------------------------------
+Game #189:
+  Name: Full Moon Fever
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_fullmoonfever.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-full-moon-fever
+----------------------------------------
+Game #190:
+  Name: Stickermania Wild Rumble
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_bpt_stickermaniawildrumble.jpg
+  Game Link: https://roobet.com/casino/game/blueprint-gaming-stickermania-wild-rumble
+----------------------------------------

@@ -1,0 +1,92 @@
+Retrogaming Games Data
+==================================================
+Total games found: 17
+Load More clicks: 0
+Extraction date: 2025-08-10 17:45:25
+==================================================
+
+Game #1:
+  Name: Hawaiian Waves
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:HawaiianWaves-4_r0ur9z4.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:HawaiianWaves
+----------------------------------------
+Game #2:
+  Name: 777 - Wild Beasts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777WildBeasts-cU2r6I-g0.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-wild-beasts
+----------------------------------------
+Game #3:
+  Name: Devil's Deal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:DevilsDeal-UOPDXX-U3.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-devil-s-deal
+----------------------------------------
+Game #4:
+  Name: Frankenstein’s Rebirth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FrankensteinsRebirth-1qDGYUrM3.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-frankenstein-s-rebirth
+----------------------------------------
+Game #5:
+  Name: 888 – Dragon’s Hidden Treasures
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:888DragonsHiddenTreasures-UMFSAoAnE.png
+  Game Link: https://roobet.com/casino/game/retrogaming-888-dragon-s-hidden-treasures
+----------------------------------------
+Game #6:
+  Name: 777 - Emerald Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777EmeraldFortune-2eHVT1uSo.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-emerald-fortune
+----------------------------------------
+Game #7:
+  Name: 777 - Thunder Hits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777ThunderHits-yRGgWWB0D.png
+  Game Link: https://roobet.com/casino/game/retrogaming-777-thunder-hits
+----------------------------------------
+Game #8:
+  Name: Snatch The Gold 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:SnatchTheGold2-Mph25D5bu.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-snatch-the-gold-2
+----------------------------------------
+Game #9:
+  Name: Magma Spins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:MagmaSpins-4gKf1baSo.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-magma-spins
+----------------------------------------
+Game #10:
+  Name: 777 - Devil's Charm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777DevilsCharm-Zywh0rSPr.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-devil-s-charm
+----------------------------------------
+Game #11:
+  Name: Chase The Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:ChaseTheFruits-OrHhq5rOB.png
+  Game Link: https://roobet.com/casino/game/retrogaming-chase-the-fruits
+----------------------------------------
+Game #12:
+  Name: Fortune Of The Scarab 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:FortuneOfTheScarab2-HlwcR0D2j.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-fortune-of-the-scarab-2
+----------------------------------------
+Game #13:
+  Name: The Scarab Protector 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TheScarabProtector2-9Qi_tivjx.jpeg
+  Game Link: https://roobet.com/casino/game/spnmnl:TheScarabProtector2
+----------------------------------------
+Game #14:
+  Name: 777 - Dragon's Rage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777DragonsRage-69hJB26LC.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-dragon-s-rage
+----------------------------------------
+Game #15:
+  Name: 777 Frozen Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777FrozenFruits-RMmF_uJNW.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-frozen-fruits
+----------------------------------------
+Game #16:
+  Name: 777 - Havana Nights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:777HavanaNights-BInpcflxm.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-777-havana-nights
+----------------------------------------
+Game #17:
+  Name: The Scarab Protector
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/spnmnl:TheScarabProtector-n-NF1R0Eo.jpeg
+  Game Link: https://roobet.com/casino/game/retrogaming-the-scarab-protector
+----------------------------------------

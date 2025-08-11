@@ -1,0 +1,392 @@
+{
+  "provider": "Iron Dog Studio",
+  "total_games": 64,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T04:36:22.055734",
+  "games": [
+    {
+      "index": 1,
+      "name": "3 Mad Frogs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:3MadFrogs-l2WJxrF27.jpeg",
+      "game_link": "https://roobet.com/casino/game/1x2gaming:3MadFrogs"
+    },
+    {
+      "index": 2,
+      "name": "Inspector Wilds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:InspectorWilds-m25ohwmm4.jpeg",
+      "game_link": "https://roobet.com/casino/game/1x2gaming:InspectorWilds"
+    },
+    {
+      "index": 3,
+      "name": "1 Million Fortunes Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_1MillionFortunesMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-1-million-fortunes-megaways"
+    },
+    {
+      "index": 4,
+      "name": "Red Zone Blitz Hold and Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/1x2gaming:RedZoneBlitzHoldandWin-CxQf9bT1i.jpeg",
+      "game_link": "https://roobet.com/casino/game/1x2gaming:RedZoneBlitzHoldandWin"
+    },
+    {
+      "index": 5,
+      "name": "1 Million Megaways BC",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_OneMillionMegawaysBC.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-1-million-megaways-bc"
+    },
+    {
+      "index": 6,
+      "name": "Pirate Kingdom Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_PirateKingdomMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-pirate-kingdom-megaways"
+    },
+    {
+      "index": 7,
+      "name": "Western Wilds Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WesternWildsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-western-wilds-megaways"
+    },
+    {
+      "index": 8,
+      "name": "Megaways Jack and The Magic Beans",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJackandTheMagicBeans.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-megaways-jack-and-the-magic-beans"
+    },
+    {
+      "index": 9,
+      "name": "Megaways Jack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJack.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-megaways-jack"
+    },
+    {
+      "index": 10,
+      "name": "Aztec Wilds Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_AztecWildsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-aztec-wilds-megaways"
+    },
+    {
+      "index": 11,
+      "name": "Sweet Candy Cash Megaways Deluxe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCashMegawaysDeluxe.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-sweet-candy-cash-megaways-deluxe"
+    },
+    {
+      "index": 12,
+      "name": "Gods Of Asgard Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsOfAsgardMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-gods-of-asgard-megaways"
+    },
+    {
+      "index": 13,
+      "name": "Rainbow Wilds Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RainbowWildsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-rainbow-wilds-megaways"
+    },
+    {
+      "index": 14,
+      "name": "Rainin’ Money",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RaininMoney.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-rainin-money"
+    },
+    {
+      "index": 15,
+      "name": "Halloween Horrors Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_HalloweenHorrorsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-halloween-horrors-megaways"
+    },
+    {
+      "index": 16,
+      "name": "3 Porky Banks Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_3PorkyBanksHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-3-porky-banks-hold-win"
+    },
+    {
+      "index": 17,
+      "name": "Barbarian Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BarbarianGold.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-barbarian-gold"
+    },
+    {
+      "index": 18,
+      "name": "Feeding Fury",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FeedingFury.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-feeding-fury"
+    },
+    {
+      "index": 19,
+      "name": "Santa's Big Bash Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SantasBigBashMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-santa-s-big-bash-megaways"
+    },
+    {
+      "index": 20,
+      "name": "Savannah Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SavannahStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-savannah-strike"
+    },
+    {
+      "index": 21,
+      "name": "Dwarven Gems Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_DwarvenGemsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-dwarven-gems-megaways"
+    },
+    {
+      "index": 22,
+      "name": "Red Zone Blitz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RedZoneBlitz.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-red-zone-blitz"
+    },
+    {
+      "index": 23,
+      "name": "Vegas Hot Spots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_VegasHotSpots.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-vegas-hot-spots"
+    },
+    {
+      "index": 24,
+      "name": "Sirens Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SirensKingdom.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-sirens-kingdom"
+    },
+    {
+      "index": 25,
+      "name": "Farming Frenzy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FarmingFrenzy.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-farming-frenzy"
+    },
+    {
+      "index": 26,
+      "name": "Rum and Raiders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RumandRaiders.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-rum-and-raiders"
+    },
+    {
+      "index": 27,
+      "name": "Forge of the Gods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ForgeoftheGods.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-forge-of-the-gods"
+    },
+    {
+      "index": 28,
+      "name": "Sweet Candy Christmas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyChristmas.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-sweet-candy-christmas"
+    },
+    {
+      "index": 29,
+      "name": "Vegas Branded Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_VegasBrandedHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-vegas-branded-hold-win"
+    },
+    {
+      "index": 30,
+      "name": "Dr Jekyll and Mr Hyde",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_DrJekyllandMrHyde.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-dr-jekyll-and-mr-hyde"
+    },
+    {
+      "index": 31,
+      "name": "Sweet Candy Cash Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCashMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-sweet-candy-cash-megaways"
+    },
+    {
+      "index": 32,
+      "name": "Sweet Candy Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SweetCandyCash.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-sweet-candy-cash"
+    },
+    {
+      "index": 33,
+      "name": "Goal Blitz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GoalBlitz.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-goal-blitz"
+    },
+    {
+      "index": 34,
+      "name": "Robbin Robin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RobbinRobin.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-robbin-robin"
+    },
+    {
+      "index": 35,
+      "name": "Gods of Olympus II",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsofOlympusII.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-gods-of-olympus-ii"
+    },
+    {
+      "index": 36,
+      "name": "Solar Nova",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_SolarNova.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-solar-nova"
+    },
+    {
+      "index": 37,
+      "name": "Boom Time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BoomTime.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-boom-time"
+    },
+    {
+      "index": 38,
+      "name": "Megaways Jack Frost",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MegawaysJackFrost.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-megaways-jack-frost"
+    },
+    {
+      "index": 39,
+      "name": "Eagle Strike Lucky Cache",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_EagleStrikeLuckyCache.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-eagle-strike-lucky-cache"
+    },
+    {
+      "index": 40,
+      "name": "Bacon Banker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BaconBanker.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-bacon-banker"
+    },
+    {
+      "index": 41,
+      "name": "Rock the Reels Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RockTheReelsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-rock-the-reels-megaways"
+    },
+    {
+      "index": 42,
+      "name": "Arriba Heat: Salsa Wilds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ArribaHeatSalsaWilds.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-arriba-heat-salsa-wilds"
+    },
+    {
+      "index": 43,
+      "name": "8 Treasures: Luck of the Dragon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_8TreasuresLuckoftheDragon.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-8-treasures-luck-of-the-dragon"
+    },
+    {
+      "index": 44,
+      "name": "Apex Strike Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_ApexStrikeMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-apex-strike-megaways"
+    },
+    {
+      "index": 45,
+      "name": "Stampeding Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_StampedingStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-stampeding-strike"
+    },
+    {
+      "index": 46,
+      "name": "Cherry Blast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_CherryBlast.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-cherry-blast"
+    },
+    {
+      "index": 47,
+      "name": "Gifts of Ostara",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GiftsOfOstara.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-gifts-of-ostara"
+    },
+    {
+      "index": 48,
+      "name": "The Choice Is Yours Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_TheChoiceIsYoursMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-the-choice-is-yours-megaways"
+    },
+    {
+      "index": 49,
+      "name": "Wolf Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WolfStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-wolf-strike"
+    },
+    {
+      "index": 50,
+      "name": "Branded Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BrandedMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-branded-megaways"
+    },
+    {
+      "index": 51,
+      "name": "Crown of Avalon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_CrownofAvalon.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-crown-of-avalon"
+    },
+    {
+      "index": 52,
+      "name": "Blirix's Workshop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BlirixsWorkshop.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-blirix-s-workshop"
+    },
+    {
+      "index": 53,
+      "name": "Richie in Vegas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_RichieinVegas.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-richie-in-vegas"
+    },
+    {
+      "index": 54,
+      "name": "Blood Queen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_BloodQueen.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-blood-queen"
+    },
+    {
+      "index": 55,
+      "name": "Mad Cabs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MadCabs.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-mad-cabs"
+    },
+    {
+      "index": 56,
+      "name": "Fruity Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_FruityMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-fruity-megaways"
+    },
+    {
+      "index": 57,
+      "name": "Astro Newts Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_AstroNewtsMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-astro-newts-megaways"
+    },
+    {
+      "index": 58,
+      "name": "Grizzly Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GrizzlyStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-grizzly-strike"
+    },
+    {
+      "index": 59,
+      "name": "Mr Porky Banker: Cash Stash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MrPorkyBankerCashStash.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-mr-porky-banker-cash-stash"
+    },
+    {
+      "index": 60,
+      "name": "Luck of the Dragon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_LuckoftheDragon.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-luck-of-the-dragon"
+    },
+    {
+      "index": 61,
+      "name": "Eagle Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_EagleStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-eagle-strike"
+    },
+    {
+      "index": 62,
+      "name": "Western Wilds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_WesternWilds.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-western-wilds"
+    },
+    {
+      "index": 63,
+      "name": "Merry Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_MerryMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-merry-megaways"
+    },
+    {
+      "index": 64,
+      "name": "Gods of Olympus III Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/1x2gaming_GodsofOlympusIIIMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/irondogstudio-gods-of-olympus-iii-megaways"
+    }
+  ]
+}

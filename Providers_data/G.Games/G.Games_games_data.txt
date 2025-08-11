@@ -1,0 +1,62 @@
+G.Games Games Data
+==================================================
+Total games found: 11
+Load More clicks: 0
+Extraction date: 2025-08-10 17:51:38
+==================================================
+
+Game #1:
+  Name: TNT Extravaganza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_d51434ac84d8406dbf98411f395d2fa1.jpg
+  Game Link: https://roobet.com/casino/game/g-games-tnt-extravaganza
+----------------------------------------
+Game #2:
+  Name: Elite of Evil - Portal of Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_a6109bb8350f40e1a4bfe75c79e756fe.jpg
+  Game Link: https://roobet.com/casino/game/g-games-elite-of-evil-portal-of-gold
+----------------------------------------
+Game #3:
+  Name: Eastern Gold 6 Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_8168d76580d9428aa2144051717db2a0.jpg
+  Game Link: https://roobet.com/casino/game/g-games-eastern-gold-6-deluxe
+----------------------------------------
+Game #4:
+  Name: Lucky Lions
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_dfcec0a761484158af72fb7666d1934c.jpg
+  Game Link: https://roobet.com/casino/game/g-games-lucky-lions
+----------------------------------------
+Game #5:
+  Name: 100k Joker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_c5e155390e544a95aa7831ac826add15.jpg
+  Game Link: https://roobet.com/casino/game/g-games-100k-joker
+----------------------------------------
+Game #6:
+  Name: Age of Athena
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_0c863c54311a49bcabe48e24327452a3.jpg
+  Game Link: https://roobet.com/casino/game/g-games-age-of-athena
+----------------------------------------
+Game #7:
+  Name: Clover Rainbow 6 Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_17021a8cc3ad456caa8f38063a0538f1.jpg
+  Game Link: https://roobet.com/casino/game/g-games-clover-rainbow-6-deluxe
+----------------------------------------
+Game #8:
+  Name: Fishing Trawler
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_faec8e2d37324de499877cb5a407a18c.jpg
+  Game Link: https://roobet.com/casino/game/g-games-fishing-trawler
+----------------------------------------
+Game #9:
+  Name: Psycho Candies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_dca235f8a8294ba2802c4e0640ea1123.jpg
+  Game Link: https://roobet.com/casino/game/g-games-psycho-candies
+----------------------------------------
+Game #10:
+  Name: Cheeky Fruits 6 Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_7f462c28101a4901a401cc8f76019688.jpg
+  Game Link: https://roobet.com/casino/game/g-games-cheeky-fruits-6-deluxe
+----------------------------------------
+Game #11:
+  Name: Thor's Egg Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/slotegrator_445d16cf8a5f4840803ed2b86269a8dc.jpg
+  Game Link: https://roobet.com/casino/game/g-games-thor-s-egg-hunt
+----------------------------------------

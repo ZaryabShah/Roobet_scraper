@@ -1,0 +1,17 @@
+SpinOn Games Data
+==================================================
+Total games found: 2
+Load More clicks: 0
+Extraction date: 2025-08-11 04:44:52
+==================================================
+
+Game #1:
+  Name: Eskimo Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10772-RVWohTwev.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil:10772
+----------------------------------------
+Game #2:
+  Name: Gigablox Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10765-gB6V_ahiF.jpeg
+  Game Link: https://roobet.com/casino/game/spinon-gigablox-kingdom
+----------------------------------------

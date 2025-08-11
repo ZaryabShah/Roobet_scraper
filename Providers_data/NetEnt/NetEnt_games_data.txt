@@ -1,0 +1,437 @@
+NetEnt Games Data
+==================================================
+Total games found: 86
+Load More clicks: 1
+Extraction date: 2025-08-11 00:40:09
+==================================================
+
+Game #1:
+  Name: Blackjack Classic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BlackjackClassic.jpg
+  Game Link: https://roobet.com/casino/game/netent-blackjack-classic
+----------------------------------------
+Game #2:
+  Name: Baccarat
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_baccarat2ne00000.jpg
+  Game Link: https://roobet.com/casino/game/netent-baccarat
+----------------------------------------
+Game #3:
+  Name: Fruit Shop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShop.jpg
+  Game Link: https://roobet.com/casino/game/netent-fruit-shop
+----------------------------------------
+Game #4:
+  Name: European Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_europroulette3ne.jpg
+  Game Link: https://roobet.com/casino/game/netent-european-roulette
+----------------------------------------
+Game #5:
+  Name: Elements: The Awakening
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ElementsTheAwakening.jpg
+  Game Link: https://roobet.com/casino/game/netent-elements-the-awakening
+----------------------------------------
+Game #6:
+  Name: Jack Hammer 4: Chasing the Dragon
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JackHammer4ChasingtheDragon-ozxQajV51.jpeg
+  Game Link: https://roobet.com/casino/game/evolution:JackHammer4ChasingtheDragon
+----------------------------------------
+Game #7:
+  Name: Dead or Alive 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive2.jpg
+  Game Link: https://roobet.com/casino/game/netent-dead-or-alive-2
+----------------------------------------
+Game #8:
+  Name: Starburst
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Starburst.jpg
+  Game Link: https://roobet.com/casino/game/netent-starburst
+----------------------------------------
+Game #9:
+  Name: Double Stacks
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DoubleStacks.jpg
+  Game Link: https://roobet.com/casino/game/netent-double-stacks
+----------------------------------------
+Game #10:
+  Name: Starburst Galaxy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:StarburstGalaxy-IMjUW4GEU.jpeg
+  Game Link: https://roobet.com/casino/game/netent-starburst-galaxy
+----------------------------------------
+Game #11:
+  Name: Reel Rush XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:ReelRushXXXtreme-jyT1ZEpqI.jpeg
+  Game Link: https://roobet.com/casino/game/netent-reel-rush-xxxtreme
+----------------------------------------
+Game #12:
+  Name: Dead or Alive 2 Feature Buy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive2FeatureBuy.jpg
+  Game Link: https://roobet.com/casino/game/netent-dead-or-alive-2-feature-buy
+----------------------------------------
+Game #13:
+  Name: Starburst XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_StarburstXXXtreme.jpg
+  Game Link: https://roobet.com/casino/game/netent-starburst-xxxtreme
+----------------------------------------
+Game #14:
+  Name: Dead or Alive
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DeadorAlive.jpg
+  Game Link: https://roobet.com/casino/game/netent-dead-or-alive
+----------------------------------------
+Game #15:
+  Name: Fruit Shop Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopMegaways.jpg
+  Game Link: https://roobet.com/casino/game/netent-fruit-shop-megaways
+----------------------------------------
+Game #16:
+  Name: Koi Princess
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_KoiPrincess.jpg
+  Game Link: https://roobet.com/casino/game/netent-koi-princess
+----------------------------------------
+Game #17:
+  Name: Gonzo's Quest
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GonzosQuest.jpg
+  Game Link: https://roobet.com/casino/game/netent-gonzo-s-quest
+----------------------------------------
+Game #18:
+  Name: Blood Suckers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BloodSuckers.jpg
+  Game Link: https://roobet.com/casino/game/netent-blood-suckers
+----------------------------------------
+Game #19:
+  Name: Divine Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DivineFortune.jpg
+  Game Link: https://roobet.com/casino/game/netent-divine-fortune
+----------------------------------------
+Game #20:
+  Name: Guns N' Roses Video Slots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GunsNRosesVideoSlots.jpg
+  Game Link: https://roobet.com/casino/game/netent-guns-n-roses-video-slots
+----------------------------------------
+Game #21:
+  Name: Secret of the Stones
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SecretoftheStones.jpg
+  Game Link: https://roobet.com/casino/game/netent-secret-of-the-stones
+----------------------------------------
+Game #22:
+  Name: Jungle Spirit Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:JungleSpiritMegaways-lJoFEoFIc.jpeg
+  Game Link: https://roobet.com/casino/game/netent-jungle-spirit-megaways
+----------------------------------------
+Game #23:
+  Name: Fruit Shop Christmas Edition
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopChristmasEdition.jpg
+  Game Link: https://roobet.com/casino/game/netent-fruit-shop-christmas-edition
+----------------------------------------
+Game #24:
+  Name: Rise of Maya
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RiseofMaya.jpg
+  Game Link: https://roobet.com/casino/game/netent-rise-of-maya
+----------------------------------------
+Game #25:
+  Name: Cornelius Milk Hunter Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:CorneliusMilkHunterMegaways-1Gdtv1nS6.jpeg
+  Game Link: https://roobet.com/casino/game/netent-cornelius-milk-hunter-megaways
+----------------------------------------
+Game #26:
+  Name: Wild Mining XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:WildMiningXXXtreme-3kB4RhVkm.jpeg
+  Game Link: https://roobet.com/casino/game/netent-wild-mining-xxxtreme
+----------------------------------------
+Game #27:
+  Name: Golden Egg Invaders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:GoldenEggInvaders-v1d0Af-C0.jpeg
+  Game Link: https://roobet.com/casino/game/netent-golden-egg-invaders
+----------------------------------------
+Game #28:
+  Name: Steam Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SteamTower.jpg
+  Game Link: https://roobet.com/casino/game/netent-steam-tower
+----------------------------------------
+Game #29:
+  Name: Space Wars
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SpaceWars.jpg
+  Game Link: https://roobet.com/casino/game/netent-space-wars
+----------------------------------------
+Game #30:
+  Name: Jack and the Beanstalk Remastered
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JackandtheBeanstalkRemastered.jpg
+  Game Link: https://roobet.com/casino/game/netent-jack-and-the-beanstalk-remastered
+----------------------------------------
+Game #31:
+  Name: Divine Fortune Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DivineFortuneMegaways.jpg
+  Game Link: https://roobet.com/casino/game/netent-divine-fortune-megaways
+----------------------------------------
+Game #32:
+  Name: Wild Wild West: The Great Train Heist
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildWildWestTheGreatTrainHeist.jpg
+  Game Link: https://roobet.com/casino/game/netent-wild-wild-west-the-great-train-heist
+----------------------------------------
+Game #33:
+  Name: Finn's Golden Tavern
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FinnsGoldenTavern.jpg
+  Game Link: https://roobet.com/casino/game/netent-finn-s-golden-tavern
+----------------------------------------
+Game #34:
+  Name: Casino Hold'em
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CasinoHoldem.jpg
+  Game Link: https://roobet.com/casino/game/netent-casino-hold-em
+----------------------------------------
+Game #35:
+  Name: Divine Fortune Black
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DivineFortuneBlack-TnCajLCRm.jpeg
+  Game Link: https://roobet.com/casino/game/netent-divine-fortune-black
+----------------------------------------
+Game #36:
+  Name: Milkshake XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MilkshakeXXXtreme.jpg
+  Game Link: https://roobet.com/casino/game/netent-milkshake-xxxtreme
+----------------------------------------
+Game #37:
+  Name: Hotline
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Hotline.jpg
+  Game Link: https://roobet.com/casino/game/netent-hotline
+----------------------------------------
+Game #38:
+  Name: Vikings
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_VikingsVideoSlot.jpg
+  Game Link: https://roobet.com/casino/game/netent-vikings
+----------------------------------------
+Game #39:
+  Name: Fruit Shop Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FruitShopFrenzy.jpg
+  Game Link: https://roobet.com/casino/game/netent-fruit-shop-frenzy
+----------------------------------------
+Game #40:
+  Name: Bee Hive Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BeeHiveBonanza1.jpg
+  Game Link: https://roobet.com/casino/game/netent-bee-hive-bonanza
+----------------------------------------
+Game #41:
+  Name: Taco Fury XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TacoFuryXXXtreme.jpg
+  Game Link: https://roobet.com/casino/game/netent-taco-fury-xxxtreme
+----------------------------------------
+Game #42:
+  Name: Jack Hammer 3: Diamond Affair
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JackHammer3DiamondAffair.jpg
+  Game Link: https://roobet.com/casino/game/netent-jack-hammer-3-diamond-affair
+----------------------------------------
+Game #43:
+  Name: Mine Blown
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MineBlown-mo8u752tg.jpeg
+  Game Link: https://roobet.com/casino/game/netent-mine-blown
+----------------------------------------
+Game #44:
+  Name: Mummy Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MummyMegaways-J0MWieTKr.jpeg
+  Game Link: https://roobet.com/casino/game/netent-mummy-megaways
+----------------------------------------
+Game #45:
+  Name: Finn and the Dragon Tales
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:FinnandtheDragonTales-pqOTinjdz.jpeg
+  Game Link: https://roobet.com/casino/game/netent-finn-and-the-dragon-tales
+----------------------------------------
+Game #46:
+  Name: Space Wars Megaways XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_SpaceWarsMegawaysXXXtreme.jpg
+  Game Link: https://roobet.com/casino/game/netent-space-wars-megaways-xxxtreme
+----------------------------------------
+Game #47:
+  Name: Twister
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:Twister-0CIKm6kla.jpeg
+  Game Link: https://roobet.com/casino/game/netent-twister
+----------------------------------------
+Game #48:
+  Name: Dazzle Me Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DazzleMeChristmas-Zc1NzRmWR.jpeg
+  Game Link: https://roobet.com/casino/game/netent-dazzle-me-christmas
+----------------------------------------
+Game #49:
+  Name: Ticket To Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TicketToWild.jpg
+  Game Link: https://roobet.com/casino/game/netent-ticket-to-wild
+----------------------------------------
+Game #50:
+  Name: Rage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Rage.jpg
+  Game Link: https://roobet.com/casino/game/netent-rage
+----------------------------------------
+Game #51:
+  Name: Ms Robin Hood
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:MsRobinHood-3X1Zx8ukd.jpeg
+  Game Link: https://roobet.com/casino/game/netent-ms-robin-hood
+----------------------------------------
+Game #52:
+  Name: Golden Wheels Egypt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldenWheelsEgypt.jpg
+  Game Link: https://roobet.com/casino/game/netent-golden-wheels-egypt
+----------------------------------------
+Game #53:
+  Name: Buster’s Bones
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BustersBones.jpg
+  Game Link: https://roobet.com/casino/game/netent-buster-s-bones
+----------------------------------------
+Game #54:
+  Name: Druid's Magic
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DruidsMagic.jpg
+  Game Link: https://roobet.com/casino/game/netent-druid-s-magic
+----------------------------------------
+Game #55:
+  Name: Big Money Wheel
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BigMoneyWheel.jpg
+  Game Link: https://roobet.com/casino/game/netent-big-money-wheel
+----------------------------------------
+Game #56:
+  Name: Lights, Camera, Cash!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LightsCameraCash.jpg
+  Game Link: https://roobet.com/casino/game/netent-lights-camera-cash
+----------------------------------------
+Game #57:
+  Name: Gladiator Clash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GladiatorClash.jpg
+  Game Link: https://roobet.com/casino/game/netent-gladiator-clash
+----------------------------------------
+Game #58:
+  Name: Finn and the Swirly Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FinnandtheSwirlySpin.jpg
+  Game Link: https://roobet.com/casino/game/netent-finn-and-the-swirly-spin
+----------------------------------------
+Game #59:
+  Name: Dragons Playground
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:DragonsPlayground-J3JLRLtYK.jpeg
+  Game Link: https://roobet.com/casino/game/netent-dragons-playground
+----------------------------------------
+Game #60:
+  Name: Babylon Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BabylonRiches.jpg
+  Game Link: https://roobet.com/casino/game/netent-babylon-riches
+----------------------------------------
+Game #61:
+  Name: Rainforest Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RainforestGold.jpg
+  Game Link: https://roobet.com/casino/game/netent-rainforest-gold
+----------------------------------------
+Game #62:
+  Name: French Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_FrenchRoulette.jpg
+  Game Link: https://roobet.com/casino/game/netent-french-roulette
+----------------------------------------
+Game #63:
+  Name: Gem Crush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GemCrush.jpg
+  Game Link: https://roobet.com/casino/game/netent-gem-crush
+----------------------------------------
+Game #64:
+  Name: Jingle Bells Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JingleBellsBonanza.jpg
+  Game Link: https://roobet.com/casino/game/netent-jingle-bells-bonanza
+----------------------------------------
+Game #65:
+  Name: Pirates Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PiratesParty.jpg
+  Game Link: https://roobet.com/casino/game/netent-pirates-party
+----------------------------------------
+Game #66:
+  Name: Jelly Belly Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_JellyBellyMegaways.jpg
+  Game Link: https://roobet.com/casino/game/netent-jelly-belly-megaways
+----------------------------------------
+Game #67:
+  Name: Twin Spin XXXtreme
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TwinSpinXXXtreme.jpg
+  Game Link: https://roobet.com/casino/game/netent-twin-spin-xxxtreme
+----------------------------------------
+Game #68:
+  Name: Buckshot Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BuckshotWilds.jpg
+  Game Link: https://roobet.com/casino/game/netent-buckshot-wilds
+----------------------------------------
+Game #69:
+  Name: Leprechaun Joy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LeprechaunJoy.jpg
+  Game Link: https://roobet.com/casino/game/netent-leprechaun-joy
+----------------------------------------
+Game #70:
+  Name: Golden Realms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoldenRealms.jpg
+  Game Link: https://roobet.com/casino/game/netent-golden-realms
+----------------------------------------
+Game #71:
+  Name: Casino Night
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CasinoNight.jpg
+  Game Link: https://roobet.com/casino/game/netent-casino-night
+----------------------------------------
+Game #72:
+  Name: Good Old 7's
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_GoodOld7s.jpg
+  Game Link: https://roobet.com/casino/game/netent-good-old-7-s
+----------------------------------------
+Game #73:
+  Name: Twin Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_TwinSpin.jpg
+  Game Link: https://roobet.com/casino/game/netent-twin-spin
+----------------------------------------
+Game #74:
+  Name: Lock and Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_LockandPop.jpg
+  Game Link: https://roobet.com/casino/game/netent-lock-and-pop
+----------------------------------------
+Game #75:
+  Name: Wild Bazaar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_WildBazaar.jpg
+  Game Link: https://roobet.com/casino/game/netent-wild-bazaar
+----------------------------------------
+Game #76:
+  Name: 101 Candies
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_101Candies.jpg
+  Game Link: https://roobet.com/casino/game/netent-101-candies
+----------------------------------------
+Game #77:
+  Name: Pandora's Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_PandorasTreasure.jpg
+  Game Link: https://roobet.com/casino/game/netent-pandora-s-treasure
+----------------------------------------
+Game #78:
+  Name: Cursed Treasure
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_CursedTreasure.jpg
+  Game Link: https://roobet.com/casino/game/netent-cursed-treasure
+----------------------------------------
+Game #79:
+  Name: Magic Lab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_MagicLab.jpg
+  Game Link: https://roobet.com/casino/game/netent-magic-lab
+----------------------------------------
+Game #80:
+  Name: Don’t Eat the Candy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_DontEatTheCandy.jpg
+  Game Link: https://roobet.com/casino/game/netent-don-t-eat-the-candy
+----------------------------------------
+Game #81:
+  Name: Roulette Advanced
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_roulette2advne.jpg
+  Game Link: https://roobet.com/casino/game/netent-roulette-advanced
+----------------------------------------
+Game #82:
+  Name: Rabid Randy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/evolution:RabidRandy-eW3CpXvMx.jpeg
+  Game Link: https://roobet.com/casino/game/netent-rabid-randy
+----------------------------------------
+Game #83:
+  Name: Royal Nuts
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_RoyalNuts.jpg
+  Game Link: https://roobet.com/casino/game/netent-royal-nuts
+----------------------------------------
+Game #84:
+  Name: Mermaids
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_Mermaids.jpg
+  Game Link: https://roobet.com/casino/game/netent-mermaids
+----------------------------------------
+Game #85:
+  Name: Beach Invaders
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_BeachInvaders.jpg
+  Game Link: https://roobet.com/casino/game/netent-beach-invaders
+----------------------------------------
+Game #86:
+  Name: American Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/evolution_ameriroulette3ne.jpg
+  Game Link: https://roobet.com/casino/game/netent-american-roulette
+----------------------------------------

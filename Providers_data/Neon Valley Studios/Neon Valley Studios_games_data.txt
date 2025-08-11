@@ -1,0 +1,47 @@
+Neon Valley Studios Games Data
+==================================================
+Total games found: 8
+Load More clicks: 0
+Extraction date: 2025-08-11 04:40:48
+==================================================
+
+Game #1:
+  Name: Gallo Gold Bruno's Megaways
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_gallogoldbrunosmegaways.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-gallo-gold-bruno-s-megaways
+----------------------------------------
+Game #2:
+  Name: Asgardian Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_asgardianfire.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-asgardian-fire
+----------------------------------------
+Game #3:
+  Name: Queen of Alexandria
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_queenofalexandria.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-queen-of-alexandria
+----------------------------------------
+Game #4:
+  Name: Pineapple Pop
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_pineapplepop.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-pineapple-pop
+----------------------------------------
+Game #5:
+  Name: Starlite Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_starlitefruits.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-starlite-fruits
+----------------------------------------
+Game #6:
+  Name: Aurora Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_aurorawilds.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-aurora-wilds
+----------------------------------------
+Game #7:
+  Name: Starlite Fruits Mega Moolah
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_starlitefruitsmegamoolah.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-starlite-fruits-mega-moolah
+----------------------------------------
+Game #8:
+  Name: Noble Sky
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_nvl_noblesky.jpg
+  Game Link: https://roobet.com/casino/game/neon-valley-studios-noble-sky
+----------------------------------------

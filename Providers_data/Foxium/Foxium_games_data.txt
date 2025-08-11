@@ -1,0 +1,92 @@
+Foxium Games Data
+==================================================
+Total games found: 17
+Load More clicks: 0
+Extraction date: 2025-08-11 04:34:08
+==================================================
+
+Game #1:
+  Name: The Great Albini
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_thegreatalbini.jpg
+  Game Link: https://roobet.com/casino/game/foxium-the-great-albini
+----------------------------------------
+Game #2:
+  Name: Rome Fight For Gold Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_romefightforgolddeluxe.jpg
+  Game Link: https://roobet.com/casino/game/foxium-rome-fight-for-gold-deluxe
+----------------------------------------
+Game #3:
+  Name: 9 Enchanted Beans Epic Strike
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_9enchantedbeansepicstrike.jpg
+  Game Link: https://roobet.com/casino/game/foxium-9-enchanted-beans-epic-strike
+----------------------------------------
+Game #4:
+  Name: 3 Tiny Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_3tinygods.jpg
+  Game Link: https://roobet.com/casino/game/foxium-3-tiny-gods
+----------------------------------------
+Game #5:
+  Name: The Great Albini 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_thegreatalbini2.jpg
+  Game Link: https://roobet.com/casino/game/foxium-the-great-albini-2
+----------------------------------------
+Game #6:
+  Name: Stumpy McDoodles
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_stumpymcdoodles.jpg
+  Game Link: https://roobet.com/casino/game/foxium-stumpy-mcdoodles
+----------------------------------------
+Game #7:
+  Name: Cossacks The Wild Hunt
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_cossacksthewildhunt.jpg
+  Game Link: https://roobet.com/casino/game/foxium-cossacks-the-wild-hunt
+----------------------------------------
+Game #8:
+  Name: Blazin' Rails
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_blazinrails.jpg
+  Game Link: https://roobet.com/casino/game/foxium-blazin-rails
+----------------------------------------
+Game #9:
+  Name: Boom Pirates
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_boompirates.jpg
+  Game Link: https://roobet.com/casino/game/foxium-boom-pirates
+----------------------------------------
+Game #10:
+  Name: Rome: Fight for Gold 
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_romefightforgold.jpg
+  Game Link: https://roobet.com/casino/game/foxium-rome-fight-for-gold
+----------------------------------------
+Game #11:
+  Name: Fortune Pike Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_fortunepikegold.jpg
+  Game Link: https://roobet.com/casino/game/foxium-fortune-pike-gold
+----------------------------------------
+Game #12:
+  Name: Andvari: The Magic Ring
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_andvarithemagicring.jpg
+  Game Link: https://roobet.com/casino/game/foxium-andvari-the-magic-ring
+----------------------------------------
+Game #13:
+  Name: Akiwa: Claws of Power
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_akiwaclawsofpower.jpg
+  Game Link: https://roobet.com/casino/game/foxium-akiwa-claws-of-power
+----------------------------------------
+Game #14:
+  Name: Stumpy McDoodles 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_stumpymcdoodles2.jpg
+  Game Link: https://roobet.com/casino/game/foxium-stumpy-mcdoodles-2
+----------------------------------------
+Game #15:
+  Name: Oink Farm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_oinkfarm.jpg
+  Game Link: https://roobet.com/casino/game/foxium-oink-farm
+----------------------------------------
+Game #16:
+  Name: Agnes Mission: Wild Lab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_agnesmission.jpg
+  Game Link: https://roobet.com/casino/game/foxium-agnes-mission-wild-lab
+----------------------------------------
+Game #17:
+  Name: Gods of Seas Tritons Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/hub88_fox_godsofseastritonsfortune.jpg
+  Game Link: https://roobet.com/casino/game/foxium-gods-of-seas-tritons-fortune
+----------------------------------------

@@ -1,0 +1,222 @@
+Truelab Games Data
+==================================================
+Total games found: 43
+Load More clicks: 0
+Extraction date: 2025-08-10 17:46:12
+==================================================
+
+Game #1:
+  Name: Dr. Rock & the Riff Reactor
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:DrRocktheRiffReactor-mfmRWy0Pa.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-dr-rock-the-riff-reactor
+----------------------------------------
+Game #2:
+  Name: Cluster*uck
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:Clusteruck-LaYYTXxXe.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-cluster-uck
+----------------------------------------
+Game #3:
+  Name: Micropirates & the Kraken of the Caribbean
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_MicropiratestheKrakenoftheCaribbean.jpg
+  Game Link: https://roobet.com/casino/game/truelab-micropirates-the-kraken-of-the-caribbean
+----------------------------------------
+Game #4:
+  Name: European Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_EuropeanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/truelab-european-roulette
+----------------------------------------
+Game #5:
+  Name: Storm VS Fire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:StormVSFire-WWu76wGIp.jpeg
+  Game Link: https://roobet.com/casino/game/truelab:StormVSFire
+----------------------------------------
+Game #6:
+  Name: Book of Truth
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_BookofTruth.jpg
+  Game Link: https://roobet.com/casino/game/truelab-book-of-truth
+----------------------------------------
+Game #7:
+  Name: Battle Rage
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:BattleRage-v1FoE9ydq.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-battle-rage
+----------------------------------------
+Game #8:
+  Name: 100 Hot Slot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_100HotSlot.jpg
+  Game Link: https://roobet.com/casino/game/truelab-100-hot-slot
+----------------------------------------
+Game #9:
+  Name: Most Wanted
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_MostWanted.jpg
+  Game Link: https://roobet.com/casino/game/truelab-most-wanted
+----------------------------------------
+Game #10:
+  Name: Wild Pumpkins Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:WildPumpkinsDeluxe-yeH0IOKua.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-wild-pumpkins-deluxe
+----------------------------------------
+Game #11:
+  Name: Hot Money Slot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_HotMoneySlot.jpg
+  Game Link: https://roobet.com/casino/game/truelab-hot-money-slot
+----------------------------------------
+Game #12:
+  Name: Guns, Love & Therapy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_GunsLoveTherapy.jpg
+  Game Link: https://roobet.com/casino/game/truelab-guns-love-therapy
+----------------------------------------
+Game #13:
+  Name: Rise of the Legion
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:RiseoftheLegion-M1wAf7XWk.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-rise-of-the-legion
+----------------------------------------
+Game #14:
+  Name: Gates of Santa
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:GatesofSanta-eBKEaPEur.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-gates-of-santa
+----------------------------------------
+Game #15:
+  Name: Mystic Charms
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_MysticCharms.jpg
+  Game Link: https://roobet.com/casino/game/truelab-mystic-charms
+----------------------------------------
+Game #16:
+  Name: Christmas Tree 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_ChristmasTree2_96.jpg
+  Game Link: https://roobet.com/casino/game/truelab-christmas-tree-2
+----------------------------------------
+Game #17:
+  Name: Fish Fever
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:FishFever-W6TsCnsWG.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-fish-fever
+----------------------------------------
+Game #18:
+  Name: Wild Pumpkins
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_WildPumpkins.jpg
+  Game Link: https://roobet.com/casino/game/truelab-wild-pumpkins
+----------------------------------------
+Game #19:
+  Name: Apple Crush
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_AppleCrush.jpg
+  Game Link: https://roobet.com/casino/game/truelab-apple-crush
+----------------------------------------
+Game #20:
+  Name: Book of Huli
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_BookofHuli.jpg
+  Game Link: https://roobet.com/casino/game/truelab-book-of-huli
+----------------------------------------
+Game #21:
+  Name: Aloha: Fruit Bonanza
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_AlohaFruitBonanza.jpg
+  Game Link: https://roobet.com/casino/game/truelab-aloha-fruit-bonanza
+----------------------------------------
+Game #22:
+  Name: Street Muse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_StreetMuse.jpg
+  Game Link: https://roobet.com/casino/game/truelab-street-muse
+----------------------------------------
+Game #23:
+  Name: Sunstrike Supernova
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_SunstrikeSupernova.jpg
+  Game Link: https://roobet.com/casino/game/truelab-sunstrike-supernova
+----------------------------------------
+Game #24:
+  Name: Fruits of Horus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:FruitsofHorus-tzKCRnCGT.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-fruits-of-horus
+----------------------------------------
+Game #25:
+  Name: Fruit Circus Party
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_FruitCircusParty.jpg
+  Game Link: https://roobet.com/casino/game/truelab-fruit-circus-party
+----------------------------------------
+Game #26:
+  Name: Circus Fruits
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_CircusFruits.jpg
+  Game Link: https://roobet.com/casino/game/truelab-circus-fruits
+----------------------------------------
+Game #27:
+  Name: Hot Hamster
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:HotHamster-XbXjTBXsh.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-hot-hamster
+----------------------------------------
+Game #28:
+  Name: Bison Storm
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:BisonStorm-xoFtMx_Zy.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-bison-storm
+----------------------------------------
+Game #29:
+  Name: Fishy Business
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_FishyBusiness.jpg
+  Game Link: https://roobet.com/casino/game/truelab-fishy-business
+----------------------------------------
+Game #30:
+  Name: Dragon's Call
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:DragonsCall-Vu_ttphqJ.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-dragon-s-call
+----------------------------------------
+Game #31:
+  Name: Red Hot 100
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:RedHot100-nx6jtfryr.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-red-hot-100
+----------------------------------------
+Game #32:
+  Name: American Roulette
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_AmericanRoulette.jpg
+  Game Link: https://roobet.com/casino/game/truelab-american-roulette
+----------------------------------------
+Game #33:
+  Name: Viking Runes
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_VikingRunes.jpg
+  Game Link: https://roobet.com/casino/game/truelab-viking-runes
+----------------------------------------
+Game #34:
+  Name: Victoria Wild West
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_VictoriaWildWest.jpg
+  Game Link: https://roobet.com/casino/game/truelab-victoria-wild-west
+----------------------------------------
+Game #35:
+  Name: Siren Symphony
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_SirenSymphony.jpg
+  Game Link: https://roobet.com/casino/game/truelab-siren-symphony
+----------------------------------------
+Game #36:
+  Name: Hot Devil Slot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_HotDevilSlot.jpg
+  Game Link: https://roobet.com/casino/game/truelab-hot-devil-slot
+----------------------------------------
+Game #37:
+  Name: Crazy Mix
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_CrazyMix.jpg
+  Game Link: https://roobet.com/casino/game/truelab-crazy-mix
+----------------------------------------
+Game #38:
+  Name: Victoria Wild Deluxe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_VictoriaWildDeluxe.jpg
+  Game Link: https://roobet.com/casino/game/truelab-victoria-wild-deluxe
+----------------------------------------
+Game #39:
+  Name: Moooving Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_MooovingWilds.jpg
+  Game Link: https://roobet.com/casino/game/truelab-moooving-wilds
+----------------------------------------
+Game #40:
+  Name: Aztec Legend
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_AztecLegend.jpg
+  Game Link: https://roobet.com/casino/game/truelab-aztec-legend
+----------------------------------------
+Game #41:
+  Name: Arctic Spin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/truelab:ArcticSpin-bCySQHtTA.jpeg
+  Game Link: https://roobet.com/casino/game/truelab-arctic-spin
+----------------------------------------
+Game #42:
+  Name: Crypts of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_CryptsofFortune96.jpg
+  Game Link: https://roobet.com/casino/game/truelab-crypts-of-fortune
+----------------------------------------
+Game #43:
+  Name: Ultra Hot Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/truelab_UltraHotReels.jpg
+  Game Link: https://roobet.com/casino/game/truelab-ultra-hot-reels
+----------------------------------------

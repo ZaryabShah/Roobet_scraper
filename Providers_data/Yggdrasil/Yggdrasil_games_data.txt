@@ -1,0 +1,172 @@
+Yggdrasil Games Data
+==================================================
+Total games found: 33
+Load More clicks: 0
+Extraction date: 2025-08-11 04:48:20
+==================================================
+
+Game #1:
+  Name: Bob Marlin Goes Deep
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10728-Bof_QLeWn.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil:10728
+----------------------------------------
+Game #2:
+  Name: 4 FOXX Crew WildEnergy MultiMax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10688-j0iDKHA3d.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-4-foxx-crew-wildenergy-multimax
+----------------------------------------
+Game #3:
+  Name: Raptor DoubleMax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:7408-5B7X6FPRd.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-raptor-doublemax
+----------------------------------------
+Game #4:
+  Name: Cazino Zeppelin Reloaded
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10188-KaK57pWf7.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-cazino-zeppelin-reloaded
+----------------------------------------
+Game #5:
+  Name: Fruitylicious Doublemax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10517-OFT4kp1rt.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-fruitylicious-doublemax
+----------------------------------------
+Game #6:
+  Name: Vikings Go Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/yggdrasil_10148.jpg
+  Game Link: https://roobet.com/casino/game/yggdrasil-vikings-go-wild
+----------------------------------------
+Game #7:
+  Name: Monkeys Go Bananas MultiMax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10514-3cyLy9Ftx.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-monkeys-go-bananas-multimax
+----------------------------------------
+Game #8:
+  Name: Vikings Go To Olympus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10512-tBMZC4dh5.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-vikings-go-to-olympus
+----------------------------------------
+Game #9:
+  Name: Champions of Rome
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10158-TvF94QJfg.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-champions-of-rome
+----------------------------------------
+Game #10:
+  Name: Aphrodite Goes Wild Rushing Wilds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10509-CTqo69-k6.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-aphrodite-goes-wild-rushing-wilds
+----------------------------------------
+Game #11:
+  Name: Valley of the Gods
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/yggdrasil_10094.jpg
+  Game Link: https://roobet.com/casino/game/yggdrasil-valley-of-the-gods
+----------------------------------------
+Game #12:
+  Name: Neon Villains
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10287-yF6KtqF50.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-neon-villains
+----------------------------------------
+Game #13:
+  Name: Hades GigaBlox
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10125-8VbB6f-5y.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-hades-gigablox
+----------------------------------------
+Game #14:
+  Name: Buffalo Freedom DoubleMax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10704-8xxnAk9YS.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-buffalo-freedom-doublemax
+----------------------------------------
+Game #15:
+  Name: Christmas Plaza DoubleMax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10366-2o6ajwCeP.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-christmas-plaza-doublemax
+----------------------------------------
+Game #16:
+  Name: Ragnaravens Wild Energy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10481-8f8VPOLn8.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-ragnaravens-wild-energy
+----------------------------------------
+Game #17:
+  Name: Wild Stack Frenzy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10452-1FXaEyEVI.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-wild-stack-frenzy
+----------------------------------------
+Game #18:
+  Name: Cazino Zeppelin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/yggdrasil_10168.jpg
+  Game Link: https://roobet.com/casino/game/yggdrasil-cazino-zeppelin
+----------------------------------------
+Game #19:
+  Name: Max Elements
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10488-TTZfT8MPR.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-max-elements
+----------------------------------------
+Game #20:
+  Name: MultiFly!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/yggdrasil_10122.jpg
+  Game Link: https://roobet.com/casino/game/yggdrasil-multifly
+----------------------------------------
+Game #21:
+  Name: Vampire Riches
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10485-aeue5tDMq.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-vampire-riches
+----------------------------------------
+Game #22:
+  Name: Valley of the Dead
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10510-QaKoQff-v.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-valley-of-the-dead
+----------------------------------------
+Game #23:
+  Name: Valley of the Gods 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10114-BhlIgy9hU.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-valley-of-the-gods-2
+----------------------------------------
+Game #24:
+  Name: Lucky Neko
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10124-rW0a-4WM2.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-lucky-neko
+----------------------------------------
+Game #25:
+  Name: Lucky Apocalypse
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10634-6Zec4pZ9C.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-lucky-apocalypse
+----------------------------------------
+Game #26:
+  Name: Dick the Farmer
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10673-7WhQxQV72.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-dick-the-farmer
+----------------------------------------
+Game #27:
+  Name: Lucky Ryan
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10638-9X5VqQXk4.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-lucky-ryan
+----------------------------------------
+Game #28:
+  Name: Hyperburst
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10144-oetqF1a9u.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-hyperburst
+----------------------------------------
+Game #29:
+  Name: Pumpkin Smash
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10134-uPNpituKT.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-pumpkin-smash
+----------------------------------------
+Game #30:
+  Name: Vikings go to Vegas Wild Fight™
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10685-yFSWnCHJN.png
+  Game Link: https://roobet.com/casino/game/yggdrasil-vikings-go-to-vegas-wild-fight
+----------------------------------------
+Game #31:
+  Name: Brazil Bomba
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:7375-nULQK6KTN.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-brazil-bomba
+----------------------------------------
+Game #32:
+  Name: Easter Island
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10072-aosJ4xaFo.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-easter-island
+----------------------------------------
+Game #33:
+  Name: 3 Gladiators vs Caesar
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/yggdrasil:10511-SJ7wdPj76.jpeg
+  Game Link: https://roobet.com/casino/game/yggdrasil-3-gladiators-vs-caesar
+----------------------------------------

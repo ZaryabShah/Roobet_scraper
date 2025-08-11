@@ -1,0 +1,1220 @@
+{
+  "provider": "Betsoft",
+  "total_games": 202,
+  "load_more_clicks": 3,
+  "extraction_date": "2025-08-10T17:40:19.619327",
+  "games": [
+    {
+      "index": 1,
+      "name": "The Tipsy Tourist: Beach Bonanza - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:TheTipsyTouristBeachBonanzaHoldWin-xJ6BIZp8t.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-tipsy-tourist-beach-bonanza-hold-win"
+    },
+    {
+      "index": 2,
+      "name": "Coins Of Leprechaun - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsOfLeprechaunHoldWin-VgPAC1bRr.png",
+      "game_link": "https://roobet.com/casino/game/bsg:CoinsOfLeprechaunHoldWin"
+    },
+    {
+      "index": 3,
+      "name": "Jungle Stripes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_JungleStripes.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-jungle-stripes"
+    },
+    {
+      "index": 4,
+      "name": "European Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EuropeanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-european-roulette"
+    },
+    {
+      "index": 5,
+      "name": "European Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EuropeanBlackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-european-blackjack"
+    },
+    {
+      "index": 6,
+      "name": "Pho Sho",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PhoSho.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-pho-sho"
+    },
+    {
+      "index": 7,
+      "name": "Coins of Alkemor: Extreme Magic - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofAlkemorExtremeMagicHoldWin-M-0D932CB.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-alkemor-extreme-magic-hold-win"
+    },
+    {
+      "index": 8,
+      "name": "Coins of Buffalo - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofBuffaloHoldAndWin-x4vQR55V9.png",
+      "game_link": "https://roobet.com/casino/game/bsg:CoinsofBuffaloHoldAndWin"
+    },
+    {
+      "index": 9,
+      "name": "Ultimate Golden Dragon Inferno - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:UltimateGoldenDragonInfernoHoldWin-GXYhobaQN.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-ultimate-golden-dragon-inferno-hold-win"
+    },
+    {
+      "index": 10,
+      "name": "Rags to Witches",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RagstoWitches.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-rags-to-witches"
+    },
+    {
+      "index": 11,
+      "name": "Coins of Zeus - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofZeusHoldWin-InCOeKVdI.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-zeus-hold-win"
+    },
+    {
+      "index": 12,
+      "name": "Super 7 Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Super7Blackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-super-7-blackjack"
+    },
+    {
+      "index": 13,
+      "name": "Heist: Bank Rush - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HeistBankRushHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-heist-bank-rush-hold-win"
+    },
+    {
+      "index": 14,
+      "name": "Gemmed!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Gemmed.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gemmed"
+    },
+    {
+      "index": 15,
+      "name": "Red Dog",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RedDog.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-red-dog"
+    },
+    {
+      "index": 16,
+      "name": "A Big Catch - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ABigCatchHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-a-big-catch-hold-win"
+    },
+    {
+      "index": 17,
+      "name": "Stampede Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_StampedeGold.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-stampede-gold"
+    },
+    {
+      "index": 18,
+      "name": "Gold Nugget Rush - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:GoldNuggetRushHoldAndWin-ArDD1nb0t.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-gold-nugget-rush-hold-win"
+    },
+    {
+      "index": 19,
+      "name": "Pots of Great Fortune - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:PotsofGreatFortuneHoldWin-lNUPo0Ae3.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-pots-of-great-fortune-hold-win"
+    },
+    {
+      "index": 20,
+      "name": "Mad Scientist: Breaking Beakers - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:MadScientistBreakingBeakersHoldAndWin-guxNbVcGm.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mad-scientist-breaking-beakers-hold-win"
+    },
+    {
+      "index": 21,
+      "name": "Baccarat",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Baccarat.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-baccarat"
+    },
+    {
+      "index": 22,
+      "name": "Treasures of Cleopatra",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:TreasuresofCleopatra-5GWdLNcku.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-treasures-of-cleopatra"
+    },
+    {
+      "index": 23,
+      "name": "Coins Of Ra - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CoinsOfRaHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-ra-hold-win"
+    },
+    {
+      "index": 24,
+      "name": "Spring Tails",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SpringTails.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-spring-tails"
+    },
+    {
+      "index": 25,
+      "name": "Vip European Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VipEuropeanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-vip-european-roulette"
+    },
+    {
+      "index": 26,
+      "name": "Triple Juicy Drops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleJuicyDrops.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-triple-juicy-drops"
+    },
+    {
+      "index": 27,
+      "name": "Ogre Empire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OgreEmpire.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-ogre-empire"
+    },
+    {
+      "index": 28,
+      "name": "April Fury And The Chamber Of Scarabs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AprilFuryAndTheChamberOfScarabs.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-april-fury-and-the-chamber-of-scarabs"
+    },
+    {
+      "index": 29,
+      "name": "Coins of Ra Power - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofRaPowerHoldWin-P87ssn4FS.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-ra-power-hold-win"
+    },
+    {
+      "index": 30,
+      "name": "The Slotfather Book Of Wins - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheSlotfatherBookOfWinsHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-slotfather-book-of-wins-hold-win"
+    },
+    {
+      "index": 31,
+      "name": "Rockstar World Tour Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RockstarWorldTourHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-rockstar-world-tour-hold-win"
+    },
+    {
+      "index": 32,
+      "name": "Hearts Desire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HeartsDesireJP.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-hearts-desire"
+    },
+    {
+      "index": 33,
+      "name": "Super Sugar Pop - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:SuperSugarPopHoldWin-Y8qDickR5.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-super-sugar-pop-hold-win"
+    },
+    {
+      "index": 34,
+      "name": "Deuces Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DeucesWild.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-deuces-wild"
+    },
+    {
+      "index": 35,
+      "name": "Tycoons: Billionaire Bucks - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TycoonsBillionaireBucksHoldAndWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-tycoons-billionaire-bucks-hold-win"
+    },
+    {
+      "index": 36,
+      "name": "Pirate 21",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pirate21.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-pirate-21"
+    },
+    {
+      "index": 37,
+      "name": "The Golden Owl of Athena",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheGoldenOwlofAthena.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-golden-owl-of-athena"
+    },
+    {
+      "index": 38,
+      "name": "Fury Dragon - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:FuryDragonHoldWin-fVEUE2qx8.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-fury-dragon-hold-win"
+    },
+    {
+      "index": 39,
+      "name": "Hot Lucky 7’s",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HotLucky7s.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-hot-lucky-7-s"
+    },
+    {
+      "index": 40,
+      "name": "Faerie Spells",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FaerieSpells.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-faerie-spells"
+    },
+    {
+      "index": 41,
+      "name": "Caishen God Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaishenGodOfFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-caishen-god-of-fortune"
+    },
+    {
+      "index": 42,
+      "name": "Good Girl, Bad Girl",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoodGirlBadGirl.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-good-girl-bad-girl"
+    },
+    {
+      "index": 43,
+      "name": "Take the Shot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TaketheShot.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-the-shot"
+    },
+    {
+      "index": 44,
+      "name": "Pontoon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pontoon.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-pontoon"
+    },
+    {
+      "index": 45,
+      "name": "The Angler",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Angler.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-angler"
+    },
+    {
+      "index": 46,
+      "name": "Golden Destiny - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenDestinyHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-golden-destiny-hold-win"
+    },
+    {
+      "index": 47,
+      "name": "Pai Gow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PaiGow.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-pai-gow"
+    },
+    {
+      "index": 48,
+      "name": "Bounding Luck",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BoundingLuck.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-bounding-luck"
+    },
+    {
+      "index": 49,
+      "name": "Coins Of Alkemor - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CoinsOfAlkemorHoldWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-alkemor-hold-win"
+    },
+    {
+      "index": 50,
+      "name": "Golden Dragon Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenDragonInferno.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-golden-dragon-inferno"
+    },
+    {
+      "index": 51,
+      "name": "Mr. Macau",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrMacau.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mr-macau"
+    },
+    {
+      "index": 52,
+      "name": "Triple Edge Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleEdgePoker.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-triple-edge-poker"
+    },
+    {
+      "index": 53,
+      "name": "Super Golden Dragon Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SuperGoldenDragonInferno.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-super-golden-dragon-inferno"
+    },
+    {
+      "index": 54,
+      "name": "Single Deck Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SingleDeckBlackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-single-deck-blackjack"
+    },
+    {
+      "index": 55,
+      "name": "Slotfather",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Slotfather.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-slotfather"
+    },
+    {
+      "index": 56,
+      "name": "Carnaval Forever",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CarnavalForever.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-carnaval-forever"
+    },
+    {
+      "index": 57,
+      "name": "Take the Vault - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TaketheVaultHoldandWin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-the-vault-hold-win"
+    },
+    {
+      "index": 58,
+      "name": "Book of Darkness",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BookofDarkness.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-book-of-darkness"
+    },
+    {
+      "index": 59,
+      "name": "Bamboo Rush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BambooRush.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-bamboo-rush"
+    },
+    {
+      "index": 60,
+      "name": "Gypsy Rose",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GypsyRose.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gypsy-rose"
+    },
+    {
+      "index": 61,
+      "name": "Rise of Triton",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RiseofTriton.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-rise-of-triton"
+    },
+    {
+      "index": 62,
+      "name": "Frankenslot's Monster",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Frankenslots.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-frankenslot-s-monster"
+    },
+    {
+      "index": 63,
+      "name": "Black Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BlackGold.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-black-gold"
+    },
+    {
+      "index": 64,
+      "name": "21 Burn Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_21BurnBlackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-21-burn-blackjack"
+    },
+    {
+      "index": 65,
+      "name": "ChilliPop: Get Em All - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:ChilliPopGetEmAllHoldWin-wqHPbZW4W.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-chillipop-get-em-all-hold-win"
+    },
+    {
+      "index": 66,
+      "name": "Island Desire - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:IslandDesireHoldWin-qdhPiyg2e.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-island-desire-hold-win"
+    },
+    {
+      "index": 67,
+      "name": "Fire & Steel",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FireandSteel.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-fire-steel"
+    },
+    {
+      "index": 68,
+      "name": "Golden Horns",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldenHorns.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-golden-horns"
+    },
+    {
+      "index": 69,
+      "name": "Primal Hunt",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PrimalHunt.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-primal-hunt"
+    },
+    {
+      "index": 70,
+      "name": "Super Sweets",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SuperSweets.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-super-sweets"
+    },
+    {
+      "index": 71,
+      "name": "Lizard Loot Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:LizardLootHoldWin-cirLF_-Yt.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-lizard-loot-hold-win"
+    },
+    {
+      "index": 72,
+      "name": "Reels of Wealth",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ReelsofWealth.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-reels-of-wealth"
+    },
+    {
+      "index": 73,
+      "name": "Wish Granted",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WishGranted.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-wish-granted"
+    },
+    {
+      "index": 74,
+      "name": "Alkemor's Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AlkemorsTower.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-alkemor-s-tower"
+    },
+    {
+      "index": 75,
+      "name": "Enchanted: Forest Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EnchantedForestOfFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-enchanted-forest-of-fortune"
+    },
+    {
+      "index": 76,
+      "name": "Take Santa's shop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeSantasShop.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-santa-s-shop"
+    },
+    {
+      "index": 77,
+      "name": "The Tipsy Tourist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TipsyTourist.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-tipsy-tourist"
+    },
+    {
+      "index": 78,
+      "name": "Wild Drops",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WildDrops.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-wild-drops"
+    },
+    {
+      "index": 79,
+      "name": "Triple Lucky 8’s",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TripleLucky8s.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-triple-lucky-8-s"
+    },
+    {
+      "index": 80,
+      "name": "Trinity Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrinityReels.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-trinity-reels"
+    },
+    {
+      "index": 81,
+      "name": "Total Overdrive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TotalOverdrive.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-total-overdrive"
+    },
+    {
+      "index": 82,
+      "name": "Treasure Room",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TreasureRoom.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-treasure-room"
+    },
+    {
+      "index": 83,
+      "name": "Lava Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LavaGold.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-lava-gold"
+    },
+    {
+      "index": 84,
+      "name": "Coins of Christmas - Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofChristmasHoldWin-4OVwT3W0l.png",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-christmas-hold-win"
+    },
+    {
+      "index": 85,
+      "name": "Hat Trick Hero",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HatTrickHero.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-hat-trick-hero"
+    },
+    {
+      "index": 86,
+      "name": "Spinfinity Man",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SpinfinityMan.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-spinfinity-man"
+    },
+    {
+      "index": 87,
+      "name": "Sin City Nights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SinCityNights.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-sin-city-nights"
+    },
+    {
+      "index": 88,
+      "name": "Alkemor's Elements",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AlkemorsElements.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-alkemor-s-elements"
+    },
+    {
+      "index": 89,
+      "name": "Safari Sam 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SafariSam2.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-safari-sam-2"
+    },
+    {
+      "index": 90,
+      "name": "Stacked",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Stacked.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-stacked"
+    },
+    {
+      "index": 91,
+      "name": "More Gold Diggin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MoreGoldDiggin.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-more-gold-diggin"
+    },
+    {
+      "index": 92,
+      "name": "Charms And Clovers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CharmsAndClovers.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-charms-and-clovers"
+    },
+    {
+      "index": 93,
+      "name": "Once Upon A Time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OnceUponATime.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-once-upon-a-time"
+    },
+    {
+      "index": 94,
+      "name": "Supreme 777 Jackpots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Supreme777Jackpots.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-supreme-777-jackpots"
+    },
+    {
+      "index": 95,
+      "name": "Back To Venus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BackToVenus.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-back-to-venus"
+    },
+    {
+      "index": 96,
+      "name": "Yak, Yeti & Roll",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_YakYetiRoll.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-yak-yeti-roll"
+    },
+    {
+      "index": 97,
+      "name": "Gold Canyon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldCanyon.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gold-canyon"
+    },
+    {
+      "index": 98,
+      "name": "The True Sheriff",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrueSheriff.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-true-sheriff"
+    },
+    {
+      "index": 99,
+      "name": "The Mystic Hive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheMysticHive.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-mystic-hive"
+    },
+    {
+      "index": 100,
+      "name": "Wolf Moon Rising",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WolfMoonRising.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-wolf-moon-rising"
+    },
+    {
+      "index": 101,
+      "name": "7th Heaven",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_7thHeaven.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-7th-heaven"
+    },
+    {
+      "index": 102,
+      "name": "Genie's Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThreeWishes.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-genie-s-fortune"
+    },
+    {
+      "index": 103,
+      "name": "American Blackjack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AmericanBlackjack.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-american-blackjack"
+    },
+    {
+      "index": 104,
+      "name": "Arrival",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Arrival.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-arrival"
+    },
+    {
+      "index": 105,
+      "name": "Mega Glam Life",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MegaGlamLife.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mega-glam-life"
+    },
+    {
+      "index": 106,
+      "name": "ChilliPop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ChilliPop.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-chillipop"
+    },
+    {
+      "index": 107,
+      "name": "A Night in Paris",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_NightInParis.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-a-night-in-paris"
+    },
+    {
+      "index": 108,
+      "name": "Gold Diggers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldDiggers.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gold-diggers"
+    },
+    {
+      "index": 109,
+      "name": "Under The Bed",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_UnderTheBed.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-under-the-bed"
+    },
+    {
+      "index": 110,
+      "name": "Return to Paris",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ReturntoParis.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-return-to-paris"
+    },
+    {
+      "index": 111,
+      "name": "Barbary Coast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BarbaryCoast.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-barbary-coast"
+    },
+    {
+      "index": 112,
+      "name": "Book of Helios",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BookofHelios.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-book-of-helios"
+    },
+    {
+      "index": 113,
+      "name": "Tiger's Claw",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TigersClaw.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-tiger-s-claw"
+    },
+    {
+      "index": 114,
+      "name": "Dragon & Phoenix",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DragonandPhoenix.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-dragon-phoenix"
+    },
+    {
+      "index": 115,
+      "name": "Sleighin' It",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SleighinIt.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-sleighin-it"
+    },
+    {
+      "index": 116,
+      "name": "Glam Life",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GlamLife.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-glam-life"
+    },
+    {
+      "index": 117,
+      "name": "Stampede",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Stampede.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-stampede"
+    },
+    {
+      "index": 118,
+      "name": "House of Fun",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_HouseOfFun.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-house-of-fun"
+    },
+    {
+      "index": 119,
+      "name": "Paco and the Popping Peppers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PacoAndThePoppingPeppers.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-paco-and-the-popping-peppers"
+    },
+    {
+      "index": 120,
+      "name": "Rook's Revenge",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RooksRevenge.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-rook-s-revenge"
+    },
+    {
+      "index": 121,
+      "name": "Safari Sam",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SafariSam.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-safari-sam"
+    },
+    {
+      "index": 122,
+      "name": "Expansion!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Expansion.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-expansion"
+    },
+    {
+      "index": 123,
+      "name": "Take Olympus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeOlympus.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-olympus"
+    },
+    {
+      "index": 124,
+      "name": "Legend of the Nile",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LegendOfTheNile.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-legend-of-the-nile"
+    },
+    {
+      "index": 125,
+      "name": "Wilds Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WildsOfFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-wilds-of-fortune"
+    },
+    {
+      "index": 126,
+      "name": "Slots Angels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SlotsAngels.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-slots-angels"
+    },
+    {
+      "index": 127,
+      "name": "Dr. Jekyll & Mr. Hyde",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DrJekyllAndMrHyde.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-dr-jekyll-mr-hyde"
+    },
+    {
+      "index": 128,
+      "name": "The Curious Machine Plus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CuriousMachinePlus.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-curious-machine-plus"
+    },
+    {
+      "index": 129,
+      "name": "Take The Bank",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeTheBank.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-the-bank"
+    },
+    {
+      "index": 130,
+      "name": "Kensei Blades",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_KenseiBlades.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-kensei-blades"
+    },
+    {
+      "index": 131,
+      "name": "Monster Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MonsterPop.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-monster-pop"
+    },
+    {
+      "index": 132,
+      "name": "The Hive",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TheHive.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-hive"
+    },
+    {
+      "index": 133,
+      "name": "Captain's Quest Treasure Island",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaptainsQuestTreasureIsland.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-captain-s-quest-treasure-island"
+    },
+    {
+      "index": 134,
+      "name": "Quest to the West",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_QuesttotheWest.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-quest-to-the-west"
+    },
+    {
+      "index": 135,
+      "name": "Three Card Rummy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThreeCardRummy.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-three-card-rummy"
+    },
+    {
+      "index": 136,
+      "name": "Viking Age",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VikingAge.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-viking-age"
+    },
+    {
+      "index": 137,
+      "name": "7 Fortune Frenzy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_7FortuneFrenzy.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-7-fortune-frenzy"
+    },
+    {
+      "index": 138,
+      "name": "At The Movies",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AtTheMovies.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-at-the-movies"
+    },
+    {
+      "index": 139,
+      "name": "Sugar Pop 2: Double Dipped",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SugarPop2DoubleDipped.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-sugar-pop-2-double-dipped"
+    },
+    {
+      "index": 140,
+      "name": "Jumbo Joker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_JumboJoker.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-jumbo-joker"
+    },
+    {
+      "index": 141,
+      "name": "Dragon Kings",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DragonKings.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-dragon-kings"
+    },
+    {
+      "index": 142,
+      "name": "Take The Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TakeTheKingdom.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-take-the-kingdom"
+    },
+    {
+      "index": 143,
+      "name": "2 Million B.C.",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_2MillionBC.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-2-million-b-c"
+    },
+    {
+      "index": 144,
+      "name": "Fruitbat Crazy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FruitbatCrazy.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-fruitbat-crazy"
+    },
+    {
+      "index": 145,
+      "name": "True Illusions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TrueIllusions.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-true-illusions"
+    },
+    {
+      "index": 146,
+      "name": "88 Frenzy Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_88FrenzyFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-88-frenzy-fortune"
+    },
+    {
+      "index": 147,
+      "name": "RockStar",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_RockStar.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-rockstar"
+    },
+    {
+      "index": 148,
+      "name": "Mega Gems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MegaGems.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mega-gems"
+    },
+    {
+      "index": 149,
+      "name": "Primal Wilderness",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PrimalWilderness.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-primal-wilderness"
+    },
+    {
+      "index": 150,
+      "name": "Thai Blossoms",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ThaiBlossoms.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-thai-blossoms"
+    },
+    {
+      "index": 151,
+      "name": "Mr. Vegas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrVegas.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mr-vegas"
+    },
+    {
+      "index": 152,
+      "name": "The Exterminator",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Exterminator.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-the-exterminator"
+    },
+    {
+      "index": 153,
+      "name": "Gemini Joker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GeminiJoker.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gemini-joker"
+    },
+    {
+      "index": 154,
+      "name": "Slotfather2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Slotfather2.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-slotfather2"
+    },
+    {
+      "index": 155,
+      "name": "Great88",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Great88.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-great88"
+    },
+    {
+      "index": 156,
+      "name": "Miles Bellhouse and the Gears of time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MilesBellhouseAndtheGearsOftime.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-miles-bellhouse-and-the-gears-of-time"
+    },
+    {
+      "index": 157,
+      "name": "Birds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Birds.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-birds"
+    },
+    {
+      "index": 158,
+      "name": "Lucky Seven",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LuckySeven.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-lucky-seven"
+    },
+    {
+      "index": 159,
+      "name": "Gladiator",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Gladiator.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gladiator"
+    },
+    {
+      "index": 160,
+      "name": "Under The Sea",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_UnderTheSea.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-under-the-sea"
+    },
+    {
+      "index": 161,
+      "name": "Coins of Fruit: Hold & Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/bsg:CoinsofFruitHoldWin-c3JOe5WTy.jpeg",
+      "game_link": "https://roobet.com/casino/game/betsoft-coins-of-fruit-hold-win"
+    },
+    {
+      "index": 162,
+      "name": "Fruit Zen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FruitZen.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-fruit-zen"
+    },
+    {
+      "index": 163,
+      "name": "Greedy Goblins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GreedyGoblins.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-greedy-goblins"
+    },
+    {
+      "index": 164,
+      "name": "Pinocchio",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Pinocchio.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-pinocchio"
+    },
+    {
+      "index": 165,
+      "name": "FaFaTwins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_FaFaTwins.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-fafatwins"
+    },
+    {
+      "index": 166,
+      "name": "Caishen's Arrival",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaishensArrival.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-caishen-s-arrival"
+    },
+    {
+      "index": 167,
+      "name": "Viking Voyage",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VikingVoyage.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-viking-voyage"
+    },
+    {
+      "index": 168,
+      "name": "Madder Scientist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MadderScientist.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-madder-scientist"
+    },
+    {
+      "index": 169,
+      "name": "Mr. Vegas 2: Big Money Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MrVegas2BigMoneyTower.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mr-vegas-2-big-money-tower"
+    },
+    {
+      "index": 170,
+      "name": "Puppy Love Plus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_PuppyLovePlus.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-puppy-love-plus"
+    },
+    {
+      "index": 171,
+      "name": "Gold Tiger Ascent",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GoldTigerAscent.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-gold-tiger-ascent"
+    },
+    {
+      "index": 172,
+      "name": "72 Fortunes",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_72Fortunes.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-72-fortunes"
+    },
+    {
+      "index": 173,
+      "name": "Boomanji",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Boomanji.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-boomanji"
+    },
+    {
+      "index": 174,
+      "name": "Tower of Fortuna",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TowerofFortuna.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-tower-of-fortuna"
+    },
+    {
+      "index": 175,
+      "name": "Oasis Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_OasisPoker.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-oasis-poker"
+    },
+    {
+      "index": 176,
+      "name": "After Night Falls",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AfterNightFalls.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-after-night-falls"
+    },
+    {
+      "index": 177,
+      "name": "Magic Shoppe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MagicShoppe.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-magic-shoppe"
+    },
+    {
+      "index": 178,
+      "name": "Stay Frosty!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_StayFrosty.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-stay-frosty"
+    },
+    {
+      "index": 179,
+      "name": "Kawaii Kitty",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_KawaiiKitty.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-kawaii-kitty"
+    },
+    {
+      "index": 180,
+      "name": "Woodlanders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Woodlanders.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-woodlanders"
+    },
+    {
+      "index": 181,
+      "name": "A Christmas Carol",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ChristmasCarol.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-a-christmas-carol"
+    },
+    {
+      "index": 182,
+      "name": "Charms & Treasures",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CharmsTreasures.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-charms-treasures"
+    },
+    {
+      "index": 183,
+      "name": "Dim Sum Prize",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DimSumPrize.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-dim-sum-prize"
+    },
+    {
+      "index": 184,
+      "name": "Event Horizon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_EventHorizon.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-event-horizon"
+    },
+    {
+      "index": 185,
+      "name": "Lost Mystery Chests",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_LostMysteryChests.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-lost-mystery-chests"
+    },
+    {
+      "index": 186,
+      "name": "Blood Eternal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_BloodEternal.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-blood-eternal"
+    },
+    {
+      "index": 187,
+      "name": "Giovanni's Gems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_GiovannisGems.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-giovanni-s-gems"
+    },
+    {
+      "index": 188,
+      "name": "Caribbean Poker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_CaribbeanPoker.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-caribbean-poker"
+    },
+    {
+      "index": 189,
+      "name": "4 Seasons",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_4Seasons.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-4-seasons"
+    },
+    {
+      "index": 190,
+      "name": "Winds of Wealth",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WindsOfWealth.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-winds-of-wealth"
+    },
+    {
+      "index": 191,
+      "name": "Weekend In Vegas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_WeekendInVegas.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-weekend-in-vegas"
+    },
+    {
+      "index": 192,
+      "name": "Tycoons Plus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TycoonsPlus.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-tycoons-plus"
+    },
+    {
+      "index": 193,
+      "name": "At The Copa",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AtTheCopa.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-at-the-copa"
+    },
+    {
+      "index": 194,
+      "name": "American Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_AmericanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-american-roulette"
+    },
+    {
+      "index": 195,
+      "name": "Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Heist.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-heist"
+    },
+    {
+      "index": 196,
+      "name": "Lost",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_Lost.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-lost"
+    },
+    {
+      "index": 197,
+      "name": "Mamma Mia",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_MammaMia.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-mamma-mia"
+    },
+    {
+      "index": 198,
+      "name": "Sugar Pop",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_SugarPop.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-sugar-pop"
+    },
+    {
+      "index": 199,
+      "name": "Top Card Trumps",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_TopCardTrumps.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-top-card-trumps"
+    },
+    {
+      "index": 200,
+      "name": "Vip American Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_VipAmericanRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-vip-american-roulette"
+    },
+    {
+      "index": 201,
+      "name": "Zoom Roulette",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_ZoomRoulette.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-zoom-roulette"
+    },
+    {
+      "index": 202,
+      "name": "Draw Hi-Lo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/bsg_DrawHiLo.jpg",
+      "game_link": "https://roobet.com/casino/game/betsoft-draw-hi-lo"
+    }
+  ]
+}

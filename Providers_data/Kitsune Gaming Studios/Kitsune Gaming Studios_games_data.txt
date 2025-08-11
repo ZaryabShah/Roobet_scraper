@@ -1,0 +1,17 @@
+Kitsune Gaming Studios Games Data
+==================================================
+Total games found: 2
+Load More clicks: 0
+Extraction date: 2025-08-11 04:39:19
+==================================================
+
+Game #1:
+  Name: The Library
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1726-MydO_cC8R.jpeg
+  Game Link: https://roobet.com/casino/game/kitsune-gaming-studios-the-library
+----------------------------------------
+Game #2:
+  Name: Club Cabana
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1842-LVoLz1EZm.jpeg
+  Game Link: https://roobet.com/casino/game/hacksaw:1842
+----------------------------------------

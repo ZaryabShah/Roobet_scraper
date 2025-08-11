@@ -1,0 +1,622 @@
+ELK Studios Games Data
+==================================================
+Total games found: 123
+Load More clicks: 2
+Extraction date: 2025-08-11 00:45:48
+==================================================
+
+Game #1:
+  Name: Pirots 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Pirots4-KqSV-7kS0.jpeg
+  Game Link: https://roobet.com/casino/game/elk:Pirots4
+----------------------------------------
+Game #2:
+  Name: Pirots 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots3.jpg
+  Game Link: https://roobet.com/casino/game/elk-pirots-3
+----------------------------------------
+Game #3:
+  Name: Phoenix Graveyard II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:PhoenixGraveyard2-D5ttlC_24.jpeg
+  Game Link: https://roobet.com/casino/game/elk:PhoenixGraveyard2
+----------------------------------------
+Game #4:
+  Name: Pirots 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots2.jpg
+  Game Link: https://roobet.com/casino/game/elk-pirots-2
+----------------------------------------
+Game #5:
+  Name: Nitropolis 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis3.jpg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis-3
+----------------------------------------
+Game #6:
+  Name: Cygnus 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Cygnus5-uoIbbyNB0.jpeg
+  Game Link: https://roobet.com/casino/game/elk-cygnus-5
+----------------------------------------
+Game #7:
+  Name: Cluster Slide
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ClusterSlide.jpg
+  Game Link: https://roobet.com/casino/game/elk-cluster-slide
+----------------------------------------
+Game #8:
+  Name: Dam Beavers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DamBeavers.jpg
+  Game Link: https://roobet.com/casino/game/elk-dam-beavers
+----------------------------------------
+Game #9:
+  Name: Heist Guys
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:HeistGuys-R8l3zrItt.jpeg
+  Game Link: https://roobet.com/casino/game/elk-heist-guys
+----------------------------------------
+Game #10:
+  Name: Slurpy
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Slurpy.jpg
+  Game Link: https://roobet.com/casino/game/elk-slurpy
+----------------------------------------
+Game #11:
+  Name: Pirots X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:PirotsX-0KiTO3D57.jpeg
+  Game Link: https://roobet.com/casino/game/elk-pirots-x
+----------------------------------------
+Game #12:
+  Name: Thoro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Thoro-hpNKz8qak.jpeg
+  Game Link: https://roobet.com/casino/game/elk-thoro
+----------------------------------------
+Game #13:
+  Name: ZapLab
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ZapLab-7P_V_DRn6.jpeg
+  Game Link: https://roobet.com/casino/game/elk-zaplab
+----------------------------------------
+Game #14:
+  Name: oXygen
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_oXygen.jpg
+  Game Link: https://roobet.com/casino/game/elk-oxygen
+----------------------------------------
+Game #15:
+  Name: Tropicool 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Tropicool4-3CwWcknPR.jpeg
+  Game Link: https://roobet.com/casino/game/elk-tropicool-4
+----------------------------------------
+Game #16:
+  Name: Rex Stampede
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:RexStampede-1yMNUpZRc.jpeg
+  Game Link: https://roobet.com/casino/game/elk:RexStampede
+----------------------------------------
+Game #17:
+  Name: Pirots
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots.jpg
+  Game Link: https://roobet.com/casino/game/elk-pirots
+----------------------------------------
+Game #18:
+  Name: Nitropolis 5
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Nitropolis5-fXFwuq6Ds.jpeg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis-5
+----------------------------------------
+Game #19:
+  Name: GladiaToro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GladiaToro.jpg
+  Game Link: https://roobet.com/casino/game/elk-gladiatoro
+----------------------------------------
+Game #20:
+  Name: Oxygen 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Oxygen2-XD2bSDfe4.jpeg
+  Game Link: https://roobet.com/casino/game/elk-oxygen-2
+----------------------------------------
+Game #21:
+  Name: Katmandu Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KatmanduGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-katmandu-gold
+----------------------------------------
+Game #22:
+  Name: Knight Fight
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:KnightFight-pGcDZfcMf.jpeg
+  Game Link: https://roobet.com/casino/game/elk-knight-fight
+----------------------------------------
+Game #23:
+  Name: Buffalo Toro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BuffaloToro.jpg
+  Game Link: https://roobet.com/casino/game/elk-buffalo-toro
+----------------------------------------
+Game #24:
+  Name: Mystic Orbs
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MysticOrbs.jpg
+  Game Link: https://roobet.com/casino/game/elk-mystic-orbs
+----------------------------------------
+Game #25:
+  Name: Cygnus 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus2.jpg
+  Game Link: https://roobet.com/casino/game/elk-cygnus-2
+----------------------------------------
+Game #26:
+  Name: Shadow Shifter
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ShadowShifter-K-KS0IPWz.jpeg
+  Game Link: https://roobet.com/casino/game/elk-shadow-shifter
+----------------------------------------
+Game #27:
+  Name: Book of Toro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BookofToro.jpg
+  Game Link: https://roobet.com/casino/game/elk-book-of-toro
+----------------------------------------
+Game #28:
+  Name: Tropicool 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Tropicool3.jpg
+  Game Link: https://roobet.com/casino/game/elk-tropicool-3
+----------------------------------------
+Game #29:
+  Name: Dropz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Dropz.jpg
+  Game Link: https://roobet.com/casino/game/elk-dropz
+----------------------------------------
+Game #30:
+  Name: Cygnus 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus4.jpg
+  Game Link: https://roobet.com/casino/game/elk-cygnus-4
+----------------------------------------
+Game #31:
+  Name: Mine Defender
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:MineDefender-pzB6-N54i.jpeg
+  Game Link: https://roobet.com/casino/game/elk-mine-defender
+----------------------------------------
+Game #32:
+  Name: Rabbit Royale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RabbitRoyale.jpg
+  Game Link: https://roobet.com/casino/game/elk-rabbit-royale
+----------------------------------------
+Game #33:
+  Name: Jeff & Scully
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JeffAndScully.jpg
+  Game Link: https://roobet.com/casino/game/elk-jeff-scully
+----------------------------------------
+Game #34:
+  Name: Katmandu X
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KatmanduX.jpg
+  Game Link: https://roobet.com/casino/game/elk-katmandu-x
+----------------------------------------
+Game #35:
+  Name: Elysian Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ElysianGold-2DbjfBorf.jpeg
+  Game Link: https://roobet.com/casino/game/elk-elysian-gold
+----------------------------------------
+Game #36:
+  Name: Wild Toro II
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WildToroII.jpg
+  Game Link: https://roobet.com/casino/game/elk-wild-toro-ii
+----------------------------------------
+Game #37:
+  Name: Io
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Io.jpg
+  Game Link: https://roobet.com/casino/game/elk-io
+----------------------------------------
+Game #38:
+  Name: Avalon Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_AvalonGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-avalon-gold
+----------------------------------------
+Game #39:
+  Name: Bompers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Bompers.jpg
+  Game Link: https://roobet.com/casino/game/elk-bompers
+----------------------------------------
+Game #40:
+  Name: Cygnus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus.jpg
+  Game Link: https://roobet.com/casino/game/elk-cygnus
+----------------------------------------
+Game #41:
+  Name: Ryze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Ryze-JzU0G6Ttl.jpeg
+  Game Link: https://roobet.com/casino/game/elk-ryze
+----------------------------------------
+Game #42:
+  Name: Man vs Gator
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ManvsGator.jpg
+  Game Link: https://roobet.com/casino/game/elk-man-vs-gator
+----------------------------------------
+Game #43:
+  Name: Frogblox
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Frogblox.jpg
+  Game Link: https://roobet.com/casino/game/elk-frogblox
+----------------------------------------
+Game #44:
+  Name: Ashoka Eternal
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_AshokaEternal.jpg
+  Game Link: https://roobet.com/casino/game/elk-ashoka-eternal
+----------------------------------------
+Game #45:
+  Name: Gritty Kitty of Nitropolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GrittyKittyofNitropolis.jpg
+  Game Link: https://roobet.com/casino/game/elk-gritty-kitty-of-nitropolis
+----------------------------------------
+Game #46:
+  Name: Nitropolis 4
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis4.jpg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis-4
+----------------------------------------
+Game #47:
+  Name: Propaganda
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Propaganda.jpg
+  Game Link: https://roobet.com/casino/game/elk-propaganda
+----------------------------------------
+Game #48:
+  Name: Rogue Rats of Nitropolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RogueRatsofNitropolis.jpg
+  Game Link: https://roobet.com/casino/game/elk-rogue-rats-of-nitropolis
+----------------------------------------
+Game #49:
+  Name: Catemple
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Catemple-QkmzAHsW1.jpeg
+  Game Link: https://roobet.com/casino/game/elk-catemple
+----------------------------------------
+Game #50:
+  Name: Stars of Orion
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_StarsofOrion.jpg
+  Game Link: https://roobet.com/casino/game/elk-stars-of-orion
+----------------------------------------
+Game #51:
+  Name: Tinkerbot
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Tinkerbot-yobktgEgE.jpeg
+  Game Link: https://roobet.com/casino/game/elk-tinkerbot
+----------------------------------------
+Game #52:
+  Name: Reindeer Royale
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ReindeerRoyale-U4khKHfCM.jpeg
+  Game Link: https://roobet.com/casino/game/elk-reindeer-royale
+----------------------------------------
+Game #53:
+  Name: Squeeze
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Squeeze.jpg
+  Game Link: https://roobet.com/casino/game/elk-squeeze
+----------------------------------------
+Game #54:
+  Name: Hit It Big
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HitItBig.jpg
+  Game Link: https://roobet.com/casino/game/elk-hit-it-big
+----------------------------------------
+Game #55:
+  Name: Cluster Kingdom
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ClusterKingdom-8mlEg-XVb.jpeg
+  Game Link: https://roobet.com/casino/game/elk-cluster-kingdom
+----------------------------------------
+Game #56:
+  Name: Toro Shogun
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ToroShogun.jpg
+  Game Link: https://roobet.com/casino/game/elk-toro-shogun
+----------------------------------------
+Game #57:
+  Name: Nightmaker
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Nightmaker-uPbMDsBLT.jpeg
+  Game Link: https://roobet.com/casino/game/elk-nightmaker
+----------------------------------------
+Game #58:
+  Name: Ashoka
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Ashoka.jpg
+  Game Link: https://roobet.com/casino/game/elk-ashoka
+----------------------------------------
+Game #59:
+  Name: Cygnus 3
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus3.jpg
+  Game Link: https://roobet.com/casino/game/elk-cygnus-3
+----------------------------------------
+Game #60:
+  Name: Orbitfall
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Orbitfall-bUAOmMXaE.jpeg
+  Game Link: https://roobet.com/casino/game/elk-orbitfall
+----------------------------------------
+Game #61:
+  Name: Nitropolis 2
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis2.jpg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis-2
+----------------------------------------
+Game #62:
+  Name: Fate of Fortune
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_FateofFortune.jpg
+  Game Link: https://roobet.com/casino/game/elk-fate-of-fortune
+----------------------------------------
+Game #63:
+  Name: Pug Thugs of Nitropolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PugThugsofNitropolis.jpg
+  Game Link: https://roobet.com/casino/game/elk-pug-thugs-of-nitropolis
+----------------------------------------
+Game #64:
+  Name: Route 777
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Route777.jpg
+  Game Link: https://roobet.com/casino/game/elk-route-777
+----------------------------------------
+Game #65:
+  Name: Hula Balua
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HulaBalua.jpg
+  Game Link: https://roobet.com/casino/game/elk-hula-balua
+----------------------------------------
+Game #66:
+  Name: Coba
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Coba.jpg
+  Game Link: https://roobet.com/casino/game/elk-coba
+----------------------------------------
+Game #67:
+  Name: Dirty Dawgs of Nitropolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DirtyDawgsofNitropolis.jpg
+  Game Link: https://roobet.com/casino/game/elk-dirty-dawgs-of-nitropolis
+----------------------------------------
+Game #68:
+  Name: Tropicool
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Tropicool.jpg
+  Game Link: https://roobet.com/casino/game/elk-tropicool
+----------------------------------------
+Game #69:
+  Name: Ice Wolf
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_IceWolf.jpg
+  Game Link: https://roobet.com/casino/game/elk-ice-wolf
+----------------------------------------
+Game #70:
+  Name: Phoenix Graveyard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PhoenixGraveyard.jpg
+  Game Link: https://roobet.com/casino/game/elk-phoenix-graveyard
+----------------------------------------
+Game #71:
+  Name: Win Win
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WinWin.jpg
+  Game Link: https://roobet.com/casino/game/elk-win-win
+----------------------------------------
+Game #72:
+  Name: Pacific Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PacificGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-pacific-gold
+----------------------------------------
+Game #73:
+  Name: Valhall Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ValhallGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-valhall-gold
+----------------------------------------
+Game #74:
+  Name: Dead Man’s Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DeadMansGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-dead-man-s-gold
+----------------------------------------
+Game #75:
+  Name: Respin Circus
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RespinCircus.jpg
+  Game Link: https://roobet.com/casino/game/elk-respin-circus
+----------------------------------------
+Game #76:
+  Name: Knockout Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KnockoutDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/elk-knockout-diamonds
+----------------------------------------
+Game #77:
+  Name: Illogicool
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Illogicool.jpg
+  Game Link: https://roobet.com/casino/game/elk-illogicool
+----------------------------------------
+Game #78:
+  Name: Night Trax
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_NightTrax.jpg
+  Game Link: https://roobet.com/casino/game/elk-night-trax
+----------------------------------------
+Game #79:
+  Name: Sumo Sumo
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_SumoSumo.jpg
+  Game Link: https://roobet.com/casino/game/elk-sumo-sumo
+----------------------------------------
+Game #80:
+  Name: Nitropolis TV
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:NitropolisTV-89-2SO5wk.jpeg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis-tv
+----------------------------------------
+Game #81:
+  Name: Coba Reborn
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_CobaReborn.jpg
+  Game Link: https://roobet.com/casino/game/elk-coba-reborn
+----------------------------------------
+Game #82:
+  Name: Poltava
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Poltava.jpg
+  Game Link: https://roobet.com/casino/game/elk-poltava
+----------------------------------------
+Game #83:
+  Name: Voodoo Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_VoodooGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-voodoo-gold
+----------------------------------------
+Game #84:
+  Name: Zulu Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ZuluGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-zulu-gold
+----------------------------------------
+Game #85:
+  Name: Kaiju
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Kaiju.jpg
+  Game Link: https://roobet.com/casino/game/elk-kaiju
+----------------------------------------
+Game #86:
+  Name: Toro 7s
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Toro7s.jpg
+  Game Link: https://roobet.com/casino/game/elk-toro-7s
+----------------------------------------
+Game #87:
+  Name: J-POP
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JPOP.jpg
+  Game Link: https://roobet.com/casino/game/elk-j-pop
+----------------------------------------
+Game #88:
+  Name: Hit It Hard
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HitItHard.jpg
+  Game Link: https://roobet.com/casino/game/elk-hit-it-hard
+----------------------------------------
+Game #89:
+  Name: Buggin
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Buggin.jpg
+  Game Link: https://roobet.com/casino/game/elk-buggin
+----------------------------------------
+Game #90:
+  Name: In the Zone
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:IntheZone-kbBTD6KbY.jpeg
+  Game Link: https://roobet.com/casino/game/elk-in-the-zone
+----------------------------------------
+Game #91:
+  Name: The Wiz
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TheWiz.jpg
+  Game Link: https://roobet.com/casino/game/elk-the-wiz
+----------------------------------------
+Game #92:
+  Name: Blood Lust
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BloodLust.jpg
+  Game Link: https://roobet.com/casino/game/elk-blood-lust
+----------------------------------------
+Game #93:
+  Name: Ecuador Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_EcuadorGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-ecuador-gold
+----------------------------------------
+Game #94:
+  Name: Dream Diver
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DreamDiver.jpg
+  Game Link: https://roobet.com/casino/game/elk-dream-diver
+----------------------------------------
+Game #95:
+  Name: Valkyrie
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Valkyrie.jpg
+  Game Link: https://roobet.com/casino/game/elk-valkyrie
+----------------------------------------
+Game #96:
+  Name: Taco Brothers Derailed
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrothersDerailed.jpg
+  Game Link: https://roobet.com/casino/game/elk-taco-brothers-derailed
+----------------------------------------
+Game #97:
+  Name: Tahiti Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TahitiGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-tahiti-gold
+----------------------------------------
+Game #98:
+  Name: Birthday!
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Birthday.jpg
+  Game Link: https://roobet.com/casino/game/elk-birthday
+----------------------------------------
+Game #99:
+  Name: Grand Galore
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GrandGalore.jpg
+  Game Link: https://roobet.com/casino/game/elk-grand-galore
+----------------------------------------
+Game #100:
+  Name: Micro Knights
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MicroKnights.jpg
+  Game Link: https://roobet.com/casino/game/elk-micro-knights
+----------------------------------------
+Game #101:
+  Name: Diablo Reels
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DiabloReels.jpg
+  Game Link: https://roobet.com/casino/game/elk-diablo-reels
+----------------------------------------
+Game #102:
+  Name: Ivanhoe
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Ivanhoe.jpg
+  Game Link: https://roobet.com/casino/game/elk-ivanhoe
+----------------------------------------
+Game #103:
+  Name: Nitropolis
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis.jpg
+  Game Link: https://roobet.com/casino/game/elk-nitropolis
+----------------------------------------
+Game #104:
+  Name: Platooners
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Platooners.jpg
+  Game Link: https://roobet.com/casino/game/elk-platooners
+----------------------------------------
+Game #105:
+  Name: Miss Wildfire
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MissWildfire.jpg
+  Game Link: https://roobet.com/casino/game/elk-miss-wildfire
+----------------------------------------
+Game #106:
+  Name: Visitors
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Visitors.jpg
+  Game Link: https://roobet.com/casino/game/elk-visitors
+----------------------------------------
+Game #107:
+  Name: Black River Gold
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BlackRiverGold.jpg
+  Game Link: https://roobet.com/casino/game/elk-black-river-gold
+----------------------------------------
+Game #108:
+  Name: Bloopers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Bloopers.jpg
+  Game Link: https://roobet.com/casino/game/elk-bloopers
+----------------------------------------
+Game #109:
+  Name: Crusader
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Crusader.jpg
+  Game Link: https://roobet.com/casino/game/elk-crusader
+----------------------------------------
+Game #110:
+  Name: Wild Toro
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WildToro.jpg
+  Game Link: https://roobet.com/casino/game/elk-wild-toro
+----------------------------------------
+Game #111:
+  Name: Electric Sam
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ElectricSam.jpg
+  Game Link: https://roobet.com/casino/game/elk-electric-sam
+----------------------------------------
+Game #112:
+  Name: Hongkong Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HongkongTower.jpg
+  Game Link: https://roobet.com/casino/game/elk-hongkong-tower
+----------------------------------------
+Game #113:
+  Name: DJ Wild
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DJWild.jpg
+  Game Link: https://roobet.com/casino/game/elk-dj-wild
+----------------------------------------
+Game #114:
+  Name: Joker Gems
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JokerGems.jpg
+  Game Link: https://roobet.com/casino/game/elk-joker-gems
+----------------------------------------
+Game #115:
+  Name: Vegas Diamonds
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_VegasDiamonds.jpg
+  Game Link: https://roobet.com/casino/game/elk-vegas-diamonds
+----------------------------------------
+Game #116:
+  Name: Hidden
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Hidden.jpg
+  Game Link: https://roobet.com/casino/game/elk-hidden
+----------------------------------------
+Game #117:
+  Name: Chi
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Chi.jpg
+  Game Link: https://roobet.com/casino/game/elk-chi
+----------------------------------------
+Game #118:
+  Name: Dreamzone
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Dreamzone.jpg
+  Game Link: https://roobet.com/casino/game/elk-dreamzone
+----------------------------------------
+Game #119:
+  Name: Sam on the Beach
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_SamontheBeach.jpg
+  Game Link: https://roobet.com/casino/game/elk-sam-on-the-beach
+----------------------------------------
+Game #120:
+  Name: Taco Brothers Saving Christmas
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrotherChristmas.jpg
+  Game Link: https://roobet.com/casino/game/elk-taco-brothers-saving-christmas
+----------------------------------------
+Game #121:
+  Name: Lake's Five
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_LakesFive.jpg
+  Game Link: https://roobet.com/casino/game/elk-lake-s-five
+----------------------------------------
+Game #122:
+  Name: Taco Brothers
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrothers.jpg
+  Game Link: https://roobet.com/casino/game/elk-taco-brothers
+----------------------------------------
+Game #123:
+  Name: Ho Ho Tower
+  Image URL: https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HoHoTower.jpg
+  Game Link: https://roobet.com/casino/game/elk-ho-ho-tower
+----------------------------------------

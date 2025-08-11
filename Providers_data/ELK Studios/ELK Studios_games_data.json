@@ -1,0 +1,746 @@
+{
+  "provider": "ELK Studios",
+  "total_games": 123,
+  "load_more_clicks": 2,
+  "extraction_date": "2025-08-11T00:45:48.118993",
+  "games": [
+    {
+      "index": 1,
+      "name": "Pirots 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Pirots4-KqSV-7kS0.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk:Pirots4"
+    },
+    {
+      "index": 2,
+      "name": "Pirots 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots3.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-pirots-3"
+    },
+    {
+      "index": 3,
+      "name": "Phoenix Graveyard II",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:PhoenixGraveyard2-D5ttlC_24.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk:PhoenixGraveyard2"
+    },
+    {
+      "index": 4,
+      "name": "Pirots 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots2.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-pirots-2"
+    },
+    {
+      "index": 5,
+      "name": "Nitropolis 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis3.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis-3"
+    },
+    {
+      "index": 6,
+      "name": "Cygnus 5",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Cygnus5-uoIbbyNB0.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-cygnus-5"
+    },
+    {
+      "index": 7,
+      "name": "Cluster Slide",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ClusterSlide.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-cluster-slide"
+    },
+    {
+      "index": 8,
+      "name": "Dam Beavers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DamBeavers.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dam-beavers"
+    },
+    {
+      "index": 9,
+      "name": "Heist Guys",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:HeistGuys-R8l3zrItt.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-heist-guys"
+    },
+    {
+      "index": 10,
+      "name": "Slurpy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Slurpy.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-slurpy"
+    },
+    {
+      "index": 11,
+      "name": "Pirots X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:PirotsX-0KiTO3D57.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-pirots-x"
+    },
+    {
+      "index": 12,
+      "name": "Thoro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Thoro-hpNKz8qak.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-thoro"
+    },
+    {
+      "index": 13,
+      "name": "ZapLab",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ZapLab-7P_V_DRn6.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-zaplab"
+    },
+    {
+      "index": 14,
+      "name": "oXygen",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_oXygen.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-oxygen"
+    },
+    {
+      "index": 15,
+      "name": "Tropicool 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Tropicool4-3CwWcknPR.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-tropicool-4"
+    },
+    {
+      "index": 16,
+      "name": "Rex Stampede",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:RexStampede-1yMNUpZRc.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk:RexStampede"
+    },
+    {
+      "index": 17,
+      "name": "Pirots",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Pirots.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-pirots"
+    },
+    {
+      "index": 18,
+      "name": "Nitropolis 5",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Nitropolis5-fXFwuq6Ds.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis-5"
+    },
+    {
+      "index": 19,
+      "name": "GladiaToro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GladiaToro.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-gladiatoro"
+    },
+    {
+      "index": 20,
+      "name": "Oxygen 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Oxygen2-XD2bSDfe4.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-oxygen-2"
+    },
+    {
+      "index": 21,
+      "name": "Katmandu Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KatmanduGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-katmandu-gold"
+    },
+    {
+      "index": 22,
+      "name": "Knight Fight",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:KnightFight-pGcDZfcMf.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-knight-fight"
+    },
+    {
+      "index": 23,
+      "name": "Buffalo Toro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BuffaloToro.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-buffalo-toro"
+    },
+    {
+      "index": 24,
+      "name": "Mystic Orbs",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MysticOrbs.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-mystic-orbs"
+    },
+    {
+      "index": 25,
+      "name": "Cygnus 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus2.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-cygnus-2"
+    },
+    {
+      "index": 26,
+      "name": "Shadow Shifter",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ShadowShifter-K-KS0IPWz.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-shadow-shifter"
+    },
+    {
+      "index": 27,
+      "name": "Book of Toro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BookofToro.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-book-of-toro"
+    },
+    {
+      "index": 28,
+      "name": "Tropicool 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Tropicool3.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-tropicool-3"
+    },
+    {
+      "index": 29,
+      "name": "Dropz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Dropz.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dropz"
+    },
+    {
+      "index": 30,
+      "name": "Cygnus 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus4.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-cygnus-4"
+    },
+    {
+      "index": 31,
+      "name": "Mine Defender",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:MineDefender-pzB6-N54i.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-mine-defender"
+    },
+    {
+      "index": 32,
+      "name": "Rabbit Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RabbitRoyale.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-rabbit-royale"
+    },
+    {
+      "index": 33,
+      "name": "Jeff & Scully",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JeffAndScully.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-jeff-scully"
+    },
+    {
+      "index": 34,
+      "name": "Katmandu X",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KatmanduX.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-katmandu-x"
+    },
+    {
+      "index": 35,
+      "name": "Elysian Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ElysianGold-2DbjfBorf.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-elysian-gold"
+    },
+    {
+      "index": 36,
+      "name": "Wild Toro II",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WildToroII.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-wild-toro-ii"
+    },
+    {
+      "index": 37,
+      "name": "Io",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Io.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-io"
+    },
+    {
+      "index": 38,
+      "name": "Avalon Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_AvalonGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-avalon-gold"
+    },
+    {
+      "index": 39,
+      "name": "Bompers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Bompers.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-bompers"
+    },
+    {
+      "index": 40,
+      "name": "Cygnus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-cygnus"
+    },
+    {
+      "index": 41,
+      "name": "Ryze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Ryze-JzU0G6Ttl.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-ryze"
+    },
+    {
+      "index": 42,
+      "name": "Man vs Gator",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ManvsGator.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-man-vs-gator"
+    },
+    {
+      "index": 43,
+      "name": "Frogblox",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Frogblox.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-frogblox"
+    },
+    {
+      "index": 44,
+      "name": "Ashoka Eternal",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_AshokaEternal.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ashoka-eternal"
+    },
+    {
+      "index": 45,
+      "name": "Gritty Kitty of Nitropolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GrittyKittyofNitropolis.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-gritty-kitty-of-nitropolis"
+    },
+    {
+      "index": 46,
+      "name": "Nitropolis 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis4.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis-4"
+    },
+    {
+      "index": 47,
+      "name": "Propaganda",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Propaganda.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-propaganda"
+    },
+    {
+      "index": 48,
+      "name": "Rogue Rats of Nitropolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RogueRatsofNitropolis.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-rogue-rats-of-nitropolis"
+    },
+    {
+      "index": 49,
+      "name": "Catemple",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Catemple-QkmzAHsW1.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-catemple"
+    },
+    {
+      "index": 50,
+      "name": "Stars of Orion",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_StarsofOrion.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-stars-of-orion"
+    },
+    {
+      "index": 51,
+      "name": "Tinkerbot",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Tinkerbot-yobktgEgE.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-tinkerbot"
+    },
+    {
+      "index": 52,
+      "name": "Reindeer Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ReindeerRoyale-U4khKHfCM.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-reindeer-royale"
+    },
+    {
+      "index": 53,
+      "name": "Squeeze",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Squeeze.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-squeeze"
+    },
+    {
+      "index": 54,
+      "name": "Hit It Big",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HitItBig.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-hit-it-big"
+    },
+    {
+      "index": 55,
+      "name": "Cluster Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:ClusterKingdom-8mlEg-XVb.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-cluster-kingdom"
+    },
+    {
+      "index": 56,
+      "name": "Toro Shogun",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ToroShogun.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-toro-shogun"
+    },
+    {
+      "index": 57,
+      "name": "Nightmaker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Nightmaker-uPbMDsBLT.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-nightmaker"
+    },
+    {
+      "index": 58,
+      "name": "Ashoka",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Ashoka.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ashoka"
+    },
+    {
+      "index": 59,
+      "name": "Cygnus 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Cygnus3.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-cygnus-3"
+    },
+    {
+      "index": 60,
+      "name": "Orbitfall",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:Orbitfall-bUAOmMXaE.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-orbitfall"
+    },
+    {
+      "index": 61,
+      "name": "Nitropolis 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis2.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis-2"
+    },
+    {
+      "index": 62,
+      "name": "Fate of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_FateofFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-fate-of-fortune"
+    },
+    {
+      "index": 63,
+      "name": "Pug Thugs of Nitropolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PugThugsofNitropolis.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-pug-thugs-of-nitropolis"
+    },
+    {
+      "index": 64,
+      "name": "Route 777",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Route777.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-route-777"
+    },
+    {
+      "index": 65,
+      "name": "Hula Balua",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HulaBalua.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-hula-balua"
+    },
+    {
+      "index": 66,
+      "name": "Coba",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Coba.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-coba"
+    },
+    {
+      "index": 67,
+      "name": "Dirty Dawgs of Nitropolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DirtyDawgsofNitropolis.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dirty-dawgs-of-nitropolis"
+    },
+    {
+      "index": 68,
+      "name": "Tropicool",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Tropicool.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-tropicool"
+    },
+    {
+      "index": 69,
+      "name": "Ice Wolf",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_IceWolf.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ice-wolf"
+    },
+    {
+      "index": 70,
+      "name": "Phoenix Graveyard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PhoenixGraveyard.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-phoenix-graveyard"
+    },
+    {
+      "index": 71,
+      "name": "Win Win",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WinWin.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-win-win"
+    },
+    {
+      "index": 72,
+      "name": "Pacific Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_PacificGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-pacific-gold"
+    },
+    {
+      "index": 73,
+      "name": "Valhall Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ValhallGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-valhall-gold"
+    },
+    {
+      "index": 74,
+      "name": "Dead Man’s Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DeadMansGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dead-man-s-gold"
+    },
+    {
+      "index": 75,
+      "name": "Respin Circus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_RespinCircus.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-respin-circus"
+    },
+    {
+      "index": 76,
+      "name": "Knockout Diamonds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_KnockoutDiamonds.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-knockout-diamonds"
+    },
+    {
+      "index": 77,
+      "name": "Illogicool",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Illogicool.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-illogicool"
+    },
+    {
+      "index": 78,
+      "name": "Night Trax",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_NightTrax.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-night-trax"
+    },
+    {
+      "index": 79,
+      "name": "Sumo Sumo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_SumoSumo.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-sumo-sumo"
+    },
+    {
+      "index": 80,
+      "name": "Nitropolis TV",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:NitropolisTV-89-2SO5wk.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis-tv"
+    },
+    {
+      "index": 81,
+      "name": "Coba Reborn",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_CobaReborn.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-coba-reborn"
+    },
+    {
+      "index": 82,
+      "name": "Poltava",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Poltava.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-poltava"
+    },
+    {
+      "index": 83,
+      "name": "Voodoo Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_VoodooGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-voodoo-gold"
+    },
+    {
+      "index": 84,
+      "name": "Zulu Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ZuluGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-zulu-gold"
+    },
+    {
+      "index": 85,
+      "name": "Kaiju",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Kaiju.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-kaiju"
+    },
+    {
+      "index": 86,
+      "name": "Toro 7s",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Toro7s.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-toro-7s"
+    },
+    {
+      "index": 87,
+      "name": "J-POP",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JPOP.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-j-pop"
+    },
+    {
+      "index": 88,
+      "name": "Hit It Hard",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HitItHard.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-hit-it-hard"
+    },
+    {
+      "index": 89,
+      "name": "Buggin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Buggin.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-buggin"
+    },
+    {
+      "index": 90,
+      "name": "In the Zone",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/elk:IntheZone-kbBTD6KbY.jpeg",
+      "game_link": "https://roobet.com/casino/game/elk-in-the-zone"
+    },
+    {
+      "index": 91,
+      "name": "The Wiz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TheWiz.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-the-wiz"
+    },
+    {
+      "index": 92,
+      "name": "Blood Lust",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BloodLust.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-blood-lust"
+    },
+    {
+      "index": 93,
+      "name": "Ecuador Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_EcuadorGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ecuador-gold"
+    },
+    {
+      "index": 94,
+      "name": "Dream Diver",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DreamDiver.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dream-diver"
+    },
+    {
+      "index": 95,
+      "name": "Valkyrie",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Valkyrie.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-valkyrie"
+    },
+    {
+      "index": 96,
+      "name": "Taco Brothers Derailed",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrothersDerailed.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-taco-brothers-derailed"
+    },
+    {
+      "index": 97,
+      "name": "Tahiti Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TahitiGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-tahiti-gold"
+    },
+    {
+      "index": 98,
+      "name": "Birthday!",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Birthday.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-birthday"
+    },
+    {
+      "index": 99,
+      "name": "Grand Galore",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_GrandGalore.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-grand-galore"
+    },
+    {
+      "index": 100,
+      "name": "Micro Knights",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MicroKnights.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-micro-knights"
+    },
+    {
+      "index": 101,
+      "name": "Diablo Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DiabloReels.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-diablo-reels"
+    },
+    {
+      "index": 102,
+      "name": "Ivanhoe",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Ivanhoe.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ivanhoe"
+    },
+    {
+      "index": 103,
+      "name": "Nitropolis",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Nitropolis.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-nitropolis"
+    },
+    {
+      "index": 104,
+      "name": "Platooners",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Platooners.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-platooners"
+    },
+    {
+      "index": 105,
+      "name": "Miss Wildfire",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_MissWildfire.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-miss-wildfire"
+    },
+    {
+      "index": 106,
+      "name": "Visitors",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Visitors.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-visitors"
+    },
+    {
+      "index": 107,
+      "name": "Black River Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_BlackRiverGold.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-black-river-gold"
+    },
+    {
+      "index": 108,
+      "name": "Bloopers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Bloopers.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-bloopers"
+    },
+    {
+      "index": 109,
+      "name": "Crusader",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Crusader.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-crusader"
+    },
+    {
+      "index": 110,
+      "name": "Wild Toro",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_WildToro.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-wild-toro"
+    },
+    {
+      "index": 111,
+      "name": "Electric Sam",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_ElectricSam.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-electric-sam"
+    },
+    {
+      "index": 112,
+      "name": "Hongkong Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HongkongTower.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-hongkong-tower"
+    },
+    {
+      "index": 113,
+      "name": "DJ Wild",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_DJWild.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dj-wild"
+    },
+    {
+      "index": 114,
+      "name": "Joker Gems",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_JokerGems.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-joker-gems"
+    },
+    {
+      "index": 115,
+      "name": "Vegas Diamonds",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_VegasDiamonds.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-vegas-diamonds"
+    },
+    {
+      "index": 116,
+      "name": "Hidden",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Hidden.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-hidden"
+    },
+    {
+      "index": 117,
+      "name": "Chi",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Chi.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-chi"
+    },
+    {
+      "index": 118,
+      "name": "Dreamzone",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_Dreamzone.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-dreamzone"
+    },
+    {
+      "index": 119,
+      "name": "Sam on the Beach",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_SamontheBeach.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-sam-on-the-beach"
+    },
+    {
+      "index": 120,
+      "name": "Taco Brothers Saving Christmas",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrotherChristmas.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-taco-brothers-saving-christmas"
+    },
+    {
+      "index": 121,
+      "name": "Lake's Five",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_LakesFive.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-lake-s-five"
+    },
+    {
+      "index": 122,
+      "name": "Taco Brothers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_TacoBrothers.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-taco-brothers"
+    },
+    {
+      "index": 123,
+      "name": "Ho Ho Tower",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/elk_HoHoTower.jpg",
+      "game_link": "https://roobet.com/casino/game/elk-ho-ho-tower"
+    }
+  ]
+}

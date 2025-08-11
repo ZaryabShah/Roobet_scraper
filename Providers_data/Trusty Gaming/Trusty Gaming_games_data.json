@@ -1,0 +1,14 @@
+{
+  "provider": "Trusty Gaming",
+  "total_games": 1,
+  "load_more_clicks": 0,
+  "extraction_date": "2025-08-11T04:47:35.362017",
+  "games": [
+    {
+      "index": 1,
+      "name": "Lucky Multifruit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/hacksaw:1588-t2eupCT3f.jpeg",
+      "game_link": "https://roobet.com/casino/game/trusty-gaming-lucky-multifruit"
+    }
+  ]
+}

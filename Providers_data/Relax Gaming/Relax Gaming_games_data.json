@@ -1,0 +1,632 @@
+{
+  "provider": "Relax Gaming",
+  "total_games": 104,
+  "load_more_clicks": 1,
+  "extraction_date": "2025-08-11T00:42:02.473846",
+  "games": [
+    {
+      "index": 1,
+      "name": "Temple Tumble Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:TempleTumble-lP2g0X_d1.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-temple-tumble-megaways"
+    },
+    {
+      "index": 2,
+      "name": "Conquer Babylon",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:ConquerBabylon-rs6x-hMIq.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax:ConquerBabylon"
+    },
+    {
+      "index": 3,
+      "name": "Money Train 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyTrain4.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-train-4"
+    },
+    {
+      "index": 4,
+      "name": "Money Train 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyTrain3.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-train-3"
+    },
+    {
+      "index": 5,
+      "name": "Money Train 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyTrain2.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-train-2"
+    },
+    {
+      "index": 6,
+      "name": "Iron Bank",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_IronBank.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-iron-bank"
+    },
+    {
+      "index": 7,
+      "name": "Bill & Coin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BillAndCoin.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-bill-coin"
+    },
+    {
+      "index": 8,
+      "name": "Ancient Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_AncientTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-ancient-tumble"
+    },
+    {
+      "index": 9,
+      "name": "Banana Town",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BananaTown.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-banana-town"
+    },
+    {
+      "index": 10,
+      "name": "Net Gains",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_NetGains.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-net-gains"
+    },
+    {
+      "index": 11,
+      "name": "Epic Dreams",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_EpicDreams.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-epic-dreams"
+    },
+    {
+      "index": 12,
+      "name": "Snake Arena",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SnakeArena.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-snake-arena"
+    },
+    {
+      "index": 13,
+      "name": "Sloth Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SlothTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-sloth-tumble"
+    },
+    {
+      "index": 14,
+      "name": "Book Of Power",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BookOfPower.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-book-of-power"
+    },
+    {
+      "index": 15,
+      "name": "Beast Mode",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BeastMode.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-beast-mode"
+    },
+    {
+      "index": 16,
+      "name": "Gold Rush Frenzy Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:GoldRushFrenzyMegaways-mp3rb7X25.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax:GoldRushFrenzyMegaways"
+    },
+    {
+      "index": 17,
+      "name": "Dead Man's Trail",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_DeadMansTrail.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-dead-man-s-trail"
+    },
+    {
+      "index": 18,
+      "name": "TnT Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TnTTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-tnt-tumble"
+    },
+    {
+      "index": 19,
+      "name": "Immortal 5",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:Immortal5-EoDhdcO7F.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-immortal-5"
+    },
+    {
+      "index": 20,
+      "name": "Marching Legions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MarchingLegions.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-marching-legions"
+    },
+    {
+      "index": 21,
+      "name": "Glyph of Gods",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:GlyphofGods-9NxBjkom2.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-glyph-of-gods"
+    },
+    {
+      "index": 22,
+      "name": "Hellcatraz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Hellcatraz.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-hellcatraz"
+    },
+    {
+      "index": 23,
+      "name": "Templar Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TemplarTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-templar-tumble"
+    },
+    {
+      "index": 24,
+      "name": "Wild Chapo",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_WildChapo.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-wild-chapo"
+    },
+    {
+      "index": 25,
+      "name": "Wild Bucaneers Triple Treasure",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:WildBucaneersTripleTreasure-VG8rXqoPp.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-wild-bucaneers-triple-treasure"
+    },
+    {
+      "index": 26,
+      "name": "Kraken's Cove",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:KrakensCove-_n32OWPyG.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-kraken-s-cove"
+    },
+    {
+      "index": 27,
+      "name": "Wild Chapo 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_WildChapo2.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-wild-chapo-2"
+    },
+    {
+      "index": 28,
+      "name": "Kluster Krystals Megaclusters",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_KlusterKrystals.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-kluster-krystals-megaclusters"
+    },
+    {
+      "index": 29,
+      "name": "Space Miners",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SpaceMiners.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-space-miners"
+    },
+    {
+      "index": 30,
+      "name": "Torii Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ToriiTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-torii-tumble"
+    },
+    {
+      "index": 31,
+      "name": "Wild Yield",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_WildYield.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-wild-yield"
+    },
+    {
+      "index": 32,
+      "name": "Joker Split",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_JokerSplit.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-joker-split"
+    },
+    {
+      "index": 33,
+      "name": "Emerald's Infinity Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_EmeraldsInfinityReels.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-emerald-s-infinity-reels"
+    },
+    {
+      "index": 34,
+      "name": "Bounty County",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:BountyCounty-VMwoq6e5V.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-bounty-county"
+    },
+    {
+      "index": 35,
+      "name": "Winter Champions",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:WinterChampions--jTDlAYEX.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-winter-champions"
+    },
+    {
+      "index": 36,
+      "name": "Money Cart 3",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyCart3.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-cart-3"
+    },
+    {
+      "index": 37,
+      "name": "Cluster Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ClusterTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-cluster-tumble"
+    },
+    {
+      "index": 38,
+      "name": "Hex",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Hex.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-hex"
+    },
+    {
+      "index": 39,
+      "name": "Money Cart 4",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyCart4.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-cart-4"
+    },
+    {
+      "index": 40,
+      "name": "The Tumbles",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TheTumbles.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-the-tumbles"
+    },
+    {
+      "index": 41,
+      "name": "Jumbo Juicy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:JumboJuicy-ESuzFaFUb.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax:JumboJuicy"
+    },
+    {
+      "index": 42,
+      "name": "Santa's Stack",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SantasStack.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-santa-s-stack"
+    },
+    {
+      "index": 43,
+      "name": "Bone Raiders",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BoneRaiders.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-bone-raiders"
+    },
+    {
+      "index": 44,
+      "name": "Ramses Revenge",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_RamsesRevenge.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-ramses-revenge"
+    },
+    {
+      "index": 45,
+      "name": "Atlantis Crush",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:AtlantisCrush-QG6quFpAq.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-atlantis-crush"
+    },
+    {
+      "index": 46,
+      "name": "Chip Spin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ChipSpin.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-chip-spin"
+    },
+    {
+      "index": 47,
+      "name": "Wild Hike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_WildHike.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-wild-hike"
+    },
+    {
+      "index": 48,
+      "name": "Sweetopia Royale",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SweetopiaRoyale.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-sweetopia-royale"
+    },
+    {
+      "index": 49,
+      "name": "Mega Heist",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MegaHeist.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-mega-heist"
+    },
+    {
+      "index": 50,
+      "name": "Top Dawg$",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TopDawg.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-top-dawg"
+    },
+    {
+      "index": 51,
+      "name": "Purrrminator",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:Purrrminator-ueAZOnIJC.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-purrrminator"
+    },
+    {
+      "index": 52,
+      "name": "Tiger Shrine",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:TigerShrine-KN3cYNTD_.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-tiger-shrine"
+    },
+    {
+      "index": 53,
+      "name": "Dead Riders Trail",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_DeadRidersTrail.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-dead-riders-trail"
+    },
+    {
+      "index": 54,
+      "name": "Midnight Marauder",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MidnightMarauder.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-midnight-marauder"
+    },
+    {
+      "index": 55,
+      "name": "Horror Hotel",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HorrorHotel.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-horror-hotel"
+    },
+    {
+      "index": 56,
+      "name": "Hazakura Ways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HazakuraWays.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-hazakura-ways"
+    },
+    {
+      "index": 57,
+      "name": "Volatile Vikings",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_VolatileVikings.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-volatile-vikings"
+    },
+    {
+      "index": 58,
+      "name": "Money Train",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyTrain.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-train"
+    },
+    {
+      "index": 59,
+      "name": "Cash in Transit",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:CashinTransit-jk5jftrFy.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-cash-in-transit"
+    },
+    {
+      "index": 60,
+      "name": "Spirit Of The Beast",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SpiritOfTheBeast.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-spirit-of-the-beast"
+    },
+    {
+      "index": 61,
+      "name": "Money Cart 2",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyCart2.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-cart-2"
+    },
+    {
+      "index": 62,
+      "name": "Firewins Factory",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_FirewinsFactory.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-firewins-factory"
+    },
+    {
+      "index": 63,
+      "name": "Zombie Circus",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ZombieCircus.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-zombie-circus"
+    },
+    {
+      "index": 64,
+      "name": "Plunderland",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Plunderland.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-plunderland"
+    },
+    {
+      "index": 65,
+      "name": "It's Time",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_ItsTime.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-it-s-time"
+    },
+    {
+      "index": 66,
+      "name": "Buffalo Blow",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=90,blur=0,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:BuffaloBlow-EZgmSqoJJ.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-buffalo-blow"
+    },
+    {
+      "index": 67,
+      "name": "Giants & Sheep",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:GiantsSheep-G_LRIhaxx.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-giants-sheep"
+    },
+    {
+      "index": 68,
+      "name": "Mega Masks",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MegaMasks.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-mega-masks"
+    },
+    {
+      "index": 69,
+      "name": "Money Sleigh",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:MoneySleigh-n_YXT5Hls.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-money-sleigh"
+    },
+    {
+      "index": 70,
+      "name": "Mega Mine",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MegaMine.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-mega-mine"
+    },
+    {
+      "index": 71,
+      "name": "Quackin' Reels",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:QuackinReels-RG10U0S0a.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-quackin-reels"
+    },
+    {
+      "index": 72,
+      "name": "Multiplier Odyssey",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MultiplierOdyssey.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-multiplier-odyssey"
+    },
+    {
+      "index": 73,
+      "name": "Hot Rod Racers",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HotRodRacers.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-hot-rod-racers"
+    },
+    {
+      "index": 74,
+      "name": "Fang's Inferno",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:FangsInferno-GTCde60WB.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-fang-s-inferno"
+    },
+    {
+      "index": 75,
+      "name": "Tiger Kingdom",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TigerKingdom.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-tiger-kingdom"
+    },
+    {
+      "index": 76,
+      "name": "The Great Pigsby",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TheGreatPigsby.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-the-great-pigsby"
+    },
+    {
+      "index": 77,
+      "name": "Lure Of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_LureOfFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-lure-of-fortune"
+    },
+    {
+      "index": 78,
+      "name": "Camelot Cash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:CamelotCash-ea-bSbeOR.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-camelot-cash"
+    },
+    {
+      "index": 79,
+      "name": "Let's Get Ready To Rumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_LetsGetReadyToRumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-let-s-get-ready-to-rumble"
+    },
+    {
+      "index": 80,
+      "name": "Trolls’ Gold",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TrollsGold.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-trolls-gold"
+    },
+    {
+      "index": 81,
+      "name": "La Fiesta",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_LaFiesta.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-la-fiesta"
+    },
+    {
+      "index": 82,
+      "name": "Wildchemy",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Wildchemy.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-wildchemy"
+    },
+    {
+      "index": 83,
+      "name": "Money Cart",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MoneyCart.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-money-cart"
+    },
+    {
+      "index": 84,
+      "name": "King of Kings",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_KingofKings.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-king-of-kings"
+    },
+    {
+      "index": 85,
+      "name": "Mega Flip",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_MegaFlip.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-mega-flip"
+    },
+    {
+      "index": 86,
+      "name": "Powerspin",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_Powerspin.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-powerspin"
+    },
+    {
+      "index": 87,
+      "name": "Titan Strike",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TitanStrike.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-titan-strike"
+    },
+    {
+      "index": 88,
+      "name": "Feather Fury",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.amazonaws.com/relax:FeatherFury-ggMADhYh2.jpeg",
+      "game_link": "https://roobet.com/casino/game/relax-feather-fury"
+    },
+    {
+      "index": 89,
+      "name": "Blender Blitz",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_BlenderBlitz.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-blender-blitz"
+    },
+    {
+      "index": 90,
+      "name": "Shark Wash",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SharkWash.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-shark-wash"
+    },
+    {
+      "index": 91,
+      "name": "Heroes' Gathering",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HeroesGathering.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-heroes-gathering"
+    },
+    {
+      "index": 92,
+      "name": "Erik the Red",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_EriktheRed.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-erik-the-red"
+    },
+    {
+      "index": 93,
+      "name": "Frequent Flyer",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_FrequentFlyer.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-frequent-flyer"
+    },
+    {
+      "index": 94,
+      "name": "Tower Tumble",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_TowerTumble.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-tower-tumble"
+    },
+    {
+      "index": 95,
+      "name": "Epic Joker",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_EpicJoker.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-epic-joker"
+    },
+    {
+      "index": 96,
+      "name": "The Great Pigsby Megaways",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_GreatPigsbyMegaways.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-the-great-pigsby-megaways"
+    },
+    {
+      "index": 97,
+      "name": "Ignite the Night",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_IgnitetheNight.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-ignite-the-night"
+    },
+    {
+      "index": 98,
+      "name": "Helios’ Fury",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_HeliosFury.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-helios-fury"
+    },
+    {
+      "index": 99,
+      "name": "Deep Descent",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_DeepDescent.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-deep-descent"
+    },
+    {
+      "index": 100,
+      "name": "Dragons' Awakening",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_DragonsAwakening.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-dragons-awakening"
+    },
+    {
+      "index": 101,
+      "name": "Caveman Bob",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_CavemanBob.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-caveman-bob"
+    },
+    {
+      "index": 102,
+      "name": "Sultan Spins",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SultanSpins.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-sultan-spins"
+    },
+    {
+      "index": 103,
+      "name": "Super Boost",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SuperBoost.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-super-boost"
+    },
+    {
+      "index": 104,
+      "name": "Sails of Fortune",
+      "image_url": "https://roobet.com/cdn-cgi/image/dpr=1.0,width=195,height=260,quality=20,blur=150,fit=cover,format=auto/https://roobet-dev-public-images-prod.s3.eu-central-1.amazonaws.com/game-thumbs/relax_SailsofFortune.jpg",
+      "game_link": "https://roobet.com/casino/game/relax-sails-of-fortune"
+    }
+  ]
+}
